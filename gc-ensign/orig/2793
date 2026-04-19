@@ -1,0 +1,529 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Church and the Family in Welfare Services - Ensign May 1976 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Church and the Family in Welfare Services - Ensign May 1976"><meta name="KEYWORDS" content="family,self-reliance,welfare"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Church and the Family in Welfare Services - Ensign May 1976"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1976/05?lang=eng">May 1976</a>
+                     </li><li>
+                        <span class="active">The Church and the Family in Welfare Services</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/05/seeking-eternal-riches?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/05/the-church-employment-system?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Church and the Family in Welfare Services
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p3" class="">Bishop Victor L. Brown</p>
+				<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p" class="">Presiding Bishop</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            <h2>The Church and the Family in Welfare Services</h2>
+                            <span style="display: none" id="article-id">03070_000_049</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:296a.jpg" alt="Bishop Victor L. Brown">
+			</div>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p4" class="">My dear brothers and sisters, we are grateful for the opportunity this morning to discuss again with you some of the basic principles of the Welfare Services program of the Church.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p5" class="">We need to address ourselves constantly to the following question: What is the responsibility of the individual, the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>, and the Church in seeing to the needs of our people? There is much evidence that there are those who still do not understand or at least do not take seriously the counsel that has been given for many years. It appears that some have the notion that the Church will care for them regardless of what they have done for themselves.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p6" class="">We simply must recognize that the foundation of the Welfare Services program of the Church rests on the degree of preparedness of the individual and family to take care of themselves. If our people could but understand that these teachings come because the Lord loves them and in his infinite wisdom desires that his people be blessed particularly in troublesome times. As has often been quoted, however, this &ldquo;must needs be done in mine own way.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/104.16?lang=eng#15" onclick="newWindow(this.href); return false;">D&amp;C 104:16</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p7" class="">We look to you stake presidents, bishops, and Relief Society presidents to teach the people the basic principles of self-reliance and independence. It is of critical importance that the members of the Church be converted to this principle. If the Church as a whole would practice these teachings, we would have no need to fear regardless of problems that will undoubtedly arise.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p8" class="">The Lord has said: &ldquo;For if you will that I give unto you a place in the celestial world, you must prepare yourselves by doing the things which I have commanded you and required of you. &hellip;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p9" class="">&ldquo;Behold, this is the preparation wherewith I prepare you, and the foundation, and the ensample which I give unto you, whereby you may accomplish the commandments which are given you;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p10" class="">&ldquo;That through my providence, notwithstanding the tribulation which shall descend upon you, that the church may stand independent above all other creatures beneath the celestial world.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/78.7,13-14?lang=eng#6" onclick="newWindow(this.href); return false;">D&amp;C 78:7, 13&ndash;14</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p11" class="">And he further said, &ldquo;If ye are prepared, ye shall not fear.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/38.30?lang=eng#29" onclick="newWindow(this.href); return false;">D&amp;C 38:30</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p12" class="">Now as to the role of the Church in welfare services. Early in this dispensation, when the Church was only a few months old, the Lord revealed to the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> that we as a people were to &ldquo;look to the poor and the needy, and administer to their relief that they shall not suffer.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/38.35?lang=eng#34" onclick="newWindow(this.href); return false;">D&amp;C 38:35</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p13" class="">A few months later the Lord added this admonition: &ldquo;And remember in all things the poor and the needy, the sick and the afflicted, for he that doeth not these things, the same is not my disciple.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/52.40?lang=eng#39" onclick="newWindow(this.href); return false;">D&amp;C 52:40</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p14" class="">To enable us to collectively&mdash;as a church&mdash;discharge this responsibility, the Welfare Services program was organized. There are some basic differences in the Church&rsquo;s approach to taking care of the needy over that of governments. One of the most important of these differences is discussed by President J. Reuben Clark, Jr.:</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p15" class="">&ldquo;There is no church dole; that is one reason why we must make the care of the needy a local problem, and why we should continue to make it local. The church cannot give a dole; it cannot provide a great reservoir to which bishops could send and get all they need for their poor just as if the church were a United States Treasury that could be dipped into. It cannot be done.&rdquo; (<span class="emphasis">Conference Reports,</span> Oct. 1944.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p16" class="">Further, the Lord has said, &ldquo;Thou shalt not be idle; for he that is idle shall not eat the bread nor wear the garments of the laborer.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/42.42?lang=eng#41" onclick="newWindow(this.href); return false;">D&amp;C 42:42</a>.) A dole, or getting something for nothing, fosters idleness and dependence and destroys self-respect.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p17" class="">The Lord&rsquo;s way is designed to help each of us prepare for our own needs and also to care for those in need in such a way as to preserve or restore their independence, industry, and self-respect. It decries those who are wantonly idle, &ldquo;whose hearts are not broken, whose spirits are not contrite, and whose bellies are not satisfied, and whose hands are not stayed from laying hold upon other men&rsquo;s goods, whose eyes are full of greediness, and who will not labor with [their] own hands!&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/56.17?lang=eng#16" onclick="newWindow(this.href); return false;">D&amp;C 56:17</a>.) It rejoices, however, in seeking out and ministering to the blessed poor, &ldquo;who are pure in heart, whose hearts are broken, and whose spirits are contrite.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/56.18?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 56:18</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p18" class="">The combined Church effort to help these righteous but unfortunate Saints help themselves is referred to as <span class="emphasis">Church preparedness.</span> With their efforts focused at the ward level, the membership of the Church consecrate their time, energy, and means to acquire production projects, processing plants such as canneries, storehouses, employment offices, and other Welfare Services agencies. They also help other members with social, emotional, and economic problems as they live the second great commandment of loving their neighbor as themselves. In addition, they help the Church meet the needs of the poor through contributing a generous fast offering each month. These efforts, however, are geared to care for only a limited number of Saints, only those who genuinely cannot care for themselves&mdash;the widow, the orphan, the temporarily unemployed, the emotionally distressed, the sick, and so forth. But even these are helped only after they and their families have done as much as they can for themselves.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p19" class="">A year ago in this Welfare Services meeting, President Marion G. Romney made this comment: &ldquo;I do not want to be a calamity howler. I don&rsquo;t know in detail what&rsquo;s going to happen in the future. I know what the prophets have predicted. But I tell you that the <a class="no-link-style" href="http://www.providentliving.org/">welfare program</a>, organized to enable us to take care of our own needs, has not yet performed the function that it was set up to perform. We will see the day when we live on what we produce.&rdquo; (<span class="emphasis">Conference Reports,</span> April 1975, p. 165.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p20" class="">President Spencer W. Kimball has said:</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p21" class="">&ldquo;We have had many calamities in this past period. It seems that every day or two there is an earthquake or a flood or a tornado or distress that brings trouble to many people. I am grateful to see that our people and our leaders are beginning to catch the vision of their self-help. &hellip;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p22" class="">&ldquo;Now I think the time is coming when there will be more distresses, when there may be more tornadoes, and more floods, &hellip; more earthquakes. &hellip; I think they will be increasing probably as we come nearer to the end, and so we must be prepared for this.&rdquo; (<span class="emphasis">Conference Reports,</span> April 1974, pp. 183&ndash;84.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p23" class="">We have given a great deal of thought to these statements and other similar ones, and we have tried to visualize in our minds and project what would happen in the future under various social and economic conditions. Let me share the panorama of conditions that could befall each of us individually and the Church collectively. I would like you to see what might happen under three hypothetical but potentially real conditions.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p24" class="">Condition One is characterized by a relatively stable economy, modest unemployment, and only limited natural disasters&mdash;a condition much like that which we now experience in this and many other countries. Only a small number of families or individuals in the Church would need to call upon their bishops for temporary health, emotional, or economic assistance. For those families or individuals unable to fully care for themselves, we would use our production projects, storehouses, employment efforts, and fast offering funds to help meet their needs. Appropriate health and social services capabilities of the Church would support the priesthood in administering to these special needs. Our present state of Church preparedness allows us to meet the claims on the Church which Condition One seems to imply.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p25" class="">Condition Two is characterized by more serious health, social, and economic stress. This could include a depressed economy with serious unemployment, or perhaps localized natural disasters. Society would be unstable and disunited. In order for the Church to meet the needs of those who could not care for themselves, we would be required to produce the maximum from our production projects, reduce the variety of items produced and distributed, provide broad-scale work opportunities, and organize special quorum relief efforts. Health and social services would be needed in many places. Clearly, the material resources of the Church would be taxed heavily to meet this burden, particularly if Condition Two lasted very long or were very widespread.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p26" class="">Under Condition Three, circumstances would be very serious. The economy would be very depressed, perhaps even suffering a near breakdown. Unemployment would be widespread. There would probably be widespread social disunity. This condition could be the result of either economic problems such as severe crop loss, broad-scale natural disasters, or possibly international conflict. <span class="emphasis">Under such circumstances, the Church, relying on its present resources, would very likely not be able to provide any more assistance than that rendered under Condition Two, and therefore could not meet the total welfare needs of the people.</span></p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p27" class="">If we were to place these three conditions on a progressive scale and estimate only the commodity cost to the Church during each condition, it would be approximately $25 million at the extremes of Condition One, approximately $95 million per year under Condition Two, and as much as $600 million under Condition Three. The sobering fact is, brothers and sisters, that presently the productive capacity from which we could distribute commodities to needy families and individuals is about $45 million. Therefore, if the time comes that we move out of Condition One into a widespread Condition-Two situation, we are well beyond the current capacity of the Church alone to meet the temporal needs of the Saints.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p28" class="">I would like to stress that this preparedness includes more than temporal preparedness. Particularly in Conditions Two and Three we would encounter social disunity, worry, fear, depression, and all the emotional stresses that accompany such economic and social conditions. Health conditions would be precarious. Families and individuals would need to be prepared emotionally and physically to weather this condition. Members would have greater need than every to rely on each other for strength and support.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p29" class="">These examples and figures, though only projections, illustrate quite graphically that our temporal salvation will come only in following the counsel of the Brethren to be prepared as families and individuals, as wards and as stakes. As we apply their counsel, we make of Zion a refuge and a standard of righteous living as commanded by the Lord in these words: &ldquo;Verily I say unto you all: Arise and shine forth, that thy light may be a standard for the nations;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p30" class="">&ldquo;And that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/115.5-6?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 115:5&ndash;6</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p31" class="">Now let us discuss the foundation principle, the role of the family and the individual. The individual is responsible for caring for himself and his family. The apostle Paul wrote, &ldquo;But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.&rdquo; (<a href="http://lds.org/scriptures/nt/1-tim/5.8?lang=eng#7" onclick="newWindow(this.href); return false;">1 Tim. 5:8</a>.) This duty rests upon individuals for themselves, upon parents for their children, upon children for their aged parents and grandparents. This duty can be met only through the wise use of individual and family resources.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p32" class="">May I review with you once again the five basic elements of family preparedness, which we have spoken of in previous Welfare Services meetings:</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p33" class="">&ldquo;<span class="emphasis">Career development.</span> In the prepared family, the breadwinner has prepared himself for his chosen occupation. His children are preparing themselves for a satisfying and adequate vocation.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p34" class="">&ldquo;<span class="emphasis">Financial management.</span> In the prepared family, the parents know and use the fundamentals of budgeting and financial management. Their children are being taught through practical experience these basic skills. &hellip;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p35" class="">&ldquo;<span class="emphasis">Home production and storage.</span> The prepared family has sufficient stores to take care of basic needs for a minimum of one year. Further, they are, where possible, actively involved in growing, canning, and sewing, and producing their year&rsquo;s supply.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p36" class="">&ldquo;<span class="emphasis">Physical health.</span> The prepared family practices sound preventive health principles relating to nutrition, sanitation, accident prevention, dental health, and first aid. They also understand the appropriate use of health resources. Special attention should be given to the promises made by the Lord in the Doctrine and Covenants, section 89, regarding the health of the Saints.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p37" class="">&ldquo;<span class="emphasis">Social-emotional strength.</span> The prepared family has developed social-emotional strength through righteous living, gospel study, and loving family relationships. They can deal resiliently with life&rsquo;s inevitable opposites of sorrow and joy, deprivation and abundance, failure and success, through their faith in the Lord <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> and conversion to the reality of eternal life.&rdquo; (<span class="emphasis">Ensign,</span> Nov. 1975, p. 115.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p38" class="">Family preparedness is the key to meeting the needs of family members and is the foundation upon which Church preparedness is based.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p39" class="">When we speak of implementing family preparedness, we are referring to simple, basic things: a father exposing his son to his work so that the boy will see this important part of his father&rsquo;s life; parents involving their children in planning the family budget; a mother teaching her daughter homemaking skills such as sewing and cooking; parents and children discussing together how a stable, well-balanced family behaves even in times of hardship, thus developing an understanding of healthy emotional strength.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p40" class="">The Savior taught us the key to the eternal law of parenthood and family living when he said, &ldquo;Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p41" class="">&ldquo;For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.&rdquo; (<a href="http://lds.org/scriptures/nt/john/5.19-20?lang=eng#18" onclick="newWindow(this.href); return false;">John 5:19&ndash;20</a>.)</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p42" class="">It is by example that parents truly teach their children how to prepare for and live the Lord&rsquo;s way of life.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p43" class="">Family preparedness, as the term is used in Welfare Services, is far more than a slogan or a program. It is a key whereby families accomplish their temporal salvation. It permits a father and mother to teach by example a lesson learned from the scripture &ldquo;For the Father loveth the Son, and sheweth him all things that himself doeth.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p44" class="">For each father, family preparedness can be the process whereby he magnifies much of his true role as a patriarch in the home. By helping his children prepare themselves in each of the five areas of family preparedness, a father helps his children prepare to face the world with confidence. Thus, when fathers take hold of tangible tasks, projects, and ideas&mdash;acting as teachers and counselors to their children&mdash;they further fulfill their responsibility as the patriarch to their families.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p45" class="">We have tried to bring into sharp focus the importance and the relationship of both Church preparedness and family preparedness. We need <span class="emphasis">both</span> if we are to discharge our responsibilities and be fully prepared for the challenges that face us. In order to increase our Church preparedness, each ward should be involved in a production project, an employment program, and have access to a bishops commodity storehouse. To increase family preparedness, we need to develop a plan and implement it. In this manner we become more fully self-reliant.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p46" class="">We urge you leaders here this morning to let your lights so shine that other families will follow your example and in a quiet, thoughtful way become prepared. Teach your members to be self-reliant and not to look to others for their support.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p47" class="">We also challenge you to make the full Welfare Services program available in your wards and stakes, according to your local capacity, to bless the lives of the Saints and make your stakes, wherever they may be in the world, places of refuge.</p>
+			<p uri="/ensign/1976/05/the-church-and-the-family-in-welfare-services.p48" class="">In all that we have said regarding family and individual preparedness, we must never lose sight of the fact that this entire responsibility comes to us from the Lord. He is our Father. It is through his love for us that he so teaches us. All that we have said must be undergirded by a spirit that is in harmony with his teachings. He is our source of inspiration as a Church, as families, and as individuals. He has promised us that if we are prepared, we need not fear. May we be blessed as leaders and as members to follow his counsel to be prepared, I pray humbly in the name of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/05/seeking-eternal-riches?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/05/the-church-employment-system?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1976">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1976/05/the-church-and-the-family-in-welfare-services?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Church and the Family in Welfare Services - Ensign May 1976&amp;link=/ensign/1976/05/the-church-and-the-family-in-welfare-services&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1976%2F05%2Fthe-church-and-the-family-in-welfare-services%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Church+and+the+Family+in+Welfare+Services+-+Ensign+May+1976" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Church+and+the+Family+in+Welfare+Services+-+Ensign+May+1976" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1976/05/the-church-and-the-family-in-welfare-services%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Church and the Family in Welfare Services - Ensign May 1976&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1976:05:the church and the family in welfare services";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

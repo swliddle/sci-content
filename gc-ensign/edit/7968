@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Come, Join with Us - Ensign Nov. 2013 - ensign</title>
+        <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="TITLE" content="Come, Join with Us - Ensign Nov. 2013"><meta name="KEYWORDS" content="activation,belonging,faith"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!---->
+        <meta property="og:title" content="Come, Join with Us - Ensign Nov. 2013"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us?lang=eng"><meta id="og-image" property="og:image" content="http://www.lds.org/bc/content/shared/content/images/leaders/dieter-f-uchtdorf-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="shortcut icon" href="//edge.ldscdn.org/images/logos/favicon-lds-1.ico"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform2.css" class="pf-fix-me"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/lds-old.css" class="pf-fix-me"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.7.1/jquery.min.js">&nbsp;</script><script src="//edge.ldscdn.org/ml/ldsorg/script/common/lds.js">&nbsp;</script>
+        <link rel="canonical" href="http://www.lds.org/general-conference/2013/10/come-join-with-us?lang=eng">
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/article.css">
+        
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+		<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/common/video.css"><script type="text/javascript" src="/resources/script/common/swfobject.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/youTubeLoader.js">&nbsp;</script><script type="text/javascript">
+        var flashvars = {
+                xmlSource: unescape("/resources/video/xml/10711_000_010/eng?lang=eng")
+                
+            };
+        var params = {
+            menu: "false",
+            allowScriptAccess: "always",
+            scale: "noscale",
+            allowFullScreen: "true",
+            wmode: "opaque"
+        };
+        // set up expressinstall.swf
+        swfobject.embedSWF("/resources/swf/ldsUniversalPlayer.swf", "ldsUniversalPlayer", "480", "270", "10.0.0", "http://www.ldsavd.org/ldsUniversalPlayer/swf/expressInstall.swf", flashvars, params);
+
+        //init the youTubeLoader javascript methods
+        SWFID = "ldsUniversalPlayer"
+
+        // Call to Flash Player/ActionScript
+        function getFlashMovie(ldsUniversalPlayer) {
+            var isIE = navigator.appName.indexOf("Microsoft") != -1;
+            return (isIE) ? window[ldsUniversalPlayer] : document[ldsUniversalPlayer];
+        }
+        function callToActionscript()
+        {
+            try {
+                getFlashMovie("ldsUniversalPlayer").sendToActionscript();
+            } catch (e) { };
+        }
+
+        // Dimmer Functions
+        function lightsOff()
+        {
+            document.getElementById('fade').style.display='block';
+        }
+        function lightsOn()
+        {
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+
+    </head>
+
+    <body class="tmpl-default-lds-article pf-responsive  narrow study-theme ">
+        <div id="platform">
+            <!--[if lte IE 8]><script src="//edge.ldscdn.org/scripts/other/html5shiv/html5shiv.3.5.min.js"></script><script src="//edge.ldscdn.org/scripts/other/respond/respond1.1.0-2.js"></script><script src="//edge.ldscdn.org/scripts/other/selectivizr/selectivizr1.0.3b-lds1.min.js"></script><link href="//edge.ldscdn.org/scripts/other/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" /><link href="/resources/images/common/1x1.gif" id="respond-redirect" rel="respond-redirect" /><script src="//edge.ldscdn.org/scripts/other/respond/respond.proxy.lds1.js"></script><![endif]--><a href="#platform-canvas-content" class="pf-offscreen">Skip main navigation</a><header class="pf-header" role="banner"><div class="pf-logo"><a href="//www.lds.org/?lang=eng" onClick="s.tl(this, o, 'Header: Church Logo');"><img src="//edge.ldscdn.org/images/lang/english/logos/white-1.png" alt="The Church of Jesus Christ of Latter-day Saints"></a></div><nav class="pf-nav" role="navigation"><div class="pf-top"><ul><li class="pf-language"><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li id="pf-auth"><a href="#pf-personal-links" class="pf-popup pf-icon-signin" aria-haspopup="true" aria-owns="pf-personal-links"><span id="pf-signin">Sign In</span>/Tools</a><div id="pf-personal-links" class="pf-flyout"><ul id="pf-personal"><li><a id="pf-signin-button" href="#d" class="pf-button">Sign In</a></li><li><a href="https://lds.org/study-tools/folders">Notes and Journal</a></li><li><a href="//www.lds.org/maps/?lang=eng">Maps</a></li><li><a href="https://lds.org/directory">Directory</a></li><li><a href="https://lds.org/church-calendar">Calendar</a></li><li><a href="https://apps.lds.org/pbrequest/landing">Patriarchal Blessing</a></li><li><a href="//www.lds.org/pages/mobileapps?lang=eng">Mobile Applications</a></li><li><a href="//www.lds.org/tools?lang=eng">All Tools</a></li><li><a href="https://lds.org/member-news">Newsletter</a></li><li><a href="https://lds.org/lesson">Lesson Schedules</a></li><li id="pf-tools-for-calling"></li><li style="display:none;" class="pf-signout"><a id="pf-signout-button" href="#d">Sign Out</a></li></ul></div></li></ul></div><div class="pf-joshua"><h2><a href="#pf-joshua" class="pf-icon-menu pf-popup" aria-haspopup="true" aria-owns="pf-joshua">Site Menu</a></h2><ul id="pf-joshua"><li id="scriptures"><h3><a href="#pf-scriptures" class="pf-popup" aria-haspopup="true" aria-owns="pf-scriptures">Scriptures</a></h3><div class="pf-flyout pf-col2" id="pf-scriptures"><div style="position:relative; clear:both; overflow:hidden;"><ul class="pf-col"><li><a href="//www.lds.org/scriptures/bible?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Holy Bible');">Holy Bible</a></li><li><a href="//www.lds.org/scriptures/bofm?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Book of Mormon');">Book of Mormon</a></li><li><a href="//www.lds.org/scriptures/dc-testament?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Doctrine and Covenants');">Doctrine and Covenants</a></li><li><a href="//www.lds.org/scriptures/pgp?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Pearl of Great Price');">Pearl of Great Price</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/scriptures/new-edition?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: 2013 Edition of the Scriptures');">2013 Edition of the Scriptures</a></li><li><a href="//www.lds.org/scriptures/study-helps?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Study Helps');">Study Helps</a></li><li><a href="//www.lds.org/bible-videos?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Bible Videos');">Bible Videos</a></li><li><a href="//www.lds.org/scriptures/formats?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Formats and Downloads');">Formats and Downloads</a></li></ul></div><div class="pf-scriptures-search-wrapper"><form action="/scriptures/search" method="get" accept-charset="utf-8" class="pf-scriptures-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><input type="hidden" name="lang" value="eng"><fieldset><label for="pf-scriptures-search" class="pf-search-label pf-icon-search">Search:
+                </label><div><input type="text" class="pf-search" id="pf-scriptures-search" autocomplete="off" placeholder="Search by Keyword or Reference" name="query"><input type="submit" class="pf-submit" value="?"></div></fieldset></form></div></div></li><li id="teachings"><h3><a href="#pf-teachings" class="pf-popup" aria-haspopup="true" aria-owns="pf-teachings">Teachings</a></h3><div class="pf-flyout pf-col2" id="pf-teachings"><ul class="pf-col"><li><a href="//www.lds.org/prophets-and-apostles/first-presidency-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: First Presidency Message');">First Presidency Message</a></li><li><a href="//www.lds.org/prophets-and-apostles?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Prophets and Apostles');">Prophets and Apostles</a></li><li><a href="//www.lds.org/general-conference?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: General Conference');">General Conference</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/topics?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Gospel Topics');">Gospel Topics</a></li><li><a href="//www.lds.org/daily-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Daily Messages');">Daily Messages</a></li><li><a href="//www.lds.org/broadcasts?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Broadcasts');">Broadcasts</a></li><li><a href="//www.lds.org/church/leaders?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Church Leadership');">Church Leadership</a></li></ul></div></li><li id="resources2"><h3><a href="#pf-resources2" class="pf-popup" aria-haspopup="true" aria-owns="pf-resources2">Resources</a></h3><div class="pf-flyout pf-col3" id="pf-resources2"><div class="pf-col"><h4>Family</h4><ul><li><a href="//www.lds.org/church/temples?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Temples');">Temples</a></li><li><a href="//www.lds.org/topics/family-history?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Family History');">Family History</a></li><li><a href="//www.lds.org/topics/family?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Home and Family');">Home and Family</a></li><li><a href="//www.lds.org/topics/marriage?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Marriage');">Marriage</a></li><li><a href="//www.lds.org/friend?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Children');">Children</a></li><li><a href="//www.lds.org/youth?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Youth');">Youth</a></li><li><a href="//www.lds.org/topics/welfare?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Welfare');">Welfare</a></li></ul></div><div class="pf-col"><h4>Callings</h4><ul><li><a href="//www.lds.org/callings/leadership-and-teaching?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Leadership and Teaching');">Leadership and Teaching</a></li><li><a href="//www.lds.org/callings/melchizedek-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Melchizedek Priesthood');">Melchizedek Priesthood</a></li><li><a href="//www.lds.org/callings/aaronic-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Aaronic Priesthood');">Aaronic Priesthood</a></li><li><a href="//www.lds.org/callings/relief-society?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Relief Society');">Relief Society</a></li><li><a href="//www.lds.org/callings/young-women?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Young Women');">Young Women</a></li><li><a href="//www.lds.org/callings/primary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Primary');">Primary</a></li><li><a href="//www.lds.org/callings/sunday-school?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sunday School');">Sunday School</a></li><li><a href="//www.lds.org/callings/missionary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Missionary');">Missionary</a></li><li><a href="//www.lds.org/callings/seminary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Seminaries and Institutes');">Seminaries and Institutes</a></li><li><a href="//www.lds.org/callings?lang=eng" onClick="s.tl(this, o, 'Header: Resources: All Callings');">All Callings</a></li></ul></div><div class="pf-col"><h4>General</h4><ul><li><a href="//www.lds.org/magazines-and-manuals?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Magazines and Manuals');">Magazines and Manuals</a></li><li><a href="//www.lds.org/media-library?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Video, Audio, and Images');">Video, Audio, and Images</a></li><li><a href="https://history.lds.org" onClick="s.tl(this, o, 'Header: Resources: Church History');">Church History</a></li><li><a href="//www.lds.org/music?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Music');">Music</a></li><li><a href="http://store.lds.org" onClick="s.tl(this, o, 'Header: Resources: Order Church Materials');">Order Church Materials</a></li><li><a href="//www.lds.org/locations?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Locations and Schedules');">Locations and Schedules</a></li><li><a href="//www.lds.org/topics/service?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Service Opportunities');">Service Opportunities</a></li><li><a href="//www.lds.org/church/share?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sharing the Gospel');">Sharing the Gospel</a></li></ul></div></div></li><li id="news"><h3><a href="#pf-news" class="pf-popup" aria-haspopup="true" aria-owns="pf-news">News</a></h3><div class="pf-flyout pf-col1" id="pf-news"><ul class="pf-col"><li><a href="//www.lds.org/church/news?lang=eng" onClick="s.tl(this, o, 'Header: News: Church News and Events');">Church News and Events</a></li><li><a href="//www.lds.org/languages/mormonnewsroom?lang=eng" onClick="s.tl(this, o, 'Header: News: For News Media');">For News Media</a></li></ul></div></li></ul></div><form action="//www.lds.org/search" method="get" accept-charset="utf-8" class="pf-global-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><fieldset><label for="pf-global-search" class="pf-popup pf-search-label pf-icon-search" data-href="#pf-search-inputs">Search:
+										</label><div class="pf-search-inputs" id="pf-search-inputs"><input type="hidden" name="lang" value="eng"><input type="text" class="pf-search" id="pf-global-search" autocomplete="off" placeholder="Search Church sites" name="query"><input type="submit" class="pf-submit" value="?" aria-label="Search"></div></fieldset></form></nav></header><!--[if lte IE 7]><div class="pf-browser-alert"><p><strong>Attention</strong>:This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or install another <a href="http://www.lds.org/resources/upgrade?lang=eng">Web Browser</a>.</p></div><![endif]--><script type="text/javascript">var cdnPath = "//edge.ldscdn.org";</script>
+            <!-- end #platform-header -->
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://www.lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/liahona/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/liahona/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/liahona/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message </a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class="active"><a href="http://www.lds.org/ensign/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/ensign/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/ensign/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message</a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/new-era/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/new-era/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/new-era/call-for-submissions?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://www.lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/friend/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/friend/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/activities?lang=eng">Games and Activities</a></li><li class=""><a href="http://www.lds.org/children/resources/type/music-resources?lang=eng">Music in the Friend</a></li><li class=""><a href="http://www.lds.org/children/resources?lang=eng">Teaching Resources</a></li><li class=""><a href="http://www.lds.org/friend/one-in-a-million?lang=eng">One in a Million</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos/scripture-stories?lang=eng">Scripture Stories</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos?lang=eng">Videos</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21174_-1___#tab2">Subscribe</a></li><li class=""><a href="http://www.lds.org/search?collection=magazines&amp;lang=eng">Search</a></li><h1></h1></ul>
+        </div>
+                <!-- end #section-nav -->
+                <div id="platform-canvas-content" role="main" class="">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                        <a href="#" class="home">Home</a><ul><li><a href="http://www.lds.org/?lang=eng">LDS.org</a></li><li><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://www.lds.org/ensign?lang=eng">Ensign</a></li></ul>
+                    </li><li>
+                        <a href="http://www.lds.org/ensign/2013/11?lang=eng">Nov. 2013</a>
+                     </li><li>
+                        <span class="active">Come, Join with Us</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/saturday-afternoon-session/the-sustaining-of-church-officers?lang=eng">Next</a></li></ul>
+                            
+                            <h1>
+                            Come, Join with Us
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://www.lds.org/church/leader/dieter-f-uchtdorf?lang=eng" rel="author"><div class="byline" id="">
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p2" class="">By President Dieter&nbsp;F. Uchtdorf</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p3" class="">Second Counselor in the First Presidency</p>
+				</div></a>
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+
+                        <div id="primary">
+                            <div id="audio-player"></div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://www.lds.org/church/leader/dieter-f-uchtdorf?lang=eng">
+                                                                <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/dieter-f-uchtdorf-10.jpg" alt="Dieter F. Uchtdorf" class="img-decor">
+                                                            </a>
+
+                                        <div class="kicker" id="">Regardless of your circumstances, your personal history, or the strength of your testimony, there is room for you in this Church.</div>
+                                        
+
+                                    </blockquote>
+                            
+                            
+                            <span style="display: none" id="article-id">10711_000_010</span>
+				<span class="story">
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p5" class="">Once there was a man who dreamed that he was in a great hall where all the religions of the world were gathered. He realized that each religion had much that seemed desirable and worthy.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p6" class="">He met a nice couple who represented The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints and asked, &ldquo;What do <span class="emphasis">you</span> require of your members?&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p7" class="">&ldquo;<span class="emphasis">We</span> do not require anything,&rdquo; they replied. &ldquo;But the <span class="emphasis">Lord</span> asks that we consecrate all.&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p8" class="">The couple went on to explain about Church callings, home and visiting teaching, full-time missions, weekly <a class="no-link-style" href="http://mormon.org/family">family</a> home evenings, temple work, welfare and humanitarian service, and assignments to teach.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p9" class="">&ldquo;Do you pay your people for all the work they do?&rdquo; the man asked.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p10" class="">&ldquo;Oh, no,&rdquo; the couple explained. &ldquo;They offer their time freely.&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p11" class="">&ldquo;Also,&rdquo; the couple continued, &ldquo;every six months our Church members spend a weekend attending or watching 10 hours of general conference.&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p12" class="">&ldquo;Ten hours of people giving talks?&rdquo; the man wondered.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p13" class="">&ldquo;What about your weekly church services? How long are they?&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p14" class="">&ldquo;Three hours, every Sunday!&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p15" class="">&ldquo;Oh, my,&rdquo; the man said. &ldquo;Do members of your church actually do what you have said?&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p16" class="">&ldquo;That and more. We haven&rsquo;t even mentioned family history, youth camps, devotionals, scripture study, leadership training, youth activities, early-morning seminary, maintaining Church buildings, and of course there is the Lord&rsquo;s law of health, the monthly fast to help the poor, and <a class="no-link-style" href="http://lds.org/study/topics/tithing?lang=eng">tithing</a>.&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p17" class="">The man said, &ldquo;Now I&rsquo;m confused. Why would anyone want to join such a church?&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p18" class="">The couple smiled and said, &ldquo;We thought you would never ask.&rdquo;</p>
+				</span>
+				<div class="topic">
+					<h2>Why Would Anyone Join Such a Church?</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p20" class="">At a time when many churches throughout the world are experiencing significant decreases in numbers, The Church of Jesus Christ of Latter-day Saints&mdash;though small in comparison with many others&mdash;is one of the fastest growing churches in the world. As of September 2013 the Church has more than 15 million members around the world.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p21" class="">There are many reasons for this, but may I offer a few?</p>
+					<div class="topic">
+						<h2>The Savior&rsquo;s Church</h2>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p23" class="">First, this Church was restored in our day by Jesus Christ Himself. Here you will find the authority to act in His name&mdash;to baptize for the remission of sins, to confer the gift of the <a class="no-link-style" href="http://lds.org/study/topics/holy-ghost?lang=eng">Holy Ghost</a>, and to seal on earth and in heaven.<sup class="noteMarker"><a href="#footnote1-10711_000_010">1</a></sup></p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p24" class="">Those who join this Church love the Savior Jesus Christ and they wish to follow Him. They rejoice in the knowledge that God speaks to mankind again. When they receive sacred priesthood ordinances and make covenants with God, they can feel His power in their lives.<sup class="noteMarker"><a href="#footnote2-10711_000_010">2</a></sup> When they enter the holy temple, they sense they are in His presence. When they read the holy scriptures<sup class="noteMarker"><a href="#footnote3-10711_000_010">3</a></sup> and live the teachings of His prophets, they grow closer to the Savior they love so much.</p>
+					</div>
+					<div class="topic">
+						<h2>An Active Faith</h2>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p26" class="">Another reason is because the Church provides opportunities for doing good.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p27" class="">Believing in God is commendable, but most people want to do more than listen to inspirational sermons or dream of their mansions above.<sup class="noteMarker"><a href="#footnote4-10711_000_010">4</a></sup> They want to put their faith into practice. They want to roll up their sleeves and become engaged in this great cause.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p28" class="">And that is what happens when they join with us&mdash;they have many opportunities to transform their talents, compassion, and time into good works. Because we have no paid local clergy in our worldwide congregations, our members perform the work of ministry themselves. They are called by inspiration. Sometimes we volunteer; sometimes we <span class="emphasis">are</span> &ldquo;volunteered.&rdquo; We see assignments not as burdens but as opportunities to fulfill covenants we gladly make to serve God and His children.</p>
+					</div>
+					<div class="topic">
+						<h2>Treasured Blessings</h2>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p30" class="">A third reason why people join the Church is because walking the path of discipleship leads to precious blessings.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p31" class="">We see <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a> as the starting point in our journey of discipleship. Our daily walk with Jesus Christ leads to peace and purpose in this life and profound joy and eternal salvation in the world to come.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p32" class="">Those who follow this path faithfully avoid many of the pitfalls, sorrows, and regrets of life.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p33" class="">The poor in spirit and honest of heart find great treasures of knowledge here.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p34" class="">Those who suffer or grieve find healing here.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p35" class="">Those burdened with sin find <a class="no-link-style" href="http://www.lds.org/topics/forgiveness?lang=eng">forgiveness</a>, liberty, and rest.</p>
+					</div>
+				</div>
+				<div class="topic">
+					<h2>To Those Who Leave</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p37" class="">The search for truth has led millions of people to The Church of Jesus Christ of Latter-day Saints. However, there are some who leave the Church they once loved.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p38" class="">One might ask, &ldquo;If the gospel is so wonderful, why would anyone leave?&rdquo;</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p39" class="">Sometimes we assume it is because they have been offended or lazy or sinful. Actually, it is not that simple. In fact, there is not just one reason that applies to the variety of situations.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p40" class="">Some of our dear members struggle for years with the question whether they should separate themselves from the Church.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p41" class="">In this Church that honors personal agency so strongly, that was restored by a young man who asked questions and sought answers, we respect those who honestly search for truth. It may break our hearts when their journey takes them away from the Church we love and the truth we have found, but we honor their right to worship Almighty God according to the dictates of their own conscience, just as we claim that privilege for ourselves.<sup class="noteMarker"><a href="#footnote5-10711_000_010">5</a></sup></p>
+				</div>
+				<div class="topic">
+					<h2>Unanswered Questions</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p43" class="">Some struggle with unanswered questions about things that have been done or said in the past. We openly acknowledge that in nearly 200 years of Church history&mdash;along with an uninterrupted line of inspired, honorable, and divine events&mdash;there have been some things said and done that could cause people to question.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p44" class="">Sometimes questions arise because we simply don&rsquo;t have all the information and we just need a bit more patience. When the entire truth is eventually known, things that didn&rsquo;t make sense to us before will be resolved to our satisfaction.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p45" class="">Sometimes there is a difference of opinion as to what the &ldquo;facts&rdquo; really mean. A question that creates doubt in some can, after careful investigation, build faith in others.</p>
+				</div>
+				<div class="topic">
+					<h2>Mistakes of Imperfect People</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p47" class="">And, to be perfectly frank, there have been times when members or leaders in the Church have simply made mistakes. There may have been things said or done that were not in harmony with our values, principles, or doctrine.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p48" class="">I suppose the Church would be perfect only if it were run by perfect beings. God is perfect, and His doctrine is pure. But He works through us&mdash;His imperfect children&mdash;and imperfect people make mistakes.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p49" class="">In the title page of the <a class="no-link-style" href="http://mormon.org/book-of-mormon">Book of Mormon</a> we read, &ldquo;And now, if there are faults they are the mistakes of men; wherefore, condemn not the things of God, that ye may be found spotless at the judgment-seat of Christ.&rdquo;<sup class="noteMarker"><a href="#footnote6-10711_000_010">6</a></sup></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p50" class="">This is the way it has always been and will be until the perfect day when Christ Himself reigns personally upon the earth.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p51" class="">It is unfortunate that some have stumbled because of mistakes made by men. But in spite of this, the eternal truth of the restored gospel found in The Church of Jesus Christ of Latter-day Saints is not tarnished, diminished, or destroyed.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p52" class="">As an Apostle of the Lord Jesus Christ and as one who has seen firsthand the councils and workings of this Church, I bear solemn witness that no decision of significance affecting this Church or its members is ever made without earnestly seeking the inspiration, guidance, and approbation of our Eternal Father. This is the Church of Jesus Christ. God will not allow His Church to drift from its appointed course or fail to fulfill its divine destiny.</p>
+				</div>
+				<div class="topic">
+					<h2>There Is Room for You</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p54" class="">To those who have separated themselves from the Church, I say, my dear friends, there is yet a place for you here.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p55" class="">Come and add your talents, gifts, and energies to ours. We will all become better as a result.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p56" class=""><span class="emphasis">Some might ask, &ldquo;But what about my doubts?&rdquo;</span></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p57" class="">It&rsquo;s natural to have questions&mdash;the acorn of honest inquiry has often sprouted and matured into a great oak of understanding. There are few members of the Church who, at one time or another, have not wrestled with serious or sensitive questions. One of the purposes of the Church is to nurture and cultivate the seed of faith&mdash;even in the sometimes sandy soil of doubt and uncertainty. Faith is to hope for things which are not seen but which are true.<sup class="noteMarker"><a href="#footnote7-10711_000_010">7</a></sup></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p58" class="">Therefore, my dear brothers and sisters&mdash;my dear friends&mdash;please, first doubt your doubts before you doubt your faith.<sup class="noteMarker"><a href="#footnote8-10711_000_010">8</a></sup> We must never allow doubt to hold us prisoner and keep us from the divine love, peace, and gifts that come through faith in the Lord Jesus Christ.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p59" class=""><span class="emphasis">Some might say, &ldquo;I just don&rsquo;t fit in with you people in the Church.&rdquo;</span></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p60" class="">If you could see into our hearts, you would probably find that you fit in better than you suppose. You might be surprised to find that we have yearnings and struggles and hopes similar to yours. Your background or upbringing might seem different from what you perceive in many Latter-day Saints, but that could be a blessing. Brothers and sisters, dear friends, we need your unique talents and perspectives. The diversity of persons and peoples all around the globe is a strength of this Church.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p61" class=""><span class="emphasis">Some might say, &ldquo;I don&rsquo;t think I could live up to your standards.&rdquo;</span></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p62" class="">All the more reason to come! The Church is designed to nourish the imperfect, the struggling, and the exhausted. It is filled with people who <span class="emphasis">desire</span> with all their heart to keep the commandments, even if they haven&rsquo;t <span class="emphasis">mastered</span> them yet.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p63" class=""><span class="emphasis">Some might say, &ldquo;I know a member of your Church who is a hypocrite. I could never join a church that had someone like him as a member.&rdquo;</span></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p64" class="">If you define <span class="emphasis">hypocrite</span> as someone who fails to live up perfectly to what he or she believes, then we are all hypocrites. None of us is quite as Christlike as we know we should be. But we earnestly desire to overcome our faults and the tendency to sin. With our heart and soul we yearn to become better with the help of the Atonement of Jesus Christ.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p65" class="">If these are your desires, then regardless of your circumstances, your personal history, or the strength of your testimony, there is room for you in this Church. Come, join with us!</p>
+				</div>
+				<div class="topic">
+					<h2>Come, Join with Us!</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p67" class="">In spite of our human imperfections, I am confident that you will find among the members of this Church many of the finest souls this world has to offer. The Church of Jesus Christ seems to attract the kind and the caring, the honest and the industrious.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p68" class="">If you expect to find perfect people here, you will be disappointed. But if you seek the pure doctrine of Christ, the word of God &ldquo;which healeth the wounded soul,&rdquo;<sup class="noteMarker"><a href="#footnote9-10711_000_010">9</a></sup> and the sanctifying influence of the Holy Ghost, then here you will find them. In this age of waning faith&mdash;in this age when so many feel distanced from heaven&rsquo;s embrace&mdash;here you will find a people who yearn to know and draw closer to their Savior by serving God and fellowmen, just like you. Come, join with us!</p>
+				</div>
+				<div class="topic">
+					<h2>Will Ye Also Go Away?</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p70" class="">I am reminded of a time in the Savior&rsquo;s life when many abandoned Him.<sup class="noteMarker"><a href="#footnote10-10711_000_010">10</a></sup> Jesus asked His twelve disciples:</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p71" class="">&ldquo;Will ye also go away?</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p72" class="">&ldquo;Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.&rdquo;<sup class="noteMarker"><a href="#footnote11-10711_000_010">11</a></sup></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p73" class="">There are times when we have to answer the same question. Will we also go away? Or will we, like Peter, hold fast to the words of eternal life?</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p74" class="">If you seek truth, meaning, and a way to transform faith into action; if you are looking for a place of belonging: Come, join with us!</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p75" class="">If you have left the faith you once embraced: Come back again. Join with us!</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p76" class="">If you are tempted to give up: Stay yet a little longer. There is room for you here.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p77" class="">I plead with all who hear or read these words: Come, join with us. Come heed the call of the gentle Christ. Take up your cross and follow Him.<sup class="noteMarker"><a href="#footnote12-10711_000_010">12</a></sup></p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p78" class="">Come, join with us! For here you will find what is precious beyond price.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p79" class="">I testify that here you will find the words of eternal life, the promise of blessed redemption, and the pathway to peace and happiness.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/come-join-with-us.p80" class="">I earnestly pray that your own search for truth will impress upon your heart the desire to come and join with us. In the sacred name of Jesus Christ, amen.</p>
+				</div>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol><h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="1-10711_000_010"><a name="1-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote1-10711_000_010">1.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/matt/16.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">Matthew 16:18&ndash;19</a>; <a href="http://www.lds.org/scriptures/bofm/hel/10.7?lang=eng#6" onclick="newWindow(this.href); return false;">Helaman 10:7</a>.</p>
+				</li>
+				<li class="footnote " id="2-10711_000_010"><a name="2-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote2-10711_000_010">2.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/dc-testament/dc/84.20?lang=eng#19" onclick="newWindow(this.href); return false;">Doctrine and Covenants 84:20</a>.</p>
+				</li>
+				<li class="footnote " id="3-10711_000_010"><a name="3-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote3-10711_000_010">3.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/2-ne/33.10?lang=eng#9" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 33:10</a>.</p>
+				</li>
+				<li class="footnote " id="4-10711_000_010"><a name="4-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote4-10711_000_010">4.</a></span>
+					<p>See &ldquo;Have I Done Any Good?&rdquo; <span class="emphasis">Hymns,</span> no. 223.</p>
+				</li>
+				<li class="footnote " id="5-10711_000_010"><a name="5-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote5-10711_000_010">5.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/pgp/a-of-f/1.11?lang=eng#10" onclick="newWindow(this.href); return false;">Articles of Faith 1:11</a>.</p>
+				</li>
+				<li class="footnote " id="6-10711_000_010"><a name="6-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote6-10711_000_010">6.</a></span>
+                    <p><a href="http://lds.org/scriptures/bofm/ttlpg?lang=eng" onclick="newWindow(this.href); return false;">Title page of the Book of Mormon</a>; see <a href="http://www.lds.org/scriptures/bofm/morm/8.17?lang=eng#16" onclick="newWindow(this.href); return false;">Mormon 8:17</a>.</p>
+				</li>
+				<li class="footnote " id="7-10711_000_010"><a name="7-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote7-10711_000_010">7.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/heb/11.1?lang=eng#0" onclick="newWindow(this.href); return false;">Hebrews 11:1</a>; <a href="http://www.lds.org/scriptures/bofm/alma/32.21?lang=eng#20" onclick="newWindow(this.href); return false;">Alma 32:21</a>.</p>
+				</li>
+				<li class="footnote " id="8-10711_000_010"><a name="8-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote8-10711_000_010">8.</a></span>
+					<p>See F.&nbsp;F. Bosworth, <span class="emphasis">Christ the Healer</span> (1924), 23.</p>
+				</li>
+				<li class="footnote " id="9-10711_000_010"><a name="9-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote9-10711_000_010">9.</a></span>
+					<p><a href="http://www.lds.org/scriptures/bofm/jacob/2.8?lang=eng#7" onclick="newWindow(this.href); return false;">Jacob 2:8</a>.</p>
+				</li>
+				<li class="footnote " id="10-10711_000_010"><a name="10-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote10-10711_000_010">10.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/john/6.66?lang=eng#65" onclick="newWindow(this.href); return false;">John 6:66</a>.</p>
+				</li>
+				<li class="footnote " id="11-10711_000_010"><a name="11-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote11-10711_000_010">11.</a></span>
+					<p><a href="http://www.lds.org/scriptures/nt/john/6.67-68?lang=eng#66" onclick="newWindow(this.href); return false;">John 6:67&ndash;68</a>.</p>
+				</li>
+				<li class="footnote " id="12-10711_000_010"><a name="12-10711_000_010">&nbsp;</a>
+					<span class="label"><a name="footnote12-10711_000_010">12.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/matt/16.24?lang=eng#23" onclick="newWindow(this.href); return false;">Matthew 16:24</a>.</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/saturday-afternoon-session/the-sustaining-of-church-officers?lang=eng">Next</a></li></ul>
+                            
+                        </div><!-- end #primary -->
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://www.lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2013">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="//edge.ldscdn.org/ml/ldsorg/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#listen=audio">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2013/11/saturday-morning-session/come-join-with-us?lang=eng&amp;clang=eng" title="Print Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-08-come-join-with-us-eng.pdf">PDF</a></li><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-00-ensign-eng.pdf"></a></li><li><a href="http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-08-come-join-with-us-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://www.lds.org/secure/email?lang=eng&amp;title=Come,+Join+with+Us+-+Ensign+Nov.+2013&amp;link=/ensign/2013/11/saturday-morning-session/come-join-with-us&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Fwww.lds.org%2Fensign%2F2013%2F11%2Fsaturday-morning-session%2Fcome-join-with-us%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us%3flang%3deng%26cid%3dfacebook-shared&amp;t=Come,+Join+with+Us+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us%3flang%3deng%26cid%3ddelicious-shared&amp;title=Come,+Join+with+Us+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://www.lds.org/tools/feedback?lang=eng&amp;note=Come, Join with Us - Ensign Nov. 2013&amp;id=11340">Do You Have Feedback on This Page?<img src="//edge.ldscdn.org/ml/ldsorg/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        <footer class="pf-footer"><ul><li><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li><a href="//www.lds.org/church/employment?lang=eng">Church Employment</a></li><li><a href="//www.lds.org/help?lang=eng">Help</a></li><li class="pf-feedback"><a href="//www.lds.org/tools/feedback?lang=eng&amp;id=11340">Feedback for this page</a></li></ul><p><a href="//www.lds.org/legal/terms?lang=eng">Rights and Use Information  (Updated 2/21/2012)</a><a href="//www.lds.org/legal/privacy?lang=eng">Privacy Policy (Updated 2/1/2012)</a><br>&copy; 2013 by Intellectual Reserve, Inc. All rights reserved.</p></footer><script type="text/javascript">
+                    if (typeof(s) == 'undefined') {
+                        var s = {};
+                    }
+                    if (typeof(Platform) == 'undefined') {
+                        var Platform = {};
+                    }
+                    Platform.domain = 'www.lds.org';
+                    Platform.signouturl = '';
+                    Platform.signin = 'signmein';
+                    Platform.signout = 'signmeout';
+                    Platform.host = '//www.lds.org';
+                    Platform.lang = 'eng';
+                    Platform.cdnPath = '//edge.ldscdn.org';
+                    try {
+                        jQuery(document).ready(function() {
+                            jQuery('.pf-feedback > a').attr('href', jQuery('.pf-feedback > a').attr('href') + '&note=' + ((typeof(s) == 'object') ? encodeURI(s.pageName) : ''));
+                        });
+                    } catch (e) { }
+						</script><script src="//edge.ldscdn.org/ml/platform/scripts/platform.js">&nbsp;</script><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2013:11:come, join with us";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+        /* Give each page an identifying name and channel on the next lines. */
+            s.pageName = pageName;
+            s.channel = channel;
+            s.prop35 = locale;
+            if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                s.eVar53=searchType;
+                s.eVar56=searchResults;
+                s.events="event36";
+            }
+            try {
+                s.prop3 = searchText;
+            } catch (e) { }
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        </div><!-- end #platform -->
+        
+        <!-- only scripts below --><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/content.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/article.js">&nbsp;</script><script type="text/javascript">
+        $(function() {
+            var mediaList = {
+                "audio": {
+                    "type":"audio",
+                    "audioSrc":"http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-08-come-join-with-us-64k-eng.mp3",
+                    "autoplay":"true"
+                },
+                "video": {
+                    "type":"bc",
+                    "params": {
+                        "@videoPlayer":"",
+                        "playerID":"",
+                        "playerKey":"AQ%2E%2E,AAAAD5C7cik%2E,NkEKrBzbuXJBcGJrgsDFjLEiJ-nXhUBl",
+                        "autoStart":"true"
+                    }
+                }
+            };
+            // load needed scripts via yepnope so they aren't blocking
+            yepnope({
+                load: [
+                    "//edge.ldscdn.org/ml/ldsorg/ver/scripts/medialoader/lds.mediaLoader1.2.10.min.js",
+                    "//edge.ldscdn.org/scripts/other/handlebars/handlebars1.0.0.beta.3.min.js"
+                ],
+                complete:function(){
+                    // setup the plugin for audio
+                    $('#audio-player').mediaLoader({
+                        template:"#media-template-audio",
+                        mediaList:mediaList,
+                        hashLabel:'listen',
+                        audioCss:"//edge.ldscdn.org/ml/ldsorg/css/common/audio.css",
+                        audioJs:"//edge.ldscdn.org/scripts/jquery/plugins/jplayer/2.1.0/jplayer.min.js"
+                    });
+                    // setup plugin for video
+                    $('#video-player').mediaLoader({
+                        template:"#media-template-video",
+                        mediaList:mediaList,
+                        hashLabel:'watch',
+                        playerOptions : {
+                            "wmode":"transparent",
+                            "isVid":"true",
+                            "isUI":"true",
+                            "dynamicStreaming":"true",
+                            "bgcolor":"#fff",
+                            "width":470,
+                            "height":264
+                        },
+                        onopen:function(event, self){
+                            if(self.curMedia.type != "audio"){
+                                //get down below fixed navigation bar, but only if we need to
+                                var targetTop = self.element.offset().top-65;
+                                if($(window).scrollTop() > targetTop) {
+                                    window.scrollTo(0,targetTop);
+                                }
+                                if(self.curMedia.type != "image"){
+                                    $(".media-placeholder",self.element).css("min-height",self.options.playerOptions.height);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script><script id="media-template-audio" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div id="lds-player-interface" class="lds-player simple">
+            <ul class="jp-controls">
+                <li><a href="#" class="jp-previous iconfont previous"></a></li>
+                <li><a href="#" class="jp-play iconfont play"></a></li>
+                <li><a href="#" class="jp-pause iconfont pause"></a></li>
+                <li><a href="#" class="jp-next iconfont next"></a></li>
+            </ul>
+            <div class="jp-title">
+                <h3></h3>
+                <h4></h4>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-time-wrapper">
+                    <div class="jp-current-time">00:00</div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
+                        </div>
+                    </div>
+                    <div class="jp-duration">00:00</div>
+                </div>
+            </div>
+            <ul class="jp-toggles">
+                <li><a href="#" class="jp-shuffle iconfont shuffle" id="shuffle"></a></li>
+                <li class="jp-volume">
+                    <a href="#" class="jp-mute iconfont mute"></a>
+                    <a href="#" class="jp-unmute iconfont unmute"></a>
+                    <div class="jp-volume-bar-holder">
+                        <div class="jp-volume-bar-bg">
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script id="media-template-video" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/context-bar.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/imageResize.js">&nbsp;</script><script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script><script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><script src="//edge.ldscdn.org/ml/ldsorg/notebook/20130501/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            // All resources in bundle studytools
+            if (DATA) {
+                DATA.addResources(
+                    {
+                        'openNotebook' : 'Open Notebook','journal' : 'Journal','separateWithCommas' : 'Separate with commas','share' : 'Share','addTo' : 'Add to:','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','saveButtonText' : 'Save','serviceUnavailable' : 'My Study Tools are currently unavailable.','maintenance' : 'The Study Notebook is currently undergoing maintenance','printWithoutNotes' : 'Without notes','printButtonText' : 'Print','printSelectedNote' : 'Print selected note','signIn' : 'Sign in','includeDetails' : 'Include details','undelete' : 'Undelete','highlights' : 'Highlights','nameMaxLengthError' : 'Max length for name is 200 characters','confirmDeleteBookmark' : 'Remove bookmark?','printEntireNotebook' : 'Print entire notebook','editBookmark' : 'Edit Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','drag' : 'Drag','edit' : 'Edit','highlight' : 'Highlight','bookmarks' : 'Bookmarks','name' : 'Name','collections' : 'notebooks','includeJournalEntries' : 'Include journal entries','signInMessage' : '\ to bookmark pages, highlight text, and write notes.','addNewCollection' : 'Add new notebook:','delete' : 'Delete','fromLabel' : 'From:','deleteCollection' : 'Delete notebook','includeHighlights' : 'Include highlights','journalEntry' : 'Journal entry','includeJournals' : 'Include journal entries','noCollections' : 'none','clearSearch' : 'Clear Search','areYouSure' : 'Are you sure?','bookmarkTitle' : 'Bookmark page','search' : 'Search','addNote' : 'add note','fileType' : 'File Type','reference' : 'Reference','okay' : 'Okay','saving' : 'Saving','noteMaxLengthError' : 'Max length for note is 4000 characters','studyMode' : 'Study Mode','printCollectionDetails' : 'Print the contents of this notebook.','unassignedFolder' : 'Unassigned Items','journalEntryRequiredError' : 'Journal entry required','modified' : 'Modified','editHighlight' : 'Edit highlight','copyHighlight' : 'Copy Highlight','backupXML' : 'Backup (XML)','addCollection' : 'Add notebook','collectionNameTooLongError' : 'Max length is 200','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','editAnnotation' : 'Edit tags and notes','download' : 'Download','links' : 'Links','close' : 'close','note' : 'Note','inLabel' : 'In','bookmark' : 'Bookmark','trash' : 'Trash','journalEntries' : 'Journal Entries','cancelButton' : 'Cancel','generalConference' : 'General Conference','collectionNameEmptyError' : 'Enter a notebooks name','searchResults' : 'Search Results','rename' : 'Rename','advancedSearch' : 'Advanced Search','deleting' : 'Deleting','printCollection' : 'Print Notebook','print' : 'Print','add' : 'Add','emptyTrash' : 'Empty','references' : 'Links','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','someonesStudyNotebook' : '\'s Study Notebook','deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','studyNotebook' : 'Notes and Journal','tagsMaxLengthError' : 'Max length for tags is 4000 characters','signInAgain' : 'Please sign in again.','today' : 'Today','addJournalEntry' : 'add journal entry','source' : 'Source','emptyJournalError' : 'Cannot save without journal entry.','addCollectionInput' : 'add notebook','error' : 'Error','restore' : 'Restore','confirmDeleteHighlight' : 'Really delete?','optional' : 'optional','taggedWith' : 'Tagged with','type' : 'Type','includeBookmarks' : 'Include bookmarks','toLabel' : 'To:','downloadNotebook' : 'Download notebook','addTags' : 'add tags','addNewCollectionTitle' : 'Add new notebook','showAll' : 'show all','yesterday' : 'Yesterday','allItems' : 'All Items','addBookmark' : 'Add Bookmark','renameCollection' : 'Rename notebook','tags' : 'Tags','loadMore' : 'load more','journalTitle' : 'Add journal entry','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','notebooks' : 'Notebooks','help' : 'Help','printWithNotes' : 'With notes','introTitle' : 'Save to your Study Notebook','loading' : 'loading','addJournalEntryButton' : 'Add journal entry','collectionListTitle' : 'Notebooks','shareTitle' : 'Share Page','save' : 'Save'
+                    }
+                );
+            }
+        </script>
+    </body>
+</html>

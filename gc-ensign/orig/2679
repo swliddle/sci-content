@@ -1,0 +1,540 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Once or Twice in a Thousand Years - Ensign Nov. 1975 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Once or Twice in a Thousand Years - Ensign Nov. 1975"><meta name="KEYWORDS" content="apostasy,Joseph Smith,restoration"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Once or Twice in a Thousand Years - Ensign Nov. 1975"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1975/11?lang=eng">Nov. 1975</a>
+                     </li><li>
+                        <span class="active">Once or Twice in a Thousand Years</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1975/11/do-it?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1975/11/the-sustaining-of-church-officers?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Once or Twice in a Thousand Years
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p2" class="">Elder Bruce R. McConkie</p>
+				<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p" class="">Of the Council of the Twelve</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            
+                            <span style="display: none" id="article-id">03063_000_007</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:2952.jpg" alt="Elder Bruce R. McConkie">
+			</div>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p3" class="">Once or twice in a thousand years&mdash;perhaps a dozen times since mortal man became of dust a living soul&mdash;an event of such transcendent import occurs that neither heaven nor earth are ever thereafter the same.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p4" class="">Once or twice in a score of generations the hand from heaven clasps the hand on earth in perfect fellowship, the divine drama unfolds, and the whole course of mortal events changes.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p5" class="">Now and then in a quiet garden, or amid the fires and thunders of Sinai, or inside a sepulchre that cannot be sealed, or in an upper room&mdash;almost always apart from the gaze of men and seldom known by more than a handful of people&mdash;the Lord intervenes in the affairs of men and manifests his will relative to their salvation.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p6" class="">One such event took place six millennia ago in a garden which was planted eastward in Eden when the man Adam and the woman Eve fell that men might be. Another such event altered the course of history when an aged prophet believed God and built an ark wherein he and seven others, out of all the inhabitants of the earth, were saved from a watery grave.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p7" class="">The most transcendent of all such events occurred in a garden called Gethsemane, outside Jerusalem&rsquo;s walls, when the Chief Citizen of planet earth sweat great drops of blood from every pore as he in agony took upon himself the sins of all men on conditions of repentance. Yet another of these events, destined to affect the life and being of every living soul, happened in the Arimathean&rsquo;s tomb when the sinless spirit of the one perfect man returned from the paradise of God to inhabit again&mdash;this time in glorious <a class="no-link-style" href="http://lds.org/study/topics/immortality?lang=eng">immortality</a>&mdash;the pierced and slain body that once was his.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p8" class="">But the occurrence of which we desire more particularly to speak, and which ranks in importance alongside the greatest verities of revealed religion, is one that took place in a grove of trees near Palmyra, New York, on a beautiful, clear day early in the spring of 1820. Was it on the sixth of April? Perhaps&mdash;such at least is the tradition. But be that as it may, what transpired at that time was destined to affect the salvation of the billions of our Father&rsquo;s children who should live on earth from that day to the great winding up scene when the Son shall deliver up the kingdom, spotless, to his Father.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p9" class="">By comparison to what then occurred, the command of the man Moriancumer unto the mountain Zerin, &ldquo;Remove,&rdquo; and it was removed; or the decree of the man <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> to the Red Sea, &ldquo;Divide,&rdquo; and the waters were divided, congealing on the right hand and on the left; or the command of the man Joshua, &ldquo;Sun, stand thou still, and thou moon likewise,&rdquo; and it was so&mdash;by comparison to what happened in that grove of trees in western New York on that spring morning, such things as these fade into an obscure insignificance.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p10" class="">As we approach with awe and reverence, in the spirit of worship and thanksgiving, the heaven-sent miracle of that bright morn, let us view first the setting in which the heavens would be rent and the miracle wrought.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p11" class="">That year of grace, 1820, like the 1,400 years which preceded it, was one in which darkness covered the earth and gross darkness the minds of the people. It was a day of spiritual darkness and of gloominess, a day of clouds and thick darkness, as the morning spread upon the mountains. Angels no longer ministered to their fellow beings; the voice of God was stilled, and man no longer saw the face of his Maker; gifts, signs, miracles, and all the special endowments enjoyed by the saints of old were no longer the common inheritance of those in whose hearts religious zeal was planted. There were no visions, no revelations, no rending of the heavens; the Lord was not raining down righteousness upon a chosen people as he had done in days of old.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p12" class="">The dead were not raised, nor the eyes of the blind opened, nor the ears of the deaf unstopped. There were no legal administrators whose acts were binding on earth and in heaven. That gospel preached by Paul, and for which Peter died, was no longer proclaimed from the pulpits of Christendom.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p13" class="">In short, apostasy reigned supreme; it was universal, complete, all pervading. The religion of the lowly Nazarene was nowhere to be found. All sects, parties, and denominations had gone astray. Satan rejoiced and his angels laughed. Such were the social and religious conditions of the day.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p14" class="">But in the wisdom of Him who knoweth all things, who rules supreme o&rsquo;er earth and hell, the hour had come for the promised restoration. Eighteen twenty was to be the year when the Great Jehovah would commence the restitution of all things spoken by the mouth of all the holy prophets since the world began. The covenants made with Abraham, Isaac, and Jacob concerning their seed were about to be fulfilled.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p15" class="">When the season comes to plant and harvest, the Lord of the vineyard sends the needed husbandmen. The Lord&rsquo;s work among men is done by men; choice and selected souls become his servants. And so at the time appointed came <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, Jr., the man appointed. This spiritual giant of whom it is now said, &ldquo;Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 135:3</a>)&mdash;this foreordained prophet came to usher in the Lord&rsquo;s great latter-day work.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p16" class="">When the Lord needed an Enoch to build Zion, a city of holiness, Enoch was there. When he needed a Moses to stand as the great lawgiver in Israel, Moses was there. When the time arrived for the promised Messiah to give his life a ransom for many, the Great Deliverer was there. And thanks be to God, when the hour arrived to usher in the dispensation of the fulness of times, there was Joseph Smith, the mighty prophet of latter-days.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p17" class="">To him the Lord said, &ldquo;The ends of the earth shall inquire after thy name, and fools shall have thee in derision, and hell shall rage against thee;</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p18" class="">&ldquo;While the pure in heart, and the wise, and the noble, and the virtuous, shall seek counsel, and authority, and blessings constantly from under thy hand.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/122.1-2?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 122:1&ndash;2</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p19" class="">It was 1820; the man and the hour joined hands. The vision was soon to be, and the burning flames of gospel truth would then consume the briars and weeds of sectarianism that encumbered the Lord&rsquo;s vineyard.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p20" class="">To prepare for the day of burning which was to be, a spirit of religious concern and unrest swept the frontier areas where the Lord&rsquo;s future prophet dwelt in peaceful obscurity. The ministers of a decadent Christendom plied their trade with fanatical valor. Their cries went forth, &ldquo;&lsquo;Lo, here is <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>,&rsquo; and, &lsquo;Lo, there.&rsquo;&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">JS&mdash;H 1:5</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p21" class="">Each professor of religion used all his powers of reason and sophistry to gain converts to his particular system of salvation. Feelings were intense; bitterness welled up in many hearts. A &ldquo;war of words and tumult of opinions&rdquo; spread rancor and division among the people. (<a href="http://lds.org/scriptures/pgp/js-h/1.10?lang=eng#9" onclick="newWindow(this.href); return false;">JS&mdash;H 1:10</a>.) In the midst of these contentious times, God&rsquo;s future prophet often said to himself: &ldquo;What is to be done? Who of all these parties are right, or are they all wrong together? If any one of them be right, which is it, and how shall I know it?&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.10?lang=eng#9" onclick="newWindow(this.href); return false;">JS&mdash;H 1:10</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p22" class="">It was at this critical point that divine providence caused a ray of living light to shine forth from God&rsquo;s holy word and enlighten the heart of the troubled truthseeker.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p23" class="">Search the scriptures. Treasure up gospel truths. Enjoy the words of eternal life in this life, and hope for immortal glory in the life to come. Read, ponder, and pray about all that the prophets have written. Such is the course which the Lord invites men to pursue where his holy word is concerned. And it was into this path of progress and enlightenment that young Joseph was led by that providential hand which knows the end from the beginning and rules in love and mercy over all his children.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p24" class="">The boy Joseph&mdash;then in his fifteenth year and who but twenty-four years hence would die a martyr&rsquo;s death for what he was about to see and for the witness which he bore of it&mdash;read in the book of James a verse of scripture destined to be the most influential single verse of holy writ ever to flow from a prophetic pen.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p25" class="">Moses gave us this great proclamation, which is believed by many to be the crowning Old Testament scripture: &ldquo;Hear, O Israel: The Lord our God is one Lord:</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p26" class="">&ldquo;And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might.&rdquo; (<a href="http://lds.org/scriptures/ot/deut/6.4-5?lang=eng#3" onclick="newWindow(this.href); return false;">Deut. 6:4&ndash;5</a>.) And Jesus our Lord picking up the words of love and service here spoken, called them the first and great commandment.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p27" class="">The words which most people believe to be the greatest scriptural utterance of New Testament times are, &ldquo;For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.&rdquo; (<a href="http://lds.org/scriptures/nt/john/3.16?lang=eng#15" onclick="newWindow(this.href); return false;">John 3:16</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p28" class="">It is difficult to overstate the importance and influence on the lives of men of these and kindred passages. And yet the words of James which opened the door to the First Vision, and which record the way in which all men can come to know what God hath wrought in these last days, these few words contain the most influential expression ever to fall from prophetic lips. They ushered in the greatest of all the works of God, the work that is to cover the earth with converts in due course.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p29" class="">These are the words: &ldquo;If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.&rdquo; (<a href="http://lds.org/scriptures/nt/james/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">James 1:5</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p30" class="">Simple, easy, pure words&mdash;words which set the stage for all men in all ages to learn the mind and will of Him who made them; words dictated by the Holy Ghost to one of the last New Testament prophets; words which would sink into the heart of the first prophet of latter days and be the means of ushering in the greatest of all gospel dispensations!</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p31" class="">Dost thou, O man, lack wisdom? Wouldst thou know which of all the churches is right and which thou shouldst join? Is there a need in thy life for more knowledge than thou now hast? Wouldst thou break the barriers of time and space and view the visions of eternity?</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p32" class="">Then ask of God; seek his face; rely upon thy Maker; turn to him who is the source of truth and the fountain of all righteousness!</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p33" class="">But there is a condition attached, a proviso that must accompany thy pleas. James says, &ldquo;But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p34" class="">&ldquo;For let not that man think that he shall receive any thing of the Lord.&rdquo; (<a href="http://lds.org/scriptures/nt/james/1.6-7?lang=eng#5" onclick="newWindow(this.href); return false;">James 1:6&ndash;7</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p35" class="">And so at this turning point in history&mdash;while the Spirit of God was brooding over the darkness of the world and the spirits of men yet unborn were awaiting the decree, &ldquo;Let there be light&rdquo;&mdash;young Joseph was guided of God to ponder those words which would usher in the greatest era of light and truth ever to exist on earth.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p36" class="">&ldquo;Never did any passage of scripture come with more power to the heart of man,&rdquo; the young prophet would say later, &ldquo;than this did at this time to mine. It seemed to enter with great force into every feeling of my heart. I reflected on it again and again.&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.12?lang=eng#11" onclick="newWindow(this.href); return false;">JS&mdash;H 1:12</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p37" class="">Such are the ways of God and such are the workings of his Holy Spirit. With a power that none can know save those whose souls are tuned to the Infinite, the words of James sank into the heart of the great prophet of latter-days.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p38" class="">Of the religious controversy which was pouring venom and confusion throughout the whole area, Joseph Smith said, &ldquo;The teachers of religion of the different sects understood the same passages of scripture so differently as to destroy all confidence in settling the question [of which church was right] by an appeal to the <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a>.&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.12?lang=eng#11" onclick="newWindow(this.href); return false;">JS&mdash;H 1:12</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p39" class="">He must ask of God, as all men must, and ask he did. He walked a short distance from his country home to a secluded place in a grove of trees. There, alone, he knelt and prayed, pouring out his soul to his Maker, offering up the desires of his heart to God.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p40" class="">This was the hour of destiny and hope. Amid the gloom of apostate darkness a light would shine forth. Creation&rsquo;s decree, the great proclamation&mdash;&ldquo;Let there be light&rdquo;&mdash;was to be issued anew. The light of the gospel, the light of the Everlasting Word, would soon shed its rays o&rsquo;er all the earth.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p41" class="">But great things do not come easily; events that shake the earth run into mountains of resistance. There is an opposition in all things; every person who seeks to find the true church runs counter to the ways of the world. Joseph Smith was no exception.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p42" class="">As he prayed, the powers of evil fought back with satanic terror. &ldquo;I was seized upon by some power which entirely overcame me,&rdquo; he said, &ldquo;and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.15?lang=eng#14" onclick="newWindow(this.href); return false;">JS&mdash;H 1:15</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p43" class="">Such are the ways of Satan that when the God of heaven seeks to send the greatest light of the ages into the world, the forces of evil oppose it with the deepest darkness and iniquity of their benighted realm. Lucifer, our common enemy, fought the promised restoration as he now fights the accomplished restoration.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p44" class="">&ldquo;But, exerting all my powers to call upon God to deliver me out of the power of this enemy which had seized upon me,&rdquo; the Prophet continues, &ldquo;and at the very moment when I was ready to sink into despair and abandon myself to destruction&mdash;not to an imaginary ruin, but to the power of some actual being from the unseen world, who had such marvelous power as I had never before felt in any being&mdash;just at this moment of great alarm, I saw a pillar of light exactly over my head.&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.16?lang=eng#15" onclick="newWindow(this.href); return false;">JS&mdash;H 1:16</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p45" class="">Thereupon the heavens parted and the veil was rent; the heavens, long brass, poured out showers of blessings; the age of light and truth and revelation and miracles and salvation was born.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p46" class="">The place, the hour, the need, the man, and the divine destiny all united to usher in God&rsquo;s great latter-day work. The heavens did not shake, nor the earth tremble. It was not an event heralded by the thunders and clouds on Sinai but one patterned after the calm serenity and peace present before an open tomb when Mary of Magdala uttered the reverent cry, &ldquo;Rabboni,&rdquo; to the risen Lord.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p47" class="">This was the occasion when the greatest vision ever vouchsafed to man of which we have record burst the gloom of solemn darkness. The gods of old revealed themselves anew.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p48" class="">&ldquo;I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me,&rdquo; the Prophet said. (<a href="http://lds.org/scriptures/pgp/js-h/1.16?lang=eng#15" onclick="newWindow(this.href); return false;">JS&mdash;H 1:16</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p49" class="">&ldquo;It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other&mdash;<span class="emphasis">This is My Beloved Son. Hear Him!</span>&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">JS&mdash;H 1:17</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p50" class="">Great God in heaven above&mdash;what wonders do we now behold! The heavens rend; the veil parts; the Creators of the universe come down; the Father and the Son both speak to mortal man. The voice of God is heard again: he is not dead; he lives and speaks; his words we hear as they were heard in olden days.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p51" class="">&ldquo;My object in going to inquire of the Lord,&rdquo; our young supplicant says, &ldquo;was to know which of all the sects was right, that I might know which to join. No sooner, therefore, did I get possession of myself, so as to be able to speak, than I asked the Personages who stood above me in the light, which of all the sects was right&mdash;and which I should join.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p52" class="">&ldquo;I was answered that I must join none of them, for they were all wrong; and the Personage who addressed me said that all their creeds were an abomination in his sight; that those professors were all corrupt that: &lsquo;they draw near to me with their lips, but their hearts are far from me, they teach for doctrines the commandments of men, having a form of godliness, but they deny the power thereof.&rsquo;&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">JS&mdash;H 1:18&ndash;19</a>.)</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p53" class="">Once or twice in a thousand years a new door is opened through which all men must enter if they are to gain peace in this life and be inheritors of eternal life in the realms ahead.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p54" class="">Once or twice in a score of generations a new era dawns: the light from the east begins to drive the darkness of the earth from the hearts of men.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p55" class="">Now and then in a peaceful grove, apart from the gaze of men, heaven and earth share a moment of intimacy, and neither are ever thereafter the same. Such a moment occurred on that beautiful, clear morning in the spring of 1820 in a grove of trees near Palmyra, New York.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p56" class="">Man asked and God answered.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p57" class="">Joseph Smith saw the Father and the Son.</p>
+			<p uri="/ensign/1975/11/once-or-twice-in-a-thousand-years.p58" class="">These things I know and of them I testify. In the name of the Lord <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, who is the Son, and whose witnesses we are. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1975/11/do-it?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1975/11/the-sustaining-of-church-officers?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1975">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1975/11/once-or-twice-in-a-thousand-years?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Once or Twice in a Thousand Years - Ensign Nov. 1975&amp;link=/ensign/1975/11/once-or-twice-in-a-thousand-years&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1975%2F11%2Fonce-or-twice-in-a-thousand-years%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years%3flang%3deng%26cid%3dfacebook-shared&amp;t=Once+or+Twice+in+a+Thousand+Years+-+Ensign+Nov.+1975" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years%3flang%3deng%26cid%3ddelicious-shared&amp;title=Once+or+Twice+in+a+Thousand+Years+-+Ensign+Nov.+1975" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1975/11/once-or-twice-in-a-thousand-years%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Once or Twice in a Thousand Years - Ensign Nov. 1975&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1975:11:once or twice in a thousand years";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

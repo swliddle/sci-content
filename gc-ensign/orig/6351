@@ -1,0 +1,887 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Cloven Tongues of Fire - Ensign May 2000 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Cloven Tongues of Fire - Ensign May 2000"><meta name="KEYWORDS" content="Jesus Christ,Holy Ghost,adversity,apostasy,Church history,Church membership,commandments,fear,general conference,Joseph Smith,obedience,ordinances,peace,prayer,priesthood,Restoration,Satan,scriptures,sin"><meta name="DESCRIPTION" content="In every language, the Spirit of God&mdash;the Holy Ghost&mdash;guides, or can guide, every member of the Church."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Cloven Tongues of Fire - Ensign May 2000"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/2000/05/the-cloven-tongues-of-fire?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/boyd-k-packer-10.jpg"><meta property="og:description" content="In every language, the Spirit of God&mdash;the Holy Ghost&mdash;guides, or can guide, every member of the Church."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/2000/05/the-cloven-tongues-of-fire?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/2000/05/the-cloven-tongues-of-fire?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/2000/05/the-cloven-tongues-of-fire?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/2000/05?lang=eng">May 2000</a>
+                     </li><li>
+                        <span class="active">The Cloven Tongues of Fire</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2000/05/to-all-the-world-in-testimony?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2000/05/future-leaders?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Cloven Tongues of Fire
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/boyd-k-packer?lang=eng"><div class="byline" id="">
+				<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p2" class="">President Boyd K. Packer</p>
+				<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p" class="">Acting President of the Quorum of the Twelve Apostles</p>
+			</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/boyd-k-packer?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/boyd-k-packer-10.jpg" alt="Boyd K. Packer" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">In every language, the Spirit of God&mdash;the Holy Ghost&mdash;guides, or can guide, every member of the Church.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">20905_000_004</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p4" class="">Do you think it possible for those of us who are called upon to speak to draw attention away from this wonderful building long enough to focus on the purpose for which it was built?</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p5" class="">Perhaps it can be done with a parable and a poem.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p6" class="">The parable: A merchant man seeking precious jewels found at last the perfect pearl. He had the finest craftsman carve a superb jewel box and line it with blue velvet. He put his pearl of great price on display so others could share his treasure. He watched as people came to see it. Soon he turned away in sorrow. It was the box they admired, not the pearl.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p7" class="">The poem:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">We are all blind, until we see</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">That in the [universal] plan</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">Nothing is worth the making if</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">It does not make the man.</span>
+	  </div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">Why build these [buildings] glorious,</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">If man unbuilded goes?</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">In vain we build the [world], unless</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">The builder also grows.</span>
+	    <sup class="noteMarker">
+	    <a href="#footnote1-20905_000_004">1</a>
+	  </sup>
+	  </div>
+				</div>
+			</div>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p16" class="">In thinking of the builder, we begin half a world away and two millennia ago on the river Jordan with John the Baptist. He preached, &ldquo;I &hellip; baptize you with water unto repentance: but he that cometh after me is mightier than I, &hellip; he shall baptize you with the Holy Ghost, and with fire.&rdquo;<sup class="noteMarker">
+	<a href="#footnote2-20905_000_004">2</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p17" class="">&ldquo;Then [came] Jesus from Galilee to Jordan unto John, to be baptized of him.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-20905_000_004">3</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p18" class="">&ldquo;[When Jesus came] up &hellip; out of the water: &hellip; the heavens were opened unto him, and he saw the Spirit of God [the Holy Ghost] descending like a dove, and lighting upon him:</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p19" class="">&ldquo;And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.&rdquo;<sup class="noteMarker">
+	<a href="#footnote4-20905_000_004">4</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p20" class="">Jesus then went into the wilderness; Lucifer came tempting Him.<sup class="noteMarker">
+	<a href="#footnote5-20905_000_004">5</a>
+      </sup> Jesus deflected each temptation with scripture.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p21" class="">&ldquo;It is written, Man shall not live by bread alone.&rdquo;<sup class="noteMarker">
+	<a href="#footnote6-20905_000_004">6</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p22" class="">&ldquo;It is written again, Thou shalt not tempt the Lord thy God.&rdquo;<sup class="noteMarker">
+	<a href="#footnote7-20905_000_004">7</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p23" class="">&ldquo;It is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.&rdquo;<sup class="noteMarker">
+	<a href="#footnote8-20905_000_004">8</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p24" class="">Think on it carefully. When facing Perdition himself, the Lord drew upon scriptures for protection.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p25" class="">Jesus chose from among His disciples 12 whom He ordained Apostles: Peter, James, and John; Andrew, Philip, Bartholomew, Thomas, Matthew, Simon, James, Jude, and Judas. They were ordinary men described by the Pharisees as &ldquo;unlearned and ignorant.&rdquo;<sup class="noteMarker">
+	<a href="#footnote9-20905_000_004">9</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p26" class="">The Twelve followed Him. He taught them.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p27" class="">He commanded them to teach all nations, <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptizing</a> all who would believe.<sup class="noteMarker">
+	<a href="#footnote10-20905_000_004">10</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p28" class="">Before He left, He promised, &ldquo;The Comforter, which is the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.&rdquo;<sup class="noteMarker">
+	<a href="#footnote11-20905_000_004">11</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p29" class="">Jesus was crucified. On the third day He rose from the tomb. He gave further instruction to His Apostles; and then, before He ascended, He said, &ldquo;Behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be [endowed] with power from on high.&rdquo;<sup class="noteMarker">
+	<a href="#footnote12-20905_000_004">12</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p30" class="">That power was not long in coming. On the day of Pentecost, the Twelve were assembled in a house:</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p31" class="">&ldquo;Suddenly there came a sound &hellip; of a rushing mighty wind, &hellip;</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p32" class="">&ldquo;And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p33" class="">&ldquo;And they were all filled with the Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote13-20905_000_004">13</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p34" class="">With that the Twelve were fully empowered.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p35" class="">When they spoke that day, the people marveled for each heard it in their own language&mdash;18 different languages.<sup class="noteMarker">
+	<a href="#footnote14-20905_000_004">14</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p36" class="">The Apostles set out to baptize all who would believe on their words. But <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a> unto repentance was not enough.<sup class="noteMarker">
+	<a href="#footnote15-20905_000_004">15</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p37" class="">Paul found 12 men who had already been baptized by John the Baptist and asked, &ldquo;Have ye received the Holy Ghost &hellip; ? [They replied], We have not so much as heard whether there be any Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote16-20905_000_004">16</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p38" class="">&ldquo;They were [then] baptized in the name of the Lord Jesus,&rdquo;<sup class="noteMarker">
+	<a href="#footnote17-20905_000_004">17</a>
+      </sup> and &ldquo;Paul &hellip; laid his hands upon them, [and] the Holy Ghost came on them.&rdquo;<sup class="noteMarker">
+	<a href="#footnote18-20905_000_004">18</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p39" class="">The pattern was set, as it had been from the beginning.<sup class="noteMarker">
+	<a href="#footnote19-20905_000_004">19</a>
+      </sup> Entrance into the Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> is through &ldquo;baptism by immersion for the remission of sins.&rdquo;<sup class="noteMarker">
+	<a href="#footnote20-20905_000_004">20</a>
+      </sup> Then, in a separate ordinance, the priceless gift of the Holy Ghost is conferred &ldquo;by the <a class="no-link-style" href="http://lds.org/scriptures/bd/laying-on-of-hands?lang=eng">laying on of hands</a> by those who are in authority, to <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> the Gospel and administer in the ordinances.&rdquo;<sup class="noteMarker">
+	<a href="#footnote21-20905_000_004">21</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p40" class="">Despite opposition, the Twelve established the Church of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>; and despite persecution, it flourished.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p41" class="">But as the centuries passed, the flame flickered and dimmed. Ordinances were changed or abandoned. The line was broken, and the authority to confer the Holy Ghost as a gift was gone. The Dark Ages of apostasy settled over the world.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p42" class="">But always, as it had from the beginning, the Spirit of God inspired worthy souls.<sup class="noteMarker">
+	<a href="#footnote22-20905_000_004">22</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p43" class="">We owe an immense debt to the protestors and the reformers who preserved the scriptures and translated them. They knew something had been lost. They kept the flame alive as best they could. Many of them were martyrs. But protesting was not enough; nor could reformers restore that which was gone.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p44" class="">In time, a great diversity of churches arose.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p45" class="">When all was prepared, the Father and the Son appeared to the boy Joseph in the Grove, and those words spoken at the river Jordan were heard once again, &ldquo;This is My Beloved Son. Hear Him!&rdquo;<sup class="noteMarker">
+	<a href="#footnote23-20905_000_004">23</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p46" class=""><a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> became the instrument of the Restoration.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p47" class="">John the Baptist restored &ldquo;the Priesthood of Aaron, which holds the keys of the ministering of angels, and of the gospel of repentance, and of baptism by immersion for the remission of sins.&rdquo;<sup class="noteMarker">
+	<a href="#footnote24-20905_000_004">24</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p48" class="">Peter, James, and John restored the office of Apostle with the higher priesthood. With it came authority to confer the supernally precious gift of the Holy Ghost.<sup class="noteMarker">
+	<a href="#footnote25-20905_000_004">25</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p49" class="">On April 6, 1830, The Church of Jesus Christ of Latter-day Saints was organized. The Brethren set about to teach and to baptize. Nine months later came a correction, a revelation:</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p50" class="">&ldquo;Thou didst baptize by water unto repentance, but they received not the Holy Ghost;</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p51" class="">&ldquo;But now I give unto thee a commandment, that thou shalt baptize by water, and they shall receive the Holy Ghost by the laying on of the hands, even as the apostles of old.&rdquo;<sup class="noteMarker">
+	<a href="#footnote26-20905_000_004">26</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p52" class="">One month later, that commandment was repeated: &ldquo;On as many as ye shall baptize with water, ye shall lay your hands, and they shall receive the gift of the Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote27-20905_000_004">27</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p53" class="">The gift is to all who repent and are baptized&mdash;boys and girls alike, women and men the same.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p54" class="">We live in troubled times&mdash;very troubled times. We hope, we pray, for better days. But that is not to be. The prophecies tell us that. We will not as a people, as families, or as individuals be exempt from the trials to come. No one will be spared the trials common to home and <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>, work, disappointment, grief, health, aging, ultimately death.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p55" class="">What then shall we do? That question was asked of the Twelve on the day of Pentecost. Peter answered, &ldquo;Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote28-20905_000_004">28</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p56" class="">He told them, &ldquo;The promise is unto you, and to your children, and to all that are afar off.&rdquo;<sup class="noteMarker">
+	<a href="#footnote29-20905_000_004">29</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p57" class="">That same question&mdash;&ldquo;What shall we do?&rdquo;&mdash;was asked of the prophet Nephi. He gave the same answer that Peter had given, &ldquo;Take upon you the name of Christ, by baptism &hellip; , then cometh the baptism of fire and of the Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote30-20905_000_004">30</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p58" class="">&ldquo;Do ye not remember that I said unto you that after ye had received the Holy Ghost ye could speak with the tongue of angels? &hellip;</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p59" class="">&ldquo;Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ. Wherefore, I said unto you, feast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p60" class="">&ldquo;Wherefore, now after I have spoken these words, if ye cannot understand them it will be because ye ask not, neither do ye knock; wherefore, ye are not brought into the light, but must perish in the dark.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p61" class="">&ldquo;For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.&rdquo;<sup class="noteMarker">
+	<a href="#footnote31-20905_000_004">31</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p62" class="">We need not live in fear of the future. We have every reason to rejoice and little reason to fear. If we follow the promptings of the Spirit, we will be safe, whatever the future holds. We will be shown what to do.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p63" class="">Christ promised that &ldquo;the Father, [would send] another Comforter, &hellip;</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p64" class="">&ldquo;Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.&rdquo;<sup class="noteMarker">
+	<a href="#footnote32-20905_000_004">32</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p65" class="">Too many of us are like those whom the Lord said &ldquo;[came] with a broken heart and a contrite spirit, &hellip; [and] at the time of their conversion, were baptized with fire and with the Holy Ghost, <span class="emphasis">and they knew it not.</span>&rdquo;<sup class="noteMarker">
+	<a href="#footnote33-20905_000_004">33</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p66" class="">Imagine that: &ldquo;And they knew it not.&rdquo; It is not unusual for one to have received the gift and not really know it.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p67" class="">I fear this supernal gift is being obscured by programs and activities and schedules and so many meetings. There are so many places to go, so many things to do in this noisy world. We can be too busy to pay attention to the promptings of the Spirit.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p68" class="">The voice of the Spirit is a still, small voice&mdash;a voice that is <span class="emphasis">felt</span> rather than heard. It is a spiritual voice that comes into the mind as a thought put into your heart.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p69" class="">All over the world ordinary men, women, and children, not completely aware that they have the gift, bless their families, teach, preach, and minister by the Spirit within them.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p70" class="">In every language, the Spirit of God&mdash;the Holy Ghost&mdash;guides, or can guide, every member of the Church. Everyone is invited to come and repent and be baptized and receive of this sacred gift.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p71" class="">Despite opposition, the Church will flourish; and despite persecution, it will grow.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p72" class="">Joseph Smith was asked, &ldquo;How does your religion differ from other religions?&rdquo; He replied, &ldquo;All other considerations were contained in the gift of the Holy Ghost.&rdquo;<sup class="noteMarker">
+	<a href="#footnote34-20905_000_004">34</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p73" class="">It is awakened with prayer and cultivated &ldquo;by obedience to the laws and ordinances of the Gospel.&rdquo;<sup class="noteMarker">
+	<a href="#footnote35-20905_000_004">35</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p74" class="">It can be smothered through transgression and neglect.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p75" class="">And soon we learn that the tempter&mdash;the adversary&mdash;uses those same channels of the mind and heart to inspire us to evil, to laziness, to contention, even to acts of darkness. He can take over our thoughts and lead us to mischief.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p76" class="">But each of us has agency; ever and always light presides over darkness.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p77" class="">The priesthood is structured to ensure an unbroken line of authority to baptize and confer the Holy Ghost. Always nearby are leaders and teachers called and set apart to teach and to correct us. We can learn to sort out the promptings from the temptations and follow the inspiration of the Holy Ghost.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p78" class="">It is a glorious time to live! No matter what trials await us, we can find the answer to that question, &ldquo;What shall we do?&rdquo; We, and those we love, will be guided and corrected and protected, and we will be comforted.</p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p79" class="">He said: &ldquo;Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.&rdquo;<sup class="noteMarker">
+	<a href="#footnote36-20905_000_004">36</a>
+      </sup></p>
+			<p uri="/ensign/2000/05/the-cloven-tongues-of-fire.p80" class="">As surely as I know that I am here and you are there, I know that Jesus is the Christ. He lives! I know the gift of the Holy Ghost, a sacred spiritual power, can be a constant companion to every soul who will receive it. I pray that the witness of the Holy Ghost will confirm this testimony to you, in the name of Jesus Christ, amen.</p>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-20905_000_004">1.</a>
+      </span>
+				<p>Edwin Markham, &ldquo;Man-Making,&rdquo; in <span class="emphasis">Masterpieces of Religious Verse,</span> ed. James Dalton Morrison (1948), 419.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-20905_000_004">2.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/3.11?lang=eng#10" onclick="newWindow(this.href); return false;">Matt. 3:11</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-20905_000_004">3.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/3.13?lang=eng#12" onclick="newWindow(this.href); return false;">Matt. 3:13</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-20905_000_004">4.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/3.16-17?lang=eng#15" onclick="newWindow(this.href); return false;">Matt. 3:16&ndash;17</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-20905_000_004">5.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/4.1-11?lang=eng#0" onclick="newWindow(this.href); return false;">Matt. 4:1&ndash;11</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-20905_000_004">6.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/4.4?lang=eng#3" onclick="newWindow(this.href); return false;">Matt. 4:4</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-20905_000_004">7.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/4.7?lang=eng#6" onclick="newWindow(this.href); return false;">Matt. 4:7</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-20905_000_004">8.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/4.10?lang=eng#9" onclick="newWindow(this.href); return false;">Matt. 4:10</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-20905_000_004">9.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/4.13?lang=eng#12" onclick="newWindow(this.href); return false;">Acts 4:13</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-20905_000_004">10.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/28.19?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 28:19</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-20905_000_004">11.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/14.26?lang=eng#25" onclick="newWindow(this.href); return false;">John 14:26</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote12-20905_000_004">12.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/luke/24.49?lang=eng#48" onclick="newWindow(this.href); return false;">Luke 24:49</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote13-20905_000_004">13.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/2.2-4?lang=eng#1" onclick="newWindow(this.href); return false;">Acts 2:2&ndash;4</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote14-20905_000_004">14.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/acts/2.7-11?lang=eng#6" onclick="newWindow(this.href); return false;">Acts 2:7&ndash;11</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote15-20905_000_004">15.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/acts/2.38?lang=eng#37" onclick="newWindow(this.href); return false;">Acts 2:38</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote16-20905_000_004">16.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/19.2?lang=eng#1" onclick="newWindow(this.href); return false;">Acts 19:2</a>; see also <span class="emphasis">Teachings of the Prophet Joseph Smith,</span> sel. Joseph Fielding Smith (1976), 263, 336.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote17-20905_000_004">17.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/19.5?lang=eng#4" onclick="newWindow(this.href); return false;">Acts 19:5</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote18-20905_000_004">18.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/19.6?lang=eng#5" onclick="newWindow(this.href); return false;">Acts 19:6</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote19-20905_000_004">19.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/pgp/moses/6.65-66?lang=eng#64" onclick="newWindow(this.href); return false;">Moses 6:65&ndash;66</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote20-20905_000_004">20.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3" onclick="newWindow(this.href); return false;">A of F 1:4</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote21-20905_000_004">21.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/a-of-f/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">A of F 1:5</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote22-20905_000_004">22.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/bofm/1-ne/10.17-19?lang=eng#16" onclick="newWindow(this.href); return false;">1 Ne. 10:17&ndash;19</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote23-20905_000_004">23.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/js-h/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">JS&mdash;H 1:17</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote24-20905_000_004">24.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/13.1?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 13:1</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote25-20905_000_004">25.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/27.12-13?lang=eng#11" onclick="newWindow(this.href); return false;">D&amp;C 27:12&ndash;13</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote26-20905_000_004">26.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/35.5-6?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 35:5&ndash;6</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote27-20905_000_004">27.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/39.23?lang=eng#22" onclick="newWindow(this.href); return false;">D&amp;C 39:23</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote28-20905_000_004">28.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/2.38?lang=eng#37" onclick="newWindow(this.href); return false;">Acts 2:38</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote29-20905_000_004">29.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/2.39?lang=eng#38" onclick="newWindow(this.href); return false;">Acts 2:39</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote30-20905_000_004">30.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/2-ne/31.13?lang=eng#12" onclick="newWindow(this.href); return false;">2 Ne. 31:13</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote31-20905_000_004">31.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/2-ne/32.2-5?lang=eng#1" onclick="newWindow(this.href); return false;">2 Ne. 32:2&ndash;5</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote32-20905_000_004">32.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/14.16-17?lang=eng#15" onclick="newWindow(this.href); return false;">John 14:16&ndash;17</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote33-20905_000_004">33.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/3-ne/9.20?lang=eng#19" onclick="newWindow(this.href); return false;">3 Ne. 9:20</a>; emphasis added.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote34-20905_000_004">34.</a>
+      </span>
+				<p><span class="emphasis">History of the Church,</span> 4:42.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote35-20905_000_004">35.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2" onclick="newWindow(this.href); return false;">A of F 1:3</a>.</p>
+			</li>
+			<li class="footnote " id="-20905_000_004"><a name="-20905_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote36-20905_000_004">36.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/14.27?lang=eng#26" onclick="newWindow(this.href); return false;">John 14:27</a>.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2000/05/to-all-the-world-in-testimony?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2000/05/future-leaders?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 2000">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/2000/05/the-cloven-tongues-of-fire?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Cloven Tongues of Fire - Ensign May 2000&amp;link=/ensign/2000/05/the-cloven-tongues-of-fire&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F2000%2F05%2Fthe-cloven-tongues-of-fire%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/2000/05/the-cloven-tongues-of-fire%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Cloven+Tongues+of+Fire+-+Ensign+May+2000" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/2000/05/the-cloven-tongues-of-fire%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Cloven+Tongues+of+Fire+-+Ensign+May+2000" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/2000/05/the-cloven-tongues-of-fire%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Cloven Tongues of Fire - Ensign May 2000&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2000:05:the cloven tongues of fire";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

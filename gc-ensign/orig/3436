@@ -1,0 +1,531 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>&ldquo;Forgive Them, I Pray Thee&rdquo; - Ensign Nov. 1980 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="&ldquo;Forgive Them, I Pray Thee&rdquo; - Ensign Nov. 1980"><meta name="KEYWORDS" content="forgiveness,repentance"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="&ldquo;Forgive Them, I Pray Thee&rdquo; - Ensign Nov. 1980"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1980/11/forgive-them-i-pray-thee?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1980/11/forgive-them-i-pray-thee?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1980/11/forgive-them-i-pray-thee?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1980/11/forgive-them-i-pray-thee?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1980/11?lang=eng">Nov. 1980</a>
+                     </li><li>
+                        <span class="active">&ldquo;Forgive Them, I Pray Thee&rdquo;</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1980/11/feed-my-sheep?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1980/11/prepare-for-the-days-of-tribulation?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            &ldquo;Forgive Them, I Pray Thee&rdquo;
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p2" class="">Elder Vaughn J. Featherstone</p>
+				<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p" class="">Of the First Quorum of the Seventy</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            
+                            <span style="display: none" id="article-id">03128_000_015</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:282c.jpg" alt="Elder Vaughn J. Featherstone">
+			</div>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p3" class="">My beloved brothers and sisters, it has been my privilege through the past years as a stake president, a mission president, and a General Authority to serve as a common judge in modern Israel. These experiences have led me to take the time allotted me today to discuss two principles&mdash;repentance and <a class="no-link-style" href="http://lds.org/general-conference/2005/10/forgiveness?lang=eng">forgiveness</a>.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p4" class="">Not too long ago a young wife spoke at her husband&rsquo;s funeral and said, &ldquo;We came to realize that unimportant things really are unimportant. When the spirit is sick, there can be no true healing, no matter how strong the physical body. If the spirit is well, then physical impairment is unimportant, regardless of the effects of a debilitating disease.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p5" class="">The Lord has provided the way whereby our spiritual sicknesses can be healed. In the first chapter of Isaiah, verse 18, we read, &ldquo;Come now, and let us reason together, saith the Lord: though your sins be as scarlet they shall be as white as snow; though they be red like crimson, they shall be as wool.&rdquo; [<a href="http://lds.org/scriptures/ot/isa/1.18?lang=eng#17" onclick="newWindow(this.href); return false;">Isa. 1:18</a>]</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p6" class="">And, again in the Doctrine and Covenants, &ldquo;Nevertheless, he that repents and does the commandments of the Lord shall be forgiven&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/1.32?lang=eng#31" onclick="newWindow(this.href); return false;">D&amp;C 1:32</a>).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p7" class="">Also, &ldquo;Behold, he who has repented of his sins, the same is forgiven, and I, the Lord, remember them no more&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41" onclick="newWindow(this.href); return false;">D&amp;C 58:42</a>).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p8" class="">For one to be forgiven of sin, the Lord requires that he come unto him, mourn over his sins, forsake the sins, be teachable, forgive others, and confess.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p9" class="">Again, in the fifty-eighth section of the Doctrine and Covenants, we read, &ldquo;By this ye may know if a man repenteth of his sins&mdash;behold, he will confess them and forsake them&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/58.43?lang=eng#42" onclick="newWindow(this.href); return false;">D&amp;C 58:43</a>).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p10" class="">We must always be truly sincere. In <span class="emphasis">The Adventures of Huckleberry Finn,</span> by Mark Twain, Huck says:</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p11" class="">&ldquo;It made me shiver. And I about made up my mind to pray and see if I couldn&rsquo;t try to quit being the kind of boy I was and be better. So I kneeled down. But the words wouldn&rsquo;t come. Why wouldn&rsquo;t they? It weren&rsquo;t no use to try and hide it from Him &hellip; I knowed very well why they wouldn&rsquo;t come. It was because my heart warn&rsquo;t right; it was because I weren&rsquo;t square: it was because I was playing double. I was letting on to give up sin, but away inside of me I was holding on to the biggest one of all. I was trying to make my mouth say I would do the right thing and the clean thing. But deep down in me, I knowed it was a lie, and He knowed it. YOU CAN&rsquo;T PRAY A LIE &hellip; I found that out.&rdquo; (New York: Platt &amp; Munk, 1960, pp. 445&ndash;46.)</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p12" class="">Huck Finn was right. You can&rsquo;t pray a lie; and regardless of what may be decided by a common judge, actual forgiveness cannot take place until true repentance has preceded it. The common judge serves as the Lord&rsquo;s agent. A bishop may be deceived, but the Holy Ghost cannot. When confession takes place, it ought to be from the inner-most depths of the heart and soul.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p13" class="">What a tragedy when someone finally gets enough courage to go to the bishop and then leaves his office having only partially confessed. Oh, beloved brothers and sisters, &ldquo;the shepherd should not recoil from the diseased sheep&rdquo; (Victor Hugo, <span class="emphasis">Les Miserables,</span> New York: Random House, n.d., p. 32). The bishops in this kingdom have been endowed with wisdom, judgment, and mercy from on high. They can relieve the burden of the repentant sufferer.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p14" class="">Some years ago, a man knocked on my office door late at night and said, &ldquo;President, may I speak to you? Are we all alone?&rdquo; I assured him no one else was in the office. We sat across the corner of the desk, and he said, &ldquo;Four times I have driven over to the stake office and have seen your light on, and four times I have driven back home without coming in. But,&rdquo; he continued, &ldquo;last night I was reading in <span class="emphasis">The Miracle of Forgiveness</span> again, and I realized that every major transgression must be confessed. I have come to confess a transgression. I have been on two high councils and have served as a bishop twice, and I believe the Lord called me.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p15" class="">I agreed, &ldquo;I&rsquo;m sure he called you.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p16" class="">He said, &ldquo;Forty-two years ago, before my wife and I were married, we committed fornication once, the week prior to our going to the temple. We did not lie to the bishop, who was my wife&rsquo;s father; he simply talked with us and signed our recommends. We then went to the stake president, and he did not interview us. He signed our recommends, and we went to the temple unworthily. While we were on our honeymoon,&rdquo; he continued, &ldquo;we decided to make it up to the Lord. We decided we would pay more than our share of tithing and more than our share of building fund; we would accept every assignment to the welfare farm and do all else we were asked to do. We decided we were not worthy to go to the temple, and we did not go for a year. It has been forty-two years since the transgression, and we have lived as near Christlike lives as we know how. I believe we have been forgiven, but I know that confession is necessary.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p17" class="">Then he quoted from 2 Nephi 9:41 [<a href="http://lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40" onclick="newWindow(this.href); return false;">2 Ne. 9:41</a>], which states, &ldquo;Behold, the way for man is narrow, but it lieth in a straight course before him, and the keeper of the gate is the Holy One of Israel; and he employeth no servant there; and there is none other way save it be by the gate; for he cannot be deceived, for the Lord God is his name.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p18" class="">Then he said, &ldquo;I would rather confess to you now. I am not a young man, and I do not have a lot of years left. I want to be able to meet my Savior with nothing left undone.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p19" class="">I listened to his confession. I wept with him, and when he finished the confession, I told him on behalf of the Church that he was forgiven. He need not discuss it, think about it, or be concerned about it anymore. I told him never to mention it to me again, for I would not remember it and had no desire to. To this day, I cannot remember who it was, although I do remember the case.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p20" class="">We got up and walked to the door together. I said, &ldquo;Where is your wife?&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p21" class="">He said, &ldquo;She is in the car.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p22" class="">I asked, &ldquo;Is she coming in?&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p23" class="">He replied, &ldquo;No, she can&rsquo;t even think about it except it almost destroys her.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p24" class="">I said, &ldquo;You tell your wife that I would like to visit with her now. Tell her I want to take this off her heart and close it. Tell her I know what it was that was done, and I will close it, and it need not be opened again. Tell her I will make it as easy as possible for her.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p25" class="">He said, &ldquo;I&rsquo;ll tell her, but I don&rsquo;t think she will come in.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p26" class="">I answered, &ldquo;You tell her that if I have to sit here all night, I will not go home until she comes in. I can&rsquo;t bear the thought of her carrying this on her heart one more day in this life; forty-two years is long enough.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p27" class="">He said, &ldquo;Well, I&rsquo;ll tell her, but I don&rsquo;t think she&rsquo;ll come in.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p28" class="">He left and was gone fifteen minutes, thirty minutes, and forty-five minutes. I was tempted to check the parking lot to see if they had gone home. I resisted; then I heard a timid knock at the door. I went to the door, and there was this sweet woman standing there. Her eyes were wet from crying. She had probably told her husband she couldn&rsquo;t come in. He had insisted, telling her I would stay there all night. Finally, forty-five minutes later, she was at the door. I took her by both hands and led her across the room. I sat across the corner of the desk, and then I said, &ldquo;Your husband confessed to a transgression that happened over forty-two years ago of which you were a part. I want to make it easy for you. I know what the transgression is. Every major transgression must be confessed. You tell me, and I will take it off your heart.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p29" class="">It was like pulling wild horses to get a confession. Finally, about fifteen minutes later, she confessed. I wept; she wept. I told her it was closed and that I wouldn&rsquo;t remember it and for her to forget it and close it. Then I stood up and put my arm through hers and we walked down the long hallway to the parking lot. When we got just about to the door, I said, &ldquo;How do you feel?&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p30" class="">She stopped, looked up at me and, with tears in her eyes, and said, &ldquo;President, I feel clean for the first time in forty-two years.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p31" class="">A little publication put out by the Church states, &ldquo;When one has washed his robes in the blood of the Lamb, they are no longer soiled&rdquo; (Spencer W. Kimball, <span class="emphasis">A Letter to a Friend,</span> pamphlet, p. 23).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p32" class="">One day a woman came to my business office. She leaned across the desk and said, &ldquo;President, I have carried a transgression on my heart for thirty-four years that I cannot carry one more step in this life. I know how tender-hearted you are, and I wouldn&rsquo;t add one particle of a burden to your soul.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p33" class="">I said, &ldquo;My dear sister, before you go on, let me share with you a principle of the gospel. When you take a burden off your soul, it is lifted from the priesthood leader&rsquo;s soul also.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p34" class="">She said, &ldquo;I know I will be cast out; I know I will be excommunicated, but does it have to be forever? Thirty-four years ago, before my first husband and I were married, I was involved in an <a class="no-link-style" href="http://lds.org/liahona/2008/10/abortion-an-assault-on-the-defenseless?lang=eng">abortion</a>. Since that time, I have felt like a murderess. It was my husband&rsquo;s idea, and I did not resist. I had an abortion. Later we got married. He was unfaithful constantly during the first two years of our marriage. I finally divorced him and have since remarried a wonderful man who is a convert to the Church. He knows everything, and he still wants to be sealed to me. President, do you think that either in time or in eternity we can be sealed together? I know I will be cast out, but does it have to be forever?&rdquo; The tears flowed down her cheeks.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p35" class="">I had known this woman and thought she was one of the most Christlike women I had ever met. She always baked bread, rolls, or cookies for the people in the neighborhood. Whenever they had a ward party and the Relief Society sisters cleaned up, she always scrubbed the floor. She said that she didn&rsquo;t feel worthy to stand by them and do the dishes after what she had done; she only felt worthy to scrub the floor where they walked. She told me that she had never gossiped about anyone else. &ldquo;How could I,&rdquo; she said, &ldquo;after what I had done?&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p36" class="">I listened to her confession, humbled to tears, and told her, &ldquo;I have never had a case of abortion before. I will need to write to President Kimball, President of the Quorum of the Twelve, and get his counsel.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p37" class="">I wrote to President Kimball and shared the entire story. I told him she was one of the most Christlike women I had known and that she was willing to submit to any decision he would have for her. Two weeks later I received his response. I called the sister and asked her to meet me at the stake office as soon as she could. When I arrived at the stake center, she was already there. Her eyes were red, and she was pale. I know she must have been on her knees several times after my call, asking for mercy.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p38" class="">Again I sat across the desk from her and said, &ldquo;I do not want to keep you waiting one second longer. We are not even going to stop for prayer. Let me read you President Kimball&rsquo;s letter.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p39" class="">&ldquo;&lsquo;Dear President Featherstone: You inquired about a woman who had been involved in an abortion thirty-four years ago. From the way you describe her it sounds like she has long since repented. You may tell her on behalf of the Church she is forgiven.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p40" class="">&ldquo;&lsquo;After a thorough and searching interview, you may issue this sweet sister a temple recommend so she can go to the temple and be sealed to her present husband.&rsquo;&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p41" class="">If the Savior had been sitting where the woman sat, I would not have felt any closer to him. I believe that is exactly what he would have done. It was as though a two-thousand-pound burden had been lifted from the heart of this good woman. She wept great tears of relief and joy. To this day, I do not remember who the woman was.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p42" class="">President J. Reuben Clark, Jr., said, &ldquo;I feel that [the Savior] will give that punishment which is the very least that our transgression will justify. &hellip;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p43" class="">&ldquo;I believe that when it comes to making the rewards for our good conduct, he will give us the maximum that it is possible to give.&rdquo; (J. Reuben Clark, Jr., <span class="emphasis">&ldquo;As Ye Sow &hellip; ,&rdquo;</span> Brigham Young University Speeches of the Year, Provo, 3 May 1955, p. 7.) I, too, believe this with all my heart and soul.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p44" class="">In Exodus 32, <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> had gone up to the mountain. The children of Israel had fashioned a golden calf with a graving tool. The people offered burnt offerings, and they sat down to eat, drink, and play; and there was great wickedness when Moses came down out of the mountain. He cast the tablets out of his hands, and they were broken; he burned the golden calf and caused the idolaters to be slain.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p45" class="">Then, when the people had repented (and that is the key), Moses went back before the Lord and prayed, &ldquo;Yet now, if thou wilt forgive their sin&mdash;; and if not, blot me, I pray thee, out of thy book which thou hast written&rdquo; (<a href="http://lds.org/scriptures/ot/ex/32.32?lang=eng#31" onclick="newWindow(this.href); return false;">Ex. 32:32</a>).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p46" class="">I have listened to possibly a thousand major transgressions; and each time after a truly repentant transgressor has left my office, I have either knelt behind the desk or bowed my head in prayer and said, &ldquo;Lord, forgive him or her, I pray thee. If not, blot my name also out of thy book. I do not want to be where they aren&rsquo;t, for they are some of the most Christlike people I have ever met.&rdquo;</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p47" class="">Though their sins be as scarlet, they may become white as the driven snow (see <a href="http://lds.org/scriptures/ot/isa/1.18?lang=eng#17" onclick="newWindow(this.href); return false;">Isa. 1:18</a>), and the Lord has promised he would remember their sins no more (see <a href="http://lds.org/scriptures/dc-testament/dc/58.42?lang=eng#41" onclick="newWindow(this.href); return false;">D&amp;C 58:42</a>).</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p48" class="">Beloved, the Lord has provided every soul with a Christlike ecclesiastical leader who has been endowed with powers and keys from on high to be his agent in exercising forgiveness on behalf of the Church. I plead with you: if you have a major transgression on your heart that has not been confessed, go to your bishop. He will be filled with love and charity and will bless your life and take the burden of sin from your heart as a repentant soul in modern Israel.</p>
+			<p uri="/ensign/1980/11/forgive-them-i-pray-thee.p49" class="">I know that he, our Savior, loves us and that he is our Redeemer, our Atoner, and our Savior. In the name of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1980/11/feed-my-sheep?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1980/11/prepare-for-the-days-of-tribulation?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1980">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1980/11/forgive-them-i-pray-thee?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=%E2%80%9CForgive Them, I Pray Thee%E2%80%9D - Ensign Nov. 1980&amp;link=/ensign/1980/11/forgive-them-i-pray-thee&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1980%2F11%2Fforgive-them-i-pray-thee%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1980/11/forgive-them-i-pray-thee%3flang%3deng%26cid%3dfacebook-shared&amp;t=%e2%80%9cForgive+Them,+I+Pray+Thee%e2%80%9d+-+Ensign+Nov.+1980" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1980/11/forgive-them-i-pray-thee%3flang%3deng%26cid%3ddelicious-shared&amp;title=%e2%80%9cForgive+Them,+I+Pray+Thee%e2%80%9d+-+Ensign+Nov.+1980" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1980/11/forgive-them-i-pray-thee%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=%E2%80%9CForgive Them, I Pray Thee%E2%80%9D - Ensign Nov. 1980&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1980:11:&ldquo;forgive them, i pray thee&rdquo;";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

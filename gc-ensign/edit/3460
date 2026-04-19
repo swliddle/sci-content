@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Bishop&mdash;Center Stage in Welfare - Ensign Nov. 1980 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Bishop&mdash;Center Stage in Welfare - Ensign Nov. 1980"><meta name="KEYWORDS" content="charity,welfare"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Bishop&mdash;Center Stage in Welfare - Ensign Nov. 1980"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1980/11?lang=eng">Nov. 1980</a>
+                     </li><li>
+                        <span class="active">The Bishop&mdash;Center Stage in Welfare</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1980/11/is-any-thing-too-hard-for-the-lord?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1980/11/welfare-services-the-saviors-program?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Bishop&mdash;Center Stage in Welfare
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p3" class="">Elder Thomas S. Monson</p>
+				<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p" class="">Of the Quorum of the Twelve Apostles</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:296e.jpg" alt="Elder Thomas S. Monson">
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <span style="display: none" id="article-id">03128_000_039</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p4" class="">Long years ago, the Apostle Paul wrote an epistle to his beloved associate Timothy in which he spoke of the qualifications a bishop should possess. He began:</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p5" class="">&ldquo;This is a true saying, If a man desire the office of a bishop, he desireth a good work.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p6" class="">Today we might add, &ldquo;and a good workout!&rdquo; He continues:</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p7" class="">&ldquo;A bishop then must be blameless &hellip; vigilant, sober, of good behaviour, given to hospitality, apt to teach;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p8" class="">&ldquo;&hellip; not greedy of filthy lucre; but patient. &hellip;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p9" class="">&ldquo;Moreover he must have a good report of them which are without.&rdquo; (<a href="http://lds.org/scriptures/nt/1-tim/3.1-3,7?lang=eng#0" onclick="newWindow(this.href); return false;">1 Tim. 3:1&ndash;3, 7</a>.)</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p10" class="">These words burned into my soul when I read them as a newly called bishop thirty years ago. I was young&mdash;just twenty-two. The ward was large, with over 1,050 members, 87 of whom were widows. The welfare load was the heaviest of any ward in the entire Church.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p11" class="">The street addresses in that ward did not read like some: Colonial Hills Circle, Mountain View Estates, or Skyline Drive. Rather, they were noted as Orchard Place, Gale Street, Elford Court. The ward was not east of the tracks in Salt Lake City. It was not west of the tracks. That ward spanned the railroad tracks. Many of the widows and those in financial need were hidden away in basement apartments, upstairs back rooms, or dilapidated houses situated at the rear of little-known streets. I became the shepherd. This was my flock. I was reminded of God&rsquo;s warning through Ezekiel: &ldquo;Woe be to the shepherds of Israel that feed not my flock&rdquo; (see <a href="http://lds.org/scriptures/ot/ezek/34.2-3?lang=eng#1" onclick="newWindow(this.href); return false;">Ezek. 34:2&ndash;3</a>).</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p12" class="">My teachers were heaven-sent. May I mention but a few: our former stake president, Harold B. Lee; President Marion G. Romney; and President J. Reuben Clark.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p13" class="">Brother Lee attended our stake conference the year I was appointed as a bishop. Looking over the priesthood leadership congregation on Saturday evening, he stepped from the pulpit, called for a chalkboard, came down from the stand, stood among us, and, as the master teacher, taught us our duty. He drew five circles under the heading &ldquo;The Responsibilities of a Bishop.&rdquo; He then gave to each circle a designation such as &ldquo;The Father of the Ward,&rdquo; &ldquo;The President of the Aaronic Priesthood,&rdquo; &ldquo;The Common Judge in Israel,&rdquo; and then placed emphasis on the bishop&rsquo;s role in welfare. He cautioned us to seek after the poor, to care for them, and to do so in a spirit of love, kindness, and confidentiality.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p14" class="">Brother Romney was a frequent visitor to our stake and region. One evening he taught us the principle of faith by retelling the inspiring account of Elijah and the widow at Zarephath (see <a href="http://lds.org/scriptures/ot/1-kgs/17.8-16?lang=eng#7" onclick="newWindow(this.href); return false;">1 Kgs. 17:8&ndash;16</a>). He liken her circumstances to those of some widows in our area. As he taught welfare precepts from the handbook and responded to questions, one brother asked him, &ldquo;Brother Romney, why do you seem to know whatever&rsquo;s in that handbook?&rdquo; to which Brother Romney, with that twinkle in his eye and smile upon his lips, responded, &ldquo;I wrote it!&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p15" class="">President Clark too was a master teacher. It was my privilege during those years to assist him in the preparation of his manuscripts that they might find their way into printed volumes. What a unique and profitable experience to be with him frequently. Knowing that I was a new bishop presiding over a difficult ward, he emphasized the need for me to know my people, to understand their circumstances, and, in the spirit of tenderness, to minister to their needs. One day he recounted the example of the Savior as recorded in Luke, chapter seven, verses eleven through fifteen:</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p16" class="">&ldquo;And it came to pass &hellip; that he went into a city called Nain; and many of his disciples went with him. &hellip;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p17" class="">&ldquo;When he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow. &hellip;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p18" class="">&ldquo;And when the Lord saw her, he had compassion on her, and said unto her, Weep not.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p19" class="">&ldquo;And he came and touched the bier. &hellip; And he said, Young man, I say unto thee, Arise.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p20" class="">&ldquo;And he that was dead sat up, and began to speak. And he delivered him to his mother.&rdquo; [<a href="http://lds.org/scriptures/nt/luke/7.11-15?lang=eng#10" onclick="newWindow(this.href); return false;">Luke 7:11&ndash;15</a>]</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p21" class="">When President Clark closed the <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a>, I noticed that he was weeping. In a quiet voice he said, &ldquo;Tom, be kind to the widows, and look after the poor.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p22" class="">Our bishops today need the same instruction and counsel. Many are new. They hear from every side that this program or that requires emphasis. Theirs is a sacred trust. Frequently that which counts most is recorded least. The visit to the elderly, the blessing to the sick, the comfort to the weary, the food to the hungry may not be recorded here, but I am convinced that they are known above and that we are guided in such ministrations.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p23" class="">The dimensions of the bishop&rsquo;s welfare role are many. He is aided by his counselors, priesthood quorum leaders, and, of course, the ward Relief Society presidency. Perhaps a review would be helpful.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p24" class="">First, <span class="emphasis">prevention.</span> Paramount is the responsibility to coordinate personal and <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> preparedness efforts, including food storage. Also to be emphasized is the continuing need to insure that gainful employment is had by heads of families. Beyond this effort is the desirability to upgrade employment for those who may be underemployed. Such a duty involves the encouragement of wage earners to become skilled, that they will not be the last to be hired or the first to be fired.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p25" class="">Second, <span class="emphasis">production.</span> Participation on ward and stake welfare projects is a vital concern. Though times change, fields yet need to be plowed, crops to be thinned, buildings to be built, and storehouses to be filled.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p26" class="">I am grateful I learned to top sugar beets on our stake welfare farm. I am also grateful that we do not have to top beets in the same way today. That farm was not situated in a fertile belt of land but rather in the area of today&rsquo;s industrial section of Salt Lake City. I testify, however, that when put to this sacred service, the soil was sanctified, the harvest blessed, and faith rewarded.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p27" class="">Third, <span class="emphasis">processing.</span> Oh, the joy of harvest time! Picture the scene of ward members canning peaches, sorting eggs, or cleaning vegetables, all for the use of those who are in need. Brows are sweat-lined, clothing is soiled, bodies are tired&mdash;but human souls are refreshed and lifted towards heaven.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p28" class="">Fourth, <span class="emphasis">storage.</span> The Lord in the revelations spoke frequently of his storehouses. On one occasion he counseled, &ldquo;The storehouse shall be kept by the consecrations of the church; and widows and orphans shall be provided for, as also the poor&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/83.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 83:6</a>). I am happy that over the entrance to our storehouses are the words <span class="emphasis">Bishops&rsquo; Storehouse!</span> Those who labor therein are recommended and sent by their respective bishops. Within such buildings there is found an atmosphere of love, of respect, and, indeed, of reverence. I am inspired each time I visit such a storehouse. There is no steeple or spire, no carpeted floors or stained-glass windows, but here is found the spirit of the Lord.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p29" class="">Fifth, <span class="emphasis">distribution.</span> This is where the bishop&rsquo;s judgment is most severely tested. He cannot shirk this God-given responsibility. President J. Reuben Clark, Jr., summarized the bishop&rsquo;s role in welfare services: He &ldquo;is &lsquo;to administer all temporal things&rsquo; &hellip; ; in his calling he is to &lsquo;administer to the &hellip; poor and needy&rsquo;; he is to search &lsquo;after the poor to administer to their wants&rsquo; [see <a href="http://lds.org/scriptures/dc-testament/dc/107.68?lang=eng#67" onclick="newWindow(this.href); return false;">D&amp;C 107:68</a>, <a href="http://lds.org/scriptures/dc-testament/dc/42.34?lang=eng#33" onclick="newWindow(this.href); return false;">D&amp;C 42:34</a>, <a href="http://lds.org/scriptures/dc-testament/dc/84.112?lang=eng#111" onclick="newWindow(this.href); return false;">D&amp;C 84:112</a>]. &hellip;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p30" class="">&ldquo;Thus to the bishop is given all the powers, and responsibilities which the Lord has specifically prescribed in the Doctrine and Covenants for the caring of the poor. &hellip; No one else is charged with this duty and responsibility, no one else is endowed with the power and functions necessary for this work.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p31" class="">&ldquo;Thus, &lsquo;by the word of the Lord the sole mandate to care for and the sole discretion in caring for, the poor of the Church is lodged in the bishop.&rsquo; &hellip; &lsquo;It is his duty and his only to determine to whom, when, how, and how much shall be given to any member of his ward from Church funds and as ward help.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p32" class="">&ldquo;&lsquo;This is his high and solemn obligation, imposed by the Lord Himself. The bishop cannot escape this duty; he cannot shirk it; he cannot pass it on to someone else, and so relieve himself. Whatever help he calls in, he is still responsible.&rsquo;&rdquo; (Unpublished article, Church Historical Department, Salt Lake City, 9 July 1941, pp. 3&ndash;4.)</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p33" class="">Every bishop needs a sacred grove to which he can retire to meditate and to pray for guidance. Mine was our old ward chapel. I could not begin to count the occasions when on a dark night at a late hour I would make my way to the stand of this building where I was blessed, confirmed, ordained, taught, and eventually called to preside. The chapel was dimly lighted by the street light in front; not a sound would be heard, no intruder to disturb. With my hand on the pulpit I would kneel and share with Him above my thoughts, my concerns, my problems.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p34" class="">On one occasion, a year of drought, the commodities at the storehouse had not been their usual quality, nor had they been found in abundance. Many products were missing, especially fresh fruit. My prayer that night is sacred to me. I pleaded that these widows were the finest women I knew in mortality, that their needs were simple and conservative, that they had no resources on which they might rely. The next morning I received a call from a ward member, a proprietor of a produce business. &ldquo;Bishop,&rdquo; he said, &ldquo;I would like to send a semitrailer filled with oranges, grapefruit, and bananas to the bishops&rsquo; storehouse to be given to those in need. Could you make arrangements?&rdquo; Could I make arrangements! The storehouse was alerted. Then each bishop was telephoned and the entire shipment distributed. Bishop Jesse M. Drury, that beloved welfare pioneer and storekeeper, said he had never witnessed a day like it before. He described the occasion with one word&mdash;&ldquo;Wonderful!&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p35" class="">Other experiences may not be so dramatic but are nevertheless real and heartwarming. I recall an elderly couple whose frame home, situated at the end of a dirt lane, had not seen a coat of paint for too many years. These were neat and tidy people; they were concerned about the appearance of their small house. In a moment of inspiration I called, not upon the elders quorum or upon volunteers to wield paint brushes, but rather, following the welfare handbook, upon the family members who lived in other areas. Four sons-in-law and four daughters took brushes in hand and participated in the project. The paint had been provided by a dealer located in our area. The result was a transformation not only of the house but of the family. The children determined how they might best help mother and dad in their old age. They did so voluntarily and with gladness of heart. A house was painted, a family united, and respect preserved.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p36" class="">Fortunately, the blessings the <a class="no-link-style" href="http://www.providentliving.org/">welfare program</a> provides are not received by the bishop alone. Rather, all who participate can share and share abundantly.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p37" class="">On a cold winter&rsquo;s night in 1951 there was a knock at my door, and a German brother from Ogden, Utah, announced himself and said, &ldquo;Are you Bishop Monson?&rdquo; I answered in the affirmative. He began to weep and said, &ldquo;My brother and his wife and family are coming here from Germany. They are going to live in your ward. Will you come with us to see the apartment we have rented for them?&rdquo; On the way to the apartment, he told me he had not seen his brother for many years. Yet all through the holocaust of World War II, his brother had been faithful to the Church, serving as a branch president before the war took him to the Russian front.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p38" class="">I looked at the apartment. It was cold and dreary. The paint was peeling, the wallpaper soiled, the cupboards empty. A forty-watt bulb hanging from the living room ceiling revealed a linoleum floor covering with a large hole in the center. I was heartsick. I thought, &ldquo;What a dismal welcome for a family which has endured so much.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p39" class="">My thoughts were interrupted by the brother&rsquo;s statement, &ldquo;It isn&rsquo;t much, but it&rsquo;s better than they have in Germany.&rdquo; With that, the key was left with me, along with the information that the family would arrive in Salt Lake City in three weeks&mdash;just two days before Christmas.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p40" class="">Sleep was slow in coming to me that night. The next morning was Sunday. In our ward welfare committee meeting, one of my counselors said, &ldquo;Bishop, you look worried. Is something wrong?&rdquo; I recounted to those present my experience of the night before, the details of the uninviting apartment. There were a few moments of silence. Then the group leader of the high priests said, &ldquo;Bishop, did you say that apartment was inadequately lighted and that the kitchen appliances were in need of replacement?&rdquo; I answered in the affirmative. He continued, &ldquo;I am an electrical contractor. Would you permit the high priests of this ward to rewire that apartment? I would also like to invite my suppliers to contribute a new stove and a new refrigerator. Do I have your permission?&rdquo; I answered with a glad &ldquo;Certainly.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p41" class="">Then the seventies president responded: &ldquo;Bishop, as you know I&rsquo;m in the carpet business. I would like to invite my suppliers to contribute some carpet, and the seventies can easily lay it and eliminate that worn linoleum.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p42" class="">Then the president of the elders quorum spoke up. He was a painting contractor. He said, &ldquo;I&rsquo;ll furnish the paint. May the elders paint and wallpaper that apartment?&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p43" class="">The Relief Society president was next to speak: &ldquo;We in the Relief Society cannot stand the thought of empty cupboards. May we fill them?&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p44" class="">The next three weeks are ever to be remembered. It seemed that the entire ward joined in the project. The days passed, and at the appointed time the family arrived from Germany. Again at my door stood the brother from Ogden. With an emotion-filled voice, he introduced to me his brother, wife, and their family. Then he asked, &ldquo;Could we go visit the apartment?&rdquo; As we walked up the staircase to the apartment, he repeated, &ldquo;It isn&rsquo;t much, but it&rsquo;s more than they have had in Germany.&rdquo; Little did he know what a transformation had taken place, that many who participated were inside waiting for our arrival.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p45" class="">The door opened to reveal a literal newness of life. We were greeted by the aroma of freshly painted woodwork and newly papered walls. Gone was the forty-watt bulb, along with the worn linoleum it had illuminated. We stepped on carpet deep and beautiful. A walk to the kitchen presented to our view a new stove and refrigerator. The cupboard doors were still open; however, they now revealed that every shelf was filled with food. The Relief Society as usual had done its work.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p46" class="">In the living room we began to sing Christmas hymns. We sang &ldquo;Silent night! Holy night! All is calm; all is bright.&rdquo; (<span class="emphasis">Hymns,</span> no. 160.) We sang in English; they sang in German. At the conclusion, the father, realizing that all of this was his, took me by the hand to express his thanks. His emotion was too great. He buried his head in my shoulder and repeated the words, &ldquo;Mein Bruder, mein Bruder, mein Bruder.&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p47" class="">As we walked down the stairs and out into the night air, it was snowing. Not a word was spoken. Then a young girl asked, &ldquo;Bishop, I feel better inside than I have ever felt before. Can you tell me why?&rdquo;</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p48" class="">I responded with the words of the Master: &ldquo;Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me&rdquo; (<a href="http://lds.org/scriptures/nt/matt/25.40?lang=eng#39" onclick="newWindow(this.href); return false;">Matt. 25:40</a>). Suddenly there came to mind the words from &ldquo;O Little Town of Bethlehem&rdquo;:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">How silently, how silently,</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">The wondrous gift is given!</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">So God imparts to human hearts</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">The blessings of his heaven.</span>
+	  </div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">No ear may hear his coming;</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">But in this world of sin,</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">Where meek souls will receive him, still</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">The dear <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> enters in.</span>
+	  </div>
+				</div>
+				<div class="citationInfo" id="">
+					<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p57" class="">(<span class="emphasis">Hymns,</span> no. 165.)</p>
+				</div>
+			</div>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p58" class="">The poet said, &ldquo;God gave his children memory, that in life&rsquo;s garden there might be June roses in December&rdquo; (C. Anketall Studdert-Kennedy, &ldquo;Roses in December,&rdquo; in <span class="emphasis">The Best Loved Poems of the American People.</span> sel. Hazel Felleman, Garden City, N.Y.: Garden City Publishing Co., 1936, p. 363). In my garden of memories no rose is more beautiful or fragrant than the rose brought to bloom by my participation in the welfare effort.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p59" class="">May our Heavenly Father ever bless our bishops in their sacred welfare responsibilities. Such duties are God-given. They were authored in heaven to bless in our day those who stand in need.</p>
+			<p uri="/ensign/1980/11/the-bishop-center-stage-in-welfare.p60" class="">In the name of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1980/11/is-any-thing-too-hard-for-the-lord?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1980/11/welfare-services-the-saviors-program?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1980">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1980/11/the-bishop-center-stage-in-welfare?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Bishop%E2%80%94Center Stage in Welfare - Ensign Nov. 1980&amp;link=/ensign/1980/11/the-bishop-center-stage-in-welfare&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1980%2F11%2Fthe-bishop-center-stage-in-welfare%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Bishop%e2%80%94Center+Stage+in+Welfare+-+Ensign+Nov.+1980" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Bishop%e2%80%94Center+Stage+in+Welfare+-+Ensign+Nov.+1980" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1980/11/the-bishop-center-stage-in-welfare%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Bishop%E2%80%94Center Stage in Welfare - Ensign Nov. 1980&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1980:11:the bishop&mdash;center stage in welfare";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Windows of Heaven - Ensign Nov. 2013 - ensign</title>
+        <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="TITLE" content="The Windows of Heaven - Ensign Nov. 2013"><meta name="KEYWORDS" content="blessings,tithing"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!---->
+        <meta property="og:title" content="The Windows of Heaven - Ensign Nov. 2013"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven?lang=eng"><meta id="og-image" property="og:image" content="http://www.lds.org/bc/content/shared/content/images/leaders/david-a-bednar-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="shortcut icon" href="//edge.ldscdn.org/images/logos/favicon-lds-1.ico"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform2.css" class="pf-fix-me"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/lds-old.css" class="pf-fix-me"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.7.1/jquery.min.js">&nbsp;</script><script src="//edge.ldscdn.org/ml/ldsorg/script/common/lds.js">&nbsp;</script>
+        <link rel="canonical" href="http://www.lds.org/general-conference/2013/10/the-windows-of-heaven?lang=eng">
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/article.css">
+        
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+		<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/common/video.css"><script type="text/javascript" src="/resources/script/common/swfobject.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/youTubeLoader.js">&nbsp;</script><script type="text/javascript">
+        var flashvars = {
+                xmlSource: unescape("/resources/video/xml/10711_000_009/eng?lang=eng")
+                
+            };
+        var params = {
+            menu: "false",
+            allowScriptAccess: "always",
+            scale: "noscale",
+            allowFullScreen: "true",
+            wmode: "opaque"
+        };
+        // set up expressinstall.swf
+        swfobject.embedSWF("/resources/swf/ldsUniversalPlayer.swf", "ldsUniversalPlayer", "480", "270", "10.0.0", "http://www.ldsavd.org/ldsUniversalPlayer/swf/expressInstall.swf", flashvars, params);
+
+        //init the youTubeLoader javascript methods
+        SWFID = "ldsUniversalPlayer"
+
+        // Call to Flash Player/ActionScript
+        function getFlashMovie(ldsUniversalPlayer) {
+            var isIE = navigator.appName.indexOf("Microsoft") != -1;
+            return (isIE) ? window[ldsUniversalPlayer] : document[ldsUniversalPlayer];
+        }
+        function callToActionscript()
+        {
+            try {
+                getFlashMovie("ldsUniversalPlayer").sendToActionscript();
+            } catch (e) { };
+        }
+
+        // Dimmer Functions
+        function lightsOff()
+        {
+            document.getElementById('fade').style.display='block';
+        }
+        function lightsOn()
+        {
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+
+    </head>
+
+    <body class="tmpl-default-lds-article pf-responsive  narrow study-theme ">
+        <div id="platform">
+            <!--[if lte IE 8]><script src="//edge.ldscdn.org/scripts/other/html5shiv/html5shiv.3.5.min.js"></script><script src="//edge.ldscdn.org/scripts/other/respond/respond1.1.0-2.js"></script><script src="//edge.ldscdn.org/scripts/other/selectivizr/selectivizr1.0.3b-lds1.min.js"></script><link href="//edge.ldscdn.org/scripts/other/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" /><link href="/resources/images/common/1x1.gif" id="respond-redirect" rel="respond-redirect" /><script src="//edge.ldscdn.org/scripts/other/respond/respond.proxy.lds1.js"></script><![endif]--><a href="#platform-canvas-content" class="pf-offscreen">Skip main navigation</a><header class="pf-header" role="banner"><div class="pf-logo"><a href="//www.lds.org/?lang=eng" onClick="s.tl(this, o, 'Header: Church Logo');"><img src="//edge.ldscdn.org/images/lang/english/logos/white-1.png" alt="The Church of Jesus Christ of Latter-day Saints"></a></div><nav class="pf-nav" role="navigation"><div class="pf-top"><ul><li class="pf-language"><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li id="pf-auth"><a href="#pf-personal-links" class="pf-popup pf-icon-signin" aria-haspopup="true" aria-owns="pf-personal-links"><span id="pf-signin">Sign In</span>/Tools</a><div id="pf-personal-links" class="pf-flyout"><ul id="pf-personal"><li><a id="pf-signin-button" href="#d" class="pf-button">Sign In</a></li><li><a href="https://lds.org/study-tools/folders">Notes and Journal</a></li><li><a href="//www.lds.org/maps/?lang=eng">Maps</a></li><li><a href="https://lds.org/directory">Directory</a></li><li><a href="https://lds.org/church-calendar">Calendar</a></li><li><a href="https://apps.lds.org/pbrequest/landing">Patriarchal Blessing</a></li><li><a href="//www.lds.org/pages/mobileapps?lang=eng">Mobile Applications</a></li><li><a href="//www.lds.org/tools?lang=eng">All Tools</a></li><li><a href="https://lds.org/member-news">Newsletter</a></li><li><a href="https://lds.org/lesson">Lesson Schedules</a></li><li id="pf-tools-for-calling"></li><li style="display:none;" class="pf-signout"><a id="pf-signout-button" href="#d">Sign Out</a></li></ul></div></li></ul></div><div class="pf-joshua"><h2><a href="#pf-joshua" class="pf-icon-menu pf-popup" aria-haspopup="true" aria-owns="pf-joshua">Site Menu</a></h2><ul id="pf-joshua"><li id="scriptures"><h3><a href="#pf-scriptures" class="pf-popup" aria-haspopup="true" aria-owns="pf-scriptures">Scriptures</a></h3><div class="pf-flyout pf-col2" id="pf-scriptures"><div style="position:relative; clear:both; overflow:hidden;"><ul class="pf-col"><li><a href="//www.lds.org/scriptures/bible?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Holy Bible');">Holy Bible</a></li><li><a href="//www.lds.org/scriptures/bofm?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Book of Mormon');">Book of Mormon</a></li><li><a href="//www.lds.org/scriptures/dc-testament?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Doctrine and Covenants');">Doctrine and Covenants</a></li><li><a href="//www.lds.org/scriptures/pgp?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Pearl of Great Price');">Pearl of Great Price</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/scriptures/new-edition?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: 2013 Edition of the Scriptures');">2013 Edition of the Scriptures</a></li><li><a href="//www.lds.org/scriptures/study-helps?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Study Helps');">Study Helps</a></li><li><a href="//www.lds.org/bible-videos?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Bible Videos');">Bible Videos</a></li><li><a href="//www.lds.org/scriptures/formats?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Formats and Downloads');">Formats and Downloads</a></li></ul></div><div class="pf-scriptures-search-wrapper"><form action="/scriptures/search" method="get" accept-charset="utf-8" class="pf-scriptures-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><input type="hidden" name="lang" value="eng"><fieldset><label for="pf-scriptures-search" class="pf-search-label pf-icon-search">Search:
+                </label><div><input type="text" class="pf-search" id="pf-scriptures-search" autocomplete="off" placeholder="Search by Keyword or Reference" name="query"><input type="submit" class="pf-submit" value="?"></div></fieldset></form></div></div></li><li id="teachings"><h3><a href="#pf-teachings" class="pf-popup" aria-haspopup="true" aria-owns="pf-teachings">Teachings</a></h3><div class="pf-flyout pf-col2" id="pf-teachings"><ul class="pf-col"><li><a href="//www.lds.org/prophets-and-apostles/first-presidency-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: First Presidency Message');">First Presidency Message</a></li><li><a href="//www.lds.org/prophets-and-apostles?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Prophets and Apostles');">Prophets and Apostles</a></li><li><a href="//www.lds.org/general-conference?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: General Conference');">General Conference</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/topics?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Gospel Topics');">Gospel Topics</a></li><li><a href="//www.lds.org/daily-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Daily Messages');">Daily Messages</a></li><li><a href="//www.lds.org/broadcasts?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Broadcasts');">Broadcasts</a></li><li><a href="//www.lds.org/church/leaders?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Church Leadership');">Church Leadership</a></li></ul></div></li><li id="resources2"><h3><a href="#pf-resources2" class="pf-popup" aria-haspopup="true" aria-owns="pf-resources2">Resources</a></h3><div class="pf-flyout pf-col3" id="pf-resources2"><div class="pf-col"><h4>Family</h4><ul><li><a href="//www.lds.org/church/temples?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Temples');">Temples</a></li><li><a href="//www.lds.org/topics/family-history?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Family History');">Family History</a></li><li><a href="//www.lds.org/topics/family?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Home and Family');">Home and Family</a></li><li><a href="//www.lds.org/topics/marriage?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Marriage');">Marriage</a></li><li><a href="//www.lds.org/friend?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Children');">Children</a></li><li><a href="//www.lds.org/youth?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Youth');">Youth</a></li><li><a href="//www.lds.org/topics/welfare?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Welfare');">Welfare</a></li></ul></div><div class="pf-col"><h4>Callings</h4><ul><li><a href="//www.lds.org/callings/leadership-and-teaching?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Leadership and Teaching');">Leadership and Teaching</a></li><li><a href="//www.lds.org/callings/melchizedek-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Melchizedek Priesthood');">Melchizedek Priesthood</a></li><li><a href="//www.lds.org/callings/aaronic-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Aaronic Priesthood');">Aaronic Priesthood</a></li><li><a href="//www.lds.org/callings/relief-society?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Relief Society');">Relief Society</a></li><li><a href="//www.lds.org/callings/young-women?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Young Women');">Young Women</a></li><li><a href="//www.lds.org/callings/primary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Primary');">Primary</a></li><li><a href="//www.lds.org/callings/sunday-school?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sunday School');">Sunday School</a></li><li><a href="//www.lds.org/callings/missionary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Missionary');">Missionary</a></li><li><a href="//www.lds.org/callings/seminary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Seminaries and Institutes');">Seminaries and Institutes</a></li><li><a href="//www.lds.org/callings?lang=eng" onClick="s.tl(this, o, 'Header: Resources: All Callings');">All Callings</a></li></ul></div><div class="pf-col"><h4>General</h4><ul><li><a href="//www.lds.org/magazines-and-manuals?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Magazines and Manuals');">Magazines and Manuals</a></li><li><a href="//www.lds.org/media-library?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Video, Audio, and Images');">Video, Audio, and Images</a></li><li><a href="https://history.lds.org" onClick="s.tl(this, o, 'Header: Resources: Church History');">Church History</a></li><li><a href="//www.lds.org/music?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Music');">Music</a></li><li><a href="http://store.lds.org" onClick="s.tl(this, o, 'Header: Resources: Order Church Materials');">Order Church Materials</a></li><li><a href="//www.lds.org/locations?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Locations and Schedules');">Locations and Schedules</a></li><li><a href="//www.lds.org/topics/service?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Service Opportunities');">Service Opportunities</a></li><li><a href="//www.lds.org/church/share?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sharing the Gospel');">Sharing the Gospel</a></li></ul></div></div></li><li id="news"><h3><a href="#pf-news" class="pf-popup" aria-haspopup="true" aria-owns="pf-news">News</a></h3><div class="pf-flyout pf-col1" id="pf-news"><ul class="pf-col"><li><a href="//www.lds.org/church/news?lang=eng" onClick="s.tl(this, o, 'Header: News: Church News and Events');">Church News and Events</a></li><li><a href="//www.lds.org/languages/mormonnewsroom?lang=eng" onClick="s.tl(this, o, 'Header: News: For News Media');">For News Media</a></li></ul></div></li></ul></div><form action="//www.lds.org/search" method="get" accept-charset="utf-8" class="pf-global-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><fieldset><label for="pf-global-search" class="pf-popup pf-search-label pf-icon-search" data-href="#pf-search-inputs">Search:
+										</label><div class="pf-search-inputs" id="pf-search-inputs"><input type="hidden" name="lang" value="eng"><input type="text" class="pf-search" id="pf-global-search" autocomplete="off" placeholder="Search Church sites" name="query"><input type="submit" class="pf-submit" value="?" aria-label="Search"></div></fieldset></form></nav></header><!--[if lte IE 7]><div class="pf-browser-alert"><p><strong>Attention</strong>:This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or install another <a href="http://www.lds.org/resources/upgrade?lang=eng">Web Browser</a>.</p></div><![endif]--><script type="text/javascript">var cdnPath = "//edge.ldscdn.org";</script>
+            <!-- end #platform-header -->
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://www.lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/liahona/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/liahona/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/liahona/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message </a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class="active"><a href="http://www.lds.org/ensign/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/ensign/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/ensign/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message</a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/new-era/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/new-era/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/new-era/call-for-submissions?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://www.lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/friend/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/friend/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/activities?lang=eng">Games and Activities</a></li><li class=""><a href="http://www.lds.org/children/resources/type/music-resources?lang=eng">Music in the Friend</a></li><li class=""><a href="http://www.lds.org/children/resources?lang=eng">Teaching Resources</a></li><li class=""><a href="http://www.lds.org/friend/one-in-a-million?lang=eng">One in a Million</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos/scripture-stories?lang=eng">Scripture Stories</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos?lang=eng">Videos</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21174_-1___#tab2">Subscribe</a></li><li class=""><a href="http://www.lds.org/search?collection=magazines&amp;lang=eng">Search</a></li><h1></h1></ul>
+        </div>
+                <!-- end #section-nav -->
+                <div id="platform-canvas-content" role="main" class="">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                        <a href="#" class="home">Home</a><ul><li><a href="http://www.lds.org/?lang=eng">LDS.org</a></li><li><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://www.lds.org/ensign?lang=eng">Ensign</a></li></ul>
+                    </li><li>
+                        <a href="http://www.lds.org/ensign/2013/11?lang=eng">Nov. 2013</a>
+                     </li><li>
+                        <span class="active">The Windows of Heaven</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/look-ahead-and-believe?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us?lang=eng">Next</a></li></ul>
+                            
+                            <h1>
+                            The Windows of Heaven
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://www.lds.org/church/leader/david-a-bednar?lang=eng" rel="author"><div class="byline" id="">
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p2" class="">By Elder David&nbsp;A. Bednar</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p3" class="">Of the Quorum of the Twelve Apostles</p>
+				</div></a>
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+
+                        <div id="primary">
+                            <div id="audio-player"></div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://www.lds.org/church/leader/david-a-bednar?lang=eng">
+                                                                <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/david-a-bednar-10.jpg" alt="David A. Bednar" class="img-decor">
+                                                            </a>
+
+                                        <div class="kicker" id="">Spiritual and temporal blessings come into our lives as we live the law of tithing.</div>
+                                        
+
+                                    </blockquote>
+                            
+                            
+                            <span style="display: none" id="article-id">10711_000_009</span>
+				<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p5" class="">I want to describe two important lessons I have learned about the law of <a class="no-link-style" href="http://lds.org/study/topics/tithing?lang=eng">tithing</a>. The first lesson focuses upon the blessings that come to individuals and families as they faithfully obey this commandment. The second lesson emphasizes the importance of tithing in the growth of The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints in all of the world. I pray the <a class="no-link-style" href="http://lds.org/study/topics/holy-ghost?lang=eng">Holy Ghost</a> will confirm to each of us the truthfulness of the principles I discuss.</p>
+				<div class="topic">
+					<h2>Lesson Number 1&mdash;Significant but Subtle Blessings</h2>
+					<span class="story">
+						<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p7" class="">Sister Bednar&rsquo;s mother is a faithful woman and an inspired homemaker. From the earliest days of her marriage, she carefully has kept the household financial records. For decades she has accounted conscientiously for the <a class="no-link-style" href="http://mormon.org/family">family</a> income and expenditures using very simple ledgers. The information she has collected over the years is comprehensive and informative.</p>
+						<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p8" class="">When Sister Bednar was a young woman, her mother used the data in the ledgers to emphasize basic principles of provident living and prudent home management. One day as they reviewed together various categories of expenses, her mother noted an interesting pattern. The costs for doctor visits and medicines for their family were far lower than might have been expected. She then related this finding to the gospel of Jesus Christ and explained to her daughter a powerful truth: as we live the law of tithing, we often receive significant but subtle blessings that are not always what we expect and easily can be overlooked. The family had not received any sudden or obvious additions to the household income. Instead, a loving Heavenly Father had bestowed simple blessings in seemingly ordinary ways. Sister Bednar always has remembered this important lesson from her mother about the help that comes to us through the windows of heaven, as promised by Malachi in the Old Testament (see <a href="http://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9" onclick="newWindow(this.href); return false;">Malachi 3:10</a>).</p>
+					</span>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p9" class="">Often as we teach and testify about the law of tithing, we emphasize the immediate, dramatic, and readily recognizable temporal blessings that we receive. And surely such blessings do occur. Yet some of the diverse blessings we obtain as we are obedient to this commandment are significant but subtle. Such blessings can be discerned only if we are both spiritually attentive and observant (see <a href="http://www.lds.org/scriptures/nt/1-cor/2.14?lang=eng#13" onclick="newWindow(this.href); return false;">1&nbsp;Corinthians 2:14</a>).</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p10" class="">The imagery of the &ldquo;windows&rdquo; of heaven used by Malachi is most instructive. Windows allow natural light to enter into a building. In like manner, spiritual illumination and perspective are poured out through the windows of heaven and into our lives as we honor the law of tithing.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p11" class="">For example, a subtle but significant blessing we receive is the spiritual gift of <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> that enables our appreciation for what we have to constrain desires for what we want. A grateful person is rich in contentment. An ungrateful person suffers in the poverty of endless discontentment (see <a href="http://www.lds.org/scriptures/nt/luke/12.15?lang=eng#14" onclick="newWindow(this.href); return false;">Luke 12:15</a>).</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p12" class="">We may need and pray for help to find suitable employment. Eyes and ears of faith (see <a href="http://www.lds.org/scriptures/bofm/ether/12.19?lang=eng#18" onclick="newWindow(this.href); return false;">Ether 12:19</a>) are needed, however, to recognize the spiritual gift of enhanced discernment that can empower us to identify job opportunities that many other people might overlook&mdash;or the blessing of greater personal determination to search harder and longer for a position than other people may be able or willing to do. We might want and expect a job offer, but the blessing that comes to us through heavenly windows may be greater capacity to act and change our own circumstances rather than expecting our circumstances to be changed by someone or something else.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p13" class="">We may appropriately desire and work to receive a pay raise in our employment to better provide the necessities of life. Eyes and ears of faith are required, however, to notice in us an increased spiritual and temporal capacity (see <a href="http://www.lds.org/scriptures/nt/luke/2.52?lang=eng#51" onclick="newWindow(this.href); return false;">Luke 2:52</a>) to do more with less, a keener ability to prioritize and simplify, and an enhanced ability to take proper care of the material possessions we already have acquired. We might want and expect a larger paycheck, but the blessing that comes to us through heavenly windows may be greater capacity to change our own circumstances rather than expecting our circumstances to be changed by someone or something else.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p14" class="">The stripling warriors in the <a class="no-link-style" href="http://mormon.org/book-of-mormon">Book of Mormon</a> (see <a href="http://www.lds.org/scriptures/bofm/alma/53?lang=eng" onclick="newWindow(this.href); return false;">Alma 53</a>, <a href="http://www.lds.org/scriptures/bofm/alma/56.1-57?lang=eng#0" onclick="newWindow(this.href); return false;">Alma 56</a>, <a href="http://www.lds.org/scriptures/bofm/alma/57.1-36?lang=eng#0" onclick="newWindow(this.href); return false;">Alma 57</a>, and <a href="http://www.lds.org/scriptures/bofm/alma/58.1-41?lang=eng#0" onclick="newWindow(this.href); return false;">Alma 58</a>) prayed earnestly that God would strengthen and deliver them out of the hands of their enemies. Interestingly, the answers to these prayers did not produce additional weapons or an increased number of troops. Instead, God granted these faithful warriors assurance that He would deliver them, peace to their souls, and great faith and hope for their deliverance in Him (see <a href="http://www.lds.org/scriptures/bofm/alma/58.11?lang=eng#10" onclick="newWindow(this.href); return false;">Alma 58:11</a>). Thus, the sons of Helaman did take courage, were fixed with a determination to conquer, and did go forth with all of their might against the Lamanites (see <a href="http://www.lds.org/scriptures/bofm/alma/58.12-13?lang=eng#11" onclick="newWindow(this.href); return false;">Alma 58:12&ndash;13</a>). Assurance, peace, faith, and hope initially might not seem like the blessings warriors in battle might want, but they were precisely the blessings these valiant young men needed to press forward and prevail physically and spiritually.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p15" class="">Sometimes we may ask God for success, and He gives us physical and mental stamina. We might plead for prosperity, and we receive enlarged perspective and increased patience, or we petition for growth and are blessed with the gift of grace. He may bestow upon us conviction and confidence as we strive to achieve worthy goals. And when we plead for relief from physical, mental, and spiritual difficulties, He may increase our resolve and resilience.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p16" class="">I promise that as you and I observe and keep the law of tithing, indeed the windows of heaven will be opened and spiritual and temporal blessings will be poured out such that there shall not be room enough to receive them (see <a href="http://www.lds.org/scriptures/ot/mal/3.10?lang=eng#9" onclick="newWindow(this.href); return false;">Malachi 3:10</a>). We also will remember the Lord&rsquo;s declaration:</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p17" class="">&ldquo;For my thoughts are not your thoughts, neither are your ways my ways, saith the Lord.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p18" class="">&ldquo;For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts&rdquo; (<a href="http://www.lds.org/scriptures/ot/isa/55.8-9?lang=eng#7" onclick="newWindow(this.href); return false;">Isaiah 55:8&ndash;9</a>).</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p19" class="">I testify that as we are spiritually attentive and observant, we will be blessed with eyes that see more clearly, ears that hear more consistently, and hearts that understand more fully the significance and subtlety of His ways, His thoughts, and His blessings in our lives.</p>
+				</div>
+				<div class="topic">
+					<h2>Lesson Number 2&mdash;the Simplicity of the Lord&rsquo;s Way</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p21" class="">Before my call to serve as a member of the Quorum of the Twelve, I read many times in the <a class="no-link-style" href="http://lds.org/study/topics/doctrine-and-covenants?lang=eng">Doctrine and Covenants</a> about the council appointed to oversee and disburse sacred tithing funds. The Council on the Disposition of the Tithes was established by revelation and consists of the First Presidency, the Quorum of the Twelve Apostles, and the Presiding Bishopric (see <a href="http://www.lds.org/scriptures/dc-testament/dc/120?lang=eng" onclick="newWindow(this.href); return false;">D&amp;C 120</a>). As I prepared in December of 2004 to attend my first meeting of this council, I eagerly anticipated a most remarkable learning opportunity.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p22" class="">I still remember the things I experienced and felt in that council. I gained a greater appreciation and reverence for the Lord&rsquo;s laws of finance for individuals, for families, and for His Church. The basic financial program of The Church of Jesus Christ of Latter-day Saints&mdash;for both income and disbursement&mdash;is defined in sections 119 [<a href="http://www.lds.org/scriptures/dc-testament/dc/119.1-7?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 119</a>] and 120 [<a href="http://www.lds.org/scriptures/dc-testament/dc/120.1?lang=eng" onclick="newWindow(this.href); return false;">D&amp;C 120</a>] of the Doctrine and Covenants. Two statements found in these revelations provide the foundation for the fiscal affairs of the Church.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p23" class="">Section 119 simply states that all members &ldquo;shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, &hellip; saith the Lord&rdquo; (<a href="http://www.lds.org/scriptures/dc-testament/dc/119.4?lang=eng#3" onclick="newWindow(this.href); return false;">verse&nbsp;4</a>).</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p24" class="">Then, concerning the authorized disbursement of the tithes, the Lord said, &ldquo;It shall be disposed of by a council, composed of the First Presidency of my Church, and of the bishop and his council, and by my high council; and by mine own voice unto them, saith the Lord&rdquo; (<a href="http://www.lds.org/scriptures/dc-testament/dc/120.1?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 120:1</a>). The &ldquo;bishop and his council&rdquo; and &ldquo;my high council&rdquo; referred to in this revelation are known today as the Presiding Bishopric and the Quorum of the Twelve Apostles, respectively. These sacred funds are used in a rapidly growing church to spiritually bless individuals and families by constructing and maintaining temples and houses of worship, supporting <a class="no-link-style" href="http://mormon.org/missionary-work">missionary work</a>, translating and publishing scriptures, fostering family history research, funding schools and religious education, and accomplishing many other Church purposes as directed by the Lord&rsquo;s ordained servants.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p25" class="">I marvel at the clarity and brevity of these two revelations in comparison to the complicated financial guidelines and administrative procedures used in so many organizations and governments around the world. How can the temporal affairs of an organization as large as the restored Church of Jesus Christ possibly operate throughout the entire world using such succinct instructions? To me the answer is quite straightforward: this is the Lord&rsquo;s work, He is able to do His own work (see <a href="http://www.lds.org/scriptures/bofm/2-ne/27.20?lang=eng#19" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 27:20</a>), and the Savior inspires and directs His servants as they apply His directions and labor in His cause.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p26" class="">In that first council meeting I was impressed by the simplicity of the principles that guided our deliberations and decisions. In the financial operations of the Church, two basic and fixed principles are observed. First, the Church lives within its means and does not spend more than it receives. Second, a portion of the annual income is set aside as a reserve for contingencies and unanticipated needs. For decades the Church has taught its membership the principle of setting aside additional food, fuel, and money to take care of emergencies that might arise. The Church as an institution simply follows the same principles that are taught repeatedly to the members.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p27" class="">As the meeting progressed, I found myself wishing that all members of the Church could observe the simplicity, the clarity, the orderliness, the charity, and the power of the Lord&rsquo;s own way (see <a href="http://www.lds.org/scriptures/dc-testament/dc/104.16?lang=eng#15" onclick="newWindow(this.href); return false;">D&amp;C 104:16</a>) for conducting the temporal affairs of His Church. I have now participated in the Council on the Disposition of the Tithes for many years. My gratitude and reverence for the Lord&rsquo;s pattern has grown each year, and the lessons learned have become even more profound.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p28" class="">My heart swells with love and admiration for the faithful and obedient members of this Church from every nation, kindred, tongue, and people. As I travel the earth, I learn about your hopes and dreams, your varied living conditions and circumstances, and your struggles. I have attended Church meetings with you and visited in some of your homes. Your faith strengthens my faith. Your devotion makes me more devoted. And your goodness and willing obedience to the law of tithing inspires me to be a better man, husband, father, and Church leader. I remember and think of you each time I participate in the Council on the Disposition of the Tithes. Thank you for your goodness and faithfulness as you honor your covenants.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p29" class="">The leaders of the Lord&rsquo;s restored Church feel a tremendous responsibility to care appropriately for the consecrated offerings of Church members. We are keenly aware of the sacred nature of the widow&rsquo;s mite.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p30" class="">&ldquo;And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p31" class="">&ldquo;And there came a certain poor widow, and she threw in two mites, which make a farthing.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p32" class="">&ldquo;And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p33" class="">&ldquo;For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living&rdquo; (<a href="http://www.lds.org/scriptures/nt/mark/12.41-44?lang=eng#40" onclick="newWindow(this.href); return false;">Mark 12:41&ndash;44</a>).</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p34" class="">I know from firsthand experience that the Council on the Disposition of the Tithes is vigilant in caring for the widow&rsquo;s mite. I express appreciation to President <a href="http://www.lds.org/church/leader/thomas-s-monson?lang=eng">Thomas&nbsp;S. Monson</a> and his counselors for their effective leadership in discharging this holy stewardship. And I acknowledge the voice (see <a href="http://www.lds.org/scriptures/dc-testament/dc/120.1?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 120:1</a>) and hand of the Lord that sustain His ordained servants in fulfilling the duty to represent Him.</p>
+				</div>
+				<div class="topic">
+					<h2>An Invitation and a Testimony</h2>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p36" class="">The honest payment of tithing is much more than a duty; it is an important step in the process of personal sanctification. To those of you who pay your tithing, I commend you.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p37" class="">To those of you who presently are not obeying the law of tithing, I invite you to consider your ways and repent. I testify that by your obedience to this law of the Lord, the windows of heaven will be opened to you. Please do not procrastinate the day of your repentance.</p>
+					<p uri="/ensign/2013/11/saturday-morning-session/the-windows-of-heaven.p38" class="">I testify spiritual and temporal blessings come into our lives as we live the law of tithing. I bear witness that such blessings often are significant but subtle. I also declare that the simplicity of the Lord&rsquo;s way that is so evident in the temporal affairs of His Church provides patterns that can guide us as individuals and as families. I pray each of us may learn and benefit from these important lessons, in the sacred name of the Lord Jesus Christ, amen.</p>
+				</div>
+			
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/look-ahead-and-believe?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/saturday-morning-session/come-join-with-us?lang=eng">Next</a></li></ul>
+                            
+                        </div><!-- end #primary -->
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://www.lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2013">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="//edge.ldscdn.org/ml/ldsorg/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#listen=audio">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2013/11/saturday-morning-session/the-windows-of-heaven?lang=eng&amp;clang=eng" title="Print Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-07-the-windows-of-heaven-eng.pdf">PDF</a></li><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-00-ensign-eng.pdf"></a></li><li><a href="http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-07-the-windows-of-heaven-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://www.lds.org/secure/email?lang=eng&amp;title=The+Windows+of+Heaven+-+Ensign+Nov.+2013&amp;link=/ensign/2013/11/saturday-morning-session/the-windows-of-heaven&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Fwww.lds.org%2Fensign%2F2013%2F11%2Fsaturday-morning-session%2Fthe-windows-of-heaven%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Windows+of+Heaven+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Windows+of+Heaven+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//www.lds.org/ensign/2013/11/saturday-morning-session/the-windows-of-heaven%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://www.lds.org/tools/feedback?lang=eng&amp;note=The Windows of Heaven - Ensign Nov. 2013&amp;id=11340">Do You Have Feedback on This Page?<img src="//edge.ldscdn.org/ml/ldsorg/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        <footer class="pf-footer"><ul><li><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li><a href="//www.lds.org/church/employment?lang=eng">Church Employment</a></li><li><a href="//www.lds.org/help?lang=eng">Help</a></li><li class="pf-feedback"><a href="//www.lds.org/tools/feedback?lang=eng&amp;id=11340">Feedback for this page</a></li></ul><p><a href="//www.lds.org/legal/terms?lang=eng">Rights and Use Information  (Updated 2/21/2012)</a><a href="//www.lds.org/legal/privacy?lang=eng">Privacy Policy (Updated 2/1/2012)</a><br>&copy; 2013 by Intellectual Reserve, Inc. All rights reserved.</p></footer><script type="text/javascript">
+                    if (typeof(s) == 'undefined') {
+                        var s = {};
+                    }
+                    if (typeof(Platform) == 'undefined') {
+                        var Platform = {};
+                    }
+                    Platform.domain = 'www.lds.org';
+                    Platform.signouturl = '';
+                    Platform.signin = 'signmein';
+                    Platform.signout = 'signmeout';
+                    Platform.host = '//www.lds.org';
+                    Platform.lang = 'eng';
+                    Platform.cdnPath = '//edge.ldscdn.org';
+                    try {
+                        jQuery(document).ready(function() {
+                            jQuery('.pf-feedback > a').attr('href', jQuery('.pf-feedback > a').attr('href') + '&note=' + ((typeof(s) == 'object') ? encodeURI(s.pageName) : ''));
+                        });
+                    } catch (e) { }
+						</script><script src="//edge.ldscdn.org/ml/platform/scripts/platform.js">&nbsp;</script><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2013:11:the windows of heaven";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+        /* Give each page an identifying name and channel on the next lines. */
+            s.pageName = pageName;
+            s.channel = channel;
+            s.prop35 = locale;
+            if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                s.eVar53=searchType;
+                s.eVar56=searchResults;
+                s.events="event36";
+            }
+            try {
+                s.prop3 = searchText;
+            } catch (e) { }
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        </div><!-- end #platform -->
+        
+        <!-- only scripts below --><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/content.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/article.js">&nbsp;</script><script type="text/javascript">
+        $(function() {
+            var mediaList = {
+                "audio": {
+                    "type":"audio",
+                    "audioSrc":"http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-07-the-windows-of-heaven-64k-eng.mp3",
+                    "autoplay":"true"
+                },
+                "video": {
+                    "type":"bc",
+                    "params": {
+                        "@videoPlayer":"",
+                        "playerID":"",
+                        "playerKey":"AQ%2E%2E,AAAAD5C7cik%2E,NkEKrBzbuXJBcGJrgsDFjLEiJ-nXhUBl",
+                        "autoStart":"true"
+                    }
+                }
+            };
+            // load needed scripts via yepnope so they aren't blocking
+            yepnope({
+                load: [
+                    "//edge.ldscdn.org/ml/ldsorg/ver/scripts/medialoader/lds.mediaLoader1.2.10.min.js",
+                    "//edge.ldscdn.org/scripts/other/handlebars/handlebars1.0.0.beta.3.min.js"
+                ],
+                complete:function(){
+                    // setup the plugin for audio
+                    $('#audio-player').mediaLoader({
+                        template:"#media-template-audio",
+                        mediaList:mediaList,
+                        hashLabel:'listen',
+                        audioCss:"//edge.ldscdn.org/ml/ldsorg/css/common/audio.css",
+                        audioJs:"//edge.ldscdn.org/scripts/jquery/plugins/jplayer/2.1.0/jplayer.min.js"
+                    });
+                    // setup plugin for video
+                    $('#video-player').mediaLoader({
+                        template:"#media-template-video",
+                        mediaList:mediaList,
+                        hashLabel:'watch',
+                        playerOptions : {
+                            "wmode":"transparent",
+                            "isVid":"true",
+                            "isUI":"true",
+                            "dynamicStreaming":"true",
+                            "bgcolor":"#fff",
+                            "width":470,
+                            "height":264
+                        },
+                        onopen:function(event, self){
+                            if(self.curMedia.type != "audio"){
+                                //get down below fixed navigation bar, but only if we need to
+                                var targetTop = self.element.offset().top-65;
+                                if($(window).scrollTop() > targetTop) {
+                                    window.scrollTo(0,targetTop);
+                                }
+                                if(self.curMedia.type != "image"){
+                                    $(".media-placeholder",self.element).css("min-height",self.options.playerOptions.height);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script><script id="media-template-audio" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div id="lds-player-interface" class="lds-player simple">
+            <ul class="jp-controls">
+                <li><a href="#" class="jp-previous iconfont previous"></a></li>
+                <li><a href="#" class="jp-play iconfont play"></a></li>
+                <li><a href="#" class="jp-pause iconfont pause"></a></li>
+                <li><a href="#" class="jp-next iconfont next"></a></li>
+            </ul>
+            <div class="jp-title">
+                <h3></h3>
+                <h4></h4>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-time-wrapper">
+                    <div class="jp-current-time">00:00</div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
+                        </div>
+                    </div>
+                    <div class="jp-duration">00:00</div>
+                </div>
+            </div>
+            <ul class="jp-toggles">
+                <li><a href="#" class="jp-shuffle iconfont shuffle" id="shuffle"></a></li>
+                <li class="jp-volume">
+                    <a href="#" class="jp-mute iconfont mute"></a>
+                    <a href="#" class="jp-unmute iconfont unmute"></a>
+                    <div class="jp-volume-bar-holder">
+                        <div class="jp-volume-bar-bg">
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script id="media-template-video" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/context-bar.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/imageResize.js">&nbsp;</script><script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script><script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><script src="//edge.ldscdn.org/ml/ldsorg/notebook/20130501/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            // All resources in bundle studytools
+            if (DATA) {
+                DATA.addResources(
+                    {
+                        'openNotebook' : 'Open Notebook','journal' : 'Journal','separateWithCommas' : 'Separate with commas','share' : 'Share','addTo' : 'Add to:','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','saveButtonText' : 'Save','serviceUnavailable' : 'My Study Tools are currently unavailable.','maintenance' : 'The Study Notebook is currently undergoing maintenance','printWithoutNotes' : 'Without notes','printButtonText' : 'Print','printSelectedNote' : 'Print selected note','signIn' : 'Sign in','includeDetails' : 'Include details','undelete' : 'Undelete','highlights' : 'Highlights','nameMaxLengthError' : 'Max length for name is 200 characters','confirmDeleteBookmark' : 'Remove bookmark?','printEntireNotebook' : 'Print entire notebook','editBookmark' : 'Edit Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','drag' : 'Drag','edit' : 'Edit','highlight' : 'Highlight','bookmarks' : 'Bookmarks','name' : 'Name','collections' : 'notebooks','includeJournalEntries' : 'Include journal entries','signInMessage' : '\ to bookmark pages, highlight text, and write notes.','addNewCollection' : 'Add new notebook:','delete' : 'Delete','fromLabel' : 'From:','deleteCollection' : 'Delete notebook','includeHighlights' : 'Include highlights','journalEntry' : 'Journal entry','includeJournals' : 'Include journal entries','noCollections' : 'none','clearSearch' : 'Clear Search','areYouSure' : 'Are you sure?','bookmarkTitle' : 'Bookmark page','search' : 'Search','addNote' : 'add note','fileType' : 'File Type','reference' : 'Reference','okay' : 'Okay','saving' : 'Saving','noteMaxLengthError' : 'Max length for note is 4000 characters','studyMode' : 'Study Mode','printCollectionDetails' : 'Print the contents of this notebook.','unassignedFolder' : 'Unassigned Items','journalEntryRequiredError' : 'Journal entry required','modified' : 'Modified','editHighlight' : 'Edit highlight','copyHighlight' : 'Copy Highlight','backupXML' : 'Backup (XML)','addCollection' : 'Add notebook','collectionNameTooLongError' : 'Max length is 200','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','editAnnotation' : 'Edit tags and notes','download' : 'Download','links' : 'Links','close' : 'close','note' : 'Note','inLabel' : 'In','bookmark' : 'Bookmark','trash' : 'Trash','journalEntries' : 'Journal Entries','cancelButton' : 'Cancel','generalConference' : 'General Conference','collectionNameEmptyError' : 'Enter a notebooks name','searchResults' : 'Search Results','rename' : 'Rename','advancedSearch' : 'Advanced Search','deleting' : 'Deleting','printCollection' : 'Print Notebook','print' : 'Print','add' : 'Add','emptyTrash' : 'Empty','references' : 'Links','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','someonesStudyNotebook' : '\'s Study Notebook','deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','studyNotebook' : 'Notes and Journal','tagsMaxLengthError' : 'Max length for tags is 4000 characters','signInAgain' : 'Please sign in again.','today' : 'Today','addJournalEntry' : 'add journal entry','source' : 'Source','emptyJournalError' : 'Cannot save without journal entry.','addCollectionInput' : 'add notebook','error' : 'Error','restore' : 'Restore','confirmDeleteHighlight' : 'Really delete?','optional' : 'optional','taggedWith' : 'Tagged with','type' : 'Type','includeBookmarks' : 'Include bookmarks','toLabel' : 'To:','downloadNotebook' : 'Download notebook','addTags' : 'add tags','addNewCollectionTitle' : 'Add new notebook','showAll' : 'show all','yesterday' : 'Yesterday','allItems' : 'All Items','addBookmark' : 'Add Bookmark','renameCollection' : 'Rename notebook','tags' : 'Tags','loadMore' : 'load more','journalTitle' : 'Add journal entry','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','notebooks' : 'Notebooks','help' : 'Help','printWithNotes' : 'With notes','introTitle' : 'Save to your Study Notebook','loading' : 'loading','addJournalEntryButton' : 'Add journal entry','collectionListTitle' : 'Notebooks','shareTitle' : 'Share Page','save' : 'Save'
+                    }
+                );
+            }
+        </script>
+    </body>
+</html>

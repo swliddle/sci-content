@@ -1,0 +1,457 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>You Can Do It Now! - Ensign Nov. 2013 - ensign</title>
+        <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="TITLE" content="You Can Do It Now! - Ensign Nov. 2013"><meta name="KEYWORDS" content="adversity,goals,repentance"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!---->
+        <meta property="og:title" content="You Can Do It Now! - Ensign Nov. 2013"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://www.lds.org/ensign/2013/11/priesthood-session/you-can-do-it-now?lang=eng"><meta id="og-image" property="og:image" content="http://www.lds.org/bc/content/shared/content/images/leaders/dieter-f-uchtdorf-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="shortcut icon" href="//edge.ldscdn.org/images/logos/favicon-lds-1.ico"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform2.css" class="pf-fix-me"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/lds-old.css" class="pf-fix-me"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.7.1/jquery.min.js">&nbsp;</script><script src="//edge.ldscdn.org/ml/ldsorg/script/common/lds.js">&nbsp;</script>
+        <link rel="canonical" href="http://www.lds.org/general-conference/2013/10/you-can-do-it-now?lang=eng">
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/article.css">
+        
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+		<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/common/video.css"><script type="text/javascript" src="/resources/script/common/swfobject.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/youTubeLoader.js">&nbsp;</script><script type="text/javascript">
+        var flashvars = {
+                xmlSource: unescape("/resources/video/xml/10711_000_024/eng?lang=eng")
+                
+            };
+        var params = {
+            menu: "false",
+            allowScriptAccess: "always",
+            scale: "noscale",
+            allowFullScreen: "true",
+            wmode: "opaque"
+        };
+        // set up expressinstall.swf
+        swfobject.embedSWF("/resources/swf/ldsUniversalPlayer.swf", "ldsUniversalPlayer", "480", "270", "10.0.0", "http://www.ldsavd.org/ldsUniversalPlayer/swf/expressInstall.swf", flashvars, params);
+
+        //init the youTubeLoader javascript methods
+        SWFID = "ldsUniversalPlayer"
+
+        // Call to Flash Player/ActionScript
+        function getFlashMovie(ldsUniversalPlayer) {
+            var isIE = navigator.appName.indexOf("Microsoft") != -1;
+            return (isIE) ? window[ldsUniversalPlayer] : document[ldsUniversalPlayer];
+        }
+        function callToActionscript()
+        {
+            try {
+                getFlashMovie("ldsUniversalPlayer").sendToActionscript();
+            } catch (e) { };
+        }
+
+        // Dimmer Functions
+        function lightsOff()
+        {
+            document.getElementById('fade').style.display='block';
+        }
+        function lightsOn()
+        {
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+
+    </head>
+
+    <body class="tmpl-default-lds-article pf-responsive  narrow study-theme ">
+        <div id="platform">
+            <!--[if lte IE 8]><script src="//edge.ldscdn.org/scripts/other/html5shiv/html5shiv.3.5.min.js"></script><script src="//edge.ldscdn.org/scripts/other/respond/respond1.1.0-2.js"></script><script src="//edge.ldscdn.org/scripts/other/selectivizr/selectivizr1.0.3b-lds1.min.js"></script><link href="//edge.ldscdn.org/scripts/other/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" /><link href="/resources/images/common/1x1.gif" id="respond-redirect" rel="respond-redirect" /><script src="//edge.ldscdn.org/scripts/other/respond/respond.proxy.lds1.js"></script><![endif]--><a href="#platform-canvas-content" class="pf-offscreen">Skip main navigation</a><header class="pf-header" role="banner"><div class="pf-logo"><a href="//www.lds.org/?lang=eng" onClick="s.tl(this, o, 'Header: Church Logo');"><img src="//edge.ldscdn.org/images/lang/english/logos/white-1.png" alt="The Church of Jesus Christ of Latter-day Saints"></a></div><nav class="pf-nav" role="navigation"><div class="pf-top"><ul><li class="pf-language"><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li id="pf-auth"><a href="#pf-personal-links" class="pf-popup pf-icon-signin" aria-haspopup="true" aria-owns="pf-personal-links"><span id="pf-signin">Sign In</span>/Tools</a><div id="pf-personal-links" class="pf-flyout"><ul id="pf-personal"><li><a id="pf-signin-button" href="#d" class="pf-button">Sign In</a></li><li><a href="https://lds.org/study-tools/folders">Notes and Journal</a></li><li><a href="//www.lds.org/maps/?lang=eng">Maps</a></li><li><a href="https://lds.org/directory">Directory</a></li><li><a href="https://lds.org/church-calendar">Calendar</a></li><li><a href="https://apps.lds.org/pbrequest/landing">Patriarchal Blessing</a></li><li><a href="//www.lds.org/pages/mobileapps?lang=eng">Mobile Applications</a></li><li><a href="//www.lds.org/tools?lang=eng">All Tools</a></li><li><a href="https://lds.org/member-news">Newsletter</a></li><li><a href="https://lds.org/lesson">Lesson Schedules</a></li><li id="pf-tools-for-calling"></li><li style="display:none;" class="pf-signout"><a id="pf-signout-button" href="#d">Sign Out</a></li></ul></div></li></ul></div><div class="pf-joshua"><h2><a href="#pf-joshua" class="pf-icon-menu pf-popup" aria-haspopup="true" aria-owns="pf-joshua">Site Menu</a></h2><ul id="pf-joshua"><li id="scriptures"><h3><a href="#pf-scriptures" class="pf-popup" aria-haspopup="true" aria-owns="pf-scriptures">Scriptures</a></h3><div class="pf-flyout pf-col2" id="pf-scriptures"><div style="position:relative; clear:both; overflow:hidden;"><ul class="pf-col"><li><a href="//www.lds.org/scriptures/bible?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Holy Bible');">Holy Bible</a></li><li><a href="//www.lds.org/scriptures/bofm?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Book of Mormon');">Book of Mormon</a></li><li><a href="//www.lds.org/scriptures/dc-testament?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Doctrine and Covenants');">Doctrine and Covenants</a></li><li><a href="//www.lds.org/scriptures/pgp?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Pearl of Great Price');">Pearl of Great Price</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/scriptures/new-edition?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: 2013 Edition of the Scriptures');">2013 Edition of the Scriptures</a></li><li><a href="//www.lds.org/scriptures/study-helps?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Study Helps');">Study Helps</a></li><li><a href="//www.lds.org/bible-videos?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Bible Videos');">Bible Videos</a></li><li><a href="//www.lds.org/scriptures/formats?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Formats and Downloads');">Formats and Downloads</a></li></ul></div><div class="pf-scriptures-search-wrapper"><form action="/scriptures/search" method="get" accept-charset="utf-8" class="pf-scriptures-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><input type="hidden" name="lang" value="eng"><fieldset><label for="pf-scriptures-search" class="pf-search-label pf-icon-search">Search:
+                </label><div><input type="text" class="pf-search" id="pf-scriptures-search" autocomplete="off" placeholder="Search by Keyword or Reference" name="query"><input type="submit" class="pf-submit" value="?"></div></fieldset></form></div></div></li><li id="teachings"><h3><a href="#pf-teachings" class="pf-popup" aria-haspopup="true" aria-owns="pf-teachings">Teachings</a></h3><div class="pf-flyout pf-col2" id="pf-teachings"><ul class="pf-col"><li><a href="//www.lds.org/prophets-and-apostles/first-presidency-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: First Presidency Message');">First Presidency Message</a></li><li><a href="//www.lds.org/prophets-and-apostles?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Prophets and Apostles');">Prophets and Apostles</a></li><li><a href="//www.lds.org/general-conference?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: General Conference');">General Conference</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/topics?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Gospel Topics');">Gospel Topics</a></li><li><a href="//www.lds.org/daily-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Daily Messages');">Daily Messages</a></li><li><a href="//www.lds.org/broadcasts?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Broadcasts');">Broadcasts</a></li><li><a href="//www.lds.org/church/leaders?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Church Leadership');">Church Leadership</a></li></ul></div></li><li id="resources2"><h3><a href="#pf-resources2" class="pf-popup" aria-haspopup="true" aria-owns="pf-resources2">Resources</a></h3><div class="pf-flyout pf-col3" id="pf-resources2"><div class="pf-col"><h4>Family</h4><ul><li><a href="//www.lds.org/church/temples?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Temples');">Temples</a></li><li><a href="//www.lds.org/topics/family-history?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Family History');">Family History</a></li><li><a href="//www.lds.org/topics/family?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Home and Family');">Home and Family</a></li><li><a href="//www.lds.org/topics/marriage?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Marriage');">Marriage</a></li><li><a href="//www.lds.org/friend?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Children');">Children</a></li><li><a href="//www.lds.org/youth?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Youth');">Youth</a></li><li><a href="//www.lds.org/topics/welfare?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Welfare');">Welfare</a></li></ul></div><div class="pf-col"><h4>Callings</h4><ul><li><a href="//www.lds.org/callings/leadership-and-teaching?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Leadership and Teaching');">Leadership and Teaching</a></li><li><a href="//www.lds.org/callings/melchizedek-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Melchizedek Priesthood');">Melchizedek Priesthood</a></li><li><a href="//www.lds.org/callings/aaronic-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Aaronic Priesthood');">Aaronic Priesthood</a></li><li><a href="//www.lds.org/callings/relief-society?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Relief Society');">Relief Society</a></li><li><a href="//www.lds.org/callings/young-women?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Young Women');">Young Women</a></li><li><a href="//www.lds.org/callings/primary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Primary');">Primary</a></li><li><a href="//www.lds.org/callings/sunday-school?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sunday School');">Sunday School</a></li><li><a href="//www.lds.org/callings/missionary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Missionary');">Missionary</a></li><li><a href="//www.lds.org/callings/seminary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Seminaries and Institutes');">Seminaries and Institutes</a></li><li><a href="//www.lds.org/callings?lang=eng" onClick="s.tl(this, o, 'Header: Resources: All Callings');">All Callings</a></li></ul></div><div class="pf-col"><h4>General</h4><ul><li><a href="//www.lds.org/magazines-and-manuals?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Magazines and Manuals');">Magazines and Manuals</a></li><li><a href="//www.lds.org/media-library?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Video, Audio, and Images');">Video, Audio, and Images</a></li><li><a href="https://history.lds.org" onClick="s.tl(this, o, 'Header: Resources: Church History');">Church History</a></li><li><a href="//www.lds.org/music?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Music');">Music</a></li><li><a href="http://store.lds.org" onClick="s.tl(this, o, 'Header: Resources: Order Church Materials');">Order Church Materials</a></li><li><a href="//www.lds.org/locations?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Locations and Schedules');">Locations and Schedules</a></li><li><a href="//www.lds.org/topics/service?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Service Opportunities');">Service Opportunities</a></li><li><a href="//www.lds.org/church/share?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sharing the Gospel');">Sharing the Gospel</a></li></ul></div></div></li><li id="news"><h3><a href="#pf-news" class="pf-popup" aria-haspopup="true" aria-owns="pf-news">News</a></h3><div class="pf-flyout pf-col1" id="pf-news"><ul class="pf-col"><li><a href="//www.lds.org/church/news?lang=eng" onClick="s.tl(this, o, 'Header: News: Church News and Events');">Church News and Events</a></li><li><a href="//www.lds.org/languages/mormonnewsroom?lang=eng" onClick="s.tl(this, o, 'Header: News: For News Media');">For News Media</a></li></ul></div></li></ul></div><form action="//www.lds.org/search" method="get" accept-charset="utf-8" class="pf-global-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><fieldset><label for="pf-global-search" class="pf-popup pf-search-label pf-icon-search" data-href="#pf-search-inputs">Search:
+										</label><div class="pf-search-inputs" id="pf-search-inputs"><input type="hidden" name="lang" value="eng"><input type="text" class="pf-search" id="pf-global-search" autocomplete="off" placeholder="Search Church sites" name="query"><input type="submit" class="pf-submit" value="?" aria-label="Search"></div></fieldset></form></nav></header><!--[if lte IE 7]><div class="pf-browser-alert"><p><strong>Attention</strong>:This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or install another <a href="http://www.lds.org/resources/upgrade?lang=eng">Web Browser</a>.</p></div><![endif]--><script type="text/javascript">var cdnPath = "//edge.ldscdn.org";</script>
+            <!-- end #platform-header -->
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://www.lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/liahona/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/liahona/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/liahona/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message </a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class="active"><a href="http://www.lds.org/ensign/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/ensign/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/ensign/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message</a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/new-era/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/new-era/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/new-era/call-for-submissions?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://www.lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/friend/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/friend/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/activities?lang=eng">Games and Activities</a></li><li class=""><a href="http://www.lds.org/children/resources/type/music-resources?lang=eng">Music in the Friend</a></li><li class=""><a href="http://www.lds.org/children/resources?lang=eng">Teaching Resources</a></li><li class=""><a href="http://www.lds.org/friend/one-in-a-million?lang=eng">One in a Million</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos/scripture-stories?lang=eng">Scripture Stories</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos?lang=eng">Videos</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21174_-1___#tab2">Subscribe</a></li><li class=""><a href="http://www.lds.org/search?collection=magazines&amp;lang=eng">Search</a></li><h1></h1></ul>
+        </div>
+                <!-- end #section-nav -->
+                <div id="platform-canvas-content" role="main" class="">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                        <a href="#" class="home">Home</a><ul><li><a href="http://www.lds.org/?lang=eng">LDS.org</a></li><li><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://www.lds.org/ensign?lang=eng">Ensign</a></li></ul>
+                    </li><li>
+                        <a href="http://www.lds.org/ensign/2013/11?lang=eng">Nov. 2013</a>
+                     </li><li>
+                        <span class="active">You Can Do It Now!</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/priesthood-session/called-of-him-to-declare-his-word?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/priesthood-session/bind-up-their-wounds?lang=eng">Next</a></li></ul>
+                            
+                            <h1>
+                            You Can Do It Now!
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://www.lds.org/church/leader/dieter-f-uchtdorf?lang=eng" rel="author"><div class="byline" id="">
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p2" class="">By President Dieter&nbsp;F. Uchtdorf</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p3" class="">Second Counselor in the First Presidency</p>
+				</div></a>
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+
+                        <div id="primary">
+                            <div id="audio-player"></div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://www.lds.org/church/leader/dieter-f-uchtdorf?lang=eng">
+                                                                <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/dieter-f-uchtdorf-10.jpg" alt="Dieter F. Uchtdorf" class="img-decor">
+                                                            </a>
+
+                                        <div class="kicker" id="">As long as we are willing to rise up again and continue on the path, &hellip; we can learn something from failure and become better and happier.</div>
+                                        
+
+                                    </blockquote>
+                            
+                            
+                            <span style="display: none" id="article-id">10711_000_024</span>
+				<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p5" class="">When I was young, falling and getting up seemed to be one and the same motion. Over the years, however, I have come to the unsettling conclusion that the laws of physics have changed&mdash;and not to my advantage.</p>
+				<span class="story">
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p6" class="">Not long ago I was skiing with my 12-year-old grandson. We were enjoying our time together when I hit an icy spot and ended up making a glorious crash landing on a steep slope.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p7" class="">I tried every trick to stand up, but I couldn&rsquo;t&mdash;I had fallen, and I couldn&rsquo;t get up.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p8" class="">I felt fine physically, but my ego was a bit bruised. So I made sure that my helmet and goggles were in place, since I much preferred that other skiers not recognize me. I could imagine myself sitting there helplessly as they skied by elegantly, shouting a cheery, &ldquo;Hello, Brother Uchtdorf!&rdquo;</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p9" class="">I began to wonder what it would take to rescue me. That was when my grandson came to my side. I told him what had happened, but he didn&rsquo;t seem very interested in my explanations of why I couldn&rsquo;t get up. He looked me in the eyes, reached out, took my hand, and in a firm tone said, &ldquo;Opa, you can do it now!&rdquo;</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p10" class="">Instantly, I stood.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p11" class="">I am still shaking my head over this. What had seemed impossible only a moment before immediately became a reality because a 12-year-old boy reached out to me and said, &ldquo;You can do it now!&rdquo; To me, it was an infusion of confidence, enthusiasm, and strength.</p>
+				</span>
+				<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p12" class="">Brethren, there may be times in our lives when rising up and continuing on may seem beyond our own ability. That day on a snow-covered slope, I learned something. Even when we think we cannot rise up, there is still hope. And sometimes we just need someone to look us in the eyes, take our hand, and say, &ldquo;You can do it now!&rdquo;</p>
+				<div class="topic">
+					<h2>The Delusion of Toughness</h2>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p14" class="">We may think that women are more likely than men to have feelings of inadequacy and disappointment&mdash;that these feelings affect them more than us. I&rsquo;m not sure that this is true. Men experience feelings of guilt, depression, and failure. We might pretend these feelings don&rsquo;t bother us, but they do. We can feel so burdened by our failures and shortcomings that we begin to think we will never be able to succeed. We might even assume that because we have fallen before, falling is our destiny. As one writer put it, &ldquo;We beat on, boats against the current, borne back ceaselessly into the past.&rdquo;<sup class="noteMarker"><a href="#footnote1-10711_000_024">1</a></sup></p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p15" class="">I have watched men filled with potential and grace disengage from the challenging work of building the kingdom of God because they had failed a time or two. These were men of promise who could have been exceptional priesthood holders and servants of God. But because they stumbled and became discouraged, they withdrew from their priesthood commitments and pursued other but less worthy endeavors.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p16" class="">And thus, they go on, living only a shadow of the life they could have led, never rising to the potential that is their birthright. As the poet lamented, these are among those unfortunate souls who &ldquo;die with [most of] their music [still] in them.&rdquo;<sup class="noteMarker"><a href="#footnote2-10711_000_024">2</a></sup></p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p17" class="">No one likes to fail. And we particularly don&rsquo;t like it when others&mdash;especially those we love&mdash;see us fail. We all want to be respected and esteemed. We want to be champions. But we mortals do not become champions without effort and discipline or without making mistakes.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p18" class="">Brethren, our destiny is not determined by the number of times we stumble but by the number of times we rise up, dust ourselves off, and move forward.</p>
+				</div>
+				<div class="topic">
+					<h2>Godly Sorrow</h2>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p20" class="">We know this mortal life is a test. But because our Heavenly Father loves us with a perfect love, He shows us where to find the answers. He has given us the map that allows us to navigate the uncertain terrain and unexpected trials that each of us encounters. The words of the prophets are part of this map.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p21" class="">When we stray&mdash;when we fall or depart from the way of our Heavenly Father&mdash;the words of the prophets tell us how to rise up and get back on track.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p22" class="">Of all the principles taught by prophets over the centuries, one that has been emphasized over and over again is the hopeful and heartwarming message that mankind can repent, change course, and get back on the true path of discipleship.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p23" class="">That does not mean that we should be comfortable with our weaknesses, mistakes, or sins. But there is an important difference between the sorrow for sin that leads to repentance and the sorrow that leads to despair.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p24" class="">The Apostle Paul taught that &ldquo;<span class="emphasis">godly sorrow</span> worketh repentance to salvation &hellip; but the <span class="emphasis">sorrow of the world</span> worketh death.&rdquo;<sup class="noteMarker"><a href="#footnote3-10711_000_024">3</a></sup><span class="emphasis"> Godly sorrow</span> inspires change and hope through the Atonement of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>. <span class="emphasis">Worldly sorrow</span> pulls us down, extinguishes hope, and persuades us to give in to further temptation.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p25" class=""><span class="emphasis">Godly sorrow</span> leads to conversion<sup class="noteMarker"><a href="#footnote4-10711_000_024">4</a></sup> and a change of heart.<sup class="noteMarker"><a href="#footnote5-10711_000_024">5</a></sup> It causes us to hate sin and love goodness.<sup class="noteMarker"><a href="#footnote6-10711_000_024">6</a></sup> It encourages us to stand up and walk in the light of Christ&rsquo;s love. True repentance is about transformation, not torture or torment. Yes, heartfelt regret and true remorse for disobedience are often painful and very important steps in the sacred process of repentance. But when guilt leads to self-loathing or prevents us from rising up again, it is impeding rather than promoting our repentance.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p26" class="">Brethren, there is a better way. Let us rise up and become men of God. We have a champion, a Savior, who walked through the valley of the shadow of death on our behalf. He gave Himself as a ransom for our sins. No one has ever had greater love than this&mdash;Jesus Christ, the Lamb without blemish, willingly laid Himself on the altar of sacrifice and paid the price for our sins to &ldquo;the uttermost farthing.&rdquo;<sup class="noteMarker"><a href="#footnote7-10711_000_024">7</a></sup> He took upon Himself our suffering. He took our burdens, our guilt upon His shoulders. My dear friends, when we decide to come to Him, when we take upon ourselves His name and boldly walk in the path of discipleship, then through the Atonement we are promised not only happiness and &ldquo;peace in this world&rdquo; but also &ldquo;eternal life in the world to come.&rdquo;<sup class="noteMarker"><a href="#footnote8-10711_000_024">8</a></sup></p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p27" class="">When we make mistakes, when we sin and fall, let us think of what it means to truly repent. It means turning our heart and will to God and giving up sin. True heartfelt repentance brings with it the heavenly assurance that &ldquo;we can do it now.&rdquo;</p>
+				</div>
+				<div class="topic">
+					<h2>Who Are You?</h2>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p29" class="">One of the adversary&rsquo;s methods to prevent us from progressing is to confuse us about who we really are and what we really desire.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p30" class="">We want to spend time with our children, but we also want to engage in our favorite manly hobbies. We want to lose weight, but we also want to enjoy the foods we crave. We want to become Christlike, but we also want to give the guy who cuts us off in traffic a piece of our mind.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p31" class="">Satan&rsquo;s purpose is to tempt us to exchange the priceless pearls of true happiness and eternal values for a fake plastic trinket that is merely an illusion and counterfeit of happiness and joy.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p32" class="">Another method the adversary uses to discourage us from rising up is to make us see the commandments as things that have been forced upon us. I suppose it is human nature to resist anything that does not appear to be our own idea in the first place.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p33" class="">If we see healthy eating and exercise as something only our doctor expects of us, we will likely fail. If we see these choices as who we are and who we want to become, we have a greater chance of staying the course and succeeding.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p34" class="">If we see home teaching as only the stake president&rsquo;s goal, we may place a lower value on doing it. If we see it as our goal&mdash;something we desire to do in order to become more Christlike and minister to others&mdash;we will not only fulfill our commitment but also accomplish it in a way that blesses the families we visit and our own as well.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p35" class="">Often enough, we are the ones who are being helped up by friends or <a class="no-link-style" href="http://mormon.org/family">family</a>. But if we look around with observant eyes and the motive of a caring heart, we will recognize the opportunities the Lord places in front of us to help others rise up and move toward their true potential. The scriptures suggest, &ldquo;Whatsoever ye do, do it heartily, as to the Lord, and not unto men.&rdquo;<sup class="noteMarker"><a href="#footnote9-10711_000_024">9</a></sup></p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p36" class="">It is a great source of spiritual power to live lives of integrity and righteousness and to keep our eyes on where we want to be in the eternities. Even if we can see this divine destination only with the eye of faith, it will help us to stay the course.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p37" class="">When our attention is mainly focused on our daily successes or failures, we may lose our way, wander, and fall. Keeping our sights on higher goals will help us become better sons and brothers, kinder fathers, and more loving husbands.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p38" class="">Even those who set their hearts upon divine goals may still occasionally stumble, but they will not be defeated. They trust and rely upon the promises of God. They will rise up again with a bright hope in a righteous God and the inspiring vision of a great future. They know they can do it now.</p>
+				</div>
+				<div class="topic">
+					<h2>You Can Do It Now</h2>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p40" class="">Every person, young and old, has had his own personal experience with falling. Falling is what we mortals do. But as long as we are willing to rise up again and continue on the path toward the spiritual goals God has given us, we can learn something from failure and become better and happier as a result.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p41" class="">My dear brethren, my dear friends, there will be times when you <span class="emphasis">think</span> you cannot continue on. Trust the Savior and His love. With faith in the Lord Jesus Christ and the power and hope of the restored gospel, you <span class="emphasis">will</span> be able to walk tall and continue on.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p42" class="">Brethren, we love you. We pray for you. I wish you could hear President Monson pray for you. Whether you are a young father, an elderly priesthood bearer, or a newly ordained deacon, we are mindful of you. The Lord is mindful of you!</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p43" class="">We acknowledge that your path will at times be difficult. But I give you this promise in the name of the Lord: rise up and follow in the footsteps of our Redeemer and Savior, and one day you will look back and be filled with eternal <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> that you chose to trust the Atonement and its power to lift you up and give you strength.</p>
+					<p uri="/ensign/2013/11/priesthood-session/you-can-do-it-now.p44" class="">My dear friends and brethren, no matter how many times you have slipped or fallen, rise up! Your destiny is a glorious one! Stand tall and walk in the light of the restored gospel of Jesus Christ! You are stronger than you realize. You are more capable than you can imagine. You can do it now! Of this I testify in the sacred name of our Master and Redeemer, Jesus Christ, amen.</p>
+				</div>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol><h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="1-10711_000_024"><a name="1-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote1-10711_000_024">1.</a></span>
+					<p>F.&nbsp;Scott Fitzgerald, <span class="emphasis">The Great Gatsby</span> (1925), 180.</p>
+				</li>
+				<li class="footnote " id="2-10711_000_024"><a name="2-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote2-10711_000_024">2.</a></span>
+					<p>&ldquo;The Voiceless,&rdquo; in <span class="emphasis">The Complete Poetical Works of Oliver Wendell Holmes</span> (1908), 99.</p>
+				</li>
+				<li class="footnote " id="3-10711_000_024"><a name="3-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote3-10711_000_024">3.</a></span>
+					<p><a href="http://www.lds.org/scriptures/nt/2-cor/7.10?lang=eng#9" onclick="newWindow(this.href); return false;">2&nbsp;Corinthians 7:10</a>; emphasis added.</p>
+				</li>
+				<li class="footnote " id="4-10711_000_024"><a name="4-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote4-10711_000_024">4.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/acts/3.19?lang=eng#18" onclick="newWindow(this.href); return false;">Acts 3:19</a>.</p>
+				</li>
+				<li class="footnote " id="5-10711_000_024"><a name="5-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote5-10711_000_024">5.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/ot/ezek/36.26?lang=eng#25" onclick="newWindow(this.href); return false;">Ezekiel 36:26</a>; <a href="http://www.lds.org/scriptures/nt/2-cor/5.17?lang=eng#16" onclick="newWindow(this.href); return false;">2&nbsp;Corinthians 5:17</a>; <a href="http://www.lds.org/scriptures/bofm/mosiah/3.19?lang=eng#18" onclick="newWindow(this.href); return false;">Mosiah 3:19</a>.</p>
+				</li>
+				<li class="footnote " id="6-10711_000_024"><a name="6-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote6-10711_000_024">6.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1" onclick="newWindow(this.href); return false;">Mosiah 5:2</a>.</p>
+				</li>
+				<li class="footnote " id="7-10711_000_024"><a name="7-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote7-10711_000_024">7.</a></span>
+					<p><a href="http://www.lds.org/scriptures/nt/matt/5.26?lang=eng#25" onclick="newWindow(this.href); return false;">Matthew 5:26</a>.</p>
+				</li>
+				<li class="footnote " id="8-10711_000_024"><a name="8-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote8-10711_000_024">8.</a></span>
+					<p><a href="http://www.lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22" onclick="newWindow(this.href); return false;">Doctrine and Covenants 59:23</a>.</p>
+				</li>
+				<li class="footnote " id="9-10711_000_024"><a name="9-10711_000_024">&nbsp;</a>
+					<span class="label"><a name="footnote9-10711_000_024">9.</a></span>
+					<p><a href="http://www.lds.org/scriptures/nt/col/3.23?lang=eng#22" onclick="newWindow(this.href); return false;">Colossians 3:23</a>.</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/priesthood-session/called-of-him-to-declare-his-word?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/priesthood-session/bind-up-their-wounds?lang=eng">Next</a></li></ul>
+                            
+                        </div><!-- end #primary -->
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://www.lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2013">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="//edge.ldscdn.org/ml/ldsorg/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#listen=audio">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2013/11/priesthood-session/you-can-do-it-now?lang=eng&amp;clang=eng" title="Print Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-20-you-can-do-it-now-eng.pdf">PDF</a></li><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-00-ensign-eng.pdf"></a></li><li><a href="http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-20-you-can-do-it-now-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://www.lds.org/secure/email?lang=eng&amp;title=You+Can+Do+It+Now!+-+Ensign+Nov.+2013&amp;link=/ensign/2013/11/priesthood-session/you-can-do-it-now&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Fwww.lds.org%2Fensign%2F2013%2F11%2Fpriesthood-session%2Fyou-can-do-it-now%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//www.lds.org/ensign/2013/11/priesthood-session/you-can-do-it-now%3flang%3deng%26cid%3dfacebook-shared&amp;t=You+Can+Do+It+Now!+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//www.lds.org/ensign/2013/11/priesthood-session/you-can-do-it-now%3flang%3deng%26cid%3ddelicious-shared&amp;title=You+Can+Do+It+Now!+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//www.lds.org/ensign/2013/11/priesthood-session/you-can-do-it-now%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://www.lds.org/tools/feedback?lang=eng&amp;note=You Can Do It Now! - Ensign Nov. 2013&amp;id=11340">Do You Have Feedback on This Page?<img src="//edge.ldscdn.org/ml/ldsorg/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        <footer class="pf-footer"><ul><li><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li><a href="//www.lds.org/church/employment?lang=eng">Church Employment</a></li><li><a href="//www.lds.org/help?lang=eng">Help</a></li><li class="pf-feedback"><a href="//www.lds.org/tools/feedback?lang=eng&amp;id=11340">Feedback for this page</a></li></ul><p><a href="//www.lds.org/legal/terms?lang=eng">Rights and Use Information  (Updated 2/21/2012)</a><a href="//www.lds.org/legal/privacy?lang=eng">Privacy Policy (Updated 2/1/2012)</a><br>&copy; 2013 by Intellectual Reserve, Inc. All rights reserved.</p></footer><script type="text/javascript">
+                    if (typeof(s) == 'undefined') {
+                        var s = {};
+                    }
+                    if (typeof(Platform) == 'undefined') {
+                        var Platform = {};
+                    }
+                    Platform.domain = 'www.lds.org';
+                    Platform.signouturl = '';
+                    Platform.signin = 'signmein';
+                    Platform.signout = 'signmeout';
+                    Platform.host = '//www.lds.org';
+                    Platform.lang = 'eng';
+                    Platform.cdnPath = '//edge.ldscdn.org';
+                    try {
+                        jQuery(document).ready(function() {
+                            jQuery('.pf-feedback > a').attr('href', jQuery('.pf-feedback > a').attr('href') + '&note=' + ((typeof(s) == 'object') ? encodeURI(s.pageName) : ''));
+                        });
+                    } catch (e) { }
+						</script><script src="//edge.ldscdn.org/ml/platform/scripts/platform.js">&nbsp;</script><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2013:11:you can do it now!";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+        /* Give each page an identifying name and channel on the next lines. */
+            s.pageName = pageName;
+            s.channel = channel;
+            s.prop35 = locale;
+            if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                s.eVar53=searchType;
+                s.eVar56=searchResults;
+                s.events="event36";
+            }
+            try {
+                s.prop3 = searchText;
+            } catch (e) { }
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        </div><!-- end #platform -->
+        
+        <!-- only scripts below --><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/content.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/article.js">&nbsp;</script><script type="text/javascript">
+        $(function() {
+            var mediaList = {
+                "audio": {
+                    "type":"audio",
+                    "audioSrc":"http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-20-you-can-do-it-now-64k-eng.mp3",
+                    "autoplay":"true"
+                },
+                "video": {
+                    "type":"bc",
+                    "params": {
+                        "@videoPlayer":"",
+                        "playerID":"",
+                        "playerKey":"AQ%2E%2E,AAAAD5C7cik%2E,NkEKrBzbuXJBcGJrgsDFjLEiJ-nXhUBl",
+                        "autoStart":"true"
+                    }
+                }
+            };
+            // load needed scripts via yepnope so they aren't blocking
+            yepnope({
+                load: [
+                    "//edge.ldscdn.org/ml/ldsorg/ver/scripts/medialoader/lds.mediaLoader1.2.10.min.js",
+                    "//edge.ldscdn.org/scripts/other/handlebars/handlebars1.0.0.beta.3.min.js"
+                ],
+                complete:function(){
+                    // setup the plugin for audio
+                    $('#audio-player').mediaLoader({
+                        template:"#media-template-audio",
+                        mediaList:mediaList,
+                        hashLabel:'listen',
+                        audioCss:"//edge.ldscdn.org/ml/ldsorg/css/common/audio.css",
+                        audioJs:"//edge.ldscdn.org/scripts/jquery/plugins/jplayer/2.1.0/jplayer.min.js"
+                    });
+                    // setup plugin for video
+                    $('#video-player').mediaLoader({
+                        template:"#media-template-video",
+                        mediaList:mediaList,
+                        hashLabel:'watch',
+                        playerOptions : {
+                            "wmode":"transparent",
+                            "isVid":"true",
+                            "isUI":"true",
+                            "dynamicStreaming":"true",
+                            "bgcolor":"#fff",
+                            "width":470,
+                            "height":264
+                        },
+                        onopen:function(event, self){
+                            if(self.curMedia.type != "audio"){
+                                //get down below fixed navigation bar, but only if we need to
+                                var targetTop = self.element.offset().top-65;
+                                if($(window).scrollTop() > targetTop) {
+                                    window.scrollTo(0,targetTop);
+                                }
+                                if(self.curMedia.type != "image"){
+                                    $(".media-placeholder",self.element).css("min-height",self.options.playerOptions.height);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script><script id="media-template-audio" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div id="lds-player-interface" class="lds-player simple">
+            <ul class="jp-controls">
+                <li><a href="#" class="jp-previous iconfont previous"></a></li>
+                <li><a href="#" class="jp-play iconfont play"></a></li>
+                <li><a href="#" class="jp-pause iconfont pause"></a></li>
+                <li><a href="#" class="jp-next iconfont next"></a></li>
+            </ul>
+            <div class="jp-title">
+                <h3></h3>
+                <h4></h4>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-time-wrapper">
+                    <div class="jp-current-time">00:00</div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
+                        </div>
+                    </div>
+                    <div class="jp-duration">00:00</div>
+                </div>
+            </div>
+            <ul class="jp-toggles">
+                <li><a href="#" class="jp-shuffle iconfont shuffle" id="shuffle"></a></li>
+                <li class="jp-volume">
+                    <a href="#" class="jp-mute iconfont mute"></a>
+                    <a href="#" class="jp-unmute iconfont unmute"></a>
+                    <div class="jp-volume-bar-holder">
+                        <div class="jp-volume-bar-bg">
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script id="media-template-video" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/context-bar.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/imageResize.js">&nbsp;</script><script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script><script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><script src="//edge.ldscdn.org/ml/ldsorg/notebook/20130501/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            // All resources in bundle studytools
+            if (DATA) {
+                DATA.addResources(
+                    {
+                        'openNotebook' : 'Open Notebook','journal' : 'Journal','separateWithCommas' : 'Separate with commas','share' : 'Share','addTo' : 'Add to:','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','saveButtonText' : 'Save','serviceUnavailable' : 'My Study Tools are currently unavailable.','maintenance' : 'The Study Notebook is currently undergoing maintenance','printWithoutNotes' : 'Without notes','printButtonText' : 'Print','printSelectedNote' : 'Print selected note','signIn' : 'Sign in','includeDetails' : 'Include details','undelete' : 'Undelete','highlights' : 'Highlights','nameMaxLengthError' : 'Max length for name is 200 characters','confirmDeleteBookmark' : 'Remove bookmark?','printEntireNotebook' : 'Print entire notebook','editBookmark' : 'Edit Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','drag' : 'Drag','edit' : 'Edit','highlight' : 'Highlight','bookmarks' : 'Bookmarks','name' : 'Name','collections' : 'notebooks','includeJournalEntries' : 'Include journal entries','signInMessage' : '\ to bookmark pages, highlight text, and write notes.','addNewCollection' : 'Add new notebook:','delete' : 'Delete','fromLabel' : 'From:','deleteCollection' : 'Delete notebook','includeHighlights' : 'Include highlights','journalEntry' : 'Journal entry','includeJournals' : 'Include journal entries','noCollections' : 'none','clearSearch' : 'Clear Search','areYouSure' : 'Are you sure?','bookmarkTitle' : 'Bookmark page','search' : 'Search','addNote' : 'add note','fileType' : 'File Type','reference' : 'Reference','okay' : 'Okay','saving' : 'Saving','noteMaxLengthError' : 'Max length for note is 4000 characters','studyMode' : 'Study Mode','printCollectionDetails' : 'Print the contents of this notebook.','unassignedFolder' : 'Unassigned Items','journalEntryRequiredError' : 'Journal entry required','modified' : 'Modified','editHighlight' : 'Edit highlight','copyHighlight' : 'Copy Highlight','backupXML' : 'Backup (XML)','addCollection' : 'Add notebook','collectionNameTooLongError' : 'Max length is 200','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','editAnnotation' : 'Edit tags and notes','download' : 'Download','links' : 'Links','close' : 'close','note' : 'Note','inLabel' : 'In','bookmark' : 'Bookmark','trash' : 'Trash','journalEntries' : 'Journal Entries','cancelButton' : 'Cancel','generalConference' : 'General Conference','collectionNameEmptyError' : 'Enter a notebooks name','searchResults' : 'Search Results','rename' : 'Rename','advancedSearch' : 'Advanced Search','deleting' : 'Deleting','printCollection' : 'Print Notebook','print' : 'Print','add' : 'Add','emptyTrash' : 'Empty','references' : 'Links','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','someonesStudyNotebook' : '\'s Study Notebook','deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','studyNotebook' : 'Notes and Journal','tagsMaxLengthError' : 'Max length for tags is 4000 characters','signInAgain' : 'Please sign in again.','today' : 'Today','addJournalEntry' : 'add journal entry','source' : 'Source','emptyJournalError' : 'Cannot save without journal entry.','addCollectionInput' : 'add notebook','error' : 'Error','restore' : 'Restore','confirmDeleteHighlight' : 'Really delete?','optional' : 'optional','taggedWith' : 'Tagged with','type' : 'Type','includeBookmarks' : 'Include bookmarks','toLabel' : 'To:','downloadNotebook' : 'Download notebook','addTags' : 'add tags','addNewCollectionTitle' : 'Add new notebook','showAll' : 'show all','yesterday' : 'Yesterday','allItems' : 'All Items','addBookmark' : 'Add Bookmark','renameCollection' : 'Rename notebook','tags' : 'Tags','loadMore' : 'load more','journalTitle' : 'Add journal entry','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','notebooks' : 'Notebooks','help' : 'Help','printWithNotes' : 'With notes','introTitle' : 'Save to your Study Notebook','loading' : 'loading','addJournalEntryButton' : 'Add journal entry','collectionListTitle' : 'Notebooks','shareTitle' : 'Share Page','save' : 'Save'
+                    }
+                );
+            }
+        </script>
+    </body>
+</html>

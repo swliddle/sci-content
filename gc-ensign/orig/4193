@@ -1,0 +1,536 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Rejoice in This Great Era of Temple Building - Ensign Nov. 1985 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Rejoice in This Great Era of Temple Building - Ensign Nov. 1985"><meta name="KEYWORDS" content="temples"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Rejoice in This Great Era of Temple Building - Ensign Nov. 1985"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/gordon-b-hinckley-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1985/11?lang=eng">Nov. 1985</a>
+                     </li><li>
+                        <span class="active">Rejoice in This Great Era of Temple Building</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1985/11/questions-and-answers?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1985/11/spirituality?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Rejoice in This Great Era of Temple Building
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p3" class="">President Gordon B. Hinckley</p>
+				<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p" class="">Second Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/gordon-b-hinckley?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/gordon-b-hinckley-10.jpg" alt="Gordon B. Hinckley" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <h2>Rejoice in This Great Era of Temple Building</h2>
+                            <span style="display: none" id="article-id">03193_000_021</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p4" class="">My beloved brethren and sisters, I feel profoundly grateful for the sustaining faith and prayers of the Latter-day Saints. To stand before you in this capacity is a most serious and sacred responsibility. I claim no special talent. I hope that all of you realize that I am not here of my own choice. I did not seek this responsibility. It was placed upon me by the prophet of the Lord. It is one from which I cannot shrink.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p5" class="">I am driven by two resolutions. The first is to serve the Lord to the very best of my ability. I think I understand, in some small measure at least, what that means. The second is to serve His chosen prophet, President Spencer W. Kimball, and lift from his shoulders every burden that I legitimately can. I consider these to be sacred and binding obligations and more important than all other considerations.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p6" class="">I am profoundly grateful to my Brethren of the Council of the Twelve Apostles, who consistently and without exception have met every request and every assignment given them. They have been most supportive. The same holds true for the members of the First Quorum of the Seventy and the Presiding Bishopric. I repeat what I have said before at this pulpit, that there is perfect unity among the Brethren. They are not yes-men. Each is a man of understanding, of conviction, of great proven ability. Each is also a man of humility, with a willingness to subdue all personal considerations and place first the work of the Lord.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p7" class="">My constant association with these able and dedicated Brethren is for me a constantly unfolding miracle. We deal with many problems of a serious nature, with many forces impacting on the solution to those problems. Each man is encouraged and is free to give his opinion and express his judgment. It is a most remarkable and wonderful thing to witness how, under the influence of the Holy Spirit, there is a gradual melding of judgment, which invariably leads to a united decision.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p8" class="">No policy of importance, no action of consequence, is taken without consideration in the highest councils of the Church and without unanimity of feeling on the decisions reached. No such action is taken without earnest and sincere prayer and without a plea to the Almighty for guidance and revelation, and, further, without the approval of the President of the Church.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p9" class="">Some wonder about who is directing the Church. I give you my solemn testimony that inspiration from on high is received and that it is our Father in Heaven and His Beloved Son, the Redeemer of the world, who are guiding and directing this church to bring to pass their eternal purposes in behalf of the sons and daughters of God.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p10" class="">These are important and vital days in the work of the Lord. For instance, we are living in one of the most significant and important epochs in the history of the Church and in the history of God&rsquo;s work among His people. We are living in the greatest era of temple building ever witnessed, and of that I wish to speak for a few minutes.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p11" class="">I sing with conviction our great Latter-day Saint <a class="no-link-style" href="http://lds.org/cm/display/0,17631,4650-1,00.html">hymn</a>, &ldquo;We thank thee, O God, for a prophet, to guide us in these latter days&rdquo; (<span class="emphasis">Hymns,</span> 1985, no. 19.) I sing it in appreciation for and tribute to the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, through whom the foundation of this work was revealed in this the dispensation of the fulness of times. I sing it in appreciation for and tribute to him whom we today honor as our prophet, President Spencer W. Kimball.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p12" class="">Temple building and the dedication of temples have gone on at such a pace in the last few years that some pay little attention and feel it is of small significance.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p13" class="">But the adversary has not been unmindful of it. The building and dedication of these sacred edifices have been accompanied by a surge of opposition from a few enemies of the Church as well as criticism from a few within. This has brought to mind a statement of Brigham Young in 1861 while the Salt Lake Temple was under construction. Evidently when someone with previous experience was asked to work on the Salt Lake Temple, he responded, &ldquo;I do not like to do it, for we never began to build a Temple without the bells of hell beginning to ring.&rdquo;</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p14" class="">To which Brigham Young replied, &ldquo;I want to hear them ring again. All the tribes of hell will be on the move, if we uncover the walls of this Temple. But what do you think it will amount to? You have all the time seen what it has amounted to.&rdquo; (In <span class="emphasis"><a class="no-link-style" href="http://lds.org/study/topics/journal-of-discourses?lang=eng">Journal of Discourses</a>,</span> 8:355&ndash;56.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p15" class="">Yes, in these recent times we have felt much of opposition, but we have also noted the frustration of those who have tried to stop this work. We have been strengthened, and we have moved forward under the promise of the Lord, who said: &ldquo;I will not suffer that they [the enemy] shall destroy my work; yea, I will show unto them that my wisdom is greater than the cunning of the devil.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/10.43?lang=eng#42" onclick="newWindow(this.href); return false;">D&amp;C 10:43</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p16" class="">In little more than two and a half years we have dedicated sixteen new temples and rededicated the restored Manti Temple. Before the end of the year, we shall dedicate at least one more, so that we will have dedicated six in 1983, six in 1984, and six in 1985. This great impetus in temple building was given by President Kimball under revelation from the Lord, whose work this is. The sacred and important work that goes on in temples must be accelerated, and for this to happen, it is necessary that temples be taken closer to the people rather than having the people travel so far to temples.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p17" class="">I wish that anyone who has any doubt concerning the strength and power of this cause could have had the experiences that I have had in recent months in these dedicatory services in the United States, in Asia and Australia, in Mexico, Central America, and South America, in Europe and Africa. I have looked into the faces of tens of thousands of Latter-day Saints. Their skins are of varying colors and hues. But their hearts beat as one with testimony and conviction concerning the truth of this great restored work of God. I have heard their testimonies spoken with sincerity. I have listened to their prayers. I have heard them lift their voices in anthems of praise. I have seen their tears of <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a>. I have known of their sacrifices made in appreciation for the blessings that have come to them.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p18" class="">Their languages have been many, but they have spoken as with one voice in testimony of divine and eternal truth restored to earth. These are men and women who love the Lord, who understand His eternal plan, who are imbued with a selflessness that prompts dedicated service without expectation of thanks or reward. It has been the same everywhere we have been. I wish there were time to speak of experiences in each of these many temple dedication services. I can touch only lightly on three or four.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p19" class="">I have been to Mexico a number of times extending over a period of many years. Once our people there seemed so poor, their education so meager. They appeared to be seriously handicapped in many ways.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p20" class="">Now, recently, when the Mexico City Temple was dedicated, they came by the thousands. They were clean, their faces bright and smiling, their clothes neat and attractive. They bore every mark of education and refinement. There was something of greatness apparent in them. Most of them have the blood of Lehi in their veins. The shackles of darkness have fallen from their eyes, as promised by the prophets of the Book of Mormon. They have become &ldquo;a pure and a delightsome people.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/30.6?lang=eng#5" onclick="newWindow(this.href); return false;">2 Ne. 30:6</a>.) What a wonderfully uplifting experience it was to be with them and to witness the miraculous power of God in their lives.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p21" class="">I could not hold back the tears when we were in the Philippines. It was my privilege to participate in the opening of <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a> in that land in 1961. At that time we did not have a building of any kind, and we had only one native member of the Church of whom we were aware. In 1984, only twenty-three years later, it was our privilege to dedicate a beautiful temple of the Lord in a choice area of the great metropolis of Manila. I looked into the faces of those thousands of enlightened and faithful Latter-day Saints on whom the Lord is pouring out His blessings in a marvelous and wonderful way. In less than a quarter of a century, from the one native member we found in 1961, the Church has grown to well over a hundred thousand. These are my friends, the people I love, among whom I have worked and to whom I have taught the gospel. The opening of the temple represented the fulness of gospel opportunity for them, the longed-for fruition of their dreams.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p22" class="">In Freiberg, Germany, this past August we dedicated another beautiful and sacred house of God. Before the dedication, when the building was open for public viewing, only a few less than ninety thousand came to enter its precincts. Many stood in the rain for hours.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p23" class="">The faithful Saints sacrificed their money, their jewelry, their comfort to assist in building that temple.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p24" class="">One of their number who attended the dedication wrote: &ldquo;There was a solemn stillness, and there was not a dry eye. The sun was shining after a long time. &hellip; You could sense gladness and enthusiasm and the wish for a never-ending harmony. &hellip; Tears, laughter, and gladness; everything was present.&rdquo;</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p25" class="">While recognizing the different political philosophies under which we live, I express sincere appreciation to the officials of the government of that nation for their help in making possible this sacred edifice for the blessing of our brethren and sisters in that land.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p26" class="">We recently returned from Johannesburg, South Africa. Here in the United States we see in the public press and on television much of conflict in that area. But in the house of God, that beautiful Johannesburg Temple, there was peace, the peace of the Lord, the peace that &ldquo;passeth all understanding.&rdquo; (<a href="http://lds.org/scriptures/nt/philip/4.7?lang=eng#6" onclick="newWindow(this.href); return false;">Philip. 4:7</a>.) Mingling together as brethren and sisters, bound by eternal covenants with the Almighty, were people with different roots. Among them were those descended from the Dutch who long ago went to that land, those who descended from the British who had fought the Dutch, and also those who came of the native peoples of Africa. There was fellowship, there was love, there was unity and mutual respect among all assembled in the house of the Lord.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p27" class="">We experienced much of rejoicing on these sacred occasions, not only in the temples I have named, but in every other as well. Following the dedication of each of these temples, the ordinance work was begun, and it has gone forward without let or hindrance to the blessing of thousands on this side of the veil and tens of thousands on the other side of the veil. If there is any work in all the world that demonstrates the universality of God&rsquo;s love, it is the selfless work that goes on in these sacred houses.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p28" class=""><a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, the Son of God, gave His life on Calvary&rsquo;s cross as an atonement for the sins of mankind. His was a vicarious sacrifice for each of us. Through that sacrifice came the promise of the <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">resurrection</a> for all. This has come through the grace of God, without effort on the part of men. And beyond this, through the keys of the holy priesthood conferred upon the Twelve by the Lord when He walked among them, which keys were restored in this dispensation by those who held them anciently&mdash;through these have come great added blessings, including those unique and remarkable ordinances administered in the house of the Lord. Only in those ordinances is there realized the exercise of &ldquo;the fulness of the priesthood.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/124.28?lang=eng#27" onclick="newWindow(this.href); return false;">D&amp;C 124:28</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p29" class="">I assume there is no Christian who does not acknowledge the necessity for and the importance of <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a> &ldquo;of water and of the Spirit.&rdquo; None could legitimately deny this necessity in view of the statement given by the Master to Nicodemus: &ldquo;Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.&rdquo; (<a href="http://lds.org/scriptures/nt/john/3.5?lang=eng#4" onclick="newWindow(this.href); return false;">John 3:5</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p30" class="">Are the uncounted millions who have died without baptism to be denied the blessings of the kingdom of God because they were innocent of the requirement?</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p31" class="">It is inconceivable to me that anyone could believe that the God who is the Father of us all would so discriminate among His children in terms of their eternal blessings.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p32" class="">No, there must be universal opportunity if there is to be universal justice.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p33" class="">Paul&rsquo;s question to the Corinthian Saints offers scriptural confirmation of the practice of proxy baptism in behalf of the deceased: &ldquo;Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/15.29?lang=eng#28" onclick="newWindow(this.href); return false;">1 Cor. 15:29</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p34" class="">The word of Jesus to Nicodemus did not allow for exemption. In each of the temples of The Church of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> of Latter-day Saints is a font wherein living proxies may be baptized in behalf of the dead. I do not like to speak of them as &ldquo;the dead.&rdquo; I believe that under the great plan of our Eternal Father and through the atonement of Christ, they are living. Though they have died as to their mortal bodies, they have retained their identity as individuals. They are personalities as much so as are we, and as entitled to the blessings that pertain to eternal life. Am I more worthy of these transcendent blessings than are my forebears through whom has come my inheritance?</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p35" class="">The house of the Lord is a house of purity. Those who serve therein dress in spotless white. They participate in sacred ordinances. They are instructed in the eternal plan of the Lord. They make covenants enjoining personal morality and rectitude, unselfishness and service. Their activities are anticipatory of that scene described by John the Revelator: &ldquo;What are these which are arrayed in white robes? &hellip;</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p36" class="">&ldquo;Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p37" class="">&ldquo;They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p38" class="">&ldquo;For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.&rdquo; (<a href="http://lds.org/scriptures/nt/rev/7.13,15-17?lang=eng#12" onclick="newWindow(this.href); return false;">Rev. 7:13, 15&ndash;17</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p39" class="">Here in these holy houses husbands and wives are sealed together under that same authority which the Lord gave His Apostles anciently. &ldquo;When Jesus came into the coasts of Caesarea Philippi,&rdquo; he conversed with His disciples, and out of that conversation came Peter&rsquo;s moving declaration: &ldquo;Thou art the Christ, the Son of the living God.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/16.13,16?lang=eng#12" onclick="newWindow(this.href); return false;">Matt. 16:13, 16</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p40" class="">The Savior then spoke of the power of revelation through which that knowledge had come and of that principle of revelation upon which His church should be built. He then went on to say to these, His chosen brethren: &ldquo;And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/16.19?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 16:19</a>.)</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p41" class="">Marriage, solemnized in the temples of the Church, is performed in the authority of that same holy priesthood, not only for this life, but for the next as well.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p42" class="">The separation of loved ones in death is always fraught with sorrow. It would be fraught with hopelessness if there were not some alternative to the finality of the &ldquo;until death do thee part&rdquo; pronouncement in most marriage ceremonies.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p43" class="">It need not be so. Reason would deny that the Father who loves us all would tear asunder the most sacred relationship of all human experience and banish the companionship of marriage by those who love, honor, and respect one another. But there must be rules. There must be compliance. There must be obedience. The way is clear, made so through the exercise of the holy priesthood in these sacred temples.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p44" class="">The other day I sat beside a friend who had lost his beloved companion. He wept in loneliness, now bereft of an association of more than half a century which had been the very bulwark of his life. But shining through his tears and towering above his doubts was the certain conviction that the marriage performed many, many years ago had been joined by an authority whose power reached beyond the veil of death and which would be as efficacious there as it had been here.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p45" class="">Small wonder, my brethren and sisters, that with the opening of these new temples I have seen the tears of strong men who have embraced their wives at the altars in these sacred houses. I have seen the tears of fathers and mothers as they have embraced their children at these same altars. Through the power here exercised they have come to know that neither time nor death can destroy the bonds which bind them together.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p46" class="">And just as these bonds are efficacious for the living, so are they for the dead when living proxies stand in their stead to receive these ordinances. This work, unselfishly given in behalf of those on the other side, comes nearer to the unparalleled vicarious work of the Savior than any other of which I know. The great and important work of teaching the gospel of Christ to the people of the world is incomplete, at best, if it does not also provide for that teaching to those in another sphere and making available to them those gospel ordinances required of all if they are to move forward on the way of eternal life.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p47" class="">These temples are there to be used, and those who use them will reap a blessing of harmony in their lives. They will draw nearer unto the Lord, and He will draw nearer unto them.</p>
+			<p uri="/ensign/1985/11/rejoice-in-this-great-era-of-temple-building.p48" class="">There are those few who mock our temple work. They may mock the language, but they cannot mock the Spirit, nor can they mock the truth. I bear testimony of the universality of our Father&rsquo;s love, of the universality of the salvation from death which came through the sacrifice of the Savior, of the universality of the opportunity for all generations of men and women to the great blessings of our Father, who said, &ldquo;This is my work and my glory&mdash;to bring to pass the <a class="no-link-style" href="http://lds.org/study/topics/immortality?lang=eng">immortality</a> and eternal life of man.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/1.39?lang=eng#38" onclick="newWindow(this.href); return false;">Moses 1:39</a>.) I so testify in the name of the Lord Jesus Christ, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1985/11/questions-and-answers?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1985/11/spirituality?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1985">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1985/11/rejoice-in-this-great-era-of-temple-building?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Rejoice in This Great Era of Temple Building - Ensign Nov. 1985&amp;link=/ensign/1985/11/rejoice-in-this-great-era-of-temple-building&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1985%2F11%2Frejoice-in-this-great-era-of-temple-building%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building%3flang%3deng%26cid%3dfacebook-shared&amp;t=Rejoice+in+This+Great+Era+of+Temple+Building+-+Ensign+Nov.+1985" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building%3flang%3deng%26cid%3ddelicious-shared&amp;title=Rejoice+in+This+Great+Era+of+Temple+Building+-+Ensign+Nov.+1985" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1985/11/rejoice-in-this-great-era-of-temple-building%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Rejoice in This Great Era of Temple Building - Ensign Nov. 1985&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1985:11:rejoice in this great era of temple building";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

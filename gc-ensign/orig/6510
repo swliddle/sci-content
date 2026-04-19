@@ -1,0 +1,899 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Personal Preparation for Temple Blessings - Ensign May 2001 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Personal Preparation for Temple Blessings - Ensign May 2001"><meta name="KEYWORDS" content="Atonement,commitment,covenants,death,faith,leadership,morality,obedience,ordinances,preparation,priesthood,spirituality,symbols,temples,temple work,temptation,tithing,worship,worthiness"><meta name="DESCRIPTION" content="Those who enter the temple are also to bear the attribute of holiness. &hellip; We can acquire holiness only by enduring and persistent personal effort."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Personal Preparation for Temple Blessings - Ensign May 2001"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/2001/05/personal-preparation-for-temple-blessings?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg"><meta property="og:description" content="Those who enter the temple are also to bear the attribute of holiness. &hellip; We can acquire holiness only by enduring and persistent personal effort."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/2001/05/personal-preparation-for-temple-blessings?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/2001/05/personal-preparation-for-temple-blessings?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/2001/05/personal-preparation-for-temple-blessings?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/2001/05?lang=eng">May 2001</a>
+                     </li><li>
+                        <span class="active">Personal Preparation for Temple Blessings</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2001/05/to-bear-testimony-of-mine-only-begotten?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2001/05/building-a-community-of-saints?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Personal Preparation for Temple Blessings
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng"><div class="byline" id="">
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p2" class="">Elder Russell M. Nelson</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p" class="">Of the Quorum of the Twelve Apostles</p>
+			</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg" alt="Russell M. Nelson" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">Those who enter the temple are also to bear the attribute of holiness. &hellip; We can acquire holiness only by enduring and persistent personal effort.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">21905_000_016</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p4" class="">Under President Gordon B. Hinckley&rsquo;s inspired direction, temples are now more accessible than ever. Inscribed on each temple are the words &ldquo;Holiness to the Lord.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-21905_000_016">1</a>
+      </sup> That statement designates both the temple and its purposes as holy. Those who enter the temple are also to bear the attribute of holiness.<sup class="noteMarker">
+	<a href="#footnote2-21905_000_016">2</a>
+      </sup> It may be easier to ascribe holiness to a building than it is to a people. We can acquire holiness only by enduring and persistent personal effort. Through the ages, servants of the Lord have warned against unholiness. Jacob, brother of Nephi, wrote: &ldquo;I would speak unto you of holiness; but as ye are not holy, and ye look upon me as a teacher, [I] must &hellip; teach you the consequences of sin.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-21905_000_016">3</a>
+      </sup></p>
+			<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p5" class="">Now I feel that same sense of responsibility to teach. As temples are prepared for our members, our members need to prepare for the temple.</p>
+			<div>
+				<h2>The Temple</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p7" class="">The temple is the house of the Lord. The basis for every temple ordinance and covenant&mdash;the heart of the plan of salvation&mdash;is the Atonement of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>. Every activity, every lesson, all we do in the Church, point to the Lord and His holy house. Our efforts to proclaim the gospel, perfect the Saints, and redeem the dead all lead to the temple. Each holy temple stands as a symbol of our membership in the Church,<sup class="noteMarker">
+	  <a href="#footnote4-21905_000_016">4</a>
+	</sup> as a sign of our faith in life after death, and as a sacred step toward eternal glory for us and our families.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p8" class="">President Hinckley said that &ldquo;these unique and wonderful buildings, and the ordinances administered therein, represent the ultimate in our worship. These ordinances become the most profound expressions of our theology.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote5-21905_000_016">5</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p9" class="">To enter the temple is a tremendous blessing. But first we must be worthy. We should not be rushed. We cannot cut corners of preparation and risk the breaking of covenants we were not prepared to make. That would be worse than not making them at all.</p>
+			</div>
+			<div>
+				<h2>The Endowment</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p11" class="">In the temple we receive an endowment, which is, literally speaking, a gift. In receiving this gift, we should understand its significance and the importance of keeping sacred covenants. Each temple ordinance &ldquo;is not just a ritual to go through, it is an act of solemn promising.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote6-21905_000_016">6</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p12" class="">The temple endowment was given by revelation. Thus, it is best understood by revelation, prayerfully sought with a sincere heart.<sup class="noteMarker">
+	  <a href="#footnote7-21905_000_016">7</a>
+	</sup> President Brigham Young said, &ldquo;Your endowment is, to receive all those ordinances in the house of the Lord, which are necessary for you, after you have departed this life, to enable you to walk back to the presence of the Father, &hellip; and gain your eternal exaltation.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote8-21905_000_016">8</a>
+	</sup></p>
+			</div>
+			<div>
+				<h2>Sealing Authority</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p14" class="">In preparing to receive the endowment and other ordinances of the temple, we should understand the sealing authority of the priesthood. Jesus referred to this authority long ago when He taught His Apostles, &ldquo;Whatsoever thou shalt bind on earth shall be bound in heaven.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote9-21905_000_016">9</a>
+	</sup> That same authority has been restored in these latter days. Just as priesthood is eternal&mdash;without beginning or end&mdash;so is the effect of priesthood ordinances that bind families together forever.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p15" class="">Temple ordinances, covenants, endowments, and sealings enable individuals to be reconciled with the Lord and families to be sealed beyond the veil of death. Obedience to temple covenants qualifies us for eternal life, the greatest gift of God to man.<sup class="noteMarker">
+	  <a href="#footnote10-21905_000_016">10</a>
+	</sup> Eternal life is more than <a class="no-link-style" href="http://lds.org/study/topics/immortality?lang=eng">immortality</a>. Eternal life is exaltation in the highest heaven&mdash;the kind of life that God lives.</p>
+			</div>
+			<div>
+				<h2>Temple Recommend</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p17" class="">Preparation also includes qualification for a temple recommend. Our Redeemer requires that His temples be protected from desecration. No unclean thing may enter His hallowed house.<sup class="noteMarker">
+	  <a href="#footnote11-21905_000_016">11</a>
+	</sup> Yet anyone is welcome who prepares well. Each person applying for a recommend will be interviewed by a judge in Israel&mdash;the bishop&mdash;and by a stake president.<sup class="noteMarker">
+	  <a href="#footnote12-21905_000_016">12</a>
+	</sup> They hold keys of priesthood authority and the responsibility to help us know when our preparation and timing are appropriate to enter the temple. Their interviews will assess several vital issues. They will ask if we obey the law of tithing, if we keep the Word of Wisdom, and if we sustain the authorities of the Church. They will ask if we are honest, if we are morally clean, and if we honor the power of procreation as a sacred trust from our Creator.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p18" class="">Why are these issues so crucial? Because they are spiritual separators. They help to determine if we truly live as children of the covenant,<sup class="noteMarker">
+	  <a href="#footnote13-21905_000_016">13</a>
+	</sup> able to resist temptation from servants of sin.<sup class="noteMarker">
+	  <a href="#footnote14-21905_000_016">14</a>
+	</sup> These interviews help to discern if we are willing to live in accord with the will of the true and living God or if our hearts are still set &ldquo;upon riches and &hellip; vain things of the world.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote15-21905_000_016">15</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p19" class="">Such requirements are not difficult to understand. Because the temple is the house of the Lord, standards for admission are set by Him. One enters as His guest. To hold a temple recommend is a priceless privilege and a tangible sign of obedience to God and His prophets.<sup class="noteMarker">
+	  <a href="#footnote16-21905_000_016">16</a>
+	</sup></p>
+			</div>
+			<div>
+				<h2>Physical Preparation for the Temple</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p21" class="">One prepares physically for the temple by dressing properly. It is not a place for casual attire. &ldquo;We should dress in such a way that we might comfortably attend a sacrament meeting or a gathering that is proper and dignified.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote17-21905_000_016">17</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p22" class="">Within the temple, all are dressed in spotless white to remind us that God is to have a pure people.<sup class="noteMarker">
+	  <a href="#footnote18-21905_000_016">18</a>
+	</sup> Nationality, language, or position in the Church are of secondary significance. In that democracy of dress, all sit side by side and are considered equal in the eyes of our Maker.<sup class="noteMarker">
+	  <a href="#footnote19-21905_000_016">19</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p23" class="">Brides and grooms enter the temple to be married for time and all eternity. There brides wear white dresses&mdash;long sleeved, modest in design and fabric, and free of elaborate ornamentation. Grooms also dress in white. And brethren who come to witness weddings do not wear tuxedos.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p24" class="">Wearing the temple garment has deep symbolic significance. It represents a continuing commitment.<sup class="noteMarker">
+	  <a href="#footnote20-21905_000_016">20</a>
+	</sup> Just as the Savior exemplified the need to endure to the end, we wear the garment faithfully as part of the enduring armor of God.<sup class="noteMarker">
+	  <a href="#footnote21-21905_000_016">21</a>
+	</sup> Thus we demonstrate our faith in Him and in His eternal covenants with us.<sup class="noteMarker">
+	  <a href="#footnote22-21905_000_016">22</a>
+	</sup></p>
+			</div>
+			<div>
+				<h2>Spiritual Preparation for the Temple</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p26" class="">In addition to physical preparation, we prepare spiritually. Because the ordinances and covenants of the temple are sacred, we are under solemn obligation not to speak outside the temple of that which occurs in the temple. There are, however, some principles we can discuss.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p27" class="">Each temple is a house of learning.<sup class="noteMarker">
+	  <a href="#footnote23-21905_000_016">23</a>
+	</sup> There we are taught in the Master&rsquo;s way.<sup class="noteMarker">
+	  <a href="#footnote24-21905_000_016">24</a>
+	</sup> His way differs from modes of others. His way is ancient and rich with symbolism. We can learn much by pondering the reality for which each symbol stands.<sup class="noteMarker">
+	  <a href="#footnote25-21905_000_016">25</a>
+	</sup> Teachings of the temple are beautifully simple and simply beautiful. They are understood by the humble, yet they can excite the intellect of the brightest minds.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p28" class="">Spiritual preparation is enhanced by study. I like to recommend that members going to the temple for the first time read short explanatory paragraphs in the <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a> Dictionary, listed under seven topics:<sup class="noteMarker">
+	  <a href="#footnote26-21905_000_016">26</a>
+	</sup> &ldquo;Anoint,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote27-21905_000_016">27</a>
+	</sup> &ldquo;Atonement,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote28-21905_000_016">28</a>
+	</sup> &ldquo;<a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote29-21905_000_016">29</a>
+	</sup> &ldquo;Covenant,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote30-21905_000_016">30</a>
+	</sup> &ldquo;Fall of Adam,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote31-21905_000_016">31</a>
+	</sup> &ldquo;Sacrifices,&rdquo;<sup class="noteMarker">
+	  <a href="#footnote32-21905_000_016">32</a>
+	</sup> and &ldquo;Temple.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote33-21905_000_016">33</a>
+	</sup> Doing so will provide a firm foundation.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p29" class="">One may also read in the Old Testament<sup class="noteMarker">
+	  <a href="#footnote34-21905_000_016">34</a>
+	</sup> and the books of <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> and Abraham in the Pearl of Great Price. Such a review of ancient scripture is even more enlightening <span class="emphasis">after</span> one is familiar with the temple endowment. Those books underscore the antiquity of temple work.<sup class="noteMarker">
+	  <a href="#footnote35-21905_000_016">35</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p30" class="">With each ordinance is a covenant&mdash;a promise. A covenant made with God is not restrictive, but protective. Such a concept is not new. For example, if our water supply is not clean, we filter the water to screen out harmful ingredients. Divine covenants help us to filter out of our minds impurities that could harm us. When we choose to deny ourselves of all ungodliness,<sup class="noteMarker">
+	  <a href="#footnote36-21905_000_016">36</a>
+	</sup> we lose nothing of value and gain the glory of eternal life. Covenants do not hold us down; they elevate us beyond the limits of our own power and perspective.</p>
+			</div>
+			<div>
+				<h2>Eternal Perspective</h2>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p32" class="">President Hinckley has explained that lofty perspective: &ldquo;There is a goal beyond the <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">Resurrection</a>,&rdquo; he said. &ldquo;That is exaltation in our Father&rsquo;s kingdom. &hellip; It will begin with acceptance of him as our Eternal Father and of his son as our living Redeemer. It will involve participation in various ordinances, each one important and necessary. The first of these is <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a> by immersion in water, without which, according to the Savior, a man cannot enter into the kingdom of God. There must follow the birth of the Spirit, the gift of the Holy Ghost. Then in succession through the years will come, for men, ordination to the priesthood, followed by the blessings of the temple for both men and women who are worthy to enter therein. These temple blessings include our washings and anointings that we may be clean before the Lord. They include the &hellip; endowment of obligations and blessings that motivate us to behavior compatible with the principles of the gospel. They include the sealing ordinances by which that which is bound on earth is bound in heaven, providing for the continuity of the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote37-21905_000_016">37</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p33" class="">I have learned that temple blessings are most meaningful when death takes a loved one away from the family circle. To know that the pain of separation is only temporary provides peace that passes ordinary understanding.<sup class="noteMarker">
+	  <a href="#footnote38-21905_000_016">38</a>
+	</sup> Death cannot sever families sealed in the temple. They understand death as a necessary part of God&rsquo;s great plan of happiness.<sup class="noteMarker">
+	  <a href="#footnote39-21905_000_016">39</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p34" class="">Such perspective helps us to maintain fidelity to covenants made. President <a href="http://lds.org/church/leader/boyd-k-packer?lang=eng">Boyd K. Packer</a> emphasized that &ldquo;ordinances and covenants become our credentials for admission into [God&rsquo;s] presence. To worthily receive them is the quest of a lifetime; to keep them thereafter is the challenge of mortality.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote40-21905_000_016">40</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p35" class="">Ordinances of the temple relate to <span class="emphasis">personal</span> progress and to the redemption of departed <span class="emphasis">ancestors</span> as well. &ldquo;For their salvation is necessary and essential to our salvation, &hellip; they without us cannot be made perfect&mdash;neither can we without our dead be made perfect.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote41-21905_000_016">41</a>
+	</sup> Service in their behalf provides repeated opportunities for temple worship. And that service deserves commitment to a planned schedule. By doing for others what they cannot do for themselves, we emulate the pattern of the Savior, who wrought the Atonement to bless the lives of other people.</p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p36" class="">One day we will meet our Maker and stand before Him at Judgment.<sup class="noteMarker">
+	  <a href="#footnote42-21905_000_016">42</a>
+	</sup> We will be judged according to our ordinances, covenants, deeds, and the desires of our hearts.<sup class="noteMarker">
+	  <a href="#footnote43-21905_000_016">43</a>
+	</sup></p>
+				<p uri="/ensign/2001/05/personal-preparation-for-temple-blessings.p37" class="">Meanwhile, in this world smitten with spiritual decay, can individuals prepared for temple blessings make a difference? Yes! Those Saints are &ldquo;the covenant people of the Lord, &hellip; armed with righteousness and with the power of God in great glory.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote44-21905_000_016">44</a>
+	</sup> Their example can lift the lives of all humankind. I so testify in the name of Jesus Christ, amen.</p>
+			</div>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-21905_000_016">1.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/ot/ex/28.36?lang=eng#35" onclick="newWindow(this.href); return false;">Ex. 28:36</a>; <a href="http://lds.org/scriptures/ot/ex/39.30?lang=eng#29" onclick="newWindow(this.href); return false;">Ex. 39:30</a>; <a href="http://lds.org/scriptures/ot/ps/93.5?lang=eng#4" onclick="newWindow(this.href); return false;">Ps. 93:5</a>. Translated equivalents are used on temples in non-English-speaking localities.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-21905_000_016">2.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/ot/ex/19.5-6?lang=eng#4" onclick="newWindow(this.href); return false;">Ex. 19:5&ndash;6</a>; <a href="http://lds.org/scriptures/ot/lev/19.1-2?lang=eng#0" onclick="newWindow(this.href); return false;">Lev. 19:1&ndash;2</a>; <a href="http://lds.org/scriptures/ot/ps/24.3-5?lang=eng#2" onclick="newWindow(this.href); return false;">Ps. 24:3&ndash;5</a>; <a href="http://lds.org/scriptures/nt/1-thes/4.7?lang=eng#6" onclick="newWindow(this.href); return false;">1 Thes. 4:7</a>; <a href="http://lds.org/scriptures/bofm/moro/10.32-33?lang=eng#31" onclick="newWindow(this.href); return false;">Moro. 10:32&ndash;33</a>; <a href="http://lds.org/scriptures/dc-testament/dc/20.69?lang=eng#68" onclick="newWindow(this.href); return false;">D&amp;C 20:69</a>; <a href="http://lds.org/scriptures/dc-testament/dc/110.6-9?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 110:6&ndash;9</a>; see also Bible Dictionary, &ldquo;Holiness,&rdquo; 703&ndash;4.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-21905_000_016">3.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/2-ne/9.48?lang=eng#47" onclick="newWindow(this.href); return false;">2 Ne. 9:48</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-21905_000_016">4.</a>
+      </span>
+				<p>See &ldquo;Following the Master: Teachings of President Howard W. Hunter,&rdquo; <span class="emphasis">Ensign,</span> Apr. 1995, 21&ndash;22; Howard W. Hunter, &ldquo;The Great Symbol of Our Membership,&rdquo; <span class="emphasis">Tambuli,</span> Nov. 1994, 3.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-21905_000_016">5.</a>
+      </span>
+				<p>&ldquo;Of Missions, Temples, and Stewardship,&rdquo; <span class="emphasis">Ensign,</span> Nov. 1995, 53.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-21905_000_016">6.</a>
+      </span>
+				<p>Gordon B. Hinckley, <span class="emphasis">Teachings of Gordon B. Hinckley</span> (1997), 638.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-21905_000_016">7.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3" onclick="newWindow(this.href); return false;">Moro. 10:4&ndash;5</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-21905_000_016">8.</a>
+      </span>
+				<p><span class="emphasis">Discourses of Brigham Young,</span> sel. John A. Widtsoe (1941), 416.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-21905_000_016">9.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/16.19?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 16:19</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-21905_000_016">10.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6" onclick="newWindow(this.href); return false;">D&amp;C 14:7</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-21905_000_016">11.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/109.20?lang=eng#19" onclick="newWindow(this.href); return false;">D&amp;C 109:20</a>; see also <a href="http://lds.org/scriptures/ot/isa/52.11?lang=eng#10" onclick="newWindow(this.href); return false;">Isa. 52:11</a>; <a href="http://lds.org/scriptures/bofm/alma/11.37?lang=eng#36" onclick="newWindow(this.href); return false;">Alma 11:37</a>; <a href="http://lds.org/scriptures/bofm/3-ne/27.19?lang=eng#18" onclick="newWindow(this.href); return false;">3 Ne. 27:19</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote12-21905_000_016">12.</a>
+      </span>
+				<p>Or the branch president and mission president.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote13-21905_000_016">13.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/bofm/3-ne/20.26?lang=eng#25" onclick="newWindow(this.href); return false;">3 Ne. 20:26</a>; see also Russell M. Nelson, &ldquo;Children of the Covenant,&rdquo; <span class="emphasis">Ensign,</span> May 1995, 32.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote14-21905_000_016">14.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/rom/6.17,20?lang=eng#16" onclick="newWindow(this.href); return false;">Rom. 6:17, 20</a>; <a href="http://lds.org/scriptures/dc-testament/dc/121.17?lang=eng#16" onclick="newWindow(this.href); return false;">D&amp;C 121:17</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote15-21905_000_016">15.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/7.6?lang=eng#5" onclick="newWindow(this.href); return false;">Alma 7:6</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote16-21905_000_016">16.</a>
+      </span>
+				<p>President Hinckley said, &ldquo;I urge our people everywhere, with all of the persuasiveness of which I am capable, to live worthy to hold a temple recommend, to secure one and regard it as a precious asset, and to make a greater effort to go to the house of the Lord and partake of the spirit and the blessings to be had therein&rdquo; (&ldquo;Of Missions, Temples, and Stewardship,&rdquo; <span class="emphasis">Ensign,</span> Nov. 1995, 53).</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote17-21905_000_016">17.</a>
+      </span>
+				<p>Boyd K. Packer, <span class="emphasis">The Holy Temple</span> (1980), 73.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote18-21905_000_016">18.</a>
+      </span>
+				<p>See Neal A. Maxwell, <span class="emphasis">&ldquo;Not My Will, But Thine&rdquo;</span> (1988), 135; see also <a href="http://lds.org/scriptures/dc-testament/dc/100.16?lang=eng#15" onclick="newWindow(this.href); return false;">D&amp;C 100:16</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote19-21905_000_016">19.</a>
+      </span>
+				<p>This reminds us that &ldquo;God is no respecter of persons&rdquo; (<a href="http://lds.org/scriptures/nt/acts/10.34?lang=eng#33" onclick="newWindow(this.href); return false;">Acts 10:34</a>; see also <a href="http://lds.org/scriptures/bofm/moro/8.12?lang=eng#11" onclick="newWindow(this.href); return false;">Moro. 8:12</a>).</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote20-21905_000_016">20.</a>
+      </span>
+				<p>The Lord assured that even though &ldquo;the mountains shall depart, and the hills be removed; &hellip; my kindness shall not depart from thee, neither shall the covenant of my people be removed&rdquo; (JST, Inspired Version, <a href="http://lds.org/scriptures/ot/isa/54.10?lang=eng#9" onclick="newWindow(this.href); return false;">Isa. 54:10</a>). Surely we would not ever want knowingly to discard from us an emblem of His everlasting covenant.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote21-21905_000_016">21.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/eph/6.11-13?lang=eng#10" onclick="newWindow(this.href); return false;">Eph. 6:11&ndash;13</a>; see also <a href="http://lds.org/scriptures/bofm/alma/46.13,21?lang=eng#12" onclick="newWindow(this.href); return false;">Alma 46:13, 21</a>; <a href="http://lds.org/scriptures/dc-testament/dc/27.15?lang=eng#14" onclick="newWindow(this.href); return false;">D&amp;C 27:15</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote22-21905_000_016">22.</a>
+      </span>
+				<p>In a letter dated 10 October 1988, the First Presidency wrote: &ldquo;Practices frequently observed among the members of the Church suggest that some members do not fully understand the covenant they make in the temple to wear the garment in accordance with the spirit of the holy endowment.  &ldquo;Church members who have been clothed with the garment in the temple have made a covenant to wear it throughout their lives. This has been interpreted to mean that it is worn as underclothing both day and night. &hellip; The promise of protection and blessings is conditioned upon worthiness and faithfulness in keeping the covenant.  &ldquo;The fundamental principle ought to be to wear the garment and not to find occasions to remove it. Thus, members should not remove either all or part of the garment to work in the yard or to lounge around the home in swimwear or immodest clothing. Nor should they remove it to participate in recreational activities that can reasonably be done with the garment worn properly beneath regular clothing. When the garment must be removed, such as for swimming, it should be restored as soon as possible.  &ldquo;The principles of modesty and keeping the body appropriately covered are implicit in the covenant and should govern the nature of all clothing worn. Endowed members of the Church wear the garment as a reminder of the sacred covenants they have made with the Lord and also as a protection against temptation and evil. How it is worn is an outward expression of an inward commitment to follow the Savior.&rdquo;</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote23-21905_000_016">23.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/88.119?lang=eng#118" onclick="newWindow(this.href); return false;">D&amp;C 88:119</a>; <a href="http://lds.org/scriptures/dc-testament/dc/109.8?lang=eng#7" onclick="newWindow(this.href); return false;">D&amp;C 109:8</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote24-21905_000_016">24.</a>
+      </span>
+				<p>In fact, He <span class="emphasis">is</span> the way (see <a href="http://lds.org/scriptures/nt/john/14.6?lang=eng#5" onclick="newWindow(this.href); return false;">John 14:6</a>).</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote25-21905_000_016">25.</a>
+      </span>
+				<p>See John A. Widtsoe, &ldquo;Temple Worship,&rdquo; <span class="emphasis">Utah Genealogical and Historical Magazine,</span> Apr. 1921, 62.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote26-21905_000_016">26.</a>
+      </span>
+				<p>Members of the Church who do not read English may find comparable terms in their language editions of the Guide to the Scriptures.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote27-21905_000_016">27.</a>
+      </span>
+				<p>Page 609, paragraphs 1, 4.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote28-21905_000_016">28.</a>
+      </span>
+				<p>Page 617, paragraphs 1&ndash;2.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote29-21905_000_016">29.</a>
+      </span>
+				<p>Page 633, paragraphs 1&ndash;3.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote30-21905_000_016">30.</a>
+      </span>
+				<p>Page 651, paragraphs 1&ndash;2.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote31-21905_000_016">31.</a>
+      </span>
+				<p>Page 670, paragraphs 1&ndash;2.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote32-21905_000_016">32.</a>
+      </span>
+				<p>Pages 765&ndash;66, paragraph 1.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote33-21905_000_016">33.</a>
+      </span>
+				<p>Pages 780&ndash;81, paragraphs 1&ndash;3.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote34-21905_000_016">34.</a>
+      </span>
+				<p>Chapters of special interest include <a href="http://lds.org/scriptures/ot/ex/26.title?lang=eng" onclick="newWindow(this.href); return false;">Ex. 26&ndash;29, 39</a>; <a href="http://lds.org/scriptures/ot/lev/8.title?lang=eng" onclick="newWindow(this.href); return false;">Lev. 8</a>; <a href="http://lds.org/scriptures/ot/2-sam/12.title?lang=eng" onclick="newWindow(this.href); return false;">2 Sam. 12</a> (<a href="http://lds.org/scriptures/ot/2-sam/12.20?lang=eng#19" onclick="newWindow(this.href); return false;">2 Sam. 12:20</a>); <a href="http://lds.org/scriptures/ot/2-chr/6.title?lang=eng" onclick="newWindow(this.href); return false;">2 Chr. 6&ndash;7</a>; <a href="http://lds.org/scriptures/ot/isa/22.title?lang=eng" onclick="newWindow(this.href); return false;">Isa. 22</a>; <a href="http://lds.org/scriptures/ot/ezek/16.title?lang=eng" onclick="newWindow(this.href); return false;">Ezek. 16</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote35-21905_000_016">35.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/124.40-41?lang=eng#39" onclick="newWindow(this.href); return false;">D&amp;C 124:40&ndash;41</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote36-21905_000_016">36.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/2-ne/9.48?lang=eng#47" onclick="newWindow(this.href); return false;">2 Ne. 9:48</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote37-21905_000_016">37.</a>
+      </span>
+				<p>&ldquo;Temples and Temple Work,&rdquo; <span class="emphasis">Ensign,</span> Feb. 1982, 3.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote38-21905_000_016">38.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/philip/4.7?lang=eng#6" onclick="newWindow(this.href); return false;">Philip. 4:7</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote39-21905_000_016">39.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/bofm/alma/42.8?lang=eng#7" onclick="newWindow(this.href); return false;">Alma 42:8</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote40-21905_000_016">40.</a>
+      </span>
+				<p>&ldquo;Covenants,&rdquo; <span class="emphasis">Ensign,</span> May 1987, 24.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote41-21905_000_016">41.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/128.15?lang=eng#14" onclick="newWindow(this.href); return false;">D&amp;C 128:15</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote42-21905_000_016">42.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/bofm/2-ne/9.41?lang=eng#40" onclick="newWindow(this.href); return false;">2 Ne. 9:41</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote43-21905_000_016">43.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/137.9?lang=eng#8" onclick="newWindow(this.href); return false;">D&amp;C 137:9</a>.</p>
+			</li>
+			<li class="footnote " id="-21905_000_016"><a name="-21905_000_016">&nbsp;</a>
+				<span class="label">
+	<a name="footnote44-21905_000_016">44.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/1-ne/14.14?lang=eng#13" onclick="newWindow(this.href); return false;">1 Ne. 14:14</a>.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2001/05/to-bear-testimony-of-mine-only-begotten?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2001/05/building-a-community-of-saints?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 2001">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/2001/05/personal-preparation-for-temple-blessings?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Personal Preparation for Temple Blessings - Ensign May 2001&amp;link=/ensign/2001/05/personal-preparation-for-temple-blessings&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F2001%2F05%2Fpersonal-preparation-for-temple-blessings%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/2001/05/personal-preparation-for-temple-blessings%3flang%3deng%26cid%3dfacebook-shared&amp;t=Personal+Preparation+for+Temple+Blessings+-+Ensign+May+2001" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/2001/05/personal-preparation-for-temple-blessings%3flang%3deng%26cid%3ddelicious-shared&amp;title=Personal+Preparation+for+Temple+Blessings+-+Ensign+May+2001" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/2001/05/personal-preparation-for-temple-blessings%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Personal Preparation for Temple Blessings - Ensign May 2001&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2001:05:personal preparation for temple blessings";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

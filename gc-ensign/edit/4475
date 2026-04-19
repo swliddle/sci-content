@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Our Divine Constitution - Ensign Nov. 1987 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Our Divine Constitution - Ensign Nov. 1987"><meta name="KEYWORDS" content="U.S. Constitution"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Our Divine Constitution - Ensign Nov. 1987"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1987/11/our-divine-constitution?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/ezra-taft-benson-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1987/11/our-divine-constitution?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1987/11/our-divine-constitution?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1987/11/our-divine-constitution?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1987/11?lang=eng">Nov. 1987</a>
+                     </li><li>
+                        <span class="active">Our Divine Constitution</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1987/11/report-of-the-157th-semiannual-general-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1987/11/never-give-up?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Our Divine Constitution
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1987/11/our-divine-constitution.p3" class="">President Ezra Taft Benson</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/ezra-taft-benson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/ezra-taft-benson-10.jpg" alt="Ezra Taft Benson" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <span style="display: none" id="article-id">03219_000_003</span>
+			<p uri="/ensign/1987/11/our-divine-constitution.p4" class="">My beloved brethren and sisters, what a glorious blessing to be assembled in another great general conference of the Church. I ask for an interest in your faith and prayers as I speak to you about a subject that is very close to my heart and that affects the worldwide Church.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p5" class="">We have recently celebrated the bicentennial of the signing of the United States Constitution. That commemoration marked the beginning of a series of bicentennial anniversaries of events leading up to the ratification of the Constitution, implementation of the government it created, and the writing and ratification of the Bill of Rights. We look forward to the future commemoration of each of these important events during the next four years. It is as a result of these events that we are able to meet today in peace as members of the restored Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>. For this we should <span class="emphasis">all</span> be eternally grateful.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p6" class="">I desire, therefore, to speak to you about our divine Constitution, which the Lord said &ldquo;belongs to <span class="emphasis">all</span> mankind&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/98.5?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 98:5</a>; italics added) &ldquo;and should be maintained for the rights and protection of <span class="emphasis">all</span> flesh, according to just and holy principles&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/101.77?lang=eng#76" onclick="newWindow(this.href); return false;">D&amp;C 101:77</a>; italics added).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p7" class="">The Constitution of the United States has served as a model for many nations and is the oldest constitution in use today.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p8" class="">&ldquo;I established the Constitution of this land,&rdquo; said the Lord, &ldquo;by the hands of wise men whom I raised up unto this very purpose&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79" onclick="newWindow(this.href); return false;">D&amp;C 101:80</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p9" class="">For centuries the Lord kept America hidden in the hollow of His hand until the time was right to unveil her for her destiny in the last days. &ldquo;It is wisdom that this land should be kept as yet from the knowledge of other nations,&rdquo; said Lehi, &ldquo;for behold, many nations would overrun the land, that there would be no place for an inheritance&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/1.8?lang=eng#7" onclick="newWindow(this.href); return false;">2 Ne. 1:8</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p10" class="">In the Lord&rsquo;s due time His Spirit &ldquo;wrought upon&rdquo; Columbus, the pilgrims, the Puritans, and others to come to America. They testified of God&rsquo;s intervention in their behalf (see <a href="http://lds.org/scriptures/bofm/1-ne/13.12-13?lang=eng#11" onclick="newWindow(this.href); return false;">1 Ne. 13:12&ndash;13</a>). The Book of Mormon records that they humbled &ldquo;themselves before the Lord; and the power of the Lord was with them&rdquo; (<a href="http://lds.org/scriptures/bofm/1-ne/13.16?lang=eng#15" onclick="newWindow(this.href); return false;">1 Ne. 13:16</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p11" class="">Our Father in Heaven planned the coming forth of the Founding Fathers and their form of government as the necessary great prologue leading to the restoration of the gospel. Recall what our Savior Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> said nearly two thousand years ago when He visited this promised land: &ldquo;For it is wisdom in the Father that they should be established in this land, and be set up as a free people by the power of the Father, that these things might come forth&rdquo; (<a href="http://lds.org/scriptures/bofm/3-ne/21.4?lang=eng#3" onclick="newWindow(this.href); return false;">3 Ne. 21:4</a>). America, the land of liberty, was to be the Lord&rsquo;s latter-day base of operations for His restored church.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p12" class="">The Declaration of Independence affirmed the Founding Fathers&rsquo; belief and <a class="no-link-style" href="http://lds.org/scriptures/tg/trust-in-god?lang=eng">trust in God</a> in these words: &ldquo;We hold these Truths to be self-evident, that all Men are created equal, that they are endowed by their Creator with certain inalienable Rights, that among these are Life, Liberty, and the Pursuit of Happiness.&rdquo;</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p13" class="">The Doctrine and Covenants states, &ldquo;We believe that no government can exist in peace, except such laws are framed and held inviolate as will secure to each individual the free exercise of conscience, the right and control of property, and the protection of life&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/134.2?lang=eng#1" onclick="newWindow(this.href); return false;">D&amp;C 134:2</a>). Life, liberty, property&mdash;mankind&rsquo;s three great rights.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p14" class="">At the conclusion of the Declaration of Independence, they wrote, &ldquo;And for the support of this Declaration, with a firm reliance on the protection of Divine Providence, we mutually pledge to each other our lives, our Fortunes, and our sacred Honor.&rdquo; This Declaration was a promise that would demand terrible sacrifice on the part of its signers. Five of the signers were captured as traitors and tortured before they died. Twelve had their homes ransacked and burned. Two lost their sons in the Revolutionary War; another had two sons captured. Nine died from wounds or from the hardships of the war. The Lord said He &ldquo;redeemed the land by the shedding of blood&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/101.80?lang=eng#79" onclick="newWindow(this.href); return false;">D&amp;C 101:80</a>). Nephi recorded that the Founders &ldquo;were delivered by the power of God out of the hands of all other nations&rdquo; (<a href="http://lds.org/scriptures/bofm/1-ne/13.19?lang=eng#18" onclick="newWindow(this.href); return false;">1 Ne. 13:19</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p15" class="">The years immediately preceding the Constitutional Convention were filled with disappointments and threats to the newly won peace. Washington was offered a kingship, which he adamantly refused. Nephi had prophesied hundreds of years before that &ldquo;this land shall be a land of liberty unto the Gentiles, and there shall be <span class="emphasis">no kings</span> upon the land&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/10.11?lang=eng#10" onclick="newWindow(this.href); return false;">2 Ne. 10:11</a>; italics added).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p16" class="">Between the critical years of 1783 and 1787, an outsider viewing the affairs of the United States would have thought that the thirteen states, different in so many ways, could never effectively unite. The world powers were confident that this nation would not last.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p17" class="">Eventually, twelve of the states met in Philadelphia to address the problem. Madison said at the beginning of the Convention that the delegates &ldquo;were now digesting a plan which in its operation would decide forever the fate of Republican Government&rdquo; (26 June 1787, <span class="emphasis">Records of the Federal Convention,</span> 1:423).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p18" class="">&ldquo;The Lord knoweth all things from the beginning,&rdquo; said Nephi, &ldquo;wherefore, he prepareth a way to accomplish all his works among the children of men&rdquo; (<a href="http://lds.org/scriptures/bofm/1-ne/9.6?lang=eng#5" onclick="newWindow(this.href); return false;">1 Ne. 9:6</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p19" class="">Four months later, the Convention delegates had completed their work. As Gladstone said, it was &ldquo;the most wonderful work ever struck off at a given time by the brain and purpose of man&rdquo; (William Gladstone, <span class="emphasis">North American Review,</span> Sept.&ndash;Oct. 1878, p. 185), and the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> called it &ldquo;a glorious standard &hellip; a heavenly banner&rdquo; (<span class="emphasis">Teachings of the Prophet Joseph Smith,</span> sel. Joseph Fielding Smith, Salt Lake City: Deseret Book Co., 1938, p. 147).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p20" class="">The delegates were the recipients of heavenly inspiration. James Madison, often referred to as the father of the Constitution, wrote: &ldquo;It is impossible for the man of pious reflection not to perceive in it a finger of that Almighty hand which has been so frequently and signally extended to our relief in the critical stages of the revolution&rdquo; (<span class="emphasis">The Federalist,</span> no. 37, ed. Henry Cabot Lodge, New York: G. P. Putnam&rsquo;s Sons, 1983, p. 222).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p21" class="">Alexander Hamilton, famous as the originator of <span class="emphasis">The Federalist</span> papers and author of fifty-one of the essays, said: &ldquo;For my own part, I sincerely esteem it a system, which without the finger of God, never could have been suggested and agreed upon by such a diversity of interest&rdquo; (<span class="emphasis">Essays on the Constitution of the United States,</span> ed. Paul L. Ford, 1892, pp. 251&ndash;52).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p22" class="">Charles Pinckney, a very active participant and author of the Pinckney Plan during the Convention, said: &ldquo;When the great work was done and published, I was struck with amazement. Nothing less than the superintending Hand of Providence, that so miraculously carried us through the war &hellip; could have brought it about so complete, upon the whole&rdquo; (<span class="emphasis">Essays on the Constitution,</span> p. 412).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p23" class="">Within ten months, the Constitution was ratified by nine states and was therefore in force for them. Prophecy had been fulfilled.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p24" class="">During his first inaugural address in 1789, President George Washington, a man who was raised up by God, said: &ldquo;No people can be bound to acknowledge and adore the invisible hand, which conducts the affairs of men, more than the people of the United States. Every step by which they have advanced to the character of an independent nation seems to have been distinguished by some token of providential agency&rdquo; (<span class="emphasis">First Inaugural Address,</span> 30 Apr. 1789).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p25" class="">In compliance with Article 6 of the Constitution, the very first act passed by Congress and signed by President Washington on June 1, 1789, was the actual oath to support the Constitution that was to be administered to various government officers.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p26" class="">The dedicatory prayer for the Kirtland Temple, as dictated by the Lord and found in the Doctrine and Covenants, contains these words: &ldquo;May those principles, which were so honorably and nobly defended, namely, the Constitution of our land, by our fathers, be established forever&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/109.54?lang=eng#53" onclick="newWindow(this.href); return false;">D&amp;C 109:54</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p27" class="">Shortly after President Spencer W. Kimball became President of the Church, he assigned me to go into the vault of the St. George Temple and check the early records. As I did so, I realized the fulfillment of a dream I had had ever since learning of the visit of the Founding Fathers to the St. George Temple. I saw with my own eyes the record of the work which was done for the Founding Fathers of this great nation, beginning with George Washington.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p28" class="">Think of it: the Founding Fathers of this nation, those great men, appeared within those sacred walls and had their vicarious work done for them.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p29" class="">President Wilford Woodruff spoke of it in these words: &ldquo;Before I left St. George, the spirits of the dead gathered around me, wanting to know why we did not redeem them. Said they, &lsquo;You have had the use of the Endowment House for a number of years, and yet nothing has ever been done for us. We laid the foundation of the government you now enjoy, and we never apostatized from it, but we remained true to it and were faithful to God&rsquo;&rdquo; (<span class="emphasis">The Discourses of Wilford Woodruff,</span> sel. G. Homer Durham, Salt Lake City: Bookcraft, 1946, p. 160).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p30" class="">After he became President of the Church, President Wilford Woodruff declared that &ldquo;those men who laid the foundation of this American government were the best spirits the God of heaven could find on the face of the earth. They were choice spirits &hellip; [and] were inspired of the Lord&rdquo; (in Conference Report, Apr. 1898, p. 89).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p31" class="">Unfortunately, we as a nation have apostatized in various degrees from different Constitutional principles as proclaimed by the inspired founders. We are fast approaching that moment prophesied by Joseph Smith when he said: &ldquo;Even this nation will be on the very verge of crumbling to pieces and tumbling to the ground, and when the Constitution is upon the brink of ruin, this people will be the staff upon which the nation shall lean, and they shall bear the Constitution away from the very verge of destruction&rdquo; (19 July 1840, as recorded by Martha Jane Knowlton Coray; ms. in Church Historian&rsquo;s Office, Salt Lake City).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p32" class="">For centuries our forefathers suffered and sacrificed that we might be the recipients of the blessings of freedom. If they were willing to sacrifice so much to establish us as a free people, should we not be willing to do the same to maintain that freedom for ourselves and for future generations?</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p33" class="">Only in this foreordained land, under its God-inspired Constitution and the resulting environment of freedom, was it possible to have established the restored church. It is our responsibility to see that this freedom is perpetuated so that the Church may more easily flourish in the future.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p34" class="">The Lord said, &ldquo;Therefore, I, the Lord, justify you, and your brethren of my church, in befriending that law which is the constitutional law of the land&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/98.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 98:6</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p35" class="">How then can we best befriend the Constitution in this critical hour and secure the blessings of liberty and ensure the protection and guidance of our Father in Heaven?</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p36" class="">
+	<span class="emphasis">First and foremost, we must be righteous.</span>
+      </p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p37" class="">John Adams said, &ldquo;Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.&rdquo; (<span class="emphasis">The Works of John Adams,</span> ed. C. F. Adams, Boston: Little, Brown Co., 1851, 4:31). If the Constitution is to have continuance, this American nation, and especially the Latter-day Saints, must be virtuous.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p38" class="">The Book of Mormon warns us relative to our living in this free land: &ldquo;Wherefore, this land is consecrated unto him whom he shall bring. And if it so be that they shall serve him according to the commandments which he hath given, it shall be a land of liberty unto them; wherefore, they shall never be brought down into captivity; if so, it shall be because of iniquity; for if iniquity shall abound cursed shall be the land for their sakes, but unto the righteous it shall be blessed forever&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/1.7?lang=eng#6" onclick="newWindow(this.href); return false;">2 Ne. 1:7</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p39" class="">&ldquo;And now,&rdquo; warned Moroni, &ldquo;we can behold the decrees of God concerning this land, that it is a land of promise; and whatsoever nation shall possess it shall serve God, or they shall be swept off when the fulness of his wrath shall come upon them. And the fulness of his wrath cometh upon them when they are ripened in iniquity&rdquo; (<a href="http://lds.org/scriptures/bofm/ether/2.9?lang=eng#8" onclick="newWindow(this.href); return false;">Ether 2:9</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p40" class="">Two great American Christian civilizations&mdash;the Jaredites and the Nephites&mdash;were swept off this land because they did not &ldquo;serve the God of the land, who is Jesus Christ&rdquo; (<a href="http://lds.org/scriptures/bofm/ether/2.12?lang=eng#11" onclick="newWindow(this.href); return false;">Ether 2:12</a>). What will become of our civilization?</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p41" class="">
+	<span class="emphasis">Second, we must learn the principles of the Constitution in the tradition of the Founding Fathers.</span>
+      </p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p42" class="">Have we read <span class="emphasis">The Federalist</span> papers? Are we reading the Constitution and pondering it? Are we aware of its principles? Are we abiding by these principles and teaching them to others? Could we defend the Constitution? Can we recognize when a law is constitutionally unsound? Do we know what the prophets have said about the Constitution and the threats to it?</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p43" class="">As Jefferson said, &ldquo;If a nation expects to be ignorant and free &hellip; it expects what never was and never will be&rdquo; (Letter to Colonel Charles Yancey, 6 Jan. 1816).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p44" class="">
+	<span class="emphasis">Third, we must become involved in civic affairs to see that we are properly represented.</span>
+      </p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p45" class="">The Lord said that &ldquo;he holds men accountable for their acts in relation&rdquo; to governments &ldquo;both in making laws and administering them&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/134.1?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 134:1</a>). We must follow this counsel from the Lord: &ldquo;Honest men and wise men should be sought for diligently, and good men and wise men ye should observe to uphold; otherwise whatsoever is less than these cometh of evil&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/98.10?lang=eng#9" onclick="newWindow(this.href); return false;">D&amp;C 98:10</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p46" class="">Note the qualities that the Lord demands of those who are to represent us. They must be good, wise, and honest.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p47" class="">
+	<span class="emphasis">Fourth, we must make our influence felt by our vote, our letters, our teaching, and our advice.</span>
+      </p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p48" class="">We must become accurately informed and then let others know how we feel. The Prophet Joseph Smith said: &ldquo;It is our duty to concentrate all our influence to make popular that which is sound and good, and unpopular that which is unsound. &lsquo;Tis right, politically, for a man who has influence to use it. &hellip; From henceforth I will maintain all the influence I can get&rdquo; (<span class="emphasis">History of the Church,</span> 5:286).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p49" class="">I have faith that the Constitution will be saved as prophesied by Joseph Smith. It will be saved by the righteous citizens of this nation who love and cherish freedom. It will be saved by enlightened members of this Church&mdash;among others&mdash;men and women who understand and abide the principles of the Constitution.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p50" class="">I reverence the Constitution of the United States as a sacred document. To me its words are akin to the revelations of God, for God has placed His stamp of approval upon it.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p51" class="">I testify that the God of heaven sent some of His choicest spirits to lay the foundation of this government, and He has now sent other choice spirits to help preserve it.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p52" class="">We, the blessed beneficiaries of the Constitution, face difficult days in America, &ldquo;a land which is choice above all other lands&rdquo; (<a href="http://lds.org/scriptures/bofm/ether/2.10?lang=eng#9" onclick="newWindow(this.href); return false;">Ether 2:10</a>).</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p53" class="">May God give us the faith and the courage exhibited by those patriots who pledged their lives, their fortunes, and their sacred honor.</p>
+			<p uri="/ensign/1987/11/our-divine-constitution.p54" class="">May we be equally as valiant and as free, I pray in the name of Jesus Christ, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1987/11/report-of-the-157th-semiannual-general-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1987/11/never-give-up?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1987">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1987/11/our-divine-constitution?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Our Divine Constitution - Ensign Nov. 1987&amp;link=/ensign/1987/11/our-divine-constitution&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1987%2F11%2Four-divine-constitution%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1987/11/our-divine-constitution%3flang%3deng%26cid%3dfacebook-shared&amp;t=Our+Divine+Constitution+-+Ensign+Nov.+1987" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1987/11/our-divine-constitution%3flang%3deng%26cid%3ddelicious-shared&amp;title=Our+Divine+Constitution+-+Ensign+Nov.+1987" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1987/11/our-divine-constitution%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Our Divine Constitution - Ensign Nov. 1987&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1987:11:our divine constitution";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

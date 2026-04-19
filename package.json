@@ -1,0 +1,30 @@
+{
+  "name": "sci-content",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint tools",
+    "test": "node --import tsx --test tests/citations/run.test.ts tests/ensign/run.test.ts tests/jod/run.test.ts"
+  },
+  "dependencies": {
+    "@xmldom/xmldom": "^0.8.10",
+    "better-sqlite3": "^11.5.0",
+    "linkedom": "^0.18.12",
+    "mysql2": "^3.11.0",
+    "node-html-parser": "^6.1.13",
+    "saxon-js": "^2.7.0",
+    "xpath": "^0.0.34"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/node": "^22.19.17",
+    "eslint": "^10.2.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "typescript-eslint": "^8.58.2",
+    "xslt3": "^2.7.0"
+  }
+}

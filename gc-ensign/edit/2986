@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Ten Blessings of the Priesthood - Ensign Nov. 1977 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Ten Blessings of the Priesthood - Ensign Nov. 1977"><meta name="KEYWORDS" content="blessings,priesthood"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Ten Blessings of the Priesthood - Ensign Nov. 1977"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1977/11?lang=eng">Nov. 1977</a>
+                     </li><li>
+                        <span class="active">The Ten Blessings of the Priesthood</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1977/11/a-message-to-the-rising-generation?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1977/11/seeing-the-five-as?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Ten Blessings of the Priesthood
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p3" class="">Elder Bruce R. McConkie</p>
+				<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p" class="">Of the Council of the Twelve</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            <span style="display: none" id="article-id">03089_000_015</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:2952.jpg" alt="Elder Bruce R. McConkie">
+			</div>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p4" class="">We are the servants of the Lord, his agents, his representatives. We have been endowed with power from on high. We hold either the Aaronic Priesthood, which is a preparatory, schooling order, or we hold the Melchizedek Priesthood, which is the highest and greatest power that the Lord gives to men on earth.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p5" class="">There are in this greater priesthood five offices or callings&mdash;elder, seventy, high priest, patriarch, and apostle&mdash;yet the priesthood is the same; and the priesthood is greater than any of its offices. We are a kingdom of brethren, a congregation of equals, all of whom are entitled to receive all of the blessings of the priesthood. There are no blessings reserved for apostles that are not freely available to all the elders of the kingdom; blessings come because of obedience and personal righteousness, not because of administrative positions.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p6" class="">I shall speak of these blessings&mdash;the ten priesthood blessings&mdash;which are available to all of us who hold the holy Melchizedek Priesthood.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p7" class="">
+	<span class="emphasis">Blessing one: We are members of the only true and living Church upon the face of the whole earth, and we have received the fulness of the everlasting gospel.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p8" class="">&ldquo;This greater priesthood administereth the gospel.&rdquo; It &ldquo;continueth in the church of God in all generations, and is without beginning of days or end of years.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/84.19,17?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 84:19, 17</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p9" class="">The gospel is the plan of salvation; it is the way and the means, provided by the Father, whereby his spirit children have power to advance and progress and become like him. The priesthood is the power and authority of God, delegated to man on earth, to act in all things for the salvation of men.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p10" class="">Where the Melchizedek Priesthood is, there is the Church and kingdom of God on earth; there is the gospel of salvation; and where there is no Melchizedek Priesthood, there is no true Church, and no power that will save men in the kingdom of God.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p11" class="">
+	<span class="emphasis">Blessing two: We have received the gift of the Holy Ghost, and we are entitled to receive the gifts of the Spirit&mdash;those wondrous spiritual endowments which set us apart from the world and raise us above carnal things.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p12" class="">The gift of the Holy Ghost is the right to the constant companionship of that member of the Godhead based on faithfulness. It is the right to receive revelation, to see visions, to be in tune with the Infinite.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p13" class="">John, who held the Priesthood of Aaron, baptized with water for the remission of sins. Jesus, who was an high priest forever after the order of Melchizedek, baptized with the Holy Ghost and with fire.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p14" class="">The Holy Ghost is a revelator; he bears witness of the Father and the Son, those Holy Beings whom to know is eternal life. Thus it is that &ldquo;this greater priesthood &hellip; holdeth the key of the mysteries of the kingdom, even the key of the knowledge of God.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/84.19?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 84:19</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p15" class="">The spiritual gifts are the signs which follow those that believe; they are the miracles and healings performed in the name of the Lord Jesus; they include marvelous outpourings of truth and light and revelation from God in heaven to man on earth.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p16" class="">Our revelations say that the Melchizedek Priesthood holds &ldquo;the keys of all the spiritual blessings of the church,&rdquo; and that all those who hold this holy order &ldquo;have the privilege of receiving the mysteries of the kingdom of heaven, to have the heavens opened unto them, to commune with the general assembly and church of the Firstborn, and to enjoy the communion and presence of God the Father, and Jesus the mediator of the new covenant.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/107.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 107:18&ndash;19</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p17" class="">
+	<span class="emphasis">Blessing three: We can be sanctified by the Spirit, have dross and evil burned out of us as though by fire, become clean and spotless, and be fit to dwell with gods and angels.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p18" class="">The Holy Ghost is the Sanctifier. Those who magnify their callings in the priesthood &ldquo;are sanctified by the Spirit unto the renewing of their bodies.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/84.33?lang=eng#32" onclick="newWindow(this.href); return false;">D&amp;C 84:33</a>.) They are born again; they become new creatures of the Holy Ghost; they are alive in <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p19" class="">Of such faithful persons among the ancients, Alma says: &ldquo;They were called after this holy order&rdquo;&mdash;that is, they held the Melchizedek Priesthood&mdash;&ldquo;and [they] were sanctified, and their garments were washed white through the blood of the Lamb. Now they, after being sanctified by the Holy Ghost, having their garments made white, being pure and spotless before God, could not look upon sin save it were with abhorrence; and there were many, exceeding great many, who were made pure and entered into the rest of the Lord their God.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/13.11-12?lang=eng#10" onclick="newWindow(this.href); return false;">Alma 13:11&ndash;12</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p20" class="">
+	<span class="emphasis">Blessing four: We can stand in the place and stead of the Lord <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> in administering salvation to the children of men.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p21" class="">He preached the gospel; so can we. He spoke by the power of the Holy Ghost; so can we. He served as a missionary; so can we. He went about doing good; so can we. He performed the ordinances of salvation; so can we. He kept the commandments; so can we. He wrought miracles; such also is our privilege if we are true and faithful in all things.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p22" class="">We are his agents; we represent him; we are expected to do and say what he would do and say if he personally were ministering among men at this time.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p23" class="">
+	<span class="emphasis">Blessing five: We have power to become the sons of God, to be adopted into the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> of the Lord Jesus Christ, to have him as our Father, to be one with him as he is one with his Father.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p24" class="">&ldquo;Thou art after the order of him who was without beginning of days or end of years, from all eternity to all eternity,&rdquo; the Lord said to Adam. &ldquo;Behold, thou art one in me, a son of God; and thus may all become my sons.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/6.67-68?lang=eng#66" onclick="newWindow(this.href); return false;">Moses 6:67&ndash;68</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p25" class="">As the sons of God, we also have power to advance and progress until we become &ldquo;joint-heirs with Christ,&rdquo; until we have &ldquo;conformed to the image&rdquo; of God&rsquo;s Son, as Paul expressed it. (<a href="http://lds.org/scriptures/nt/rom/8.17,29?lang=eng#16" onclick="newWindow(this.href); return false;">Rom. 8:17, 29</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p26" class="">
+	<span class="emphasis">Blessing six: We can enter into the patriarchal order, the order of eternal marriage, the order which enables the family unit to continue everlastingly in celestial glory.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p27" class="">To gain the highest heaven and to enjoy the fulness of that light and glory which comprise eternal life, we must &ldquo;enter into&rdquo; that &ldquo;order of the priesthood&rdquo; which bears the name &ldquo;the new and everlasting covenant of marriage.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/131.2?lang=eng#1" onclick="newWindow(this.href); return false;">D&amp;C 131:2</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/131.1-4?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 131:1&ndash;4</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p28" class="">
+	<span class="emphasis">Blessing seven: We have power to govern all things, both temporal and spiritual kingdoms of the world, and the elements and storms and powers of the earth.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p29" class="">With reference to this, our scriptures say: &ldquo;For God having sworn unto Enoch and unto his seed with an oath by himself; that every one being ordained after this order and calling should have power, by faith, to break mountains, to divide the seas, to dry up waters, to turn them out of their course;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p30" class="">&ldquo;To put at defiance the armies of nations, to divide the earth, to break every band, to stand in the presence of God; to do all things according to his will, according to his command, subdue principalities and powers; and this by the will of the Son of God which was from before the foundation of the world.&rdquo; (<a href="http://scriptures.byu.edu/getscrip.php?ID=23904">JST, Gen. 14:30&ndash;31</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p31" class="">Indeed, the Melchizedek Priesthood is the very power that Christ himself will use to govern the nations in that day when &ldquo;the kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever.&rdquo; (<a href="http://lds.org/scriptures/nt/rev/11.15?lang=eng#14" onclick="newWindow(this.href); return false;">Rev. 11:15</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p32" class="">
+	<span class="emphasis">Blessing eight: We have power, through the priesthood, to gain eternal life, the greatest of all the gifts of God.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p33" class="">Eternal life is the name of the kind of life God lives. It consists, first, of the continuation of the family unit in eternity, and second, of an inheritance of the fulness of the glory of the Father.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p34" class="">All those who receive the Melchizedek Priesthood enter into a covenant with the Lord. Each such person solemnly promises:</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p35" class="">I covenant to receive the priesthood;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p36" class="">I covenant to magnify my calling in the priesthood; and</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p37" class="">I covenant to keep the commandments, to &ldquo;live by every word that proceedeth forth from the mouth of God.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/84.44?lang=eng#43" onclick="newWindow(this.href); return false;">D&amp;C 84:44</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p38" class="">The Lord on his part covenants to give such faithful persons &ldquo;all that my Father hath,&rdquo; which is eternal life in the kingdom of God. (<a href="http://lds.org/scriptures/dc-testament/dc/84.38?lang=eng#37" onclick="newWindow(this.href); return false;">D&amp;C 84:38</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/84.33-44?lang=eng#32" onclick="newWindow(this.href); return false;">D&amp;C 84:33&ndash;44</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p39" class="">Then the Lord&mdash;to show the binding nature of his promise&mdash;swears with an oath that the promised reward shall be obtained.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p40" class="">This oath, as it pertained to the Son of God himself, is spoken of in these words: &ldquo;The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.&rdquo; (<a href="http://lds.org/scriptures/ot/ps/110.4?lang=eng#3" onclick="newWindow(this.href); return false;">Ps. 110:4</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p41" class="">And with reference to all others who also receive the Melchizedek Priesthood, the scripture saith: &ldquo;And all those who are ordained unto this priesthood are made like unto the Son of God, abiding a priest continually.&rdquo; (<a href="http://scriptures.byu.edu/getscrip.php?ID=24461">JST, Heb. 7:3</a>.) That is to say, they will be kings and priests forever; their priesthood will continue to all eternity; they will have eternal life.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p42" class="">&ldquo;They are they who are the church of the Firstborn.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p43" class="">&ldquo;They are they into whose hands the Father has given all things&mdash;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p44" class="">&ldquo;They are they who are priests and kings who have received of his fulness, and of his glory;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p45" class="">&ldquo;And are priests of the Most High, after the order of Melchizedek, which was after the order of Enoch, which was after the order of the Only Begotten Son.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p46" class="">&ldquo;Wherefore, as it is written, they are gods, even the sons of God&mdash;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p47" class="">&ldquo;Wherefore, all things are theirs, whether life or death, or things present, or things to come, all are theirs and they are Christ&rsquo;s, and Christ is God&rsquo;s.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/76.54-59?lang=eng#53" onclick="newWindow(this.href); return false;">D&amp;C 76:54&ndash;59</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p48" class="">
+	<span class="emphasis">Blessing nine: We have power to make our calling and election sure, so that while we yet dwell in mortality, having overcome the world and been true and faithful in all things, we shall be sealed up unto eternal life and have the unconditional promise of eternal life in the presence of Him whose we are.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p49" class="">Our revelations say: &ldquo;The more sure word of prophecy means a man&rsquo;s knowing that he is sealed up unto eternal life, by revelation and the spirit of prophecy, through the power of the Holy Priesthood.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/131.5?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 131:5</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p50" class="">During the latter years of his ministry, in particular, the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> pleaded fervently with the Saints to press forward in righteousness until they made their calling and election sure, until they heard the heavenly voice proclaim: &ldquo;Son, thou shalt be exalted.&rdquo; (<span class="emphasis">Teachings of the Prophet Joseph Smith,</span> p. 150.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p51" class="">He himself became the pattern for all such attainment in this dispensation, when the voice from heaven said to him: &ldquo;I am the Lord thy God, and will be with thee even unto the end of the world, and through all eternity; for verily I seal upon you your exaltation, and prepare a throne for you in the kingdom of my Father, with Abraham your father.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/132.49?lang=eng#48" onclick="newWindow(this.href); return false;">D&amp;C 132:49</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p52" class="">
+	<span class="emphasis">Blessing ten: We have the power&mdash;and it is our privilege&mdash;so to live, that becoming pure in heart, we shall see the face of God while we yet dwell as mortals in a world of sin and sorrow.</span>
+      </p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p53" class="">This is the crowning blessing of mortality. It is offered by that God who is no respecter of persons to all the faithful in his kingdom.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p54" class="">&ldquo;Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.1?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 93:1</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p55" class="">&ldquo;And again, verily I say unto you that it is your privilege, and a promise I give unto you that have been ordained unto this ministry&rdquo;&mdash;he is speaking now to those who hold the Melchizedek Priesthood&mdash;&ldquo;that inasmuch as you strip yourselves from jealousies and fears, and humble yourselves before me, for ye are not sufficiently humble, the veil shall be rent and you shall see me and know that I am&mdash;not with the carnal neither natural mind, but with the spiritual.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p56" class="">&ldquo;For no man has seen God at any time in the flesh, except quickened by the Spirit of God.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p57" class="">&ldquo;Neither can any natural man abide the presence of God, neither after the carnal mind.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p58" class="">&ldquo;Ye are not able to abide the presence of God now, neither the ministering of angels; wherefore, continue in patience until ye are perfected.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/67.10-13?lang=eng#9" onclick="newWindow(this.href); return false;">D&amp;C 67:10&ndash;13</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p59" class="">These, then, are <span class="emphasis">the ten blessings of the priesthood, the Holy Priesthood, after the order of the Son of God,</span> the priesthood which the saints in ancient days called after Melchizedek to avoid the too frequent repetition of the name of Deity.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p60" class="">In this connection, these words from holy writ are appropriate:</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p61" class="">&ldquo;Now Melchizedek was a man of faith, who wrought righteousness; and when a child he feared God, and stopped the mouths of lions, and quenched the violence of fire.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p62" class="">&ldquo;And thus, having been approved of God, he was ordained an high priest after the order of the covenant which God made with Enoch,</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p63" class="">&ldquo;It being after the order of the Son of God; which order came, not by man, nor the will of man; neither by father nor mother; neither by beginning of days nor end of years; but of God;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p64" class="">&ldquo;And it was delivered unto men by the calling of his own voice, according to his own will, unto as many as believed on his name. &hellip;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p65" class="">&ldquo;And now, Melchizedek was a priest of this order; therefore he obtained peace in Salem, and was called the Prince of peace.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p66" class="">&ldquo;And his people wrought righteousness, and obtained heaven, and sought for the city of Enoch which God had before taken, separating it from the earth, having reserved it unto the latter days, or the end of the world;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p67" class="">&ldquo;And hath said, and sworn with an oath, that the heavens and the earth should come together; and the sons of God should be tried so as by fire.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p68" class="">&ldquo;And this Melchizedek, having thus established righteousness, was called the king of heaven by his people, or, in other words, the King of peace.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p69" class="">&ldquo;And he lifted up his voice, and he blessed Abram. &hellip;</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p70" class="">&ldquo;And it came to pass, that God blessed Abram, and gave unto him riches, and honor, and lands for an everlasting possession; according to the covenant which he had made, and according to the blessing wherewith Melchizedek had blessed him.&rdquo; (<a href="http://scriptures.byu.edu/getscrip.php?ID=23903">JST, Gen. 14:26&ndash;29, 33&ndash;37, 40</a>.)</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p71" class="">Now, my brethren, this is the priesthood which we hold. It will bless us as it blessed Melchizedek and Abraham. The priesthood of Almighty God is here. The doctrines which we teach are true, and by obedience to them we can enjoy the words of eternal life here and now and be inheritors of immortal glory hereafter.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p72" class="">I know, and you know, that as the heavens are above the earth, so are these truths of which we speak above all the ways of the world and all the honors which men can confer.</p>
+			<p uri="/ensign/1977/11/the-ten-blessings-of-the-priesthood.p73" class="">God grant that we may keep the commandments and be inheritors of all that a gracious Lord promises his people. In the name of Jesus Christ, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1977/11/a-message-to-the-rising-generation?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1977/11/seeing-the-five-as?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1977">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1977/11/the-ten-blessings-of-the-priesthood?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Ten Blessings of the Priesthood - Ensign Nov. 1977&amp;link=/ensign/1977/11/the-ten-blessings-of-the-priesthood&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1977%2F11%2Fthe-ten-blessings-of-the-priesthood%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Ten+Blessings+of+the+Priesthood+-+Ensign+Nov.+1977" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Ten+Blessings+of+the+Priesthood+-+Ensign+Nov.+1977" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1977/11/the-ten-blessings-of-the-priesthood%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Ten Blessings of the Priesthood - Ensign Nov. 1977&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1977:11:the ten blessings of the priesthood";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>A Report and a Challenge - Ensign Nov. 1976 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="A Report and a Challenge - Ensign Nov. 1976"><meta name="KEYWORDS" content="Church growth,Church history,family,honesty,media,obedience"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="A Report and a Challenge - Ensign Nov. 1976"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1976/11/a-report-and-a-challenge?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1976/11/a-report-and-a-challenge?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1976/11/a-report-and-a-challenge?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1976/11/a-report-and-a-challenge?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1976/11?lang=eng">Nov. 1976</a>
+                     </li><li>
+                        <span class="active">A Report and a Challenge</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/11/report-of-the-146th-semiannual-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/11/the-reconstitution-of-the-first-quorum-of-the-seventy?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            A Report and a Challenge
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p3" class="">President Spencer W. Kimball</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/spencer-w-kimball?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg" alt="Spencer W. Kimball" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <span style="display: none" id="article-id">03076_000_003</span>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p4" class="">This is the semiannual general conference of The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints, and we bid you welcome, you who are in attendance and you who are listening over radio and television, and we extend to you our love and our appreciation.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p5" class="">Since August of last year, we have held twenty-six solemn assemblies for the priesthood leadership in various regions of the United States and Canada, in which we have reminded the brethren of their responsibilities and their opportunities. We have met about 28,000 of the leading brethren in those stakes and missions.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p6" class="">We recently held area conferences at which we have met some 151,000 of our members of the Church. Since we began holding area conferences, we have spoken of the gospel and its blessings to nearly a half million (446,691) people in many countries. In general, we have found the Church is healthy and moving forward.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p7" class="">We glory with you in the advancement made to 764 stakes and 146 missions and about 9,000 wards and branches, and we feel that the Lord is blessing our extended efforts.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p8" class="">In the numerous new stakes created all over the world, new, young, and vigorous leadership has been ordained and set apart to look after the interests of the people. We are delighted with the way these local officials accept this new responsibility.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p9" class="">The young missionaries have continued to proliferate, and we now have in excess of 25,000 missionaries, mostly young elders of nineteen to twenty-one, with some young women and older couples. We are grateful to announce that success has followed their efforts, and an estimated 117,000 converts will have been added to the rolls. They are happy in their new responsibilities as they have found a new spiritual home and have learned more concerning our Heavenly Father, His Son, and His program.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p10" class="">We have about 183,000 youth in seminary and 88,000 or more in institute, or a total of more than a quarter million, including youth of every land and about 8,000 Indians and hundreds of thousands of other Lamanites. By the end of this year, we shall approach the four million mark in Church membership.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p11" class="">It is estimated that it took 117 years, from 1830 to 1947, to attain one million members. Then it took sixteen years, from 1947 to 1963, to reach the second million members, and then nine years, 1963 to 1972, to attain the third million. It will probably take about four or five years to move up to the four million mark, and then we can guess what the future holds.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p12" class="">What does this mean to us? It means that if the members of the Church do real proselyting in their home wards that the number of converts could grow to astronomical figures and even hasten the time when the Lord will be returning to the earth in His second advent.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p13" class="">We are very gratified with the growth of the Church, both numerically and spiritually.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p14" class="">I can remember when we were getting only about 19 percent attendance at sacrament meetings. Of course, that included all members of the Church, children and infants, but it was very low. Today many stakes and missions have reached nearly 50 and 60 percent of their total membership in attendance at sacrament meetings, and there are many units that have a much higher attendance record.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p15" class="">Since our last conference we have had a delightful message from Christopher S. Bond, Governor of the state of Missouri, who advised us that he has rescinded the 138-year-old Executive Order of Governor Lilburn W. Boggs calling for the extermination or expulsion of <a class="no-link-style" href="http://lds.org/">the Mormons</a> from the state of Missouri. Governor Bond, present Missouri governor, writes:</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p16" class="">&ldquo;Expressing on behalf of all Missourians our deep regret for the injustice and undue suffering which was caused by this 1838 order, I hereby rescind Executive Order No. 44 dated October 27, 1838, issued by Governor Lilburn W. Boggs.&rdquo;</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p17" class="">To Governor Bond and the people of Missouri, we extend our deep appreciation for this reversal and for the present friendly associations between the membership of The Church of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> of Latter-day Saints and the people of Missouri as it is now in effect.</p>
+			<p uri="/ensign/1976/11/a-report-and-a-challenge.p18" class="">In Missouri now we have five stakes in fifty-one communities, with approximately 15,000 members of the Church, who, we are confident, are law-abiding citizens of that state of Missouri. Thank you, Governor Bond.</p>
+			<div>
+				<h2>Gardens</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p20" class="">Our pride is great in the people who have listened and who have planted gardens and orchards and trees in the past months. From all directions we hear of gardens which have made an outstanding contribution. A couple in Alabama wrote, &ldquo;We had vegetables all during the year. We feel it saved us quite a bit of money.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p21" class="">One authority estimates there will be about 35 million home vegetable gardens this year, up from about 32.5 million last year, and he says that probably 41 percent of all American households will do some home canning this year, as against 37 percent a year ago. Many of the numerous gardens are found in hanging baskets, in containers on stairways, on trellises, and in window boxes.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p22" class="">In Oklahoma a state university makes 240 plots available to married students. In Long Island some 400 plots have been turned over to residents. In Pennsylvania some 200,000 plots were under cultivation.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p23" class="">One authority says, &ldquo;I have my own garden and have found it&rsquo;s my sanity away from work.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p24" class="">We would add to the garden-orchard project the clearing of yards and homes. We have mentioned it before. Still there are numerous homes with broken-down fences and barns, outbuildings that could probably be torn down or rebuilt, ditch banks that could be cleared. We congratulate all who have listened and followed counsel.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p25" class="">From Frankfurt, Germany, this comes:</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p26" class="">&ldquo;We are two families in the Frankfurt Mission, and we tell you about our garden.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p27" class="">&ldquo;It was not very easy to find a piece of land in a large city like Frankfurt&mdash;it is a tiny garden&mdash;and when we rented it, it looked like a wilderness, with a broken fence, a broken cottage, and wild grass all over. It did not discourage us.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p28" class="">&ldquo;First we made a new fence, repaired the cottage, and digged the whole garden. In the springtime we planted vegetables and the neighbours told us that it would not grow. There is a little stream where we can go on our bikes hanged with cans, and this way we carry our water. We prayed to the Lord that he would bless our garden. The Lord did answer our prayers. Every kind of vegetable came. It is so wonderful to see the plants grow. We take turns now to go to our garden and water our plants. We are happy to have a garden.&rdquo;</p>
+			</div>
+			<div>
+				<h2>Pornography</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p30" class="">Members of the Church everywhere are urged to not only resist the widespread plague of pornography, but as citizens to become actively and relentlessly engaged in the fight against this insidious enemy of humanity around the world.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p31" class="">Last year billions of dollars were spent worldwide on obscene motion pictures and literature. This smut is surfacing in bookstores, magazine shops, motion picture theaters, and unfortunately, in some department stores, food markets, and even drugstores.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p32" class="">We urge Latter-day Saints to get involved as citizens and fight obscenity.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p33" class="">We quote from an article in a national magazine:</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p34" class="">&ldquo;After years of inertia, more and more U.S. cities are cracking down on sex-oriented businesses.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p35" class="">&ldquo;Tougher local laws, many of them stemming from recent rulings by the Supreme Court, are at work against smut and vice. &hellip;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p36" class="">&ldquo;A &hellip; High Court ruling &hellip; upheld the right of cities and counties to use zoning to eliminate adult motion pictures.&rdquo; (&ldquo;War on Pornography Begins in Earnest,&rdquo; <span class="emphasis">U.S. News and World Report,</span> Sept. 13, 1976, p. 75.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p37" class="">&ldquo;Pornography degrades sex and humanity. Sex is an extremely delicate part of our human relationships. When you assault that and degrade it, you make it an animalistic act and it is an assault on our humanity generally.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p38" class="">&ldquo;As that spreads, it has an over-all effect on our population. Obscenity is counter to civilization. It attacks our basic beliefs. It&rsquo;s an attack on the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> ethic.&rdquo; (Larry Parrish, U.S. Assistant Attorney, in &ldquo;War on Pornography,&rdquo; p. 76.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p39" class="">To <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a>, the Lord, as recorded in Leviticus, spoke plainly and forcefully against adultery in various forms, whorings, and homosexuality. The Lord told Moses these things were an &ldquo;abomination.&rdquo; (<a href="http://lds.org/scriptures/ot/lev/20.13?lang=eng" onclick="newWindow(this.href); return false;">Lev. 20:13</a>.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p40" class="">They are still an abomination. They still corrode the mind, snuff out self-esteem, and drag one down into the darkness of anguish and unhappiness.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p41" class="">And so we say to you: Teach your children to avoid smut as the plague it is. As citizens, join in the fight against obscenity in your communities. Do not be lulled into inaction by the pornographic profiteers who say that to remove obscenity is to deny people the rights of free choice. Do not let them masquerade licentiousness as liberty.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p42" class="">Precious souls are at stake&mdash;souls that are near and dear to each of us.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p43" class="">Sins spawned by pornography unfortunately perpetuate other serious transgressions, including <a class="no-link-style" href="http://lds.org/liahona/2008/10/abortion-an-assault-on-the-defenseless?lang=eng">abortion</a>.</p>
+			</div>
+			<div>
+				<h2>Abortion</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p45" class="">Abortion, with all its heartaches, to say nothing of the destruction of life, continues to rise alarmingly. Last year in the United States alone, there were reported over one million legal abortions. That is nearly fifty times the number only seven years before, in 1969. One leading authority estimates that by 1980 there may be 2.4 million legal abortions. Abortions in many other countries are running similarly high.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p46" class="">Abortion, the taking of life, is one of the most grievous of sins. We have repeatedly affirmed the position of the Church in unalterably opposing all abortions, except in two rare instances: When conception is the result of forcible rape and when competent medical counsel indicates that a mother&rsquo;s health would otherwise be seriously jeopardized.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p47" class="">Certainly the tragedy of abortion often begins with a visit to an X-rated motion picture theater or fingering through an obscene magazine. The path to the grievous sins of fornication, adultery, and homosexuality can begin, too, with the viewing of some of the sex- and violence-oriented programs now being shown on television, including network television.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p48" class="">We must put on the armor of righteousness and resist with all our might these satanic influences. The time is now when members of The Church of Jesus Christ of Latter-day Saints must take a stand fearlessly and relentlessly for the Lord&rsquo;s ways as opposed to those of Satan.</p>
+			</div>
+			<div>
+				<h2>Bicentennial</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p50" class="">We have recently celebrated the notable event of the Bicentennial with all other good people of this country. We have experienced an increase of loyalty to our precious land.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p51" class="">We remember Benjamin Franklin said,</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p52" class="">&ldquo;I have lived, sir, a long time, and the longer I live, the more convincing proofs I see of this truth: <span class="emphasis">that God governs in the affairs of men.</span> &hellip; I firmly believe this, &hellip; that without his concurring aid, we shall succeed in this political building no better than the builders of Babel.&rdquo; (James Parton, <span class="emphasis">Life and Times of Benjamin Franklin,</span> Boston: James R. Osgood and Company, 1864, 2:573&ndash;74.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p53" class="">Out of years of turmoil and tragedy, wars and riots, assassinations and wrongdoings in high places, Americans have recaptured the Spirit of 1776. We again had visions of our revolutionary founders and our immigrant ancestors. Great and consoling is the vision of free men and free women enjoying limited government and unlimited opportunity.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p54" class="">And as we move forward from the Bicentennial, we state with John Adams in the carving over the marble fireplace in the White House, &ldquo;May none but honest and wise men ever rule under this roof.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p55" class="">No government can remain strong by ignoring the commandments given to Moses on Mount Sinai.</p>
+			</div>
+			<div>
+				<h2>Honesty</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p57" class="">Today is the day to <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> honesty and integrity. Many people have seemingly lost their concept of the God-given law of honesty. <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> led us in saying, &ldquo;We believe in being honest, true, chaste, benevolent, virtuous, and in doing good to all men.&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12" onclick="newWindow(this.href); return false;">A of F 1:13</a>)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p58" class="">Our Creator said in the carved message on Sinai, &ldquo;Thou shalt not steal&rdquo; [<a href="http://lds.org/scriptures/ot/ex/20.15?lang=eng#14" onclick="newWindow(this.href); return false;">Ex. 20:15</a>]. Again it was reiterated in the basis of the Restoration, &ldquo;Thou shalt not steal.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 59:6</a>.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p59" class="">In public office and private lives, the word of the Lord thunders: &ldquo;Thou shalt not steal; &hellip; nor do anything like unto it.&rdquo; He says. (<a href="http://lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 59:6</a>.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p60" class="">We find ourselves rationalizing in all forms of dishonesty, including shoplifting, which is a mean, low act indulged in by millions who claim to be honorable, decent people.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p61" class="">Dishonesty comes in many other forms: in hijacking, in playing upon private love and emotions for filthy lucre; in robbing money tills or stealing commodities of employers; in falsifying accounts; in taking advantage of other taxpaying people by misuse of food stamps and false claims; in taking unreal exemptions; in taking out government or private loans without intent to repay; in declaring unjust, improper bankruptcies to avoid repayment of loans; in robbing on the street or in the home money and other precious possessions; in stealing <span class="emphasis">time,</span> giving less than a full day of honest labor for a full day&rsquo;s compensation; in riding public transportation without paying the fare; and all forms of dishonesty in all places and in all conditions.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p62" class="">To all thieveries and dishonest acts, the Lord says, &ldquo;Thou shalt not steal.&rdquo; Four short common words He used. Perhaps He wearied of the long list He could have made of ways to steal, misrepresent, and take advantage, and He covered all methods of taking that which does not properly belong to one by saying, &ldquo;Thou shalt not steal.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p63" class="">&ldquo;Everybody&rsquo;s doing it&rdquo; is often given as an excuse. No society can be healthy without honesty, trust, and self-restraint.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p64" class="">In family life, men must and should be considerate of their wives, not only in the bearing of children, but in caring for them through childhood. The mother&rsquo;s health must be conserved, and the husband&rsquo;s consideration for his wife is his first duty, and self-control a dominant factor in all their relationships.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p65" class="">Family life is gaining ground. Some countries are coming to an appreciation for children and family life.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p66" class="">We note that France has now repudiated that program which would limit life. It is said that if a couple&rsquo;s combined ages in France do not exceed fifty-two and one of them is employed, the couple can borrow $1,350 from the government on demand. This is for the payment of rent, payment on a home, or for household equipment, with fifteen months to pay.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p67" class="">If a French couple has a baby before the loan payment is due, their debt is reduced by 15 percent for the first child, 25 percent for the second child, 25 percent for the third, and complete debt <a class="no-link-style" href="http://lds.org/general-conference/2005/10/forgiveness?lang=eng">forgiveness</a> for the fourth. In France the expectant mother is said to receive $150 for prenatal care. This is a step in the right direction.</p>
+			</div>
+			<div>
+				<h2>Home Evening</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p69" class="">The family home evening is committed to the belief that the family is the most important institution in all the world. We must give preference in time and energy to that family and observe properly and conscientiously the family home evening.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p70" class="">The father presides in this home evening, with his wife assisting, and, with song and prayer and teachings, a solid, righteous concept of living is developed in the family.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p71" class="">The home is the best place to teach the gospel of faith, repentance, and honesty, and integrity, and cleanliness.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p72" class="">The living of the commandments and the close relationship of parents and children will greatly reduce divorces, discourage all other forms of evil and misunderstandings. The family is the basic school of virtue.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p73" class="">One cleric wrote:</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p74" class="">&ldquo;Indeed, where the family is weak, or where it has been destroyed as a vital institution, the moral breakdown is most obvious. Man is a weak creature who needs the support of good institutions&mdash;the family, church, school, the fellowship of work, etc.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p75" class="">&ldquo;If the family is &lsquo;the first and essential cell,&rsquo; social decay must follow its breakdown.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p76" class="">An American author wrote this:</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p77" class="">&ldquo;Throughout history, nations have been able to survive a multiplicity of diseases, invasions, famines, earthquakes, epidemics, depressions, but they have never been able to survive the disintegration of the family.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p78" class="">&ldquo;The family is the seedbed of economic skills, money habits, attitude toward work, and the art of financial independence.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p79" class="">&ldquo;It is a stronger agency of educational success than the school, and a stronger religious training than the church.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p80" class="">&ldquo;What strengthened the family strengthened society.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p81" class="">&ldquo;When the family falters, life falls apart.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p82" class="">From the man who sits in the chair of the President of this country next January, there will be high requirements for imagination and courage.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p83" class="">&ldquo;There may come a generation that will incorporate the basic virtues with the world&rsquo;s compulsive thrust toward the future. We hope that 1976 may be the year in which the nation began to move on to the remaking of itself.&rdquo; (&ldquo;America&rsquo;s Spirit Is on the Rise,&rdquo; <span class="emphasis">U.S. News and World Report,</span> Aug. 23, 1976, pp. 25&ndash;27, adapted.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p84" class="">Our devotion to this program is attracting the attention of many churches and individuals and groups in the country. We hope you will never fail to hold home evenings and use them for training, teaching, and blessing the family.</p>
+			</div>
+			<div>
+				<h2>Humane Society</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p86" class="">Brothers and sisters, we bring to your attention the Humane Society, which has established a special week annually: &ldquo;Be Kind to Animals Week.&rdquo;</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p87" class="">I had a father who was infuriated if he saw a man beating a balky horse, or kicking his dog, or starving his other animals.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p88" class="">Wise Solomon said, &ldquo;A righteous man regardeth the life of his beast.&rdquo; (<a href="http://lds.org/scriptures/ot/prov/12.10?lang=eng#9" onclick="newWindow(this.href); return false;">Prov. 12:10</a>.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p89" class="">&ldquo;He [God] causeth the grass to grow for the cattle&rdquo; (<a href="http://lds.org/scriptures/ot/ps/104.14?lang=eng#13" onclick="newWindow(this.href); return false;">Ps. 104:14</a>), and the fodder for the beasts which serve man.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p90" class="">Even rest is provided for the animals.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p91" class="">&ldquo;Six days shalt thou do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest.&rdquo; (<a href="http://lds.org/scriptures/ot/ex/23.12?lang=eng#11" onclick="newWindow(this.href); return false;">Ex. 23:12</a>.)</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p92" class="">An old Hebrew saying warns not to dwell in a city where the horse does not neigh nor the dog bark.</p>
+			</div>
+			<div>
+				<h2>Politics</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p94" class="">Another primary election in this country has just passed, and soon a general election will follow.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p95" class="">We hope that you will go to the polls in large numbers and vote for the strongest, finest people who are certain to do the most to safeguard the rights and freedoms of the people.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p96" class="">We do not endorse candidates, but we hope you will vote for good men of character and stability&mdash;you to be the judge.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p97" class="">We hope our Church buildings and our Church organizations will not be used to advance the candidacy or policies of any of the candidates.</p>
+			</div>
+			<div>
+				<h2>Lamanite Work</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p99" class="">Our Lamanite work has been going forward. The American Indians and others of the Lamanites, 60 million or more of them in South and Central America and Mexico and the islands, are accepting the gospel.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p100" class="">The placement program goes forward wherein thousands of Indian children enjoy the benefits of excellent schools and well-ordered homes. Many continue on in university training.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p101" class="">We are told that there are some thirty-six missions directed largely toward the Lamanite people. There are sixty stakes, with more being organized, which have large Lamanite memberships. There was a recent count of Church members among those stakes and missions exceeding tens of thousands.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p102" class="">Engineers, chemical researchers, medical doctors, lawyers, and many other professional people are coming from among the Lamanites.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p103" class="">The Book of Mormon prophecy which promises &ldquo;nursing fathers and nursing mothers&rdquo; [see <a href="http://lds.org/scriptures/bofm/1-ne/21.23?lang=eng#22" onclick="newWindow(this.href); return false;">1 Ne. 21:23</a> and <a href="http://lds.org/scriptures/bofm/2-ne/10.9?lang=eng#8" onclick="newWindow(this.href); return false;">2 Ne. 10:9</a>] for the Lamanites is being fulfilled. Some 10,000 or 15,000 Indian students are being taught in the seminaries and other instructional institutions of religion, and hundreds of the more mature students are receiving their degrees from Brigham Young University, probably the greatest benefactor of Lamanite students among all higher learning institutions. They may then go into teaching, surveying, organizing, banking, and other services. We are very proud of our Lamanites. We hope all of our people will be loving and kind and helpful to all of the minority people who come into the Church.</p>
+			</div>
+			<div>
+				<h2>Calamities</h2>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p105" class="">We express our affection and sympathy to all those who have suffered in great calamities in the past months. The flood caused by the breaking of the Teton Dam brought misery and loss and suffering to numerous of our good people. With its high wall of water, the flood took nearly everything before it. We are grateful that Ricks College facilities were just above the flood line and served to make a home away from home for many who had lost their homes and to furnish hundreds of thousands of meals during their dilemma. We are very proud indeed of the organization, the faithful work, the hospitality, and the self-sacrifice of numerous helpers in this great tragedy.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p106" class="">Our sympathies go out also to the flood victims in the Big Thompson river flood in Colorado, with all the loss and devastation it brought.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p107" class="">We have deep sympathy for those who suffered loss in the Indonesian earthquake, and the earthquake and tidal wave in the Philippine Islands, and the Guatemala earthquake. We have followed with greatest sympathy and affection all these catastrophic experiences and pray the Lord will bless and sustain those who have suffered.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p108" class="">Brothers and sisters, we urge all our people to &ldquo;be ye clean that bear the vessels of the Lord&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/38.42?lang=eng#41" onclick="newWindow(this.href); return false;">D&amp;C 38:42</a>), to live the Lord&rsquo;s commandments, to do what is right.</p>
+				<p uri="/ensign/1976/11/a-report-and-a-challenge.p109" class="">May God bless you with His divine Spirit as you yield to the spiritual sermons of this conference by the Brethren. And with my testimony I close in the name of Jesus Christ. Amen.</p>
+			</div>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/11/report-of-the-146th-semiannual-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/11/the-reconstitution-of-the-first-quorum-of-the-seventy?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1976">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1976/11/a-report-and-a-challenge?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=A Report and a Challenge - Ensign Nov. 1976&amp;link=/ensign/1976/11/a-report-and-a-challenge&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1976%2F11%2Fa-report-and-a-challenge%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1976/11/a-report-and-a-challenge%3flang%3deng%26cid%3dfacebook-shared&amp;t=A+Report+and+a+Challenge+-+Ensign+Nov.+1976" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1976/11/a-report-and-a-challenge%3flang%3deng%26cid%3ddelicious-shared&amp;title=A+Report+and+a+Challenge+-+Ensign+Nov.+1976" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1976/11/a-report-and-a-challenge%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=A Report and a Challenge - Ensign Nov. 1976&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1976:11:a report and a challenge";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

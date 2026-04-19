@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.claude/
+.vscode/
+
+node_modules/
+out/
+stamps/
+logs/
+tools/jod/xsl/*.sef.json

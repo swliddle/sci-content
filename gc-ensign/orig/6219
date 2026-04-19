@@ -1,0 +1,730 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>For I Was Blind, but Now I See - Ensign May 1999 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="For I Was Blind, but Now I See - Ensign May 1999"><meta name="KEYWORDS" content="Jesus Christ,conversion,service,temples"><meta name="DESCRIPTION" content="If you want to give a light to others, you have to glow yourself."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="For I Was Blind, but Now I See - Ensign May 1999"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/thomas-s-monson-10.jpg"><meta property="og:description" content="If you want to give a light to others, you have to glow yourself."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1999/05?lang=eng">May 1999</a>
+                     </li><li>
+                        <span class="active">For I Was Blind, but Now I See</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1999/05/the-shepherds-of-the-flock?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1999/05/the-bishop-and-his-counselors?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            For I Was Blind, but Now I See
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/thomas-s-monson?lang=eng"><div class="byline" id="">
+				<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p3" class="">President Thomas S. Monson</p>
+				<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p" class="">First Counselor in the First Presidency</p>
+			</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/thomas-s-monson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/thomas-s-monson-10.jpg" alt="Thomas S. Monson" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">If you want to give a light to others, you have to glow yourself.</div>
+                                        
+                                    </blockquote>
+                            <h2>For I Was Blind, but Now I See</h2>
+                            <span style="display: none" id="article-id">99905_000_025</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p5" class="">When Jesus walked and taught among men, He spoke in language easily understood. Whether He was journeying along the dusty way from Perea to Jerusalem, addressing the multitudes on the shore of the Sea of Galilee, or pausing beside Jacob&rsquo;s well in Samaria, He taught in parables. Jesus spoke frequently of having hearts that could know and feel, ears that were capable of hearing, and eyes that could truly see.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p6" class="">One not so blessed with the gift of sight was the blind man who, in an effort to sustain himself, sat day in and day out at his usual place on the edge of a busy sidewalk in one of our large cities. In one hand he held an old felt hat filled with pencils. With his other hand he held out a tin cup. His simple appeal to the passerby was brief and to the point. It had a certain finality to it, almost a tone of despair. The message was contained on the small placard held about his neck by a string. It read, &ldquo;I am blind.&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p7" class="">Most did not stop to buy his pencils or to place a coin in the tin cup. They were too busy, too occupied by their own problems. That tin cup had never been filled or even half-filled. Then one beautiful spring day a man paused and, with a marking pen, added several new words to the shabby sign. No longer did it read, &ldquo;I am blind.&rdquo; Now the message read, &ldquo;It is springtime and I am blind.&rdquo; The cup was soon filled to overflowing. Perhaps the busy people were touched by Charles L. O&rsquo;Donnell&rsquo;s exclamation,</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p8" class="">&ldquo;I have never been able to school my eyes against young April&rsquo;s blue surprise.&rdquo; To each, however, the coins were a poor substitute for the desired ability to actually restore sight.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p9" class="">Each of us knows those who do not have sight. We also know many others who have their eyesight but who walk in darkness at noonday. These in this latter group may never carry the usual white cane and carefully make their way to the sound of the familiar &ldquo;tap, tap, tap.&rdquo; They may not have a faithful seeing-eye dog by their side nor carry a sign about their neck which reads, &ldquo;I am blind,&rdquo; but blind they surely are. Some have been blinded by anger, others by indifference, by revenge, by hate, by prejudice, by ignorance, by neglect of precious opportunities. Of such the Lord said, &ldquo;Their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-99905_000_025">1</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p10" class="">Well might each lament, &ldquo;It is springtime, the gospel of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> has been restored, and yet I am blind.&rdquo; Some, like the friend of Philip of old, call out, &ldquo;How can I [find my way], except some man should guide me?&rdquo;<sup class="noteMarker">
+	<a href="#footnote2-99905_000_025">2</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p11" class="">Many years ago, while attending a stake conference, I noticed that a counselor in the stake presidency was blind. He functioned beautifully, performing his duties as though he had sight. It was a stormy night as we met in the stake office situated on the second floor of the building. Suddenly there was a loud clap of thunder. The lights in the building almost immediately went out. Instinctively I reached out for our sightless leader, and I said, &ldquo;Here, take my arm and I will help you down the stairway.&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p12" class="">I&rsquo;m certain he must have had a smile on his face as he responded, &ldquo;No, Brother Monson, give me <span class="emphasis">your</span> arm, that I might help <span class="emphasis">you.</span>&rdquo; And he added, &ldquo;You are now in <span class="emphasis">my</span> territory.&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p13" class="">The storm abated, the lights returned, but I shall never forget the trek down those stairs, guided by the man who was sightless yet filled with light.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p14" class="">Long ago and at a place far distant, as Jesus passed by He saw a man who was blind from birth. His disciples questioned the Master as to why this person was blind. Had he sinned or had his parents sinned, causing him to have this affliction?</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p15" class="">&ldquo;Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him. &hellip;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p16" class="">&ldquo;As long as I am in the world, I am the light of the world.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p17" class="">&ldquo;When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p18" class="">&ldquo;And said unto him, Go, wash in the pool of Siloam. &hellip; He went his way therefore, and washed, and came seeing.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-99905_000_025">3</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p19" class="">A great dispute ensued among the Pharisees concerning this miracle:</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p20" class="">&ldquo;Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man [Jesus] is a sinner.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p21" class="">&ldquo;He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see.&rdquo;<sup class="noteMarker">
+	<a href="#footnote4-99905_000_025">4</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p22" class="">One thinks of the fisherman called Simon, better known to you and to me as Peter, chief among the Apostles. Doubting, disbelieving, impetuous Peter, in fulfillment of the Master&rsquo;s prophecy, indeed did deny Him thrice. Amidst the pushing, the jeers, and the blows, &ldquo;the Lord in the agony of His humiliation, in the majesty of His silence, &hellip; &lsquo;turned and looked upon Peter.&rsquo;&rdquo;<sup class="noteMarker">
+	<a href="#footnote5-99905_000_025">5</a>
+      </sup> As one chronologist described the change: &ldquo;It was enough. &hellip; [Peter] &lsquo;knew no more danger, he feared no more death.&rsquo; &hellip; [He] rushed forth into the night &hellip; &lsquo;to meet the morning dawn.&rsquo; &hellip; This broken-hearted penitent [stood] before the tribunal of his own conscience, and there his old life, his old shame, his old weakness, his old self was doomed to that death of godly sorrow which was to issue in a new and a [nobler] birth.&rdquo;<sup class="noteMarker">
+	<a href="#footnote6-99905_000_025">6</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p23" class="">The Apostle Paul had a similar experience to that of Peter. From the day of his conversion until the day of his death, Paul urged men to &ldquo;put off &hellip; the old man&rdquo; and to &ldquo;put on the new man, which after God is created in righteousness and true holiness.&rdquo;<sup class="noteMarker">
+	<a href="#footnote7-99905_000_025">7</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p24" class="">Simon the fisherman had become Peter the Apostle. Saul the persecutor had become Paul the proselyter.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p25" class="">The passage of time has not altered the capacity of the Redeemer to change men&rsquo;s lives. As He said to the dead Lazarus, so He says to you and to me: &ldquo;Come forth.&rdquo;<sup class="noteMarker">
+	<a href="#footnote8-99905_000_025">8</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p26" class="">Said President Harold B. Lee: &ldquo;Every soul who walks the earth, wherever he lives, in whatever nation he may have been born, no matter whether he be in riches or in poverty, had at birth an endowment of that first light which is called the Light of <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>, the Spirit of Truth, or the Spirit of God&mdash;that universal light of intelligence with which every soul is blessed. Moroni spoke of that Spirit when he said:</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p27" class="">&ldquo;&lsquo;For behold, the Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know with a perfect knowledge it is of God.&rsquo;&rdquo;<sup class="noteMarker">
+	<a href="#footnote9-99905_000_025">9</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p28" class="">You and I know those who qualify for the Savior&rsquo;s blessing in accordance with this definition.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p29" class="">Such was Walter Stover of Salt Lake City. Born in Germany, Walter embraced the gospel message and came to America. He established his own business. He gave freely of his time and of his means.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p30" class="">Following World War II, Walter Stover was called to return to his native land. He directed the Church in that nation and blessed the lives of all whom he met and with whom he served. With his own funds, he constructed two chapels in Berlin&mdash;a beautiful city that had been so devastated by the conflict. He planned a gathering in Dresden for all the members of the Church from that nation and then chartered a train to bring them from all around the land so they could meet, partake of the sacrament, and bear witness of the goodness of God to them.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p31" class="">At the funeral services for Walter Stover, his son-in-law Thomas C. LeDuc said of him, &ldquo;He had the ability to see Christ in every face he encountered, and he acted accordingly.&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p32" class="">The poet wrote:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">I met a stranger in the night, whose lamp had ceased to shine;</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">I paused and let him light his lamp from mine.</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">A tempest sprang up later on, and shook the world about,</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">And when the wind was gone, my lamp was out.</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">But back came to me the stranger&mdash;his lamp was glowing fine;</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">He held the precious flame and lighted mine.</span>
+	    <sup class="noteMarker">
+	    <a href="#footnote10-99905_000_025">10</a>
+	  </sup>
+	  </div>
+				</div>
+			</div>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p39" class="">Perhaps the moral of this poem is simply that if you want to give a light to others, you have to glow yourself.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p40" class="">When the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> went into a grove of trees made sacred by what occurred there, he described the event:</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p41" class="">&ldquo;It was on the morning of a beautiful, clear day, early in the spring of eighteen hundred and twenty. It was the first time in my life that I had made such an attempt, for amidst all my anxieties I had never as yet made the attempt to pray vocally.&rdquo;<sup class="noteMarker">
+	<a href="#footnote11-99905_000_025">11</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p42" class="">After enduring a harrowing experience from an unseen power, Joseph continued:</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p43" class="">&ldquo;I saw a pillar of light exactly over my head, above the brightness of the sun, which descended gradually until it fell upon me. &hellip;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p44" class="">&ldquo;When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other&mdash;<span class="emphasis">This is My Beloved Son. Hear Him!&rdquo;</span><sup class="noteMarker">
+	<a href="#footnote12-99905_000_025">12</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p45" class="">Joseph listened. Joseph learned.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p46" class="">On occasion I will be asked, &ldquo;Brother Monson, if the Savior appeared to you, what questions would you ask of Him?&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p47" class="">My reply is always the same: &ldquo;I would ask no question of Him. Rather, I would listen!&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p48" class="">Late one evening on a Pacific isle, a small boat slipped silently to its berth at the crude pier. Two Polynesian women helped Meli Mulipola from the boat and guided him to the well-worn pathway leading to the village road. The women marveled at the bright stars which twinkled in the midnight sky. The friendly moonlight guided them along their way. However, Meli Mulipola could not appreciate these delights of nature&mdash;the moon, the stars, the sky&mdash;for he was blind.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p49" class="">His vision had been normal until that fateful day when, while working on a pineapple plantation, light turned suddenly to darkness and day became perpetual night. He had learned of the restoration of the gospel and the teachings of The Church of Jesus Christ of Latter-day Saints. His life had been brought into compliance with these teachings.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p50" class="">He and his loved ones had made this long voyage, having learned that one who held the priesthood of God was visiting among the islands. He sought a blessing under the hands of those who held the sacred priesthood. His wish was granted. Tears streamed from his sightless eyes and coursed down his brown cheeks, tumbling finally upon his native dress. He dropped to his knees and prayed: &ldquo;Oh, God, thou knowest I am blind. Thy servants have blessed me that if it be thy will, my sight may return. Whether in thy wisdom I see light or whether I see darkness all the days of my life, I will be eternally grateful for the truth of thy gospel which I now see and which provides me the light of life.&rdquo;</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p51" class="">He arose to his feet, thanked us for providing the blessing, and disappeared into the dark of the night. Silently he came; silently he departed. But his presence I shall never forget. I reflected upon the message of the Master: &ldquo;I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.&rdquo;<sup class="noteMarker">
+	<a href="#footnote13-99905_000_025">13</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p52" class="">Today is a day of temple building. Never before have so many temples been erected and dedicated. President Gordon B. Hinckley, God&rsquo;s prophet on this earth, has a vision of the vital ordinances performed in such houses of the Lord. Temples will bless all who attend them and who sacrifice for their completion. The light of Christ will shine on all&mdash;even those who have gone beyond. President Joseph F. Smith, speaking of work for the dead, declared, &ldquo;Through our efforts in their behalf their chains of bondage will fall from them, and the darkness surrounding them will clear away, that light may shine upon them and they shall hear in the spirit world of the work that has been done for them by their children here, and will rejoice with you in your performance of these duties.&rdquo;<sup class="noteMarker">
+	<a href="#footnote14-99905_000_025">14</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p53" class="">The Apostle Paul urged, &ldquo;Be thou an example of the believers.&rdquo;<sup class="noteMarker">
+	<a href="#footnote15-99905_000_025">15</a>
+      </sup> And from James: &ldquo;Be ye doers of the word, and not hearers only, deceiving your own selves.&rdquo;<sup class="noteMarker">
+	<a href="#footnote16-99905_000_025">16</a>
+      </sup></p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p54" class="">I close with the words of the poet Minnie Louise Haskins, who wrote:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">
+	    <span class="emphasis">And I said to the man who stood at the gate of the year:</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">&ldquo;Give me a light, that I may tread safely into the unknown!&rdquo;</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">And he replied:</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">&ldquo;Go out into the darkness and put your hand into the Hand of God.</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">That shall be to you better than light and safer than a known way.&rdquo;</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">So, I went forth, and finding the Hand of God, trod gladly into the night.</span>
+	  </div>
+					<div class="line" id="">
+	    <span class="emphasis">And He led me toward the hills and the breaking of day in the lone East.</span>
+	    <sup class="noteMarker">
+	    <a href="#footnote17-99905_000_025">17</a>
+	  </sup>
+	  </div>
+				</div>
+			</div>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p62" class="">On this Easter morning and always, may our light so shine that we glorify our Heavenly Father and His Son, Jesus Christ, whose name is the only name under heaven whereby we might be saved.</p>
+			<p uri="/ensign/1999/05/for-i-was-blind-but-now-i-see.p63" class="">That we may ever walk in the footsteps of Jesus Christ is my humble prayer. In His holy name, amen.</p>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-99905_000_025">1.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/13.15?lang=eng#14" onclick="newWindow(this.href); return false;">Matt. 13:15</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-99905_000_025">2.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/acts/8.31?lang=eng#30" onclick="newWindow(this.href); return false;">Acts 8:31</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-99905_000_025">3.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/9.3,5-7?lang=eng#2" onclick="newWindow(this.href); return false;">John 9:3, 5&ndash;7</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-99905_000_025">4.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/9.24,25?lang=eng#23" onclick="newWindow(this.href); return false;">John 9:24, 25</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-99905_000_025">5.</a>
+      </span>
+				<p>Frederic W. Farrar, <span class="emphasis">The Life of Christ</span> (1874), 580; <a href="http://lds.org/scriptures/nt/luke/22.61?lang=eng#60" onclick="newWindow(this.href); return false;">Luke 22:61</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-99905_000_025">6.</a>
+      </span>
+				<p>Farrar, <span class="emphasis">The Life of Christ,</span> 581.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-99905_000_025">7.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/eph/4.22,24?lang=eng#21" onclick="newWindow(this.href); return false;">Eph. 4:22, 24</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-99905_000_025">8.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/11.43?lang=eng#42" onclick="newWindow(this.href); return false;">John 11:43</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-99905_000_025">9.</a>
+      </span>
+				<p>Harold B. Lee, <span class="emphasis">Stand Ye in Holy Places</span> (1974), 115; <a href="http://lds.org/scriptures/bofm/moro/7.16?lang=eng#15" onclick="newWindow(this.href); return false;">Moro. 7:16</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-99905_000_025">10.</a>
+      </span>
+				<p>Author unknown.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-99905_000_025">11.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/js-h/1.14?lang=eng#13" onclick="newWindow(this.href); return false;">JS&mdash;H 1:14</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote12-99905_000_025">12.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/pgp/js-h/1.16,17?lang=eng#15" onclick="newWindow(this.href); return false;">JS&mdash;H 1:16, 17</a>; emphasis in original.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote13-99905_000_025">13.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/8.12?lang=eng#11" onclick="newWindow(this.href); return false;">John 8:12</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote14-99905_000_025">14.</a>
+      </span>
+				<p>In Conference Report, Oct. 1916, 6.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote15-99905_000_025">15.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/1-tim/4.12?lang=eng#11" onclick="newWindow(this.href); return false;">1 Tim. 4:12</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote16-99905_000_025">16.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/james/1.22?lang=eng#21" onclick="newWindow(this.href); return false;">James 1:22</a>.</p>
+			</li>
+			<li class="footnote " id="-99905_000_025"><a name="-99905_000_025">&nbsp;</a>
+				<span class="label">
+	<a name="footnote17-99905_000_025">17.</a>
+      </span>
+				<p>From &ldquo;The Gate of the Year,&rdquo; in James Dalton Morrison, ed., <span class="emphasis">Masterpieces of Religious Verse</span> (1948), 92.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1999/05/the-shepherds-of-the-flock?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1999/05/the-bishop-and-his-counselors?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1999">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1999/05/for-i-was-blind-but-now-i-see?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=For I Was Blind, but Now I See - Ensign May 1999&amp;link=/ensign/1999/05/for-i-was-blind-but-now-i-see&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1999%2F05%2Ffor-i-was-blind-but-now-i-see%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see%3flang%3deng%26cid%3dfacebook-shared&amp;t=For+I+Was+Blind,+but+Now+I+See+-+Ensign+May+1999" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see%3flang%3deng%26cid%3ddelicious-shared&amp;title=For+I+Was+Blind,+but+Now+I+See+-+Ensign+May+1999" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1999/05/for-i-was-blind-but-now-i-see%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=For I Was Blind, but Now I See - Ensign May 1999&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1999:05:for i was blind, but now i see";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

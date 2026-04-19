@@ -1,0 +1,797 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Agency: Essential to the Plan of Life - Ensign Nov. 2010 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Agency: Essential to the Plan of Life - Ensign Nov. 2010"><meta name="KEYWORDS" content="agency,plan of salvation,repentance"><meta name="DESCRIPTION" content="Whenever we choose to come unto Christ, take His name upon us, and follow His servants, we progress along the path to eternal life."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Agency: Essential to the Plan of Life - Ensign Nov. 2010"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/robert-d-hales-10.jpg"><meta property="og:description" content="Whenever we choose to come unto Christ, take His name upon us, and follow His servants, we progress along the path to eternal life."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/2010/11?lang=eng">Nov. 2010</a>
+                     </li><li>
+                        <span class="active">Agency: Essential to the Plan of Life</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2010/11/the-sustaining-of-church-officers?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2010/11/let-there-be-light?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Agency: Essential to the Plan of Life
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/robert-d-hales?lang=eng"><div class="byline" id="">
+					<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p2" class="">By Elder Robert&nbsp;D. Hales</p>
+					<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p3" class="">Of the Quorum of the Twelve Apostles</p>
+				</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            <div class="audio-player">
+                                        <div id="audioClose"><a href="#" title="Close Audio" onclick="closeAudioPlayer(); return false;">Close Audio</a></div>
+                                    </div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/robert-d-hales?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/robert-d-hales-10.jpg" alt="Robert D. Hales" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">Whenever we choose to come unto Christ, take His name upon us, and follow His servants, we progress along the path to eternal life.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">09211_000_013</span>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p5" class="">Recently I received a letter from a friend of over 50 years who is not a member of our church. I had sent him some gospel-related reading, to which he responded: &ldquo;Initially it was hard for me to follow the meaning of typical Mormon jargon, such as <span class="emphasis">agency.</span> Possibly a short vocabulary page would be helpful.&rdquo;</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p6" class="">I was surprised he did not understand what we mean by the word <span class="emphasis">agency.</span> I went to an online dictionary. Of the 10 definitions and usages of the word <span class="emphasis">agency,</span> none expressed the idea of making choices to act. We teach that agency is the ability and privilege God gives us to choose and &ldquo;to act for [ourselves] and not to be acted upon.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-09211_000_013">1</a>
+      </sup> Agency is to act with accountability and responsibility for our actions. Our agency is essential to the plan of salvation. With it we are &ldquo;free to choose liberty and eternal life, through the great Mediator of all men, or to choose captivity and death, according to the captivity and power of the devil.&rdquo;<sup class="noteMarker">
+	<a href="#footnote2-09211_000_013">2</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p7" class="">The words of a familiar <a class="no-link-style" href="http://lds.org/cm/display/0,17631,4650-1,00.html">hymn</a> teach us this principle very clearly:</p>
+				<div class="figure">
+					<div class="stanza" id="">
+						<div class="line" id="">
+	      <span class="emphasis">Know this, that ev&rsquo;ry soul is free</span>
+	    </div>
+						<div class="line" id="">
+	      <span class="emphasis">To choose his life and what he&rsquo;ll be;</span>
+	    </div>
+						<div class="line" id="">
+	      <span class="emphasis">For this eternal truth is giv&rsquo;n:</span>
+	    </div>
+						<div class="line" id="">
+	      <span class="emphasis">That God will force no man to heav&rsquo;n.</span>
+	      <sup class="noteMarker">
+	    <a href="#footnote3-09211_000_013">3</a>
+	  </sup>
+	    </div>
+					</div>
+				</div>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p12" class="">To answer my friend&rsquo;s question and the questions of good men and women everywhere, let me share with you more of what we know about this meaning of agency.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p13" class="">Before we came to this earth, Heavenly Father presented His plan of salvation&mdash;a plan to come to earth and receive a body, choose to act between good and evil, and progress to become like Him and live with Him forever.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p14" class="">Our agency&mdash;our ability to choose and act for ourselves&mdash;was an essential element of this plan. Without agency we would be unable to make right choices and progress. Yet with agency we could make wrong choices, commit sin, and lose the opportunity to be with Heavenly Father again. For this reason a Savior would be provided to suffer for our sins and redeem us if we would repent. By His infinite Atonement, He brought about &ldquo;the plan of mercy, to appease the demands of justice.&rdquo;<sup class="noteMarker">
+	<a href="#footnote4-09211_000_013">4</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p15" class="">After Heavenly Father presented His plan, Lucifer stepped forward, saying, &ldquo;Send me, &hellip; and I will redeem all mankind, that [not even] one soul shall &hellip; be lost&nbsp;&hellip;&nbsp;; wherefore give me thine honor.&rdquo;<sup class="noteMarker">
+	<a href="#footnote5-09211_000_013">5</a>
+      </sup> This plan was rejected by our Father, for it would have denied us our agency. Indeed, it was a plan of rebellion.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p16" class="">Then <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, Heavenly Father&rsquo;s &ldquo;Beloved and Chosen [Son] from the beginning,&rdquo; exercised His agency to say, &ldquo;Father, thy will be done, and the glory be thine forever.&rdquo;<sup class="noteMarker">
+	<a href="#footnote6-09211_000_013">6</a>
+      </sup> He would be our Savior&mdash;the Savior of the world.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p17" class="">Because of Lucifer&rsquo;s rebellion, a great spiritual conflict ensued. Each of Heavenly Father&rsquo;s children had the opportunity to exercise the agency Heavenly Father had given him or her. We chose to have faith in the Savior Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>&mdash;to come unto Him, follow Him, and accept the plan Heavenly Father presented for our sakes. But a third of Heavenly Father&rsquo;s children did not have faith to follow the Savior and chose to follow Lucifer, or Satan, instead.<sup class="noteMarker">
+	<a href="#footnote7-09211_000_013">7</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p18" class="">And God said, &ldquo;Wherefore, because that Satan rebelled against me, and sought to destroy the agency of man, which I, the Lord God, had given him, &hellip; I caused that he should be cast down.&rdquo;<sup class="noteMarker">
+	<a href="#footnote8-09211_000_013">8</a>
+      </sup> Those who followed Satan lost the opportunity to receive a mortal body, live on earth, and progress. Because of the way they used their agency, they lost their agency.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p19" class="">Today the only power Satan and his followers have is the power to tempt and try us. Their only joy is to make us &ldquo;miserable like unto [themselves].&rdquo;<sup class="noteMarker">
+	<a href="#footnote9-09211_000_013">9</a>
+      </sup> Their only happiness comes when we are disobedient to the Lord&rsquo;s commandments.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p20" class="">But think of it: in our premortal state we chose to follow the Savior Jesus Christ! And because we did, we were allowed to come to earth. I testify that by making the same choice to follow the Savior now, while we are here on earth, we will obtain an even greater blessing in the eternities. But let it be known: we must continue to choose to follow the Savior. Eternity is at stake, and our wise use of agency and our actions are essential that we might have eternal life.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p21" class="">Throughout His life our Savior showed us how to use our agency. As a boy in Jerusalem, He deliberately chose to &ldquo;be about [His] Father&rsquo;s business.&rdquo;<sup class="noteMarker">
+	<a href="#footnote10-09211_000_013">10</a>
+      </sup> In His ministry, He obediently chose &ldquo;to do the will of [His] Father.&rdquo;<sup class="noteMarker">
+	<a href="#footnote11-09211_000_013">11</a>
+      </sup> In Gethsemane, He chose to suffer all things, saying, &ldquo;Not my will, but thine, be done. And there appeared an angel unto him from heaven, strengthening him.&rdquo;<sup class="noteMarker">
+	<a href="#footnote12-09211_000_013">12</a>
+      </sup> On the cross, He chose to love His enemies, praying, &ldquo;Father, forgive them; for they know not what they do.&rdquo;<sup class="noteMarker">
+	<a href="#footnote13-09211_000_013">13</a>
+      </sup> And then, so that He could finally demonstrate that He was choosing for Himself, He was left alone. &ldquo;[Father,] why hast thou forsaken me?&rdquo; He asked.<sup class="noteMarker">
+	<a href="#footnote14-09211_000_013">14</a>
+      </sup> At last, He exercised His agency to act, enduring to the end, until He could say, &ldquo;It is finished.&rdquo;<sup class="noteMarker">
+	<a href="#footnote15-09211_000_013">15</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p22" class="">Though He &ldquo;was in all points tempted like as we are,&rdquo;<sup class="noteMarker">
+	<a href="#footnote16-09211_000_013">16</a>
+      </sup> with every choice and every action He exercised the agency to be our Savior&mdash;to break the chains of sin and death for us. And by His perfect life, He taught us that when we choose to do the will of our Heavenly Father, our agency is preserved, our opportunities increase, and we progress.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p23" class="">Evidence of this truth is found throughout the scriptures. Job lost everything he had yet chose to remain faithful, and he gained the eternal blessings of God. Mary and Joseph chose to follow the warning of an angel to flee into Egypt, and the life of the Savior was preserved. <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> chose to follow the instructions of Moroni, and the Restoration unfolded as prophesied. Whenever we choose to come unto Christ, take His name upon us, and follow His servants, we progress along the path to eternal life.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p24" class="">In our mortal journey, it is helpful to remember that the opposite is also true: when we don&rsquo;t keep the commandments or follow the promptings of the Holy Ghost, our opportunities are reduced; our abilities to act and progress are diminished. When Cain took his brother&rsquo;s life because he loved Satan more than God, his spiritual progress was stopped.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p25" class="">In my youth I learned an important lesson about how our actions may limit our freedom. One day my father assigned me to varnish a wooden floor. I made the choice to begin at the door and work my way <span class="emphasis">into</span> the room. When I was almost finished, I realized I had left myself no way to get out. There was no window or door on the other side. I had literally painted myself into a corner. I had no place to go. I was stuck.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p26" class="">Whenever we disobey, we spiritually paint ourselves into a corner and are captive to our choices. Though we are spiritually stuck, there is always a way back. Like repentance, turning around and walking across a newly varnished floor means more work&mdash;a lot of resanding and refinishing! Returning to the Lord isn&rsquo;t easy, but it is worth it.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p27" class="">As we understand the challenge of repenting, we appreciate the blessings of the Holy Ghost to guide our agency and Heavenly Father, who gives us commandments and strengthens and sustains us in keeping them. We also understand how obedience to the commandments ultimately protects our agency.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p28" class="">For example, when we hearken to the Word of Wisdom, we escape the captivity of poor health and addiction to substances that literally rob us of our ability to act for ourselves.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p29" class="">As we obey the counsel to avoid and get out of debt now, we use our agency and obtain the liberty to use our disposable income for helping and blessing others.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p30" class="">When we follow the prophets&rsquo; counsel to hold <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> home evening, family prayer, and family scripture study, our homes become an incubator for our children&rsquo;s spiritual growth. There we teach them the gospel, bear our testimonies, express our love, and listen as they share their feelings and experiences. By our righteous choices and actions, we liberate them from darkness by increasing their ability to walk in the light.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p31" class="">The world teaches many falsehoods about agency. Many think we should &ldquo;eat, drink, and be merry; &hellip; and if it so be that we are guilty, God will beat us with a few stripes, and at last we shall be saved.&rdquo;<sup class="noteMarker">
+	<a href="#footnote17-09211_000_013">17</a>
+      </sup> Others embrace secularism and deny God. They convince themselves that there is no &ldquo;opposition in all things&rdquo;<sup class="noteMarker">
+	<a href="#footnote18-09211_000_013">18</a>
+      </sup> and, therefore, &ldquo;whatsoever a man [does is] no crime.&rdquo;<sup class="noteMarker">
+	<a href="#footnote19-09211_000_013">19</a>
+      </sup> This &ldquo;destroy[s] the wisdom of God and his eternal purposes.&rdquo;<sup class="noteMarker">
+	<a href="#footnote20-09211_000_013">20</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p32" class="">Contrary to the world&rsquo;s secular teaching, the scriptures teach us that we do have agency, and our righteous exercise of agency always makes a difference in the opportunities we have and our ability to act upon them and progress eternally.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p33" class="">For example, through the prophet Samuel, the Lord gave a clear commandment to King Saul:</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p34" class="">&ldquo;The Lord sent me to anoint thee to be king&nbsp;&hellip;&nbsp;: now therefore hearken thou unto the voice &hellip; of the Lord.&nbsp;&hellip;</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p35" class="">&ldquo;&hellip;&nbsp;Go and smite Amalek, and utterly destroy all that they have.&rdquo;<sup class="noteMarker">
+	<a href="#footnote21-09211_000_013">21</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p36" class="">But Saul did not follow the Lord&rsquo;s commandment. He practiced what I call &ldquo;selective obedience.&rdquo; Relying on his own wisdom, he spared the life of King Agag and brought back the best of the sheep, oxen, and other animals.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p37" class="">The Lord revealed this to the prophet Samuel and sent him to remove Saul from being king. When the prophet arrived, Saul said, &ldquo;I have performed the commandment of the Lord.&rdquo;<sup class="noteMarker">
+	<a href="#footnote22-09211_000_013">22</a>
+      </sup> But the prophet knew otherwise, saying, &ldquo;What meaneth then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?&rdquo;<sup class="noteMarker">
+	<a href="#footnote23-09211_000_013">23</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p38" class="">Saul excused himself by blaming others, saying the people had kept the animals in order to make sacrifices to the Lord. The prophet&rsquo;s answer was clear: &ldquo;Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken [to the commandments of the Lord] than the fat of rams.&rdquo;<sup class="noteMarker">
+	<a href="#footnote24-09211_000_013">24</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p39" class="">Finally, Saul confessed, saying, &ldquo;I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.&rdquo;<sup class="noteMarker">
+	<a href="#footnote25-09211_000_013">25</a>
+      </sup> Because Saul did not hearken with exactness&mdash;because he chose to be selectively obedient&mdash;he lost the opportunity and the agency to be king.</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p40" class="">My brothers and sisters, are we hearkening with exactness to the voice of the Lord and His prophets? Or, like Saul, are we practicing selective obedience and fearing the judgments of men?</p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p41" class="">I acknowledge that all of us make mistakes. The scriptures teach us, &ldquo;All have sinned, and come short of the glory of God.&rdquo;<sup class="noteMarker">
+	<a href="#footnote26-09211_000_013">26</a>
+      </sup> For those who find themselves captive to past unrighteous choices, stuck in a dark corner, without all the blessings available by the righteous exercise of agency, we love you. Come back! Come out of the dark corner and into the light. Even if you have to walk across a newly varnished floor, it is worth it. Trust that &ldquo;through the Atonement of Christ, all mankind [including you and me] may be saved, by obedience to the laws and ordinances of the Gospel.&rdquo;<sup class="noteMarker">
+	<a href="#footnote27-09211_000_013">27</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p42" class="">As the hour of the Atonement was upon Him, the Savior offered His great Intercessory Prayer and spoke of each of us, saying: &ldquo;Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me.&rdquo;<sup class="noteMarker">
+	<a href="#footnote28-09211_000_013">28</a>
+      </sup> &ldquo;And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.&rdquo;<sup class="noteMarker">
+	<a href="#footnote29-09211_000_013">29</a>
+      </sup></p>
+				<p uri="/ensign/2010/11/agency-essential-to-the-plan-of-life.p43" class="">I bear my special witness that They live. When we exercise our agency in righteousness, we come to know Them, become more like Them, and prepare ourselves for that day when &ldquo;every knee shall bow, and every tongue confess&rdquo; that Jesus is our Savior.<sup class="noteMarker">
+	<a href="#footnote30-09211_000_013">30</a>
+      </sup> May we continue to follow Him and our Eternal Father, as we did in the beginning, I pray in the name of Jesus Christ, amen.</p>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote1-09211_000_013">1.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/2.26?lang=eng#25" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:26</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote2-09211_000_013">2.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:27</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote3-09211_000_013">3.</a>
+      </span>
+					<p>&ldquo;Know This, That Every Soul Is Free,&rdquo; <span class="emphasis">Hymns,</span> no. 240.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote4-09211_000_013">4.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/alma/42.15?lang=eng#14" onclick="newWindow(this.href); return false;">Alma 42:15</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote5-09211_000_013">5.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/pgp/moses/4.1?lang=eng#0" onclick="newWindow(this.href); return false;">Moses 4:1</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote6-09211_000_013">6.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/pgp/moses/4.2?lang=eng#1" onclick="newWindow(this.href); return false;">Moses 4:2</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote7-09211_000_013">7.</a>
+      </span>
+					<p>See <a href="http://lds.org/scriptures/dc-testament/dc/29.36?lang=eng#35" onclick="newWindow(this.href); return false;">Doctrine and Covenants 29:36</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote8-09211_000_013">8.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/pgp/moses/4.3?lang=eng#2" onclick="newWindow(this.href); return false;">Moses 4:3</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote9-09211_000_013">9.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:27</a>; see also <a href="http://lds.org/scriptures/bofm/2-ne/9.9?lang=eng#8" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 9:9</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote10-09211_000_013">10.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/luke/2.49?lang=eng#48" onclick="newWindow(this.href); return false;">Luke 2:49</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote11-09211_000_013">11.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/3-ne/27.13?lang=eng#12" onclick="newWindow(this.href); return false;">3&nbsp;Nephi 27:13</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote12-09211_000_013">12.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/luke/22.42-43?lang=eng#41" onclick="newWindow(this.href); return false;">Luke 22:42&ndash;43</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote13-09211_000_013">13.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/luke/23.34?lang=eng#33" onclick="newWindow(this.href); return false;">Luke 23:34</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote14-09211_000_013">14.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/matt/27.46?lang=eng#45" onclick="newWindow(this.href); return false;">Matthew 27:46</a>; <a href="http://lds.org/scriptures/nt/mark/15.34?lang=eng#33" onclick="newWindow(this.href); return false;">Mark 15:34</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote15-09211_000_013">15.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/john/19.30?lang=eng#29" onclick="newWindow(this.href); return false;">John 19:30</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote16-09211_000_013">16.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/heb/4.15?lang=eng#14" onclick="newWindow(this.href); return false;">Hebrews 4:15</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote17-09211_000_013">17.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/28.8?lang=eng#7" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 28:8</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote18-09211_000_013">18.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/2.11?lang=eng#10" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:11</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote19-09211_000_013">19.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/alma/30.17?lang=eng#16" onclick="newWindow(this.href); return false;">Alma 30:17</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote20-09211_000_013">20.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/2.12?lang=eng#11" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:12</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote21-09211_000_013">21.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/1-sam/15.1,3?lang=eng#0" onclick="newWindow(this.href); return false;">1&nbsp;Samuel 15:1, 3</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote22-09211_000_013">22.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/1-sam/15.13?lang=eng#12" onclick="newWindow(this.href); return false;">1&nbsp;Samuel 15:13</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote23-09211_000_013">23.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/1-sam/15.14?lang=eng#13" onclick="newWindow(this.href); return false;">1&nbsp;Samuel 15:14</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote24-09211_000_013">24.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/1-sam/15.22?lang=eng#21" onclick="newWindow(this.href); return false;">1&nbsp;Samuel 15:22</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote25-09211_000_013">25.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/1-sam/15.24?lang=eng#23" onclick="newWindow(this.href); return false;">1&nbsp;Samuel 15:24</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote26-09211_000_013">26.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/rom/3.23?lang=eng#22" onclick="newWindow(this.href); return false;">Romans 3:23</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote27-09211_000_013">27.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2" onclick="newWindow(this.href); return false;">Articles of Faith 1:3</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote28-09211_000_013">28.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/john/17.24?lang=eng#23" onclick="newWindow(this.href); return false;">John 17:24</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote29-09211_000_013">29.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/john/17.3?lang=eng#2" onclick="newWindow(this.href); return false;">John 17:3</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_013"><a name="-09211_000_013">&nbsp;</a>
+					<span class="label">
+	<a name="footnote30-09211_000_013">30.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/mosiah/27.31?lang=eng#30" onclick="newWindow(this.href); return false;">Mosiah 27:31</a>.</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2010/11/the-sustaining-of-church-officers?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2010/11/let-there-be-light?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2010">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#d" onclick="openAudioPlayer('http://broadcast.lds.org/general-conference/2010-october/2010-10-2020-elder-robert-d-hales-64k-eng.mp3', 'flash Message'); return false;" title="Listen">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2010/11/agency-essential-to-the-plan-of-life?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://lds.org/churchmagazines/EN_2010_11_11___09211_000_013.pdf">PDF</a></li><li><a href="http://lds.org/churchmagazines/EN_2010_11_00___09211_000_000.pdf"></a></li><li><a href="http://broadcast.lds.org/general-conference/2010-october/2010-10-2020-elder-robert-d-hales-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Agency: Essential to the Plan of Life - Ensign Nov. 2010&amp;link=/ensign/2010/11/agency-essential-to-the-plan-of-life&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F2010%2F11%2Fagency-essential-to-the-plan-of-life%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life%3flang%3deng%26cid%3dfacebook-shared&amp;t=Agency%3a+Essential+to+the+Plan+of+Life+-+Ensign+Nov.+2010" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life%3flang%3deng%26cid%3ddelicious-shared&amp;title=Agency%3a+Essential+to+the+Plan+of+Life+-+Ensign+Nov.+2010" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/2010/11/agency-essential-to-the-plan-of-life%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Agency: Essential to the Plan of Life - Ensign Nov. 2010&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2010:11:agency: essential to the plan of life";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

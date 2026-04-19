@@ -1,0 +1,724 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Combatting Spiritual Drift&mdash;Our Global Pandemic - Ensign Nov. 1993 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Combatting Spiritual Drift&mdash;Our Global Pandemic - Ensign Nov. 1993"><meta name="KEYWORDS" content=""><meta name="DESCRIPTION" content="This address was given at the 1993 Parliament of the World&rsquo;s Religions, Chicago, Illinois, 2 September 1993."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Combatting Spiritual Drift&mdash;Our Global Pandemic - Ensign Nov. 1993"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg"><meta property="og:description" content="This address was given at the 1993 Parliament of the World&rsquo;s Religions, Chicago, Illinois, 2 September 1993."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1993/11?lang=eng">Nov. 1993</a>
+                     </li><li>
+                        <span class="active">Combatting Spiritual Drift&mdash;Our Global Pandemic</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1993/11/elder-nelson-speaks-at-gathering-of-worlds-religions?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1993/11/news-of-the-church?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Combatting Spiritual Drift&mdash;Our Global Pandemic
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng"><div class="byline" id="">
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p2" class="">Elder Russell M. Nelson</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p" class="">Of the Quorum of the Twelve Apostles</p>
+			</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg" alt="Russell M. Nelson" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">This address was given at the 1993 Parliament of the World&rsquo;s Religions, Chicago, Illinois, 2 September 1993.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">93911_000_042</span>
+			<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p4" class="">Dear colleagues and friends, it is a privilege for me to represent The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints at this historic parliament. I pay tribute to those who have organized it and to all who have participated.</p>
+			<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p5" class="">Prior to my call to full-time service as a Church leader, I worked as a medical doctor specializing in the teaching, research, and practice of thoracic and cardiovascular surgery. I performed about seven thousand operations. During nearly four decades as a student of medical sciences, I learned to distinguish between the physical and spiritual components of the human soul. A patient could be physically weak but spiritually strong, and vice versa. For example, on many occasions I watched the critically ill mobilize great spiritual strength in order to undergo a high-risk operation to correct a physical problem within the heart. In contrast, I saw individuals without physical abnormality who were seriously ill because of spiritual loss of heart.</p>
+			<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p6" class="">Duties have taken me to approximately one hundred nations of the earth, where I have observed the physical and spiritual dualism of life on a broader scale. There I have noted examples of the same physical and spiritual disparity that I previously encountered in my profession. I have observed that if a great physical disaster should strike, such as a devastating earthquake or flood, people are motivated spiritually by an uncommon desire to help one another. After the great earthquake in Armenia in December 1988, for example, I saw spontaneous outpourings of help from all over the world. Donors from many nations contributed aid to hundreds of thousands of homeless victims. Generosity seemed to transcend political or racial differences.</p>
+			<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p7" class="">Fortunately, such major disasters are rare. But unfortunately, when normal life resumes, the pendulum seems to swing from spiritual vitality to laxity. It is ironic that as affluence and physical comforts increase, spiritual strength declines. This observation has prompted the title for my message: &ldquo;Combatting Spiritual Drift&mdash;Our Global Pandemic.&rdquo; Reversing this crisis in the health of the human spirit is an enormous challenge.</p>
+			<div>
+				<h2>Changes Since the Last Parliament of the World&rsquo;s Religions</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p9" class="">In the century that has elapsed since the last meeting of the Parliament of the World&rsquo;s Religions, there have been notable advances in virtually every field of human endeavor. Think of the progress made in transportation, communication, commerce, agriculture, medicine, science, and electronics.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p10" class="">But spiritual progress has lagged behind. We see evidences of increasing ethnic strife and hatred. Nationalism seems to be taking priority over brotherly love. Violence and civil wars are raging. Divorce and diminishing regard for the sanctity of human life have eroded the strength of the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>&mdash;the basic unit of society. Immorality, infidelity, and promiscuity&mdash;once shunned&mdash;are now tolerated and even condoned. We have witnessed the insidious intrusion of pornography, with its attendant denigration of the human soul. And gambling, which preys upon the poor and the compulsive, has crept from the realm of the illegal into the arena of governmental sponsorship.</p>
+			</div>
+			<div>
+				<h2>Religion&rsquo;s Role in the Past Century</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p12" class="">We may well ask, &ldquo;What has been the role of religion during this past century?&rdquo; The lofty objectives and high ideals promoted by the religions of the world are truly commendable. Much good has been done. We should all feel a deep sense of <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> for noble predecessors in every faith group.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p13" class="">At the same time, we should be objective enough to analyze past activity and note any efforts that might have been inadequate, misdirected, or even counterproductive. For instance, worldly trends may have been assimilated into some religious ideology. On occasion, there may have been misguided incursions of religion into the political arena. And in spite of the exemplary behavior of the majority of our religious leaders and members, inappropriate conduct by any individual identified with a specific religious movement tends to tarnish the image of all. Sadly, we have also witnessed instances of interfaith contention, maligning, and intolerance.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p14" class="">Moreover, honest people searching for answers to life&rsquo;s greatest questions may have turned to religion, asking, &ldquo;Where did I come from? Why am I here? Where am I going?&rdquo; Some may have come away unsatisfied.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p15" class="">Given these realities, religion must shoulder greater responsibility in healing the spiritual sickness that engulfs our globe.</p>
+			</div>
+			<div>
+				<h2>The Role of Religion in the Future</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p17" class="">The dismal dusk of today&rsquo;s spiritual drift provides a rare opportunity for the radiance of religion to light the way to a new tomorrow. This can happen only as we proclaim eternal truths that have the power to engender spiritual strength. Human nature cannot be changed by reforming public policy; that kind of change comes by exposing the human mind and heart to the transforming teachings of the Lord Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>. I have learned that when we teach His correct principles, people govern themselves appropriately.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p18" class="">We at this world parliament represent many religious persuasions. Because there is much that is praiseworthy in each of our faiths, it is important for us to maintain the integrity of our religious institutions and to preserve tolerance of each other&rsquo;s sacred beliefs. These factors are essential to the strength of a pluralistic society. Tolerance and understanding are enhanced as we teach clearly and courteously the tenets of our religions.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p19" class="">In that spirit, and as done so well by previous speakers, I would like to speak of the organization I represent. I would like to speak of the institution and of the doctrine of The Church of Jesus Christ of Latter-day Saints, sometimes known as the &ldquo;Mormon&rdquo; church. That is not its correct name, as many of you may know; it is only a nickname&mdash;derived from our belief in the Book of Mormon, to which I will refer later.</p>
+			</div>
+			<div>
+				<h2>The Church of Jesus Christ of Latter-day Saints</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p21" class="">
+	  <span class="strong">
+	    <span class="emphasis">Institutional Background</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p22" class="">The Church of Jesus Christ of Latter-day Saints has endured much persecution, oppression, and hardship. From these experiences has come our genuine passion for tolerance and a sincere appreciation for feelings held sacred by others. Early members of this church were some of the great pioneers in the development of the United States of America. All eight of my great-grandparents, for example, were early converts to this church from populous nations of Europe. All eight of them immigrated to the U.S.A. and became part of the nineteenth century&rsquo;s historic trailblazing trek westward.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p23" class="">Now the Church has a worldwide membership in excess of eight million people. Although its world headquarters are located in Salt Lake City, Utah, its congregations flourish throughout the world in approximately one hundred fifty nations on six continents and upon many islands of the sea.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p24" class="">Ours is a lay ministry. For example, I previously served as general president of the <a class="no-link-style" href="http://lds.org/manual/sunday-school?lang=eng">Sunday School</a> of the Church for eight years, while continuing my professional work as a cardiovascular surgeon. Our religious activities throughout the world are led by male and female volunteers. We believe that everyone can be happy because everyone can serve. Congregations in Germany are led by Germans, in Peru by Peruvians, in Japan by Japanese, and so on. Government by consent of the governed is a rule of the Church.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p25" class="">
+	  <span class="strong">
+	    <span class="emphasis">Saints</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p26" class="">Members of the Church in biblical times were addressed as <span class="emphasis">saints.</span> Likewise, members of the Church today are known as Latter-day Saints, often abbreviated as &ldquo;LDS.&rdquo; We regard a saint as a believer in Christ, one who knows of His perfect love and who strives to live in accord with His commandments. The term connotes a high level of commitment to following the Savior.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p27" class="">
+	  <span class="strong">
+	    <span class="emphasis">Articles of Faith</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p28" class="">A summary of the tenets of The Church of Jesus Christ of Latter-day Saints has long been known as the Articles of Faith.<sup class="noteMarker">
+	  <a href="#footnote1-93911_000_042">1</a>
+	</sup> Copies are available for any who are interested. I will quote liberally from this statement in discussing the doctrines of our church.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p29" class="">
+	  <span class="strong">
+	    <span class="emphasis">Godhead</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p30" class="">First, &ldquo;we believe in God, the Eternal Father, and in His Son, Jesus Christ, and in the Holy Ghost&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.1?lang=eng#0" onclick="newWindow(this.href); return false;">A of F 1:1</a>). We worship our Heavenly Father and pray to Him in the name of His Beloved Son, Jesus Christ, through the power of the Holy Ghost. We revere the Son of God as our Savior, our Redeemer, and our Master. He came into the world to do the will of His Father (see <a href="http://lds.org/scriptures/bofm/3-ne/27.13?lang=eng#12" onclick="newWindow(this.href); return false;">3 Ne. 27:13</a>). He died for us and was resurrected from the tomb. His triumph over death brings the blessings of <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">resurrection</a> and <a class="no-link-style" href="http://lds.org/study/topics/immortality?lang=eng">immortality</a> to all mankind (see <a href="http://lds.org/scriptures/nt/1-cor/15.20-22?lang=eng#19" onclick="newWindow(this.href); return false;">1 Cor. 15:20&ndash;22</a>). Our adoration for Him is typified in this passage from the Book of Mormon:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p31" class="">&ldquo;We talk of Christ, we rejoice in Christ, we <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> of Christ, we prophesy of Christ, &hellip; that our children may know to what source they may look for a remission of their sins&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/25.26?lang=eng#25" onclick="newWindow(this.href); return false;">2 Ne. 25:26</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p32" class="">Nothing in human history equals the wonder, the magnitude, or the fruits of the matchless life of the Son of God. He is our exemplar and the author of our faith. And one day He will again come to the earth to begin His promised millennial reign.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p33" class="">
+	  <span class="strong">
+	    <span class="emphasis">Prophets</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p34" class="">We also believe in prophets. God has always taught His children upon the earth through prophets. In ancient times, Abraham, Isaac, Jacob, Isaiah, Ezekiel, Jeremiah, and many others were among those chosen by God as His prophets. Likewise, we believe that <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> was called by God as the prophet to inaugurate this present era, known as &ldquo;the dispensation of the fulness of times&rdquo; (see <a href="http://lds.org/scriptures/nt/eph/1.10?lang=eng#9" onclick="newWindow(this.href); return false;">Eph. 1:10</a>; <a href="http://lds.org/scriptures/dc-testament/dc/112.30?lang=eng#29" onclick="newWindow(this.href); return false;">D&amp;C 112:30</a>; <a href="http://lds.org/scriptures/dc-testament/dc/121.31?lang=eng#30" onclick="newWindow(this.href); return false;">D&amp;C 121:31</a>; <a href="http://lds.org/scriptures/dc-testament/dc/124.41?lang=eng#40" onclick="newWindow(this.href); return false;">D&amp;C 124:41</a>; <a href="http://lds.org/scriptures/dc-testament/dc/128.18,20?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 128:18, 20</a>; <a href="http://lds.org/scriptures/dc-testament/dc/138.48?lang=eng#47" onclick="newWindow(this.href); return false;">D&amp;C 138:48</a>). He was called and chosen to bring together all former &ldquo;dispensations, and keys, and powers &hellip; from the days of Adam even to the present time&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/128.18?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 128:18</a>). Previous dispensations include those identified with Adam, with Noah, with <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a>, and with Jesus and His Apostles in the meridian of time.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p35" class="">
+	  <span class="strong">
+	    <span class="emphasis">Restitution</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p36" class="">This modern dispensation of which I speak fulfills the biblical promise of a &ldquo;restitution of all things&rdquo; (<a href="http://lds.org/scriptures/nt/acts/3.21?lang=eng#20" onclick="newWindow(this.href); return false;">Acts 3:21</a>; see also <a href="http://lds.org/scriptures/nt/rev/14.6,7?lang=eng#5" onclick="newWindow(this.href); return false;">Rev. 14:6, 7</a>). It also fulfills another scriptural promise that &ldquo;the Lord doth grant unto all nations, of their own nation and tongue, to teach his word&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/29.8?lang=eng#7" onclick="newWindow(this.href); return false;">Alma 29:8</a>). We believe in the restitution of the same organization that once existed in the early Christian Church, with Apostles, prophets, and teachers (see <a href="http://lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5" onclick="newWindow(this.href); return false;">A of F 1:6</a>). Our origins did <span class="emphasis">not</span> spring from protest of any kind; hence, we are not a Protestant denomination. Rather, we understand that the church of Jesus Christ has been restored to the earth, established, as the Apostle Paul once declared, &ldquo;upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone&rdquo; (<a href="http://lds.org/scriptures/nt/eph/2.20?lang=eng#19" onclick="newWindow(this.href); return false;">Eph. 2:20</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p37" class="">God the Father and His Son, Jesus Christ, literally appeared to the Prophet Joseph Smith in April 1820. While this may be relatively unknown in the annals of history, yet it constituted an epochal event in the history of humanity&mdash;a profound demonstration of <a class="no-link-style" href="http://lds.org/general-conference/2009/10/the-love-of-god?lang=eng">the love of God</a> for all of His children. Because this milestone is of such importance, I would like to quote excerpts from the Prophet&rsquo;s written account:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p38" class="">&ldquo;I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other&mdash;<span class="emphasis">This is My Beloved Son. Hear Him!</span>&rdquo; <a href="http://lds.org/scriptures/pgp/js-h/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">JS&mdash;H 1:17</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p39" class="">Joseph Smith encountered intense persecution after this experience had become public knowledge. He wrote:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p40" class="">&ldquo;I had actually seen a light, and in the midst of that light I saw two Personages, and they did in reality speak to me; and though I was hated and persecuted for saying that I had seen a vision, yet it was true; and while [abusers] were persecuting me, reviling me, and speaking all manner of evil against me falsely for so saying, I was led to say in my heart: Why persecute me for telling the truth? I have actually seen a vision; and who am I that I can withstand God, or why does the world think to make me deny what I have actually seen? For I had seen a vision; I knew it, and I knew that God knew it, and I could not deny it, neither dared I do it; at least I knew that by so doing I would offend God, and come under condemnation&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.25?lang=eng#24" onclick="newWindow(this.href); return false;">JS&mdash;H 1:25</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p41" class="">We regard that theophany&mdash;which we designate as the First Vision&mdash;and subsequent communications of heavenly beings with the Prophet Joseph Smith to be as real as my conversation with you now. These and other visitations relating to the promised restitution of the Church are well documented.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p42" class="">For his singular service as the prophet called to inaugurate this dispensation, Joseph Smith gave his life as a martyr at the young age of thirty-eight years. As we honor prophets of former days, so we honor the Prophet Joseph Smith. May I quote from an account written shortly after his martyrdom in 1844, penned by one of his contemporaries:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p43" class="">&ldquo;In the short space of twenty years, he [the Prophet Joseph Smith] has brought forth the Book of Mormon, which he translated by the gift and power of God, and has been the means of publishing it on two continents; has sent the fulness of the everlasting gospel, which it contained, to the four quarters of the earth; has brought forth the revelations and commandments which compose this book of Doctrine and Covenants, and many other wise documents and instructions for the benefit of the children of men; gathered many thousands of the Latter-day Saints, founded a great city, and left a fame and name that cannot be slain. He lived great, and he died great in the eyes of God and his people; and like most of the Lord&rsquo;s anointed in ancient times, has sealed his mission and his works with his own blood&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/135.3?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 135:3</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p44" class="">
+	  <span class="strong">
+	    <span class="emphasis">The Standard Works</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p45" class="">We regard the Book of Mormon as companion scripture to the Holy <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a> (see <a href="http://lds.org/scriptures/pgp/a-of-f/1.8?lang=eng#7" onclick="newWindow(this.href); return false;">A of F 1:8</a>). While the Bible bears record of teachings the Lord gave to His prophets who lived in the Old World, the Book of Mormon contains teachings the Lord gave to His prophets who lived in the American hemisphere. This record covers a period of about a thousand years, from approximately 600 <span class="small">B.C.</span> to <span class="small">A.D.</span> 400 (although there is reference to other migrations and peoples preceding that time). The Book of Mormon bears record of the personal ministry of Jesus Christ, as the resurrected Lord, to inhabitants of ancient America. Prophets recorded His teachings among them. Hence, the Book of Mormon is &ldquo;Another Testament of Jesus Christ&rdquo; (Book of Mormon Title Page). It came in fulfillment of biblical prophecy: &ldquo;In the mouth of two or three witnesses shall every word be established&rdquo; (<a href="http://lds.org/scriptures/nt/2-cor/13.1?lang=eng#0" onclick="newWindow(this.href); return false;">2 Cor. 13:1</a>). It came as a heavenly gift to the entire human family. Originally inscribed on metallic plates and written in a modified Egyptian language, that record was preserved for many centuries, then made available for translation into the English language. That translation was done by the Prophet Joseph Smith through the gift and power of God. Subsequently, the book has been translated into many other languages. Since its first publication in 1830, millions of copies of the Book of Mormon have been printed. In the year 1992 alone, nearly five million copies were distributed.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p46" class="">We have observed that sincere study of the Book of Mormon transforms the spirit and engenders a testimony of Jesus Christ that heals the spiritual hearts of men and women throughout the world. The more widely it is read and understood, the greater is its influence for good. We find that as the Book of Mormon spreads to the four corners of the globe, men and women exhibit greater devotion and become promulgators of peace within their own families and society.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p47" class="">Other divine revelations to prophets, ancient and modern, have been canonized into additional scriptures&mdash;books known as the Doctrine and Covenants and as the Pearl of Great Price. Thus, we believe the Holy Bible, the Book of Mormon, the Doctrine and Covenants, and the Pearl of Great Price to be four standard works of sacred scripture.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p48" class="">These books of revelation, recorded by prophets from age to age, provide broad eternal perspective and clarify the purpose of man&rsquo;s existence. These scriptures teach that all of us lived as spirit children of God before we came into this life. We came to earth to obtain a body, to gain earthly experiences, and to prove our faith as we confront life&rsquo;s many challenges. And because there are differences in degree of obedience to God&rsquo;s eternal laws, there will be different gradations, or degrees of glory, in our eternal destinies. Jesus taught that &ldquo;in my Father&rsquo;s house are many mansions: if it were not so, I would have told you&rdquo; (<a href="http://lds.org/scriptures/nt/john/14.2?lang=eng#1" onclick="newWindow(this.href); return false;">John 14:2</a>; see also <a href="http://lds.org/scriptures/nt/1-cor/15.40-41?lang=eng#39" onclick="newWindow(this.href); return false;">1 Cor. 15:40&ndash;41</a>; <a href="http://lds.org/scriptures/dc-testament/dc/76.70-98?lang=eng#69" onclick="newWindow(this.href); return false;">D&amp;C 76:70&ndash;98</a>; <a href="http://lds.org/scriptures/dc-testament/dc/98.18?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 98:18</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p49" class="">This plan of salvation reveals the supernal potential that each of us has as a unique son or daughter of our Heavenly Father. It is literally possible for each of us to return to His presence, to become heir to all that He has in store for the faithful. This plan informs us where we came from, why we are here, and where we are going. We cherish this knowledge and are grateful for the joyful satisfaction it produces.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p50" class="">
+	  <span class="strong">
+	    <span class="emphasis">Restoration of Priesthood Authority</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p51" class="">We believe that our priesthood leaders are ordained by authority restored by heavenly messengers in these latter days and that leaders may receive direct inspiration and revelation (see <a href="http://lds.org/scriptures/pgp/a-of-f/1.5,7,9?lang=eng#4" onclick="newWindow(this.href); return false;">A of F 1:5, 7, 9</a>). Both a lesser priesthood&mdash;such as was operative in the days of Moses&mdash;and a greater priesthood&mdash;such as was operative in the days of Jesus and the Apostles&mdash;have been restored, along with many additional specific priesthood offices and keys. During His mortal ministry, Jesus &ldquo;chose twelve, whom also he named apostles&rdquo; (<a href="http://lds.org/scriptures/nt/luke/6.13?lang=eng#12" onclick="newWindow(this.href); return false;">Luke 6:13</a>). That holy apostleship has been restored. Living Apostles again bear witness of the name of Christ to all the world. Restoration of all priesthood offices and keys has been accomplished under the direction of the Lord by heavenly messengers, including John the Baptist, Peter, James, John, Moses, Elias, Elijah, Moroni, and others. Priesthood power extends beyond life through the veil of death into the eternities.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p52" class="">The Apostle Paul once wrote concerning the priesthood: &ldquo;No man taketh this honour unto himself, but he that is called of God, as was Aaron&rdquo; (<a href="http://lds.org/scriptures/nt/heb/5.4?lang=eng#3" onclick="newWindow(this.href); return false;">Heb. 5:4</a>). As in former days, it is again conferred by ordination, by the <a class="no-link-style" href="http://lds.org/scriptures/bd/laying-on-of-hands?lang=eng">laying on of hands</a> by those in authority. The influence of the priesthood is controlled according to conditions established by the Lord, who said:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p53" class="">&ldquo;The rights of the priesthood are inseparably connected with the powers of heaven, and &hellip; the powers of heaven cannot be controlled nor handled only upon the principles of righteousness.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p54" class="">&ldquo;That they may be conferred upon [men] it is true; but when [they] undertake to cover [their] sins, or to gratify [their] pride, [their] vain ambition, or to exercise control or dominion or compulsion upon the souls of the children of men, in any degree of unrighteousness, &hellip; the Spirit of the Lord is grieved; and when it is withdrawn, Amen to the priesthood or the authority of that man &hellip;</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p55" class="">&ldquo;No power or influence can or ought to be maintained by virtue of the priesthood, only by persuasion, by long-suffering, by gentleness and meekness, and by love unfeigned;</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p56" class="">&ldquo;By kindness, and pure knowledge, which shall greatly enlarge the soul without hypocrisy, and without guile&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/121.36-37,41-42?lang=eng#35" onclick="newWindow(this.href); return false;">D&amp;C 121:36&ndash;37, 41&ndash;42</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p57" class="">This priesthood authority has divine power to confer sacred ordinances that are binding for all eternity. To illustrate, a husband and wife may be eternally married so that even after death, they and their family can be together forever in the presence of Deity. This enabling ordinance is performed in our holy temples. Furthermore, these and other necessary ordinances of salvation, such as <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a>, may be performed by living individuals as proxy for deceased family members.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p58" class="">Hence, as part of our religious responsibility, we identify our ancestors, for as the Apostle Paul said to the Hebrew Saints, &ldquo;they without us should not be made perfect&rdquo; (<a href="http://lds.org/scriptures/nt/heb/11.40?lang=eng#39" onclick="newWindow(this.href); return false;">Heb. 11:40</a>). For this purpose, Church family history (genealogical) libraries dot the earth; they are patronized extensively and without fee, both by members of our Church and by those who may have other religious affiliation.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p59" class="">
+	  <span class="strong">
+	    <span class="emphasis">Welfare and Humanitarian Assistance</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p60" class="">Members of this church practice principles of Christian living by assisting some of the homeless, the hungry, and the needy throughout the world. We strive to practice the admonition of James: &ldquo;Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction&rdquo; (<a href="http://lds.org/scriptures/nt/james/1.27?lang=eng#26" onclick="newWindow(this.href); return false;">James 1:27</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p61" class="">Once a month, if members are physically able and desirous of doing so, they voluntarily go without food for two meals and contribute, as a fast offering, the money that would have been spent. These funds are then used to assist the poor and the needy as determined by leaders of local congregations. Contributions in excess of local need are pooled and made available for aid elsewhere. In addition, our members electively donate millions of hours of compassionate service each year.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p62" class="">During 1992, for example, voluntary humanitarian donations enabled the Church to help care for the poor through more than three hundred fifty projects in Asia, Eastern Europe, Africa, Latin America, the Caribbean, Canada, and the United States of America. This help was in the form of food, clothing, shelter, textbooks, medical supplies, volunteer labor, and skilled advisers. In these and other activities, the Church has participated with more than two hundred private volunteer organizations, other churches, and community agencies such as the International Red Cross and Red Crescent Societies, Catholic Relief Services, Food for the Poor, and the Salvation Army, to name but a few.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p63" class="">Most recently, in response to the devastating drought in Eastern Africa, the Church provided approximately $1 million worth of powdered milk, oil, flour, beans, and clothing to help care for expectant or nursing mothers, young children, and others. Twenty thousand pounds of medical equipment were sent to Albania, where modern medical care is urgently needed. Hundreds of hygiene kits and essential clothing were sent to Croatia to assist the suffering people in that war-torn country.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p64" class="">Each of these humanitarian endeavors is an application of the biblical command &ldquo;Love thy neighbour as thyself&rdquo; (<a href="http://lds.org/scriptures/ot/lev/19.18?lang=eng#17" onclick="newWindow(this.href); return false;">Lev. 19:18</a>; see also <a href="http://lds.org/scriptures/nt/luke/10.27?lang=eng#26" onclick="newWindow(this.href); return false;">Luke 10:27</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p65" class="">
+	  <span class="strong">
+	    <span class="emphasis">Individual Application</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p66" class="">As we repent and live in accordance with the commandments of God, the Atonement of Jesus Christ becomes a force for permanent change in our lives. We become more pure in heart and true disciples of the Master. Personal prayer, contributions of tithes and offerings, honoring the Sabbath day, and partaking of the sacrament of the Lord&rsquo;s Supper are all regular practices that protect us from the bondage of sin and bring us true freedom and joy.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p67" class="">The daily practice of our faith is not confined solely to religious rites. We reach out to aid the communities in which we live. For example, parent-teacher associations, public schools, and similar worthy civic activities receive our support.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p68" class="">We value good teachers. We affirm the scriptural admonition, &ldquo;Teach ye diligently &hellip; that you may be instructed more perfectly&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/88.78?lang=eng#77" onclick="newWindow(this.href); return false;">D&amp;C 88:78</a>). We assert that &ldquo;the glory of God is intelligence&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35" onclick="newWindow(this.href); return false;">D&amp;C 93:36</a>), and we seek wisdom out of the best books (see <a href="http://lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117" onclick="newWindow(this.href); return false;">D&amp;C 88:118</a>; <a href="http://lds.org/scriptures/dc-testament/dc/109.7,14?lang=eng#6" onclick="newWindow(this.href); return false;">D&amp;C 109:7, 14</a>). We regard one&rsquo;s education as a religious responsibility with everlasting reward. Scriptures state that &ldquo;whatever principle of intelligence we attain unto in this life, it will rise with us in the resurrection. And if a person gains more knowledge and intelligence in this life through his diligence and obedience than another, he will have so much the advantage in the world to come&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/130.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 130:18&ndash;19</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p69" class="">We neither endorse games of chance nor rely on random favor. Scripture attests that predictable results come only from obedience to divine law:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p70" class="">&ldquo;There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated&mdash;</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p71" class="">&ldquo;And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/130.20-21?lang=eng#19" onclick="newWindow(this.href); return false;">D&amp;C 130:20&ndash;21</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p72" class="">As a cardiac surgeon, I can certify that this understanding helped me a great deal. In the operating room, hopes were never enough. I knew that I must remain there and perform with precision all that was required to put things into proper order. Only then could the desired blessings of healing and health be expected to follow.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p73" class="">
+	  <span class="strong">
+	    <span class="emphasis">Personal Refinement</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p74" class="">We know that alcoholic beverages and tobacco are not good for human beings. Our understanding came by way of divine revelation recorded more than a century and a half ago in the year 1833. Moreover, we teach that stimulants and other harmful substances are contrary to the will of God for our bodies. Scientific studies document the benefits of obedience to this code of health. Research from the University of California at Los Angeles published in 1989, for example, demonstrated that the length of life of faithful members of this church was significantly longer than the norm. Latter-day Saint men and women were reported to have lower mortality rates from cancer and heart disease when compared with control population groups.<sup class="noteMarker">
+	  <a href="#footnote2-93911_000_042">2</a>
+	</sup></p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p75" class="">Such data are of interest because we maintain, as did the Apostle Paul, that our bodies are temples for our spirits, divinely created by our loving Father in Heaven (see <a href="http://lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15" onclick="newWindow(this.href); return false;">1 Cor. 3:16&ndash;17</a>).</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p76" class="">We also believe in &ldquo;being honest, true, chaste, benevolent, virtuous, and in doing good to all men &hellip; If there is anything virtuous, lovely, or of good report or praiseworthy, we seek after these things&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.13?lang=eng#12" onclick="newWindow(this.href); return false;">A of F 1:13</a>). As a result, we cherish happy and wholesome relationships with our families and others wherever we live. We honor the family as the basis of a virtuous, moral life.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p77" class="">
+	  <span class="strong">
+	    <span class="emphasis">Missionary Service</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p78" class="">Because these doctrines are so ennobling and fulfilling, we have a genuine desire to share the good news of the gospel with others (see <a href="http://lds.org/scriptures/ot/prov/25.25?lang=eng#24" onclick="newWindow(this.href); return false;">Prov. 25:25</a>). We have many missionaries who serve at the call of their Church leaders. They go wherever called to live and labor among the people. Most of our missionaries are young men and women who serve for one and a half to two years, and do so without financial remuneration, supporting their service from personal savings and contributions from family members and loved ones.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p79" class="">Our missionaries are now teaching the gospel throughout the world in sixty-nine languages. When released, they return home to resume their education and the normal pursuits of life. But they also continue as advocates of the people whose culture, language, and ways they have come to love. They serve because the Lord issued a commandment: &ldquo;Go ye therefore, and teach all nations, <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptizing</a> them in the name of the Father, and of the Son, and of the Holy Ghost&rdquo; (<a href="http://lds.org/scriptures/nt/matt/28.19?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 28:19</a>; see also <a href="http://lds.org/scriptures/nt/mark/16.15?lang=eng#14" onclick="newWindow(this.href); return false;">Mark 16:15</a>). On another occasion, the Master stated: &ldquo;Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God&rdquo; <a href="http://lds.org/scriptures/nt/john/3.5?lang=eng#4" onclick="newWindow(this.href); return false;">John 3:5</a>). We comply by performing baptisms by immersion and then conferring the gift of the Holy Ghost by the imposition of hands by those duly authorized. Thus, our missionary efforts are responses to divine decrees.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p80" class="">
+	  <span class="strong">
+	    <span class="emphasis">Upholding the Law</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p81" class="">&ldquo;We believe in being subject to kings, presidents, rulers, and magistrates, in obeying, honoring, and sustaining the law&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11" onclick="newWindow(this.href); return false;">A of F 1:12</a>). We encourage our members to be upright and loyal citizens in the countries that give them citizenship and to uphold governmental leaders and obey the civil laws wherever they live.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p82" class="">We hold to a single standard of morality. Both men and women are required to observe the law of chastity. The commandment &ldquo;Thou shalt not commit adultery&rdquo; applies to all. Promiscuity and all extramarital sexual relationships are sinful in the sight of God, and members of the Church who engage in such practices are subject to disciplinary measures.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p83" class="">
+	  <span class="strong">
+	    <span class="emphasis">Summary Statements</span>
+	  </span>
+	</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p84" class="">Before proceeding further, it might be helpful to pause for a brief synopsis of this discussion of doctrines of The Church of Jesus Christ of Latter-day Saints. May I offer ten summary statements. (I apologize that time won&rsquo;t allow for a more comprehensive list.) We believe:</p>
+				<div class="figure">
+	<ol class="number">
+					<li>
+						<span class="label">1.</span>
+						<p>In God the Eternal Father and in His Beloved Son, Jesus Christ, and in the Holy Ghost.</p>
+					</li>
+					<li>
+						<span class="label">2.</span>
+						<p>Prophets lived in days of the Old Testament, and they again live in modern times. Joseph Smith was the prophet chosen to lead this present era&mdash;the dispensation of the fulness of times.</p>
+					</li>
+					<li>
+						<span class="label">3.</span>
+						<p>Sacred scriptures include the Holy Bible, the Book of Mormon, the Doctrine and Covenants, and the Pearl of Great Price.</p>
+					</li>
+					<li>
+						<span class="label">4.</span>
+						<p>Priesthood authority has been restored to the earth.</p>
+					</li>
+					<li>
+						<span class="label">5.</span>
+						<p>Through the atonement of Jesus Christ, all mankind may be saved. Repentance and obedience to His commandments are vital to personal progress.</p>
+					</li>
+					<li>
+						<span class="label">6.</span>
+						<p>The Savior&rsquo;s command to go into all the world and preach the gospel unto every creature constitutes the commission for our <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a>.</p>
+					</li>
+					<li>
+						<span class="label">7.</span>
+						<p>The greatest blessings available in this life may be obtained through ordinances performed in holy temples. Marriages solemnized by the authority therein unite couples and their children not only for this life but for all eternity as well.</p>
+					</li>
+					<li>
+						<span class="label">8.</span>
+						<p>Care of the poor and the needy and service to others are privileges and religious responsibilities.</p>
+					</li>
+					<li>
+						<span class="label">9.</span>
+						<p>Each individual existed as a premortal spirit and will live after death as a resurrected being. The possibility of eternal glory with our loved ones in the presence of Deity inspires obedience to God&rsquo;s commandments.</p>
+					</li>
+					<li>
+						<span class="label">10.</span>
+						<p>The purpose of our creation is that we might have eternal joy, both as individuals and as families.</p>
+					</li>
+				</ol>
+      </div>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p95" class="">While implementing these and other important precepts, the Church is tolerant of all faith groups, claiming for itself no right or privilege that it would deny to others. It affirms itself to be Christ&rsquo;s church of old, reestablished anew. Its message to the world is one of peace and goodwill, with a sincere invitation to come and partake of all the blessings incident to the new and everlasting covenant between God and His children.</p>
+			</div>
+			<div>
+				<h2>Interfaith Cooperation</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p97" class="">Moving now from the distinctive doctrines and tenets of The Church of Jesus Christ of Latter-day Saints, I would like to discuss areas in which faith groups may cooperate. Members of our church often join with other like-minded citizens, regardless of religious persuasion, in support of worthy causes and humanitarian projects. This can be done without losing independent identity and strength. We are mindful of history&rsquo;s lesson that attempts of interfaith groups to unify through theological blending have not always been successful. Indeed, when divine doctrines are compromised to accommodate social pressures, religious institutions become no more relevant in their mission than other agencies of good intent. At the same time, we should be models of tolerance of others whose sacred beliefs may differ from our own. We recognize that if one religion is persecuted, all are attacked.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p98" class="">We need to safeguard the proper relationships of religion to governments and to the people we serve. We are under obligation to take a strong stand on moral issues in order to preserve a wholesome and ethical environment. As religious leaders, our participation in the political process may be needed to protect precious religious liberty. This is particularly important in countries of the earth whose citizens, until recently, have been deprived of freedom of religious expression and practice. Many of those nations are now shaping laws to allow freedoms that citizens of other countries have long enjoyed. These developing democracies deserve support.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p99" class="">Selected humanitarian projects can be pursued independently or cooperatively. We can promote education regarding moral values, the arts, service to humanity, and the value of education itself. We can give encouragement for family life, knowing that patience, righteousness, and love will be rewarded with joy.</p>
+			</div>
+			<div>
+				<h2>Conclusion</h2>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p101" class="">Returning to the medical metaphor with which I began, I firmly feel that the people of this world can be healed as we do our best in combatting spiritual drift&mdash;our global pandemic. Healing requires a concurrent development of the will to live, the faith to become well, and the motivation to improve our world for future generations.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p102" class="">May I conclude on a personal note. My expressions represent more than mere belief. I know from personal experience that God can and does communicate with individuals. Through that personal revelation, one may surely know that God lives, that His Beloved Son, Jesus, is the Christ, and that the doctrines I have discussed which are pertinent to man&rsquo;s salvation and eternal progress are true. Similar strong convictions in the hearts of millions of individual members comprise the real vitality of The Church of Jesus Christ of Latter-day Saints.</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p103" class="">After this exposure to the roots of our faith, you deserve to experience some of the good fruits by which you shall also know us. So I have asked several children from the Chicago area, all members of our church, to sing to you. The title of their song is &ldquo;I Am a Child of God.&rdquo; As they acknowledge the Fatherhood of God, they also demonstrate the brotherhood of all mankind. Their song will comprise the concluding portion of my presentation. Together we echo a statement previously published by the First Presidency of our church:</p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p104" class="">&ldquo;Our message is one of special love and concern for the eternal welfare of all men and women, regardless of religious belief, race, or nationality, knowing that we are truly brothers and sisters because we are the sons and daughters of the same eternal Father.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote3-93911_000_042">3</a>
+	</sup></p>
+				<p uri="/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic.p105" class="">To each of you I express heartfelt appreciation along with sincere wishes for your success in all of your worthy endeavors. May God bless you and your loved ones and sustain our mutual quest for spiritual strength, goodwill, and peace on earth, I pray in the name of Jesus Christ, amen.</p>
+			</div>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-93911_000_042"><a name="-93911_000_042">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-93911_000_042">1.</a>
+      </span>
+				<p>The Articles of Faith were here printed in their entirety in Elder Nelson&rsquo;s manuscript, which was available to those attending the Parliament of the World&rsquo;s Religions.</p>
+			</li>
+			<li class="footnote " id="-93911_000_042"><a name="-93911_000_042">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-93911_000_042">2.</a>
+      </span>
+				<p>Enstrom, J. E., &ldquo;Health Practices and Cancer Mortality Among Active California Mormons,&rdquo; <span class="emphasis">The Journal of the National Cancer Institute,</span> 81 (6 Dec. 1989): 1807&ndash;15.</p>
+			</li>
+			<li class="footnote " id="-93911_000_042"><a name="-93911_000_042">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-93911_000_042">3.</a>
+      </span>
+				<p>Statement of the First Presidency, 15 Feb. 1978.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1993/11/elder-nelson-speaks-at-gathering-of-worlds-religions?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1993/11/news-of-the-church?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1993">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1993/11/combatting-spiritual-drift-our-global-pandemic?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Combatting Spiritual Drift%E2%80%94Our Global Pandemic - Ensign Nov. 1993&amp;link=/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1993%2F11%2Fcombatting-spiritual-drift-our-global-pandemic%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic%3flang%3deng%26cid%3dfacebook-shared&amp;t=Combatting+Spiritual+Drift%e2%80%94Our+Global+Pandemic+-+Ensign+Nov.+1993" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic%3flang%3deng%26cid%3ddelicious-shared&amp;title=Combatting+Spiritual+Drift%e2%80%94Our+Global+Pandemic+-+Ensign+Nov.+1993" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1993/11/combatting-spiritual-drift-our-global-pandemic%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Combatting Spiritual Drift%E2%80%94Our Global Pandemic - Ensign Nov. 1993&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1993:11:combatting spiritual drift&mdash;our global pandemic";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Of Seeds and Soils - Ensign Nov. 1999 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Of Seeds and Soils - Ensign Nov. 1999"><meta name="KEYWORDS" content="conversion,education,faith,media,missionary work,prayer,pride,priesthood,Satan,testimony,tithing"><meta name="DESCRIPTION" content="We particularly want you young men to have a strong testimony, with solid roots, because only then will it be an unerring compass for you."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Of Seeds and Soils - Ensign Nov. 1999"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1999/11/of-seeds-and-soils?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content="We particularly want you young men to have a strong testimony, with solid roots, because only then will it be an unerring compass for you."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1999/11/of-seeds-and-soils?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1999/11/of-seeds-and-soils?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1999/11/of-seeds-and-soils?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1999/11?lang=eng">Nov. 1999</a>
+                     </li><li>
+                        <span class="active">Of Seeds and Soils</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1999/11/the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1999/11/priesthood-power?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Of Seeds and Soils
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1999/11/of-seeds-and-soils.p2" class="">President James E. Faust</p>
+				<p uri="/ensign/1999/11/of-seeds-and-soils.p" class="">Second Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:df.jpg" alt="President James E. Faust">
+                                        
+                                        <div class="kicker" id="">We particularly want you young men to have a strong testimony, with solid roots, because only then will it be an unerring compass for you.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">99911_000_021</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p4" class="">My dear brethren, the responsibility of addressing this vast army of priesthood holders has weighed heavily upon me. I seek the blessing of the Lord and your prayers in doing so.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p5" class="">I am grateful that I was taught as a child how to plant seeds. Through the miracle of life, we planted the seeds and produced delicious fresh peas, corn, carrots, turnips, onions, and potatoes from our own garden. I clearly remember a most meaningful experience when my grandfather showed us how to sow alfalfa seeds by hand. He had plowed and harrowed the ground to prepare the seedbed. Then he took a handful of seeds, and with a wide swing of his arm he artfully scattered them as he paced across the field in geometric patterns. Although birds ate some of the alfalfa seed, the crop grew, and the stand was rich and plentiful for many years.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p6" class="">This experience helped me later, as a missionary, to understand the Savior&rsquo;s parable of the sower, which is actually a parable about different kinds of soil. He taught that &ldquo;some seeds fell by the way side, and the fowls came and devoured them up:</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p7" class="">&ldquo;Some fell upon stony places, where they had not much earth. &hellip;</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p8" class="">&ldquo;And when the sun was up, they were scorched; and because they had no root, they withered away.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p9" class="">&ldquo;And some fell among thorns; and the thorns sprung up, and choked them:</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p10" class="">&ldquo;But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-99911_000_021">1</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p11" class="">In this parable, the seed is the same but it lands on four different kinds of soil. The Savior also explained the meaning of the parable. The seed that &ldquo;fell by the way side&rdquo; represents those who hear the word of God but do not understand it and fall into the clutches of Satan. The second seed, which &ldquo;fell upon stony places,&rdquo; describes those who joyfully hear the word and thrive as long as all goes well. But when trials come and they feel peer pressure because of their beliefs, they are offended and do not endure. The third seed, which &ldquo;fell among thorns,&rdquo; represents those who hear the word, but worldliness and riches are more important to them, and they fall away from the truth. The last seed, however, which &ldquo;fell into good ground,&rdquo; represents those who hear the word, understand it, live it, and reap great eternal rewards.<sup class="noteMarker">
+	<a href="#footnote2-99911_000_021">2</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p12" class="">The Book of Mormon provides several examples of seed that fell by the wayside. One of them is in the account of the Zoramites. Alma records that the Zoramites &ldquo;had had the word of God preached unto them.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p13" class="">&ldquo;But they had fallen into great errors, for they would not observe to keep the commandments of God.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-99911_000_021">3</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p14" class="">Alma headed a mission to reclaim them. In his teaching, Alma compared the word unto a seed and reasoned with them:</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p15" class="">&ldquo;Now, if ye give place, that a seed may be planted in your heart, behold, if it be a true seed, or a good seed, if ye do not cast it out by your unbelief, that ye will resist the Spirit of the Lord, behold, it will begin to swell within your breasts; and when you feel these swelling motions, ye will begin to say within yourselves&mdash;It must needs be that this is a good seed, or that the word is good, for it beginneth to enlarge my soul; yea, it beginneth to enlighten my understanding.&rdquo;<sup class="noteMarker">
+	<a href="#footnote4-99911_000_021">4</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p16" class="">The account reveals that many of the poor among the Zoramites were converted and joined the righteous people of Ammon in the land of Jershon after Alma and his companions replanted the seed.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p17" class="">Some seeds fell upon stony places in the early days of the Church when the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> issued calls to several converts to serve as missionaries. One of them was Simonds Ryder, who was ordained an elder on June 6, 1831, by Joseph Smith. After reading the revelation that pertained to him and finding that his name had been spelled &ldquo;Rider&rdquo; instead of &ldquo;Ryder,&rdquo; he became offended, apparently unaware that Joseph Smith often dictated revelations to his scribes. His disillusionment over the misspelling of his name led not only to his apostasy but ultimately to his infamy in helping to tar and feather the Prophet Joseph.<sup class="noteMarker">
+	<a href="#footnote5-99911_000_021">5</a>
+      </sup> Like the seed that fell upon stony places, Simonds Ryder joyfully received the word at first but quickly became offended over a trivial matter and lost his place in the kingdom of God.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p18" class="">Sometimes thorns choke the seedbed, as was the case with the rich young man who asked the Savior what he needed to do to inherit eternal life. He stated that he had kept all the Ten Commandments from his youth and asked, &ldquo;What lack I yet?&rdquo; Recognizing the young man&rsquo;s attachment to his riches, Jesus taught him about a higher law of the gospel: &ldquo;Sell [all] that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.&rdquo; Matthew records, &ldquo;When the young man heard that saying, he went away sorrowful: for he had great possessions.&rdquo;<sup class="noteMarker">
+	<a href="#footnote6-99911_000_021">6</a>
+      </sup> The seed had been planted in this young man, but because of his riches, it had fallen among the thorns and became choked.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p19" class="">Today, as we travel throughout the world, we see that many seeds have fallen into good ground. We meet wonderful, stalwart members of the Church who are faithful and dedicated. Some of us who have sown seeds as missionaries may have felt that those seeds fell on hard ground. It is not always possible to know the consequences of one single contact. For years William R. Wagstaff, who served in the North Central States Mission from 1928 to 1930, felt disappointed he had not baptized more people. In the summer of 1929 he and his companion visited a farm <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> about 180 miles west of Winnipeg.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p20" class="">&ldquo;Brother Wagstaff remembered giving a copy of the Book of Mormon to the mother and discussing the gospel with her during numerous visits through that and the following summer.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p21" class="">&ldquo;He recalled that during each visit &lsquo;she&rsquo;d take off her apron and we&rsquo;d sit down and discuss the gospel. She&rsquo;d read and have lots of questions.&rsquo;</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p22" class="">&ldquo;But at the close of his mission, she still had not been baptized, and he lost touch with her.&rdquo;</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p23" class="">Brother Wagstaff went home, married, and raised a family. Then in October 1969 he and his wife attended his missionary reunion. &ldquo;A lady approached him and asked, &lsquo;Aren&rsquo;t you Elder Wagstaff?&rsquo;</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p24" class="">&ldquo;&hellip; She introduced herself as the woman he had taught on the farm outside Winnipeg. In her hand was a worn copy of the Book of Mormon&mdash;the one he had given her 40 years earlier.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p25" class="">&ldquo;&lsquo;She showed me the book,&rsquo; he related. &lsquo;I turned over the front and there was my name and address.&rsquo;</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p26" class="">&ldquo;She then told Brother Wagstaff about 60 members of her family were members of the Church, including a branch president.&rdquo;<sup class="noteMarker">
+	<a href="#footnote7-99911_000_021">7</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p27" class="">Elder Wagstaff planted the seed during his mission but went home while it was still in the ground. Forty years later he learned of the rich harvest that eventually had come to pass and that &ldquo;whatsoever a man soweth, that shall he also reap.&rdquo;<sup class="noteMarker">
+	<a href="#footnote8-99911_000_021">8</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p28" class="">Each of us needs to nourish our seeds of faith so that they continue to take root. President Hinckley has strongly urged us to help the new members prepare their souls so that the seeds of faith planted by the missionaries can grow and develop.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p29" class="">Yet at the same time, the ground seems to be hardening, and many are less receptive to things of the Spirit. The miracles of modern technology have brought efficiency into our lives in ways not dreamed of a generation ago, yet with this new technology has come a deluge of new challenges to our morals and our values. Some tend to rely more on technology than on theology. I hasten to add that scientific knowledge, the marvels of communication, and the wonders of modern medicine have come from the Lord to enhance His work throughout the world. As an example, the Church&rsquo;s FamilySearch&reg; Web site has more than seven million hits a day. But Satan, of course, is aware of this great progress in technology and likewise takes advantage of it for his purposes, which are to destroy and despoil. He delights in the pornography on the Internet and the sleaze in many of our movies and television shows. He has even engineered some of his own satanic messages into some of our modern music. For the seeds of faith to sprout in our lives, we must avoid Satan&rsquo;s grasp.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p30" class="">We also need to prepare our own seedbed of faith. To do this we need to plow the soil through daily humble prayer, asking for strength and <a class="no-link-style" href="http://lds.org/general-conference/2005/10/forgiveness?lang=eng">forgiveness</a>. We need to harrow the soil by overcoming our feelings of pride. We need to prepare the seedbed by keeping the commandments to the best of our ability. We need to be honest with the Lord in the payment of our tithing and our other offerings. We need to be worthy and able to call forth the great powers of the priesthood to bless ourselves, our families, and others for whom we have responsibility. There is no better place for the spiritual seeds of our faith to be nurtured than within the hallowed sanctuaries of our temples and in our homes.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p31" class="">You young men of the Aaronic Priesthood should strive very diligently to acquire a skill and as much education as possible. You deacons and teachers do not have to determine your ultimate careers, yet you do need to lay the groundwork in preparation to meet life&rsquo;s challenges and ultimately to provide for your future wives and families. In a way, young men who do not awaken early to their God-given talents and possibilities are not fully honoring their priesthood. I know that in some parts of the world this is a most difficult challenge, but opportunities for you young men will be enhanced if you will learn well a basic skill. It would benefit you young men if you would also learn another language. If you fail to prepare in your youth, it will be too late to begin preparation when you reach adulthood.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p32" class="">As I have associated with a few of our young people, I have wondered why the seeds have fallen into hard ground. It often seems that not enough effort has been made to prepare the ground to receive the seeds of faith, as my grandfather did with his alfalfa field.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p33" class="">I believe that many bright and special and valiant spirits have been saved for this challenging time. I&rsquo;m thinking about one bright little boy called Timmy.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p34" class="">Timmy had only two pennies in his pocket when he approached the farmer and pointed to a tomato hanging lusciously from a vine.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p35" class="">&ldquo;Give you two cents for it,&rdquo; the boy offered.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p36" class="">&ldquo;That kind brings a nickel,&rdquo; the farmer told him.</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p37" class="">&ldquo;This one?&rdquo; Timmy asked, pointing to a smaller, greener, and less tempting specimen. The farmer nodded agreement. &ldquo;OK,&rdquo; said Timmy, and sealed the deal by placing his two pennies in the farmer&rsquo;s hand. &ldquo;I&rsquo;ll pick it up in about a week.&rdquo;<sup class="noteMarker">
+	<a href="#footnote9-99911_000_021">9</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p38" class="">You young men could learn from Timmy, who invested two cents in a tomato that would be worth five cents in the future. If you are willing to invest now, you young men will have opportunities to accomplish as much as any generation that has ever lived. For too many, however, the seed of faith falls among thorns, and the seed becomes unfruitful.<sup class="noteMarker">
+	<a href="#footnote10-99911_000_021">10</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p39" class="">You, my brethren who hold the holy priesthood of God, may wonder why we are anxious that the seeds of faith be nurtured in you. We particularly want you young men to have a strong testimony, with solid roots, because only then will it be an unerring compass for you, enabling you to withstand the strong winds of adversity which blow. We believe the salvation of the world has been placed upon the priesthood of this Church. This responsibility rests squarely upon us. We cannot shirk it. As President Gordon B. Hinckley said:</p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p40" class="">&ldquo;If the world is going to be saved, we have to do it. There is no escaping from that. No other people in the history of the world have received the kind of mandate that we have received. We are responsible for all who have lived upon the earth. That involves our family history and temple work. We are responsible for all who now live upon the earth, and that involves our <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a>. And we are going to be responsible for all who will yet live upon the earth.&rdquo;<sup class="noteMarker">
+	<a href="#footnote11-99911_000_021">11</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p41" class="">Now, brethren, because we hold these precious powers, I believe we are going to be held accountable in our efforts to accomplish this overwhelming responsibility. We cannot be ashamed of the doctrine because it is not popular or socially acceptable. We must not apologize for what has been revealed through our prophets in our time. It is the word of the Lord to the world. There is always a price to be paid if we are to have a witness of this holy work. There is always a trial of our faith.<sup class="noteMarker">
+	<a href="#footnote12-99911_000_021">12</a>
+      </sup></p>
+			<p uri="/ensign/1999/11/of-seeds-and-soils.p42" class="">Alma said that when we feel the seed of faith growing, it will enlarge our souls, enlighten our understanding, and be delicious to our taste. May God bless you to have the experience that these words describe, I pray in the name of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, amen.</p>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-99911_000_021">1.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/13.4-8?lang=eng#3" onclick="newWindow(this.href); return false;">Matt. 13:4&ndash;8</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-99911_000_021">2.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/13.19-23?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 13:19&ndash;23</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-99911_000_021">3.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/31.8-9?lang=eng#7" onclick="newWindow(this.href); return false;">Alma 31:8&ndash;9</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-99911_000_021">4.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/32.28?lang=eng#27" onclick="newWindow(this.href); return false;">Alma 32:28</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-99911_000_021">5.</a>
+      </span>
+				<p>See Milton V. Backman Jr., <span class="emphasis">The Heavens Resound: A History of the Latter-day Saints in Ohio, 1830&ndash;1838</span> (1983), 93&ndash;94; and Donald Q. Cannon and Lyndon W. Cook, eds., <span class="emphasis">Far West Record: Minutes of The Church of Jesus Christ of Latter-day Saints, 1830&ndash;1844</span> (1983), 286.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-99911_000_021">6.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/matt/19.20-22?lang=eng#19" onclick="newWindow(this.href); return false;">Matt. 19:20&ndash;22</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-99911_000_021">7.</a>
+      </span>
+				<p>Julie A. Dockstader, &ldquo;Missionary Moments: A Lot of Rejoicing,&rdquo; <span class="emphasis">Church News, </span>4 May 1991, 16.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-99911_000_021">8.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/gal/6.7?lang=eng#6" onclick="newWindow(this.href); return false;">Gal. 6:7</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-99911_000_021">9.</a>
+      </span>
+				<p>In Jacob M. Braude, comp., <span class="emphasis">Braude&rsquo;s Treasury of Wit and Humor</span> (1964), 175.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-99911_000_021">10.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/13.22?lang=eng#21" onclick="newWindow(this.href); return false;">Matt. 13:22</a>.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-99911_000_021">11.</a>
+      </span>
+				<p>Mission presidents&rsquo; seminar, 25 June 1999; quoted in &ldquo;Church Is Really Doing Well,&rdquo; <span class="emphasis">Church News</span>, 3 July 1999, 3.</p>
+			</li>
+			<li class="footnote " id="-99911_000_021"><a name="-99911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote12-99911_000_021">12.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/dc-testament/dc/105.19?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 105:19</a>.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1999/11/the-faith-of-a-sparrow-faith-and-trust-in-the-lord-jesus-christ?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1999/11/priesthood-power?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1999">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1999/11/of-seeds-and-soils?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Of Seeds and Soils - Ensign Nov. 1999&amp;link=/ensign/1999/11/of-seeds-and-soils&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1999%2F11%2Fof-seeds-and-soils%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1999/11/of-seeds-and-soils%3flang%3deng%26cid%3dfacebook-shared&amp;t=Of+Seeds+and+Soils+-+Ensign+Nov.+1999" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1999/11/of-seeds-and-soils%3flang%3deng%26cid%3ddelicious-shared&amp;title=Of+Seeds+and+Soils+-+Ensign+Nov.+1999" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1999/11/of-seeds-and-soils%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Of Seeds and Soils - Ensign Nov. 1999&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1999:11:of seeds and soils";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

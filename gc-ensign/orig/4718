@@ -1,0 +1,537 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Irony: The Crust on the Bread of Adversity - Ensign May 1989 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Irony: The Crust on the Bread of Adversity - Ensign May 1989"><meta name="KEYWORDS" content="Jesus Christ,adversity,Atonement"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Irony: The Crust on the Bread of Adversity - Ensign May 1989"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/neal-a-maxwell-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1989/05?lang=eng">May 1989</a>
+                     </li><li>
+                        <span class="active">Irony: The Crust on the Bread of Adversity</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1989/05/our-kindred-family-expression-of-eternal-love?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1989/05/let-love-be-the-lodestar-of-your-life?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Irony: The Crust on the Bread of Adversity
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p2" class="">Elder Neal A. Maxwell</p>
+				<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p" class="">Of the Quorum of the Twelve Apostles</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/neal-a-maxwell?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/neal-a-maxwell-10.jpg" alt="Neal A. Maxwell" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">03239_000_025</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p3" class="">What I now read is a most wintry verse indeed: &ldquo;Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.&rdquo; (<a href="http://lds.org/scriptures/bofm/mosiah/23.21?lang=eng#20" onclick="newWindow(this.href); return false;">Mosiah 23:21</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p4" class="">This very sobering declaration of divine purpose ought to keep us on spiritual alert as to life&rsquo;s adversities.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p5" class="">Irony is the hard crust on the bread of adversity. Irony can try both our faith and our patience. Irony can be a particularly bitter form of such chastening because it involves disturbing incongruity. It involves outcomes in violation of our expectations. We see the best laid plans laid waste.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p6" class="">An individual is visibly and patiently prepared for an important role amid widespread expectation of his impending promotion or election. What follows, however, lasts only a very narrow moment in time. A political victory seems so near, recedes, and finally vanishes altogether.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p7" class="">Without meekness, such ironical circumstances are very difficult to manage.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p8" class="">In a marriage, a careless declaration hardens into a position, which position then becomes more important than communication or reconciliation. An intellectual stand is proudly and stubbornly defended even in the face of tutoring truth or correcting counsel. Yet occasionally, as we all know, backing off is really going forward. Sometimes it takes irony to induce that painful but progressive posture.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p9" class="">With its inverting of our anticipated consequences, irony becomes the frequent cause of an individual&rsquo;s being offended. The larger and the more untamed one&rsquo;s ego, the greater the likelihood of his being offended, especially when tasting his portion of vinegar and gall.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p10" class="">Words then issue, such as Why me? Why this? Why now? Of course, these words may give way to subsequent spiritual composure. Sometimes, however, such words precede bitter inconsolability, and then it is a surprisingly short distance between disappointment and bitterness.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p11" class="">Amid life&rsquo;s varied ironies, you and I may begin to wonder, Did not God notice this torturous turn of events? And if He noticed, why did He permit it? Am I not valued?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p12" class="">Our planning itself often assumes that our destiny is largely in our own hands. Then come intruding events, first elbowing aside, then evicting what was anticipated and even earned. Hence, we can be offended by events as well as by people.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p13" class="">Irony may involve not only unexpected suffering but also undeserved suffering. We feel we deserved better, and yet we fared worse. We had other plans, even commendable plans. Did they not count? A physician, laboriously trained to help the sick, now, because of his own illness, cannot do so. For a period, a diligent prophet of the Lord was an &ldquo;idle witness.&rdquo; (<a href="http://lds.org/scriptures/bofm/morm/3.16?lang=eng#15" onclick="newWindow(this.href); return false;">Morm. 3:16</a>.) Frustrating conditions keep more than a few of us from making our appointed rounds.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p14" class="">Customized challenges are thus added to that affliction and temptation which Paul described as &ldquo;common to man.&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/10.13?lang=eng#12" onclick="newWindow(this.href); return false;">1 Cor. 10:13</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p15" class="">In coping with irony, as in all things, we have an Exemplary Teacher in Jesus. Dramatic irony assaulted Jesus&rsquo; divinity almost constantly.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p16" class="">For Jesus, in fact, irony began at His birth. Truly, He suffered the will of the Father &ldquo;in all things from the beginning.&rdquo; (<a href="http://lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10" onclick="newWindow(this.href); return false;">3 Ne. 11:11</a>.) This whole earth became Jesus&rsquo; footstool (see <a href="http://lds.org/scriptures/nt/acts/7.49?lang=eng#48" onclick="newWindow(this.href); return false;">Acts 7:49</a>), but at Bethlehem there was &ldquo;no room &hellip; in the inn&rdquo; (<a href="http://lds.org/scriptures/nt/luke/2.7?lang=eng#6" onclick="newWindow(this.href); return false;">Luke 2:7</a>) and &ldquo;no crib for his bed&rdquo; (<span class="emphasis">Hymns,</span> 1985, no. 206.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p17" class="">At the end, meek and lowly Jesus partook of the most bitter cup without becoming the least bitter. (See <a href="http://lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10" onclick="newWindow(this.href); return false;">3 Ne. 11:11</a>; <a href="http://lds.org/scriptures/dc-testament/dc/19.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 19:18&ndash;19</a>.) The Most Innocent suffered the most. Yet the King of Kings did not break, even when some of His subjects did unto Him &ldquo;as they listed.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/49.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 49:6</a>.) <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>&rsquo;s capacity to endure such irony was truly remarkable.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p18" class="">You and I are so much more brittle. For instance, we forget that, by their very nature, tests are unfair.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p19" class="">In heaven, Christ&rsquo;s lofty name was determined to be the only name on earth offering salvation to all mankind. (See <a href="http://lds.org/scriptures/nt/acts/4.12?lang=eng#11" onclick="newWindow(this.href); return false;">Acts 4:12</a>; <a href="http://lds.org/scriptures/bofm/2-ne/25.20?lang=eng#19" onclick="newWindow(this.href); return false;">2 Ne. 25:20</a>; see also <a href="http://lds.org/scriptures/pgp/abr/3.27?lang=eng#26" onclick="newWindow(this.href); return false;">Abr. 3:27</a>.) Yet the Mortal Messiah willingly lived so modestly, even, wrote Paul, as a person &ldquo;of no reputation.&rdquo; (<a href="http://lds.org/scriptures/nt/philip/2.7?lang=eng#6" onclick="newWindow(this.href); return false;">Philip. 2:7</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p20" class="">What a contrast to our maneuverings over relative recognition and comparative status. How different, too, from the ways in which some among us mistakenly see the size and response of their audiences as the sole verification of their worth. Yet those fickle galleries we sometimes play to have a way of being constantly emptied. They will surely be empty at the Judgment Day, when everyone will be somewhere else, on their knees.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p21" class="">As the Creator, Christ constructed the universe, yet in little Galilee He was known merely as &ldquo;the carpenter&rsquo;s son.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/13.55?lang=eng#54" onclick="newWindow(this.href); return false;">Matt. 13:55</a>.) In fact, the Lord of the universe was without honor even in His own Nazarene countryside. Though astonished at His teachings, his neighbors &ldquo;were offended at him.&rdquo; (<a href="http://lds.org/scriptures/nt/mark/6.3?lang=eng#2" onclick="newWindow(this.href); return false;">Mark 6:3</a>.) Even meek Jesus &ldquo;marvelled because of their unbelief.&rdquo; (<a href="http://lds.org/scriptures/nt/mark/6.6?lang=eng#5" onclick="newWindow(this.href); return false;">Mark 6:6</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p22" class="">As Jehovah, Jesus issued the original commandment to keep the Sabbath day holy, but during His mortal Messiahship, He was accused of violating the Sabbath, because on that day He gave healing rest to the afflicted. (See <a href="http://lds.org/scriptures/nt/john/5.8-16?lang=eng#7" onclick="newWindow(this.href); return false;">John 5:8&ndash;16</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p23" class="">Can we absorb the irony of being hurt while trying to help? Having done good, when we are misrepresented, can we watch the feathers of false witness scatter on the winds?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p24" class="">Christ, long, long ago as Creator, provided habitable conditions for us on this earth, generously providing all the essential atmospheric conditions for life, including essential water. (See <a href="http://lds.org/scriptures/pgp/moses/1.33?lang=eng#32" onclick="newWindow(this.href); return false;">Moses 1:33</a>; <a href="http://lds.org/scriptures/dc-testament/dc/76.24?lang=eng#23" onclick="newWindow(this.href); return false;">D&amp;C 76:24</a>.) Yet on the cross, when he was aflame with thirst, &ldquo;they gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/27.34?lang=eng#33" onclick="newWindow(this.href); return false;">Matt. 27:34</a>; see also <a href="http://lds.org/scriptures/ot/ps/69.21?lang=eng#20" onclick="newWindow(this.href); return false;">Ps. 69:21</a>.) Even so, there was no railing but a forgiving Christ. (See <a href="http://lds.org/scriptures/nt/luke/23.34?lang=eng#33" onclick="newWindow(this.href); return false;">Luke 23:34</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p25" class="">Christ was keenly aware of the constant irony: &ldquo;Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.&rdquo; (<a href="http://lds.org/scriptures/nt/luke/9.58?lang=eng#57" onclick="newWindow(this.href); return false;">Luke 9:58</a>.) He asked a treacherous Judas, &ldquo;Betrayest thou the Son of man with a kiss?&rdquo; (<a href="http://lds.org/scriptures/nt/luke/22.48?lang=eng#47" onclick="newWindow(this.href); return false;">Luke 22:48</a>.) And then there was the soulful lament, &ldquo;O Jerusalem, Jerusalem, &hellip; how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!&rdquo; (<a href="http://lds.org/scriptures/nt/matt/23.37?lang=eng#36" onclick="newWindow(this.href); return false;">Matt. 23:37</a>.) Yet the repeated ritual of rejection was happening to Jesus all over again.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p26" class="">We all know what it is like not to be listened to, but how about disdain or even contempt? Furthermore, there is a difference between noticing rejection, as Jesus did, and railing against rejection, as He did not.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p27" class="">As the Creator, Christ fashioned &ldquo;worlds without number&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/1.33?lang=eng#32" onclick="newWindow(this.href); return false;">Moses 1:33</a>), yet with His fingers He fashioned a little clay from spittle, restoring sight to one blind man. (See <a href="http://lds.org/scriptures/nt/john/9.6?lang=eng#5" onclick="newWindow(this.href); return false;">John 9:6</a>.) The Greatest meekly ministered &ldquo;unto one of the least of these.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/25.40?lang=eng#39" onclick="newWindow(this.href); return false;">Matt. 25:40</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p28" class="">Do you and I understand that the significance of our service does not depend upon its scale?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p29" class="">Within hours Christ would rescue all mankind, yet he heard the manipulated crowd cry, &ldquo;Barabbas,&rdquo; thereby rescuing a life-taking murderer instead of life-giving Jesus. (See <a href="http://lds.org/scriptures/nt/mark/15.7-15?lang=eng#6" onclick="newWindow(this.href); return false;">Mark 15:7&ndash;15</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p30" class="">Can we remain true amid false justice? Will we do our duty against the roar of the crowd?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p31" class="">As the Master Teacher, Christ tailored His tutoring, depending upon the spiritual readiness of His pupils. We see instructive irony even in some of these episodes.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p32" class="">To the healed leper returning with <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a>, Jesus&rsquo; searching but simple query was, &ldquo;Where are the [other] nine?&rdquo; (<a href="http://lds.org/scriptures/nt/luke/17.17?lang=eng#16" onclick="newWindow(this.href); return false;">Luke 17:17</a>.) To a more knowledgeable mother of Apostles, desiring that her two sons sit on Jesus&rsquo; right and left hands, Jesus reprovingly but lovingly said, &ldquo;Ye know not what you ask. &hellip; [This] is not mine to give.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/20.22-23?lang=eng#21" onclick="newWindow(this.href); return false;">Matt. 20:22&ndash;23</a>.) To a grieving but rapidly maturing Peter, still burning with the memory of a rooster&rsquo;s crowing, thrice came the directive, &ldquo;Feed my sheep,&rdquo; but also a signifying of &ldquo;by what death&rdquo; the great Apostle would later be martyred. (<a href="http://lds.org/scriptures/nt/john/18.25-27?lang=eng#24" onclick="newWindow(this.href); return false;">John 18:25&ndash;27</a>; <a href="http://lds.org/scriptures/nt/john/21.15-19?lang=eng#14" onclick="newWindow(this.href); return false;">John 21:15&ndash;19</a>.) How much more demanding of Peter than of the leper!</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p33" class="">If a sudden, stabbing light exposes the gap between what we are and what we think we are, can we, like Peter, let that light be a healing laser? Do we have the patience to endure when one of our comparative strengths is called into question? A painful crisis may actually be the means of stripping corrosive pride off of that virtue.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p34" class="">To the humbly devout woman of Samaria who expected the Messiah, Jesus quietly disclosed, &ldquo;I that speak unto thee am he.&rdquo; (<a href="http://lds.org/scriptures/nt/john/4.26?lang=eng#25" onclick="newWindow(this.href); return false;">John 4:26</a>.) Yet an anxious Pilate &ldquo;saith unto Jesus, Whence art thou? But Jesus gave him no answer.&rdquo; (<a href="http://lds.org/scriptures/nt/john/19.9?lang=eng#8" onclick="newWindow(this.href); return false;">John 19:9</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p35" class="">Can we remain silent when silence is eloquence&mdash;but may be used against us? Or will we murmur, just to let God know we notice the ironies?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p36" class="">Yet, even with all the ironies, sad ironies, there is the grand and glad irony of Christ&rsquo;s great mission. He Himself noted that precisely because He was &ldquo;lifted up upon&rdquo; the cross, He was able to &ldquo;draw all men unto [him],&rdquo; and being &ldquo;lifted up by men,&rdquo; even so should &ldquo;men be lifted up by the Father.&rdquo; (<a href="http://lds.org/scriptures/bofm/3-ne/27.14?lang=eng#13" onclick="newWindow(this.href); return false;">3 Ne. 27:14</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p37" class="">But how can we fortify ourselves against the irony in our lives and cope better when it comes?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p38" class="">By being more like Jesus, such as by loving more. &ldquo;And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, [Why?] because of his loving kindness and his long-suffering towards the children of men.&rdquo; (<a href="http://lds.org/scriptures/bofm/1-ne/19.9?lang=eng#8" onclick="newWindow(this.href); return false;">1 Ne. 19:9</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p39" class="">There are other significant keys for coping. &ldquo;And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.&rdquo; (<a href="http://lds.org/scriptures/nt/luke/9.23?lang=eng#22" onclick="newWindow(this.href); return false;">Luke 9:23</a>.) Wise self-denial shrinks our sense of entitlement.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p40" class="">Another cardinal key is to &ldquo;live in thanksgiving daily, for the many mercies and blessings which [God] doth bestow upon you.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/34.38?lang=eng#37" onclick="newWindow(this.href); return false;">Alma 34:38</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p41" class="">Life&rsquo;s comparatively few ironies are much more than offset by heaven&rsquo;s many mercies! We cannot count all our blessings every day, but we can carry over the reassuring bottom line from the last counting.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p42" class="">Another vital way of coping was exemplified by Jesus. Though He suffered all manner of temptations (see <a href="http://lds.org/scriptures/bofm/alma/7.11?lang=eng#10" onclick="newWindow(this.href); return false;">Alma 7:11</a>), yet He &ldquo;gave no heed unto them&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/20.22?lang=eng#21" onclick="newWindow(this.href); return false;">D&amp;C 20:22</a>). Unlike some of us, He did not fantasize, reconsider, or replay temptations. How is it that you and I do not see that while initially we are stronger and the temptations weaker, dalliance turns things upside down?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p43" class="">Jesus&rsquo; marvelous meekness prevented any &ldquo;root of bitterness&rdquo; from &ldquo;springing up&rdquo; in Him. (<a href="http://lds.org/scriptures/nt/heb/12.15?lang=eng#14" onclick="newWindow(this.href); return false;">Heb. 12:15</a>.) Ponder the Savior&rsquo;s precious words about the Atonement <span class="emphasis">after</span> He passed through it. There is no mention of the vinegar. No mention of the scourging. No mention of having been struck. No mention of having been spat upon. He does declare that He &ldquo;suffer[ed] both body and spirit&rdquo; in an exquisiteness which we simply cannot comprehend. (<a href="http://lds.org/scriptures/dc-testament/dc/19.18?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 19:18</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/19.15?lang=eng#14" onclick="newWindow(this.href); return false;">D&amp;C 19:15</a>.)</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p44" class="">We come now to the last and most terrible irony of Jesus: His feeling forsaken at the apogee of His agony on Calvary. The apparent withdrawal of the Father&rsquo;s spirit then evoked the greatest soul cry in human history. (See James E. Talmage, <span class="emphasis">Jesus the Christ,</span> Salt Lake City: Deseret Book Co., 1916, p. 613.) This deprivation had never happened to Christ before&mdash;never. Yet, thereby, Jesus became a fully comprehending Christ and was enabled to be a fully succoring Savior. (See <a href="http://lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10" onclick="newWindow(this.href); return false;">Alma 7:11&ndash;12</a>.) Moreover, even in that darkest hour, while feeling forsaken, Jesus submitted Himself to the Father.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p45" class="">No wonder the Savior tells us that the combined anguish in Gethsemane and on Calvary was so awful that He would have shrunk. &ldquo;Nevertheless,&rdquo; He finished His &ldquo;preparations.&rdquo; (See <a href="http://lds.org/scriptures/dc-testament/dc/19.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 19:18&ndash;19</a>; <a href="http://lds.org/scriptures/bofm/3-ne/11.11?lang=eng#10" onclick="newWindow(this.href); return false;">3 Ne. 11:11</a>.) The word <span class="emphasis">nevertheless</span> reflects deep, divine determination.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p46" class="">Furthermore, even after treading the winepress alone (see <a href="http://lds.org/scriptures/dc-testament/dc/76.107?lang=eng#106" onclick="newWindow(this.href); return false;">D&amp;C 76:107</a>), which ended in His stunning, personal triumph and in the greatest victory ever&mdash;majestic Jesus meekly declared, &ldquo;Glory be to the Father&rdquo;! (<a href="http://lds.org/scriptures/dc-testament/dc/19.19?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 19:19</a>.) This should not surprise us. In the premortal world, Jesus meekly volunteered to be our Savior, saying, &ldquo;Father, thy will be done, and the glory be thine forever.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/4.2?lang=eng#1" onclick="newWindow(this.href); return false;">Moses 4:2</a>.) Jesus was true to His word.</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p47" class="">Now, in closing, I humbly declare, &ldquo;Glory be to the Father&rdquo;&mdash;first, for rearing such an Incomparable Son. Second, &ldquo;Glory be to the Father&rdquo; for allowing His special Son to suffer and to be sacrificed for all of us. On Judgment Day, brothers and sisters, will any of us want to rush forward to tell our Father how we, as parents, suffered when we watched our children suffer?</p>
+			<p uri="/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity.p48" class="">Glory be to the Father, in the name of Him who can succor us amid all our ironies and adversities (see <a href="http://lds.org/scriptures/bofm/alma/7.11-12?lang=eng#10" onclick="newWindow(this.href); return false;">Alma 7:11&ndash;12</a>), even <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1989/05/our-kindred-family-expression-of-eternal-love?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1989/05/let-love-be-the-lodestar-of-your-life?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1989">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1989/05/irony-the-crust-on-the-bread-of-adversity?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Irony: The Crust on the Bread of Adversity - Ensign May 1989&amp;link=/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1989%2F05%2Firony-the-crust-on-the-bread-of-adversity%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity%3flang%3deng%26cid%3dfacebook-shared&amp;t=Irony%3a+The+Crust+on+the+Bread+of+Adversity+-+Ensign+May+1989" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity%3flang%3deng%26cid%3ddelicious-shared&amp;title=Irony%3a+The+Crust+on+the+Bread+of+Adversity+-+Ensign+May+1989" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1989/05/irony-the-crust-on-the-bread-of-adversity%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Irony: The Crust on the Bread of Adversity - Ensign May 1989&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1989:05:irony: the crust on the bread of adversity";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,658 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Where Is Wisdom? - Ensign Nov. 1992 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Where Is Wisdom? - Ensign Nov. 1992"><meta name="KEYWORDS" content="education,faith,wisdom"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Where Is Wisdom? - Ensign Nov. 1992"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1992/11/where-is-wisdom?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1992/11/where-is-wisdom?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1992/11/where-is-wisdom?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1992/11/where-is-wisdom?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1992/11?lang=eng">Nov. 1992</a>
+                     </li><li>
+                        <span class="active">Where Is Wisdom?</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1992/11/sin-will-not-prevail?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1992/11/by-the-power-of-his-word-did-they-cause-prisons-to-tumble?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Where Is Wisdom?
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng"><div class="byline" id="">
+				<p uri="/ensign/1992/11/where-is-wisdom.p2" class="">Elder Russell M. Nelson</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p" class="">Of the Quorum of the Twelve Apostles</p>
+			</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/russell-m-nelson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg" alt="Russell M. Nelson" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">92911_000_004</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1992/11/where-is-wisdom.p3" class="">Today I would like to pose a question asked long ago by Job: &ldquo;Where shall wisdom be found?&rdquo; (<a href="http://lds.org/scriptures/ot/job/28.12?lang=eng#11" onclick="newWindow(this.href); return false;">Job 28:12</a>.)</p>
+			<p uri="/ensign/1992/11/where-is-wisdom.p4" class="">Leaders of this Church have repeatedly emphasized the importance of education. It is a vital component of wisdom. Not long after the pioneers began construction of their temple in Illinois, they established the University of the City of Nauvoo. The First Presidency proclaimed that this university &ldquo;will enable us to teach our children wisdom, to instruct them in all the knowledge and learning, in the arts, sciences, and learned professions.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-92911_000_004">1</a>
+      </sup></p>
+			<p uri="/ensign/1992/11/where-is-wisdom.p5" class="">A similar scene followed after the persecuted pioneers entered the valley of the Great Salt Lake. Less than three years later, on 28 February 1850, they instituted the University of the State of Deseret.<sup class="noteMarker">
+	<a href="#footnote2-92911_000_004">2</a>
+      </sup> Later several academies of learning were established.</p>
+			<p uri="/ensign/1992/11/where-is-wisdom.p6" class="">Now as Church membership worldwide exceeds eight million, it is evident that a direct role of the Church in secular education is no longer feasible. Yet our commitment to education remains constant.</p>
+			<p uri="/ensign/1992/11/where-is-wisdom.p7" class="">Scriptures teach that &ldquo;the glory of God is intelligence.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.36?lang=eng#35" onclick="newWindow(this.href); return false;">D&amp;C 93:36</a>.) They also teach that individual &ldquo;intelligences &hellip; were organized before the world was.&rdquo; (<a href="http://lds.org/scriptures/pgp/abr/3.22?lang=eng#21" onclick="newWindow(this.href); return false;">Abr. 3:22</a>.) &ldquo;Man was also in the beginning with God. Intelligence, or the light of truth, was not created or made, neither indeed can be.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.29?lang=eng#28" onclick="newWindow(this.href); return false;">D&amp;C 93:29</a>.)</p>
+			<p uri="/ensign/1992/11/where-is-wisdom.p8" class="">Our personal intelligence is everlasting and divine. I believe Thomas Jefferson felt that dignity of the human spirit when he wrote: &ldquo;I have sworn upon the Altar of God, eternal hostility against every form of tyranny over the mind of man.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-92911_000_004">3</a>
+      </sup></p>
+			<div>
+				<h2>Seek Education</h2>
+				<p uri="/ensign/1992/11/where-is-wisdom.p10" class="">Because of our sacred regard for each human intellect, we consider the obtaining of an education to be a religious responsibility. Yet opportunities and abilities differ. I believe that in the pursuit of education, individual desire is more influential than institution, and personal faith more forceful than faculty.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p11" class="">Our Creator expects His children everywhere to educate themselves. He issued a commandment: &ldquo;Seek ye diligently and teach one another words of wisdom; yea, seek ye out of the best books words of wisdom; seek learning, even by study and also by faith.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/88.118?lang=eng#117" onclick="newWindow(this.href); return false;">D&amp;C 88:118</a>.) And He assures us that knowledge acquired here will be ours forever. (See <a href="http://lds.org/scriptures/dc-testament/dc/130.18-19?lang=eng#17" onclick="newWindow(this.href); return false;">D&amp;C 130:18&ndash;19</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p12" class="">Measured by this celestial standard, it is apparent that those who impulsively &ldquo;drop out&rdquo; and cut short their education not only disregard divine decree but frustrate the realization of their own potential.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p13" class="">I remember my moment of resolution many years ago when, as an untrained teenager, I secured temporary employment at Christmastime. The work was monotonous. Each hour and each day passed slowly. I resolved then and there that I must obtain an education that would qualify me better for life. I determined to stay in school and work for an education as though my very life depended upon it.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p14" class="">Later as stake president I was questioned by many young people about their own educational pursuits. Some asked me how long it took to become a doctor of medicine. &ldquo;The general pattern would be four years at a university, followed by four years in medical school,&rdquo; I replied. &ldquo;And if you choose to become a specialist, that could take another five years or more, depending upon your desire.&rdquo;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p15" class="">That occasionally evoked a reaction: &ldquo;That adds up to thirteen years&mdash;and maybe <span class="emphasis">more?</span> That&rsquo;s too long for me!&rdquo;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p16" class="">&ldquo;It all depends,&rdquo; I would respond. &ldquo;Preparation for your career is not too long if you know what you want to do with your life. How old will you be thirteen years from now if you <span class="emphasis">don&rsquo;t</span> pursue your education? Just as old, whether or not you become what you want to be!&rdquo;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p17" class="">So my counsel then&mdash;and now&mdash;is to continue your education wherever you are, whatever your interest and opportunity, however you determine you can best serve your <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> and society.</p>
+			</div>
+			<div>
+				<h2>Beware of Unbalance</h2>
+				<p uri="/ensign/1992/11/where-is-wisdom.p19" class="">Choose what you will learn and whose purposes you will serve. But don&rsquo;t place all your intellectual eggs in one basket of secular learning. Remember this warning from the Book of Mormon:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p20" class="">&ldquo;O the vainness, and the frailties, and the foolishness of men! When they are learned they think they are wise, and they hearken not unto the counsel of God, for they set it aside, supposing they know of themselves, wherefore, their wisdom is foolishness and it profiteth them not. And they shall perish.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p21" class="">&ldquo;But to be learned is good if they hearken unto the counsels of God.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/9.28-29?lang=eng#27" onclick="newWindow(this.href); return false;">2 Ne. 9:28&ndash;29</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p22" class="">That scripture reminds me of a friend who proudly boasted that his climb toward wealth had come from tireless work and lessons learned in the &ldquo;school of hard knocks.&rdquo; But his fortune had come at the expense of his spiritual development. When it was too late, he regretfully discovered that his ladder of success had been leaning against the wrong wall. He had never read this instruction from his Maker:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p23" class="">&ldquo;Seek not for riches but for wisdom, and behold, the mysteries of God shall be unfolded unto you, and then shall you be made rich. Behold, he that hath eternal life is rich.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/6.7?lang=eng#6" onclick="newWindow(this.href); return false;">D&amp;C 6:7</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/11.7?lang=eng#6" onclick="newWindow(this.href); return false;">D&amp;C 11:7</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p24" class="">Mankind&rsquo;s unfamiliarity with the scriptures has sometimes brought sorrow to great numbers of people over long periods of time. The suffering that has resulted from such ignorance is truly tragic. May I illustrate with excerpts from history that pertain to the spread of infection.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p25" class="">In the nineteenth century, health officials and others were concerned about pollution of the air, not by visible smoggy hydrocarbons of today, but by an invisible miasma that was blamed for almost any infection. In 1867, for example, Lord Lister indicted bad air as the chief cause of infection.<sup class="noteMarker">
+	  <a href="#footnote4-92911_000_004">4</a>
+	</sup> Because of that, in 1869 Simpson from Edinburgh urged that hospitals be taken down and rebuilt every few years.<sup class="noteMarker">
+	  <a href="#footnote5-92911_000_004">5</a>
+	</sup> Such an extravagant practice was also advocated by other experts.<sup class="noteMarker">
+	  <a href="#footnote6-92911_000_004">6</a>
+	</sup></p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p26" class="">Even Florence Nightingale, a living legend following her heroic efforts in the Crimean War, failed to recognize the transmission of infection from one patient to another&mdash;this despite her careful notations that wound infection accounted for 40 percent of postoperative mortality.<sup class="noteMarker">
+	  <a href="#footnote7-92911_000_004">7</a>
+	</sup></p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p27" class="">But others missed the connection, too. For centuries, lives of innumerable mothers and children were claimed by &ldquo;childbirth fever&rdquo;&mdash;infections unknowingly transmitted among the innocent by unwashed hands of attendants.<sup class="noteMarker">
+	  <a href="#footnote8-92911_000_004">8</a>
+	</sup></p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p28" class="">It was only a short century ago that the great work of Koch, Pasteur, and others proved that infection could be caused by bacteria in contaminated body fluids&mdash;or infected issues&mdash;passed from one individual to another.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p29" class="">With these highlights of history in mind, may I quote the word of the Lord recorded long ago in Leviticus, chapter fifteen:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p30" class="">&ldquo;The Lord spake unto <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> and to Aaron, saying,</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p31" class="">&ldquo;Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p32" class="">&ldquo;And this shall be his uncleanness <span class="emphasis">in his issue.</span> &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p33" class="">&ldquo;Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p34" class="">&ldquo;And whosoever toucheth his bed shall wash his clothes, and bathe himself in water. &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p35" class="">&ldquo;And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water.&rdquo; (<a href="http://lds.org/scriptures/ot/lev/15.1-5,7?lang=eng#0" onclick="newWindow(this.href); return false;">Lev. 15:1&ndash;5, 7</a>; emphasis added.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p36" class="">Several verses follow which re-emphasize and illustrate those important principles. Then we read this conclusion:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p37" class="">&ldquo;And when he that hath an issue is cleansed of his issue; then he shall &hellip; wash his clothes, and bathe his flesh in running water, and shall be clean.&rdquo; (<a href="http://lds.org/scriptures/ot/lev/15.13?lang=eng#12" onclick="newWindow(this.href); return false;">Lev. 15:13</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p38" class="">Thus, our loving Heavenly Father had clearly revealed principles of clean technique in the handling of infected patients more than three thousand years ago! These scriptures are in complete harmony with modern medical guidelines.<sup class="noteMarker">
+	  <a href="#footnote9-92911_000_004">9</a>
+	</sup> But during those many millennia, how many mothers needlessly perished? How many children suffered because man&rsquo;s quest for knowledge had failed to incorporate the word of the Lord?</p>
+			</div>
+			<div>
+				<h2>Contemporary Challenges</h2>
+				<p uri="/ensign/1992/11/where-is-wisdom.p40" class="">In our day, many challenges face us. Some are new, some are old&mdash;simply clothed in modern attire. The epistles of Paul include prophecies pertaining to our day. Do these descriptions sound familiar?</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p41" class="">&ldquo;In the last days perilous times shall come.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p42" class="">&ldquo;For men shall be lovers of their own selves, covetous, boasters, proud, [and the list of insidious qualities goes on] &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p43" class="">&ldquo;Without natural affection, &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p44" class="">&ldquo;Lovers of pleasures more than lovers of God;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p45" class="">&ldquo;Having a form of godliness, but denying the power thereof: &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p46" class="">&ldquo;Ever learning, and never able to come to the knowledge of the truth.&rdquo; (<a href="http://lds.org/scriptures/nt/2-tim/3.1-5,7?lang=eng#0" onclick="newWindow(this.href); return false;">2 Tim. 3:1&ndash;5, 7</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p47" class="">Paul&rsquo;s warnings describe apostasy and other dangers of our day. Some of these perils are contrary to God&rsquo;s purposes and are championed by persuasive people possessing more ability than morality, more knowledge than wisdom. Their rationalization breeds justification. The <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a> affirms that the &ldquo;way of a fool is right in his own eyes.&rdquo; (<a href="http://lds.org/scriptures/ot/prov/12.15?lang=eng#14" onclick="newWindow(this.href); return false;">Prov. 12:15</a>.) Indeed, individuals with malignity of purpose often wear the mask of honesty. So we must constantly be on guard.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p48" class="">To build a house straight and strong, you do not choose crooked boards. So to build your eternal destiny, you cannot&mdash;you must not&mdash;limit lessons only to those warped to exclude revelation from God. The Book of Mormon offers this note of caution and hope:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p49" class="">&ldquo;Seek not to counsel the Lord, but to take counsel from his hand. For behold, ye yourselves know that he counseleth in wisdom, and in justice, and in great mercy, over all his works.&rdquo; (<a href="http://lds.org/scriptures/bofm/jacob/4.10?lang=eng#9" onclick="newWindow(this.href); return false;">Jacob 4:10</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p50" class="">Remember the terrible price paid for ignorance of divine instruction. Until the turn of this century, infection was spread as if no one had ever read or taken seriously the fifteenth chapter of Leviticus. Where is wisdom?</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p51" class="">Today we are seriously concerned with the increasing incidence of human infection with HIV (Human Immunosuppressive Virus) and variant viruses and the associated outbreak of AIDS (Acquired Immune Deficiency Syndrome). An epidemic has been forecast&mdash;a plague fueled by a vocal few who exhibit greater concern for civil rights than for public health, a plague abetted by the immoral. Some live in lust as though God&rsquo;s commandment to be chaste was written with an asterisk, exempting them from obeying. And regrettably, as in previous plagues, many innocent victims are doomed to suffer. Where is wisdom?</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p52" class="">Avoidable deaths and mounting financial burdens are also incurred worldwide because of indifference to or ignorance of God&rsquo;s declaration that tobacco &ldquo;is not good for man.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/89.8?lang=eng#7" onclick="newWindow(this.href); return false;">D&amp;C 89:8</a>.) Many other societal problems could be listed, such as alcohol and drug abuse, gambling, civil strife, and erosion of family stability.<sup class="noteMarker">
+	  <a href="#footnote10-92911_000_004">10</a>
+	</sup> We may know so much, yet learn so little. &ldquo;Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?&rdquo;<sup class="noteMarker">
+	  <a href="#footnote11-92911_000_004">11</a>
+	</sup> Again I ask, Where is wisdom?</p>
+			</div>
+			<div>
+				<h2>Wisdom Found</h2>
+				<p uri="/ensign/1992/11/where-is-wisdom.p54" class="">Wisdom is to be found in pure intelligence&mdash;in that divine light which can guide people in all countries, all climes, and all continents. The Lord has promised that &ldquo;a light shall break forth among them that sit in darkness, and it shall be the fulness of my gospel.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/45.28?lang=eng#27" onclick="newWindow(this.href); return false;">D&amp;C 45:28</a>.) Then He lamented:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p55" class="">&ldquo;But they receive it not; for they perceive not the light, and they turn their hearts from me because of the precepts of men. &hellip;</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p56" class="">&ldquo;And there shall be men standing in that generation, that shall not pass until they shall see an overflowing scourge; for a desolating sickness shall cover the land.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p57" class="">&ldquo;But my disciples shall stand in holy places, and shall not be moved; but among the wicked, men shall lift up their voices and curse God and die.</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p58" class="">&ldquo;And there shall be earthquakes also in divers places, and many desolations; yet men will harden their hearts against me.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/45.29,31-33?lang=eng#28" onclick="newWindow(this.href); return false;">D&amp;C 45:29, 31&ndash;33</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/87.6?lang=eng#5" onclick="newWindow(this.href); return false;">D&amp;C 87:6</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p59" class="">In bright contrast to such bitter chaos, the light of the gospel of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> beams as the hope of the world. Missionaries and members courageously proclaim its brilliance. Wise students throughout the world heed its light and enrich their education by adding the curriculum of Church Seminaries and Institutes. The Lord hides His wisdom from no one: &ldquo;If any of you lack wisdom, let him ask of God.&rdquo; (<a href="http://lds.org/scriptures/nt/james/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">James 1:5</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p60" class="">Again I pose the question once asked by Job: &ldquo;Where shall wisdom be found?&rdquo; (<a href="http://lds.org/scriptures/ot/job/28.12?lang=eng#11" onclick="newWindow(this.href); return false;">Job 28:12</a>.) Answer: It emanates from the Lord. He Himself said,</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p61" class="">&ldquo;I will give unto the children of men line upon line, precept upon precept, here a little and there a little; and blessed are those who hearken unto my precepts, and lend an ear unto my counsel, for they shall learn wisdom; for unto him that receiveth I will give more.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/28.30?lang=eng#29" onclick="newWindow(this.href); return false;">2 Ne. 28:30</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p62" class="">Divine light and wisdom continue to increase when love for Deity grows:</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p63" class="">&ldquo;That which is of God is light; and he that receiveth light, and continueth in God, receiveth more light; and that light groweth brighter and brighter until the perfect day.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/50.24?lang=eng#23" onclick="newWindow(this.href); return false;">D&amp;C 50:24</a>; see also <a href="http://lds.org/scriptures/dc-testament/dc/88.67?lang=eng#66" onclick="newWindow(this.href); return false;">D&amp;C 88:67</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p64" class="">&ldquo;He that keepeth his commandments receiveth truth and light, until he is glorified in truth and knoweth all things.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.28?lang=eng#27" onclick="newWindow(this.href); return false;">D&amp;C 93:28</a>.)</p>
+				<p uri="/ensign/1992/11/where-is-wisdom.p65" class="">Where is wisdom? It pulses and surges with the Lord&rsquo;s light of truth! With that light He lifts us toward eternal life, I testify in the name of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>, amen.</p>
+			</div>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-92911_000_004">1.</a>
+      </span>
+				<p><span class="emphasis">History of the Church,</span> 4:269.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-92911_000_004">2.</a>
+      </span>
+				<p>Journal History of The Church of Jesus Christ of Latter-day Saints, 28 Feb. 1850, pp. 1&ndash;2.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-92911_000_004">3.</a>
+      </span>
+				<p>Elbert D. Thomas, <span class="emphasis">Thomas Jefferson, World Citizen</span> (New York: Modern Age Books, 1942), p. 251.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-92911_000_004">4.</a>
+      </span>
+				<p>J. Lister, &ldquo;On a New Method of Treating Compound Fracture, Abscess, etc., with Observations on the Conditions of Suppuration,&rdquo; <span class="emphasis">Lancet,</span> 1 (1867): 326.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-92911_000_004">5.</a>
+      </span>
+				<p>J. Y. Simpson, &ldquo;Our Existing System of Hospitalism and Its Effects,&rdquo; <span class="emphasis">Edinburgh Medical Journal,</span> 14 (1869): 817.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-92911_000_004">6.</a>
+      </span>
+				<p>L. A. Stimson, &ldquo;Bacteria and Their Influence upon the Origin and Development of Septic Complications of Wounds,&rdquo; <span class="emphasis">New York Medical Journal,</span> 22 (1875): 144.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-92911_000_004">7.</a>
+      </span>
+				<p>See Edward Cook, <span class="emphasis">The Life of Florence Nightingale,</span> 2 vols. (London: Macmillan and Co., 1913), 1:352&ndash;438.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-92911_000_004">8.</a>
+      </span>
+				<p>See Ignaz Philipp Semmelweiss, <span class="emphasis">Die Aetiologie, der Begriff und die Prophylaxis des Kindbettfiebers,</span> reprinted from 1861 ed. (New York: Johnson Reprint Co., 1966), pp. 102&ndash;13.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-92911_000_004">9.</a>
+      </span>
+				<p>See <span class="emphasis">Isolation Techniques for Use in Hospitals</span> (Washington, D.C.: U.S. Department of Health, Education, and Welfare, 1970), p. 9.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-92911_000_004">10.</a>
+      </span>
+				<p>See Bryce J. Christensen, &ldquo;Critically Ill: The Family and Health Care,&rdquo; <span class="emphasis">The Family in America,</span> The Rockford Institute Center on the Family in America, Mount Morris, Ill., May 1992, pp. 1&ndash;8.</p>
+			</li>
+			<li class="footnote " id="-92911_000_004"><a name="-92911_000_004">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-92911_000_004">11.</a>
+      </span>
+				<p>T. S. Eliot, &ldquo;Choruses from &lsquo;The Rock,&rsquo;&rdquo; <span class="emphasis">The Complete Poems and Plays</span> (New York: Harcourt, Brace &amp; World, 1971), p. 96.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1992/11/sin-will-not-prevail?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1992/11/by-the-power-of-his-word-did-they-cause-prisons-to-tumble?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1992">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1992/11/where-is-wisdom?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Where Is Wisdom? - Ensign Nov. 1992&amp;link=/ensign/1992/11/where-is-wisdom&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1992%2F11%2Fwhere-is-wisdom%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1992/11/where-is-wisdom%3flang%3deng%26cid%3dfacebook-shared&amp;t=Where+Is+Wisdom%3f+-+Ensign+Nov.+1992" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1992/11/where-is-wisdom%3flang%3deng%26cid%3ddelicious-shared&amp;title=Where+Is+Wisdom%3f+-+Ensign+Nov.+1992" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1992/11/where-is-wisdom%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Where Is Wisdom? - Ensign Nov. 1992&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1992:11:where is wisdom?";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

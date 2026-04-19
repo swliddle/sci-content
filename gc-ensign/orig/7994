@@ -1,0 +1,579 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Decisions for Eternity - Ensign Nov. 2013 - ensign</title>
+        <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="TITLE" content="Decisions for Eternity - Ensign Nov. 2013"><meta name="KEYWORDS" content="agency,family,marriage,plan of salvation"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <!---->
+        <meta property="og:title" content="Decisions for Eternity - Ensign Nov. 2013"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://www.lds.org/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity?lang=eng"><meta id="og-image" property="og:image" content="http://www.lds.org/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="shortcut icon" href="//edge.ldscdn.org/images/logos/favicon-lds-1.ico"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform2.css" class="pf-fix-me"><link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/lds-old.css" class="pf-fix-me"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.7.1/jquery.min.js">&nbsp;</script><script src="//edge.ldscdn.org/ml/ldsorg/script/common/lds.js">&nbsp;</script>
+        <link rel="canonical" href="http://www.lds.org/general-conference/2013/10/decisions-for-eternity?lang=eng">
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/ldsorg/css/common/article.css">
+        
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+		<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/common/video.css"><script type="text/javascript" src="/resources/script/common/swfobject.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/youTubeLoader.js">&nbsp;</script><script type="text/javascript">
+        var flashvars = {
+                xmlSource: unescape("/resources/video/xml/10711_000_041/eng?lang=eng")
+                
+            };
+        var params = {
+            menu: "false",
+            allowScriptAccess: "always",
+            scale: "noscale",
+            allowFullScreen: "true",
+            wmode: "opaque"
+        };
+        // set up expressinstall.swf
+        swfobject.embedSWF("/resources/swf/ldsUniversalPlayer.swf", "ldsUniversalPlayer", "480", "270", "10.0.0", "http://www.ldsavd.org/ldsUniversalPlayer/swf/expressInstall.swf", flashvars, params);
+
+        //init the youTubeLoader javascript methods
+        SWFID = "ldsUniversalPlayer"
+
+        // Call to Flash Player/ActionScript
+        function getFlashMovie(ldsUniversalPlayer) {
+            var isIE = navigator.appName.indexOf("Microsoft") != -1;
+            return (isIE) ? window[ldsUniversalPlayer] : document[ldsUniversalPlayer];
+        }
+        function callToActionscript()
+        {
+            try {
+                getFlashMovie("ldsUniversalPlayer").sendToActionscript();
+            } catch (e) { };
+        }
+
+        // Dimmer Functions
+        function lightsOff()
+        {
+            document.getElementById('fade').style.display='block';
+        }
+        function lightsOn()
+        {
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+
+    </head>
+
+    <body class="tmpl-default-lds-article pf-responsive  narrow study-theme ">
+        <div id="platform">
+            <!--[if lte IE 8]><script src="//edge.ldscdn.org/scripts/other/html5shiv/html5shiv.3.5.min.js"></script><script src="//edge.ldscdn.org/scripts/other/respond/respond1.1.0-2.js"></script><script src="//edge.ldscdn.org/scripts/other/selectivizr/selectivizr1.0.3b-lds1.min.js"></script><link href="//edge.ldscdn.org/scripts/other/respond/respond-proxy.html" id="respond-proxy" rel="respond-proxy" /><link href="/resources/images/common/1x1.gif" id="respond-redirect" rel="respond-redirect" /><script src="//edge.ldscdn.org/scripts/other/respond/respond.proxy.lds1.js"></script><![endif]--><a href="#platform-canvas-content" class="pf-offscreen">Skip main navigation</a><header class="pf-header" role="banner"><div class="pf-logo"><a href="//www.lds.org/?lang=eng" onClick="s.tl(this, o, 'Header: Church Logo');"><img src="//edge.ldscdn.org/images/lang/english/logos/white-1.png" alt="The Church of Jesus Christ of Latter-day Saints"></a></div><nav class="pf-nav" role="navigation"><div class="pf-top"><ul><li class="pf-language"><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li id="pf-auth"><a href="#pf-personal-links" class="pf-popup pf-icon-signin" aria-haspopup="true" aria-owns="pf-personal-links"><span id="pf-signin">Sign In</span>/Tools</a><div id="pf-personal-links" class="pf-flyout"><ul id="pf-personal"><li><a id="pf-signin-button" href="#d" class="pf-button">Sign In</a></li><li><a href="https://lds.org/study-tools/folders">Notes and Journal</a></li><li><a href="//www.lds.org/maps/?lang=eng">Maps</a></li><li><a href="https://lds.org/directory">Directory</a></li><li><a href="https://lds.org/church-calendar">Calendar</a></li><li><a href="https://apps.lds.org/pbrequest/landing">Patriarchal Blessing</a></li><li><a href="//www.lds.org/pages/mobileapps?lang=eng">Mobile Applications</a></li><li><a href="//www.lds.org/tools?lang=eng">All Tools</a></li><li><a href="https://lds.org/member-news">Newsletter</a></li><li><a href="https://lds.org/lesson">Lesson Schedules</a></li><li id="pf-tools-for-calling"></li><li style="display:none;" class="pf-signout"><a id="pf-signout-button" href="#d">Sign Out</a></li></ul></div></li></ul></div><div class="pf-joshua"><h2><a href="#pf-joshua" class="pf-icon-menu pf-popup" aria-haspopup="true" aria-owns="pf-joshua">Site Menu</a></h2><ul id="pf-joshua"><li id="scriptures"><h3><a href="#pf-scriptures" class="pf-popup" aria-haspopup="true" aria-owns="pf-scriptures">Scriptures</a></h3><div class="pf-flyout pf-col2" id="pf-scriptures"><div style="position:relative; clear:both; overflow:hidden;"><ul class="pf-col"><li><a href="//www.lds.org/scriptures/bible?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Holy Bible');">Holy Bible</a></li><li><a href="//www.lds.org/scriptures/bofm?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Book of Mormon');">Book of Mormon</a></li><li><a href="//www.lds.org/scriptures/dc-testament?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Doctrine and Covenants');">Doctrine and Covenants</a></li><li><a href="//www.lds.org/scriptures/pgp?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Pearl of Great Price');">Pearl of Great Price</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/scriptures/new-edition?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: 2013 Edition of the Scriptures');">2013 Edition of the Scriptures</a></li><li><a href="//www.lds.org/scriptures/study-helps?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Study Helps');">Study Helps</a></li><li><a href="//www.lds.org/bible-videos?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Bible Videos');">Bible Videos</a></li><li><a href="//www.lds.org/scriptures/formats?lang=eng" onClick="s.tl(this, o, 'Header: Scriptures: Formats and Downloads');">Formats and Downloads</a></li></ul></div><div class="pf-scriptures-search-wrapper"><form action="/scriptures/search" method="get" accept-charset="utf-8" class="pf-scriptures-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><input type="hidden" name="lang" value="eng"><fieldset><label for="pf-scriptures-search" class="pf-search-label pf-icon-search">Search:
+                </label><div><input type="text" class="pf-search" id="pf-scriptures-search" autocomplete="off" placeholder="Search by Keyword or Reference" name="query"><input type="submit" class="pf-submit" value="?"></div></fieldset></form></div></div></li><li id="teachings"><h3><a href="#pf-teachings" class="pf-popup" aria-haspopup="true" aria-owns="pf-teachings">Teachings</a></h3><div class="pf-flyout pf-col2" id="pf-teachings"><ul class="pf-col"><li><a href="//www.lds.org/prophets-and-apostles/first-presidency-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: First Presidency Message');">First Presidency Message</a></li><li><a href="//www.lds.org/prophets-and-apostles?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Prophets and Apostles');">Prophets and Apostles</a></li><li><a href="//www.lds.org/general-conference?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: General Conference');">General Conference</a></li></ul><ul class="pf-col"><li><a href="//www.lds.org/topics?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Gospel Topics');">Gospel Topics</a></li><li><a href="//www.lds.org/daily-messages?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Daily Messages');">Daily Messages</a></li><li><a href="//www.lds.org/broadcasts?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Broadcasts');">Broadcasts</a></li><li><a href="//www.lds.org/church/leaders?lang=eng" onClick="s.tl(this, o, 'Header: Teachings: Church Leadership');">Church Leadership</a></li></ul></div></li><li id="resources2"><h3><a href="#pf-resources2" class="pf-popup" aria-haspopup="true" aria-owns="pf-resources2">Resources</a></h3><div class="pf-flyout pf-col3" id="pf-resources2"><div class="pf-col"><h4>Family</h4><ul><li><a href="//www.lds.org/church/temples?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Temples');">Temples</a></li><li><a href="//www.lds.org/topics/family-history?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Family History');">Family History</a></li><li><a href="//www.lds.org/topics/family?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Home and Family');">Home and Family</a></li><li><a href="//www.lds.org/topics/marriage?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Marriage');">Marriage</a></li><li><a href="//www.lds.org/friend?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Children');">Children</a></li><li><a href="//www.lds.org/youth?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Youth');">Youth</a></li><li><a href="//www.lds.org/topics/welfare?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Welfare');">Welfare</a></li></ul></div><div class="pf-col"><h4>Callings</h4><ul><li><a href="//www.lds.org/callings/leadership-and-teaching?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Leadership and Teaching');">Leadership and Teaching</a></li><li><a href="//www.lds.org/callings/melchizedek-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Melchizedek Priesthood');">Melchizedek Priesthood</a></li><li><a href="//www.lds.org/callings/aaronic-priesthood?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Aaronic Priesthood');">Aaronic Priesthood</a></li><li><a href="//www.lds.org/callings/relief-society?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Relief Society');">Relief Society</a></li><li><a href="//www.lds.org/callings/young-women?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Young Women');">Young Women</a></li><li><a href="//www.lds.org/callings/primary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Primary');">Primary</a></li><li><a href="//www.lds.org/callings/sunday-school?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sunday School');">Sunday School</a></li><li><a href="//www.lds.org/callings/missionary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Missionary');">Missionary</a></li><li><a href="//www.lds.org/callings/seminary?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Seminaries and Institutes');">Seminaries and Institutes</a></li><li><a href="//www.lds.org/callings?lang=eng" onClick="s.tl(this, o, 'Header: Resources: All Callings');">All Callings</a></li></ul></div><div class="pf-col"><h4>General</h4><ul><li><a href="//www.lds.org/magazines-and-manuals?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Magazines and Manuals');">Magazines and Manuals</a></li><li><a href="//www.lds.org/media-library?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Video, Audio, and Images');">Video, Audio, and Images</a></li><li><a href="https://history.lds.org" onClick="s.tl(this, o, 'Header: Resources: Church History');">Church History</a></li><li><a href="//www.lds.org/music?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Music');">Music</a></li><li><a href="http://store.lds.org" onClick="s.tl(this, o, 'Header: Resources: Order Church Materials');">Order Church Materials</a></li><li><a href="//www.lds.org/locations?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Locations and Schedules');">Locations and Schedules</a></li><li><a href="//www.lds.org/topics/service?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Service Opportunities');">Service Opportunities</a></li><li><a href="//www.lds.org/church/share?lang=eng" onClick="s.tl(this, o, 'Header: Resources: Sharing the Gospel');">Sharing the Gospel</a></li></ul></div></div></li><li id="news"><h3><a href="#pf-news" class="pf-popup" aria-haspopup="true" aria-owns="pf-news">News</a></h3><div class="pf-flyout pf-col1" id="pf-news"><ul class="pf-col"><li><a href="//www.lds.org/church/news?lang=eng" onClick="s.tl(this, o, 'Header: News: Church News and Events');">Church News and Events</a></li><li><a href="//www.lds.org/languages/mormonnewsroom?lang=eng" onClick="s.tl(this, o, 'Header: News: For News Media');">For News Media</a></li></ul></div></li></ul></div><form action="//www.lds.org/search" method="get" accept-charset="utf-8" class="pf-global-search" role="search" data-qs-url="//www.lds.org/services/search/v1/autoterm"><fieldset><label for="pf-global-search" class="pf-popup pf-search-label pf-icon-search" data-href="#pf-search-inputs">Search:
+										</label><div class="pf-search-inputs" id="pf-search-inputs"><input type="hidden" name="lang" value="eng"><input type="text" class="pf-search" id="pf-global-search" autocomplete="off" placeholder="Search Church sites" name="query"><input type="submit" class="pf-submit" value="?" aria-label="Search"></div></fieldset></form></nav></header><!--[if lte IE 7]><div class="pf-browser-alert"><p><strong>Attention</strong>:This site does not support the current version of your web browser. To get the best possible experience using our website we recommend that you upgrade to a newer version or install another <a href="http://www.lds.org/resources/upgrade?lang=eng">Web Browser</a>.</p></div><![endif]--><script type="text/javascript">var cdnPath = "//edge.ldscdn.org";</script>
+            <!-- end #platform-header -->
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://www.lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/liahona/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/liahona/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/liahona/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message </a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class="active"><a href="http://www.lds.org/ensign/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/ensign/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li><li class=""><a href="http://www.lds.org/ensign/2013/10/our-responsibility-to-rescue?lang=eng">First Presidency Message</a></li><li class=""><a href="http://www.lds.org/callings/relief-society/visiting-teaching-messages?lang=eng">Visiting Teaching Message</a></li></ul></li><li class=""><a href="http://www.lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/new-era/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/new-era/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/new-era/call-for-submissions?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://www.lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://www.lds.org/friend/2013/11?lang=eng">Current Issue</a></li><li class=""><a href="http://www.lds.org/friend/2013?lang=eng">Other Issues</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/activities?lang=eng">Games and Activities</a></li><li class=""><a href="http://www.lds.org/children/resources/type/music-resources?lang=eng">Music in the Friend</a></li><li class=""><a href="http://www.lds.org/children/resources?lang=eng">Teaching Resources</a></li><li class=""><a href="http://www.lds.org/friend/one-in-a-million?lang=eng">One in a Million</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos/scripture-stories?lang=eng">Scripture Stories</a></li><li class=""><a href="http://www.lds.org/friend/online-activities/videos?lang=eng">Videos</a></li><li class=""><a href="http://www.lds.org/topics/service/create/submission?lang=eng">Submit Your Work</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21174_-1___#tab2">Subscribe</a></li><li class=""><a href="http://www.lds.org/search?collection=magazines&amp;lang=eng">Search</a></li><h1></h1></ul>
+        </div>
+                <!-- end #section-nav -->
+                <div id="platform-canvas-content" role="main" class="">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                        <a href="#" class="home">Home</a><ul><li><a href="http://www.lds.org/?lang=eng">LDS.org</a></li><li><a href="http://www.lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://www.lds.org/ensign?lang=eng">Ensign</a></li></ul>
+                    </li><li>
+                        <a href="http://www.lds.org/ensign/2013/11?lang=eng">Nov. 2013</a>
+                     </li><li>
+                        <span class="active">Decisions for Eternity</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/sunday-afternoon-session/drawing-closer-to-god?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/sunday-afternoon-session/till-we-meet-again?lang=eng">Next</a></li></ul>
+                            
+                            <h1>
+                            Decisions for Eternity
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://www.lds.org/church/leader/russell-m-nelson?lang=eng" rel="author"><div class="byline" id="">
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p2" class="">By Elder Russell&nbsp;M. Nelson</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p3" class="">Of the Quorum of the Twelve Apostles</p>
+				</div></a>
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+
+                        <div id="primary">
+                            <div id="audio-player"></div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://www.lds.org/church/leader/russell-m-nelson?lang=eng">
+                                                                <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/russell-m-nelson-10.jpg" alt="Russell M. Nelson" class="img-decor">
+                                                            </a>
+
+                                        <div class="kicker" id="">The wise use of your freedom to make your own decisions is crucial to your spiritual growth, now and for eternity.</div>
+                                        
+
+                                    </blockquote>
+                            
+                            
+                            <span style="display: none" id="article-id">10711_000_041</span>
+				<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p5" class="">My dear brothers and sisters, each day is a day of decision. President <a href="http://www.lds.org/church/leader/thomas-s-monson?lang=eng">Thomas&nbsp;S. Monson</a> has taught us that &ldquo;decisions determine destiny.&rdquo;<sup class="noteMarker"><a href="#footnote1-10711_000_041">1</a></sup> The wise use of your freedom to make your own decisions is crucial to your spiritual growth, now and for eternity. You are never too young to learn, never too old to change. Your yearnings to learn and change come from a divinely instilled striving for eternal progression.<sup class="noteMarker"><a href="#footnote2-10711_000_041">2</a></sup> Each day brings opportunity for decisions for eternity.</p>
+				<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p6" class="">We are eternal beings&mdash;spirit children of heavenly parents. The <a class="no-link-style" href="http://lds.org/scriptures/bible?lang=eng">Bible</a> records that &ldquo;God created man in his own image, &hellip; male and female created he them.&rdquo;<sup class="noteMarker"><a href="#footnote3-10711_000_041">3</a></sup> Recently I heard a chorus of children sing the beloved song &ldquo;I Am a Child of God.&rdquo;<sup class="noteMarker"><a href="#footnote4-10711_000_041">4</a></sup> I wondered, &ldquo;Why haven&rsquo;t I heard that song rendered more often by singing mothers or faithful fathers?&rdquo; Are we not <span class="emphasis">all</span> children of God? In truth, not one of us can <span class="emphasis">ever stop</span> being a child of God!</p>
+				<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p7" class="">As children of God, we should love Him with all our heart and soul, even more than we love our earthly parents.<sup class="noteMarker"><a href="#footnote5-10711_000_041">5</a></sup> We should love our neighbors as brothers and sisters. No other commandments are greater than these.<sup class="noteMarker"><a href="#footnote6-10711_000_041">6</a></sup> And we should ever revere the worth of human life, through each of its many stages.</p>
+				<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p8" class="">Scripture teaches that the body and the spirit are the soul of man.<sup class="noteMarker"><a href="#footnote7-10711_000_041">7</a></sup> As a dual being, each of you can thank God for His priceless gifts of your body and your spirit.</p>
+				<div class="topic">
+					<h2>The Human Body</h2>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p10" class="">My professional years as a medical doctor gave me a profound respect for the human body. Created by God as a gift to you, it is absolutely amazing! Think of your eyes that see, ears that hear, and fingers that feel all the wondrous things around you. Your brain lets you learn, think, and reason. Your heart pumps tirelessly day and night, almost without your awareness.<sup class="noteMarker"><a href="#footnote8-10711_000_041">8</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p11" class="">Your body protects itself. Pain comes as a warning that something is wrong and needs attention. Infectious illnesses strike from time to time, and when they do, antibodies are formed that increase your resistence to subsequent infection.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p12" class="">Your body repairs itself. Cuts and bruises heal. Broken bones can become strong once again. I have cited but a tiny sample of the many amazing God-given qualities of your body.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p13" class="">Even so, it seems that in every <a class="no-link-style" href="http://mormon.org/family">family</a>, if not in every person, some physical conditions exist that require special care.<sup class="noteMarker"><a href="#footnote9-10711_000_041">9</a></sup> A pattern for coping with such a challenge has been given by the Lord. He said, &ldquo;I give unto men weakness that they may be humble; &hellip; for if they humble themselves &hellip; and have faith in me, then will I make weak things become strong unto them.&rdquo;<sup class="noteMarker"><a href="#footnote10-10711_000_041">10</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p14" class="">Stellar spirits are often housed in imperfect bodies.<sup class="noteMarker"><a href="#footnote11-10711_000_041">11</a></sup> The gift of such a body can actually strengthen a family as parents and siblings willingly build their lives around that child born with special needs.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p15" class="">The aging process is also a gift from God, as is death. The eventual death of your mortal body is essential to God&rsquo;s great plan of happiness.<sup class="noteMarker"><a href="#footnote12-10711_000_041">12</a></sup> Why? Because death will allow your spirit to return home to Him.<sup class="noteMarker"><a href="#footnote13-10711_000_041">13</a></sup> From an eternal perspective, death is only premature for those who are not prepared to meet God.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p16" class="">With your body being such a vital part of God&rsquo;s eternal plan, it is little wonder that the Apostle Paul described it as a &ldquo;temple of God.&rdquo;<sup class="noteMarker"><a href="#footnote14-10711_000_041">14</a></sup> Each time you look in the mirror, see your body as your temple. That truth&mdash;refreshed gratefully each day&mdash;can positively influence your decisions about how you will care for your body and how you will use it. And those decisions will determine your destiny. How could this be? Because your body is the temple for your spirit. And how you use your body affects your spirit. Some of the decisions that will determine your eternal destiny include:</p>
+					<ul class="bullet">
+						<li><span class="label">&bull;</span>
+							
+							<p>How will you choose to care for and use your body?</p>
+						</li>
+						<li><span class="label">&bull;</span>
+							
+							<p>What spiritual attributes will you choose to develop?</p>
+						</li>
+					</ul>
+				</div>
+				<div class="topic">
+					<h2>The Human Spirit</h2>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p20" class="">Your spirit is an eternal entity. The Lord said to His prophet Abraham: &ldquo;Thou wast chosen before thou wast born.&rdquo;<sup class="noteMarker"><a href="#footnote15-10711_000_041">15</a></sup> The Lord said something similar about Jeremiah<sup class="noteMarker"><a href="#footnote16-10711_000_041">16</a></sup> and many others.<sup class="noteMarker"><a href="#footnote17-10711_000_041">17</a></sup> He even said it about you.<sup class="noteMarker"><a href="#footnote18-10711_000_041">18</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p21" class="">Your Heavenly Father has known you for a very long time. You, as His son or daughter, were chosen by Him to come to earth at this precise time, to be a leader in His great work on earth.<sup class="noteMarker"><a href="#footnote19-10711_000_041">19</a></sup> You were chosen <span class="emphasis">not</span> for your bodily characteristics but for your <span class="emphasis">spiritual</span> attributes, such as bravery, courage, integrity of heart, a thirst for truth, a hunger for wisdom, and a desire to serve others.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p22" class="">You developed some of these attributes premortally. Others you can develop here on earth<sup class="noteMarker"><a href="#footnote20-10711_000_041">20</a></sup> as you persistently seek them.<sup class="noteMarker"><a href="#footnote21-10711_000_041">21</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p23" class="">A pivotal spiritual attribute is that of self-mastery&mdash;the strength to place reason over appetite. Self-mastery builds a strong conscience. And your conscience determines your moral responses in difficult, tempting, and trying situations. Fasting helps your spirit to develop dominance over your physical appetites. Fasting also increases your access to heaven&rsquo;s help, as it intensifies your prayers. Why the need for self-mastery? God implanted strong appetites within us for nourishment and love, vital for the human family to be perpetuated.<sup class="noteMarker"><a href="#footnote22-10711_000_041">22</a></sup> When we master our appetites within the bounds of God&rsquo;s laws, we can enjoy longer life, greater love, and consummate joy.<sup class="noteMarker"><a href="#footnote23-10711_000_041">23</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p24" class="">It is not surprising, then, that most temptations to stray from God&rsquo;s plan of happiness come through the misuse of those essential, God-given appetites. Controlling our appetites is not always easy. Not one of us manages them perfectly.<sup class="noteMarker"><a href="#footnote24-10711_000_041">24</a></sup> Mistakes happen. Errors are made. Sins are committed. What can we do then? We can learn from them. And we can truly repent.<sup class="noteMarker"><a href="#footnote25-10711_000_041">25</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p25" class="">We can change our behavior. Our very desires can change. How? There is only one way. True change&mdash;permanent change&mdash;can come only through the healing, cleansing, and enabling power of the Atonement of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>.<sup class="noteMarker"><a href="#footnote26-10711_000_041">26</a></sup> He loves you&mdash;each of you!<sup class="noteMarker"><a href="#footnote27-10711_000_041">27</a></sup> He allows you to access His power as you keep His commandments, eagerly, earnestly, and exactly. It is that simple and certain. The gospel of Jesus Christ <span class="emphasis">is</span> a gospel of change!<sup class="noteMarker"><a href="#footnote28-10711_000_041">28</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p26" class="">A strong human spirit with control over appetites of the flesh is master over emotions and passions and not a slave to them. That kind of freedom is as vital to the spirit as oxygen is to the body! Freedom from self-slavery is true liberation!<sup class="noteMarker"><a href="#footnote29-10711_000_041">29</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p27" class="">We are &ldquo;free to choose liberty and eternal life &hellip; or to choose captivity and death.&rdquo;<sup class="noteMarker"><a href="#footnote30-10711_000_041">30</a></sup> When we choose the loftier path toward liberty and eternal life, that path includes marriage.<sup class="noteMarker"><a href="#footnote31-10711_000_041">31</a></sup> Latter-day Saints proclaim that &ldquo;marriage between a man and a woman is ordained of God and that the family is central to the Creator&rsquo;s plan for the eternal destiny of His children.&rdquo; We also know that &ldquo;gender is an essential characteristic of individual premortal, mortal, and eternal identity and purpose.&rdquo;<sup class="noteMarker"><a href="#footnote32-10711_000_041">32</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p28" class="">Marriage between a man and a woman is fundamental to the Lord&rsquo;s doctrine and crucial to God&rsquo;s eternal plan. Marriage between a man and a woman is God&rsquo;s pattern for a fulness of life on earth and in heaven. God&rsquo;s marriage pattern cannot be abused, misunderstood, or misconstrued.<sup class="noteMarker"><a href="#footnote33-10711_000_041">33</a></sup> Not if you want true joy. God&rsquo;s marriage pattern protects the sacred power of procreation and the joy of true marital intimacy.<sup class="noteMarker"><a href="#footnote34-10711_000_041">34</a></sup> We know that Adam and Eve were married by God before they ever experienced the joy of uniting as husband and wife.<sup class="noteMarker"><a href="#footnote35-10711_000_041">35</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p29" class="">In our day civil governments have a vested interest in protecting marriage because strong families constitute the best way of providing for the health, education, welfare, and prosperity of rising generations.<sup class="noteMarker"><a href="#footnote36-10711_000_041">36</a></sup> But civil governments are heavily influenced by social trends and secular philosophies as they write, rewrite, and enforce laws. Regardless of what civil legislation may be enacted, the doctrine of the Lord regarding marriage and morality <span class="emphasis">cannot be changed.</span><sup class="noteMarker"><a href="#footnote37-10711_000_041">37</a></sup> Remember: sin, even if legalized by man, is still sin in the eyes of God!</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p30" class="">While we are to emulate our Savior&rsquo;s kindness and compassion, while we are to value the rights and feelings of all of God&rsquo;s children, we cannot change His doctrine. It is not ours to change. His doctrine is ours to study, understand, and uphold.</p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p31" class="">The Savior&rsquo;s way of life is good. His way includes chastity before marriage and total fidelity within marriage.<sup class="noteMarker"><a href="#footnote38-10711_000_041">38</a></sup> The Lord&rsquo;s way is the only way for us to experience enduring happiness. His way brings sustained comfort to our souls and perennial peace to our homes. And best of all, His way leads us home to Him and our Heavenly Father, to eternal life and exaltation.<sup class="noteMarker"><a href="#footnote39-10711_000_041">39</a></sup> This is the very essence of God&rsquo;s work and glory.<sup class="noteMarker"><a href="#footnote40-10711_000_041">40</a></sup></p>
+					<p uri="/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity.p32" class="">My dear brothers and sisters, each day is a day of decision, and our decisions determine our destiny. One day each of us will stand before the Lord in judgment.<sup class="noteMarker"><a href="#footnote41-10711_000_041">41</a></sup> We will each have a personal interview with Jesus Christ.<sup class="noteMarker"><a href="#footnote42-10711_000_041">42</a></sup> We will account for decisions that we made about our bodies, our spiritual attributes, and how we honored God&rsquo;s pattern for marriage and family. That we may choose wisely each day&rsquo;s decisions for eternity is my earnest prayer in the sacred name of Jesus Christ, amen.</p>
+				</div>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol><h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="1-10711_000_041"><a name="1-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote1-10711_000_041">1.</a></span>
+					<p>Thomas&nbsp;S. Monson, &ldquo;Decisions Determine Destiny&rdquo; (Church Educational System fireside, Nov.&nbsp;6, 2005), 3; <a href="http://www.speeches.byu.edu">speeches.byu.edu</a>.</p>
+				</li>
+				<li class="footnote " id="2-10711_000_041"><a name="2-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote2-10711_000_041">2.</a></span>
+					<p>The concept of eternal progression was captured well by W.&nbsp;W. Phelps in his text to the hymn &ldquo;If You Could Hie to Kolob&rdquo; (<span class="emphasis">Hymns,</span> no. 284). Verse 4 reads: &ldquo;There is no end to virtue; / There is no end to might; / There is no end to wisdom; / There is no end to light. / There is no end to union; / There is no end to youth; / There is no end to priesthood; / There is no end to truth.&rdquo; Verse 5 concludes: &ldquo;There is no end to glory; / There is no end to love; / There is no end to being; / There is no death above.&rdquo;</p>
+				</li>
+				<li class="footnote " id="3-10711_000_041"><a name="3-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote3-10711_000_041">3.</a></span>
+					<p><a href="http://www.lds.org/scriptures/ot/gen/1.27?lang=eng#26" onclick="newWindow(this.href); return false;">Genesis 1:27</a>; see also <a href="http://www.lds.org/scriptures/nt/col/3.10?lang=eng#9" onclick="newWindow(this.href); return false;">Colossians 3:10</a>; <a href="http://www.lds.org/scriptures/bofm/alma/18.34?lang=eng#33" onclick="newWindow(this.href); return false;">Alma 18:34</a>; <a href="http://www.lds.org/scriptures/bofm/ether/3.15?lang=eng#14" onclick="newWindow(this.href); return false;">Ether 3:15</a>; <a href="http://www.lds.org/scriptures/pgp/moses/6.9?lang=eng#8" onclick="newWindow(this.href); return false;">Moses 6:9</a>.</p>
+				</li>
+				<li class="footnote " id="4-10711_000_041"><a name="4-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote4-10711_000_041">4.</a></span>
+					<p>&ldquo;I Am a Child of God,&rdquo; <span class="emphasis">Hymns,</span> no. 301.</p>
+				</li>
+				<li class="footnote " id="5-10711_000_041"><a name="5-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote5-10711_000_041">5.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/matt/10.37?lang=eng#36" onclick="newWindow(this.href); return false;">Matthew 10:37</a>.</p>
+				</li>
+				<li class="footnote " id="6-10711_000_041"><a name="6-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote6-10711_000_041">6.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/mark/12.30-31?lang=eng#29" onclick="newWindow(this.href); return false;">Mark 12:30&ndash;31</a>.</p>
+				</li>
+				<li class="footnote " id="7-10711_000_041"><a name="7-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote7-10711_000_041">7.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/dc-testament/dc/88.15?lang=eng#14" onclick="newWindow(this.href); return false;">Doctrine and Covenants 88:15</a>.</p>
+				</li>
+				<li class="footnote " id="8-10711_000_041"><a name="8-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote8-10711_000_041">8.</a></span>
+					<p>Other God-given mechanisms are also at work in your body. Elements like sodium, potassium, and calcium and compounds like water, glucose, and proteins are essential for survival. The body deals with gases like oxygen and carbon dioxide. It makes hormones like insulin, adrenalin, and thyroxin. Levels of each of these and many other constituents in the body are auto-regulated within certain bounds. Servo-regulatory relationships exist between glands of the body. For example, the pituitary gland at the base of the brain emits a hormone to stimulate the cortex of the adrenal glands to produce adrenal cortical hormones. Rising levels of cortical hormones in turn suppress the pituitary&rsquo;s output of the stimulating hormone and vice versa. Your body temperature is maintained at a normal range of 98.6?F (or 37?C), whether you&rsquo;re at the equator or at the North Pole.</p>
+				</li>
+				<li class="footnote " id="9-10711_000_041"><a name="9-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote9-10711_000_041">9.</a></span>
+					<p>Some conditions are easily evident; others are latent. Some are familial; others are not. Some people are predisposed to cancer, others have allergies, and so on. Each of us can be alert to his or her own area of weakness and humbly learn what the Lord would teach, that the weakness may become a strength.</p>
+				</li>
+				<li class="footnote " id="10-10711_000_041"><a name="10-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote10-10711_000_041">10.</a></span>
+					<p><a href="http://www.lds.org/scriptures/bofm/ether/12.27?lang=eng#26" onclick="newWindow(this.href); return false;">Ether 12:27</a>.</p>
+				</li>
+				<li class="footnote " id="11-10711_000_041"><a name="11-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote11-10711_000_041">11.</a></span>
+					<p>Some conditions won&rsquo;t be fully corrected until the Resurrection, when &ldquo;all things shall be restored to their proper and perfect frame&rdquo; (<a href="http://www.lds.org/scriptures/bofm/alma/40.23?lang=eng#22" onclick="newWindow(this.href); return false;">Alma 40:23</a>).</p>
+				</li>
+				<li class="footnote " id="12-10711_000_041"><a name="12-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote12-10711_000_041">12.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/alma/42.8?lang=eng#7" onclick="newWindow(this.href); return false;">Alma 42:8</a>.</p>
+				</li>
+				<li class="footnote " id="13-10711_000_041"><a name="13-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote13-10711_000_041">13.</a></span>
+					<p>The Psalmist wrote, &ldquo;Precious in the sight of the Lord is the death of his saints&rdquo; (<a href="http://www.lds.org/scriptures/ot/ps/116.15?lang=eng#14" onclick="newWindow(this.href); return false;">Psalm 116:15</a>). Death is precious because it is a &ldquo;homecoming&rdquo; for the Saint with the Lord.</p>
+				</li>
+				<li class="footnote " id="14-10711_000_041"><a name="14-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote14-10711_000_041">14.</a></span>
+					<p><a href="http://www.lds.org/scriptures/nt/1-cor/3.16?lang=eng#15" onclick="newWindow(this.href); return false;">1&nbsp;Corinthians 3:16</a>; see also <a href="http://www.lds.org/scriptures/nt/1-cor/6.19?lang=eng#18" onclick="newWindow(this.href); return false;">6:19</a>.</p>
+				</li>
+				<li class="footnote " id="15-10711_000_041"><a name="15-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote15-10711_000_041">15.</a></span>
+					<p><a href="http://www.lds.org/scriptures/pgp/abr/3.23?lang=eng#22" onclick="newWindow(this.href); return false;">Abraham 3:23</a>.</p>
+				</li>
+				<li class="footnote " id="16-10711_000_041"><a name="16-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote16-10711_000_041">16.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/ot/jer/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">Jeremiah 1:5</a>.</p>
+				</li>
+				<li class="footnote " id="17-10711_000_041"><a name="17-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote17-10711_000_041">17.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/alma/13.2-3?lang=eng#1" onclick="newWindow(this.href); return false;">Alma 13:2&ndash;3</a>.</p>
+				</li>
+				<li class="footnote " id="18-10711_000_041"><a name="18-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote18-10711_000_041">18.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/dc-testament/dc/138.55-56?lang=eng#54" onclick="newWindow(this.href); return false;">Doctrine and Covenants 138:55&ndash;56</a>.</p>
+				</li>
+				<li class="footnote " id="19-10711_000_041"><a name="19-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote19-10711_000_041">19.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/alma/13.2-3?lang=eng#1" onclick="newWindow(this.href); return false;">Alma 13:2&ndash;3</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/138.38-57?lang=eng#37" onclick="newWindow(this.href); return false;">Doctrine and Covenants 138:38&ndash;57</a>.</p>
+				</li>
+				<li class="footnote " id="20-10711_000_041"><a name="20-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote20-10711_000_041">20.</a></span>
+					<p>Attributes of &ldquo;faith, virtue, knowledge, temperance, patience, brotherly kindness, godliness, charity, humility, [and] diligence&rdquo; (<a href="http://www.lds.org/scriptures/dc-testament/dc/4.6?lang=eng#5" onclick="newWindow(this.href); return false;">Doctrine and Covenants 4:6</a>) are among the spiritual gifts we can develop and be given. Gratitude is another spiritual attribute that can be developed. Gratitude shapes mood and productivity. And when you have &ldquo;spiritually been born of God,&rdquo; you may gratefully receive His image in your countenance (see <a href="http://www.lds.org/scriptures/bofm/alma/5.14?lang=eng#13" onclick="newWindow(this.href); return false;">Alma 5:14</a>).</p>
+				</li>
+				<li class="footnote " id="21-10711_000_041"><a name="21-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote21-10711_000_041">21.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/1-cor/12?lang=eng" onclick="newWindow(this.href); return false;">1&nbsp;Corinthians 12</a>; <a href="http://www.lds.org/scriptures/nt/1-cor/14.1-12?lang=eng#0" onclick="newWindow(this.href); return false;">14:1&ndash;12</a>; <a href="http://www.lds.org/scriptures/bofm/moro/10.8-19?lang=eng#7" onclick="newWindow(this.href); return false;">Moroni 10:8&ndash;19</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/46.10-29?lang=eng#9" onclick="newWindow(this.href); return false;">Doctrine and Covenants 46:10&ndash;29</a>.</p>
+				</li>
+				<li class="footnote " id="22-10711_000_041"><a name="22-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote22-10711_000_041">22.</a></span>
+					<p>Some are tempted to eat too much. &ldquo;Obesity has reached epidemic proportions globally, with at least 2.8 million people dying each year as a result of being overweight&rdquo; (&ldquo;10 Facts on Obesity,&rdquo; World Health Organization, Mar. 2013, www.who.int/features/factfiles/obesity/en). Others are tempted to eat too little. Anorexia and bulimia devastate many lives, marriages, and families. And some are tempted by sexual appetites forbidden by our Creator. Clarification is found in <span class="emphasis">Handbook 2: Administering the Church,</span> which states: &ldquo;The Lord&rsquo;s law of chastity is abstinence from sexual relations outside of lawful marriage and fidelity within marriage. &hellip; Adultery, fornication, homosexual or lesbian relations, and every other unholy, unnatural, or impure practice are sinful.&rdquo; Still quoting from the handbook: &ldquo;Homosexual behavior violates the commandments of God, is contrary to the purposes of human sexuality, and deprives people of the blessings that can be found in family life and in the saving ordinances of the gospel. &hellip; While opposing homosexual behavior, the Church reaches out with understanding and respect to individuals who are attracted to those of the same gender&rdquo; ([2010], 21.4.5; 21.4.6).</p>
+				</li>
+				<li class="footnote " id="23-10711_000_041"><a name="23-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote23-10711_000_041">23.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/1-cor/6.9-20?lang=eng#8" onclick="newWindow(this.href); return false;">1&nbsp;Corinthians 6:9&ndash;20</a>; <a href="http://www.lds.org/scriptures/nt/james/1.25-27?lang=eng#24" onclick="newWindow(this.href); return false;">James 1:25&ndash;27</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/130.20-21?lang=eng#19" onclick="newWindow(this.href); return false;">Doctrine and Covenants 130:20&ndash;21</a>. And we should always remember that &ldquo;men are, that they might have joy&rdquo; (<a href="http://www.lds.org/scriptures/bofm/2-ne/2.25?lang=eng#24" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:25</a>).</p>
+				</li>
+				<li class="footnote " id="24-10711_000_041"><a name="24-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote24-10711_000_041">24.</a></span>
+					<p>Mortality is a period of testing, as explained in scripture: &ldquo;We will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them&rdquo; (<a href="http://www.lds.org/scriptures/pgp/abr/3.25?lang=eng#24" onclick="newWindow(this.href); return false;">Abraham 3:25</a>).</p>
+				</li>
+				<li class="footnote " id="25-10711_000_041"><a name="25-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote25-10711_000_041">25.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/mosiah/4.10?lang=eng#9" onclick="newWindow(this.href); return false;">Mosiah 4:10</a>; <a href="http://www.lds.org/scriptures/bofm/alma/39.9?lang=eng#8" onclick="newWindow(this.href); return false;">Alma 39:9</a>; <a href="http://www.lds.org/scriptures/bofm/hel/15.7?lang=eng#6" onclick="newWindow(this.href); return false;">Helaman 15:7</a>. <span class="emphasis">Handbook 2</span> includes this message: &ldquo;Homosexual behavior can be forgiven through sincere repentance&rdquo; (21.4.6).</p>
+				</li>
+				<li class="footnote " id="26-10711_000_041"><a name="26-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote26-10711_000_041">26.</a></span>
+					<p>Through the Atonement of Jesus Christ and by obedience to the principles of the gospel, all mankind may be saved (see <a href="http://www.lds.org/scriptures/dc-testament/dc/138.4?lang=eng#3" onclick="newWindow(this.href); return false;">Doctrine and Covenants 138:4</a>; <a href="http://www.lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2" onclick="newWindow(this.href); return false;">Articles of Faith 1:3</a>).</p>
+				</li>
+				<li class="footnote " id="27-10711_000_041"><a name="27-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote27-10711_000_041">27.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/ether/12.33-34?lang=eng#32" onclick="newWindow(this.href); return false;">Ether 12:33&ndash;34</a>; <a href="http://www.lds.org/scriptures/bofm/moro/8.17?lang=eng#16" onclick="newWindow(this.href); return false;">Moroni 8:17</a>.</p>
+				</li>
+				<li class="footnote " id="28-10711_000_041"><a name="28-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote28-10711_000_041">28.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/mosiah/5.2?lang=eng#1" onclick="newWindow(this.href); return false;">Mosiah 5:2</a>; <a href="http://www.lds.org/scriptures/bofm/alma/5.12-14?lang=eng#11" onclick="newWindow(this.href); return false;">Alma 5:12&ndash;14</a>.</p>
+				</li>
+				<li class="footnote " id="29-10711_000_041"><a name="29-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote29-10711_000_041">29.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/rom/8.13-17?lang=eng#12" onclick="newWindow(this.href); return false;">Romans 8:13&ndash;17</a>; <a href="http://www.lds.org/scriptures/nt/gal/5.13-25?lang=eng#12" onclick="newWindow(this.href); return false;">Galatians 5:13&ndash;25</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/88.86?lang=eng#85" onclick="newWindow(this.href); return false;">Doctrine and Covenants 88:86</a>.</p>
+				</li>
+				<li class="footnote " id="30-10711_000_041"><a name="30-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote30-10711_000_041">30.</a></span>
+					<p><a href="http://www.lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 2:27</a>.</p>
+				</li>
+				<li class="footnote " id="31-10711_000_041"><a name="31-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote31-10711_000_041">31.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/dc-testament/dc/131.1-4?lang=eng#0" onclick="newWindow(this.href); return false;">Doctrine and Covenants 131:1&ndash;4</a>.</p>
+				</li>
+				<li class="footnote " id="32-10711_000_041"><a name="32-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote32-10711_000_041">32.</a></span>
+					<p>&ldquo;The Family: A Proclamation to the World,&rdquo; <span class="emphasis">Ensign</span> or <span class="emphasis">Liahona,</span> Nov. 2010, 129.</p>
+				</li>
+				<li class="footnote " id="33-10711_000_041"><a name="33-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote33-10711_000_041">33.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/nt/matt/19.4-6?lang=eng#3" onclick="newWindow(this.href); return false;">Matthew 19:4&ndash;6</a>; <a href="http://www.lds.org/scriptures/bofm/mosiah/29.26-27?lang=eng#25" onclick="newWindow(this.href); return false;">Mosiah 29:26&ndash;27</a>; <a href="http://www.lds.org/scriptures/bofm/hel/5.2?lang=eng#1" onclick="newWindow(this.href); return false;">Helaman 5:2</a>.</p>
+				</li>
+				<li class="footnote " id="34-10711_000_041"><a name="34-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote34-10711_000_041">34.</a></span>
+					<p>Each person is born with unique identity, chromosomes, and DNA (deoxyribonucleic acid). DNA is a molecule that encodes genetic instructions used in the development and function of living cells. Each person&rsquo;s DNA is created when the DNA from a father and a mother combine to create the DNA of a new body&mdash;a partnership between father, mother, and child.</p>
+				</li>
+				<li class="footnote " id="35-10711_000_041"><a name="35-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote35-10711_000_041">35.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/ot/gen/2.24-25?lang=eng#23" onclick="newWindow(this.href); return false;">Genesis 2:24&ndash;25</a>; <a href="http://www.lds.org/scriptures/ot/gen/3.20-21?lang=eng#19" onclick="newWindow(this.href); return false;">3:20&ndash;21</a>; <a href="http://www.lds.org/scriptures/ot/gen/4.1-2,25?lang=eng#0" onclick="newWindow(this.href); return false;">4:1&ndash;2, 25</a>.</p>
+				</li>
+				<li class="footnote " id="36-10711_000_041"><a name="36-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote36-10711_000_041">36.</a></span>
+					<p>Dr. Patrick&nbsp;F. Fagan wrote: &ldquo;The indispensable building block upon which the fortunes of the economy depends [is] the married-parent household&mdash;especially the child-rich family that worships weekly. &hellip; Every marriage creates a new household, an independent economic unit that generates income, spends, saves, and invests&rdquo; (&ldquo;The Family GDP: How Marriage and Fertility Drive the Economy,&rdquo; <span class="emphasis">The Family in America,</span> vol. 24, no. 2 [Spring 2010], 136).</p>
+				</li>
+				<li class="footnote " id="37-10711_000_041"><a name="37-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote37-10711_000_041">37.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/ot/ex/20.14?lang=eng#13" onclick="newWindow(this.href); return false;">Exodus 20:14</a>; <a href="http://www.lds.org/scriptures/ot/lev/18.22?lang=eng#21" onclick="newWindow(this.href); return false;">Leviticus 18:22</a>; <a href="http://www.lds.org/scriptures/ot/lev/20.13?lang=eng#12" onclick="newWindow(this.href); return false;">20:13</a>; <a href="http://www.lds.org/scriptures/ot/deut/5.18?lang=eng#17" onclick="newWindow(this.href); return false;">Deuteronomy 5:18</a>; <a href="http://www.lds.org/scriptures/nt/matt/5.27-28?lang=eng#26" onclick="newWindow(this.href); return false;">Matthew 5:27&ndash;28</a>; <a href="http://www.lds.org/scriptures/nt/mark/10.19?lang=eng#18" onclick="newWindow(this.href); return false;">Mark 10:19</a>; <a href="http://www.lds.org/scriptures/nt/luke/18.20?lang=eng#19" onclick="newWindow(this.href); return false;">Luke 18:20</a>; <a href="http://www.lds.org/scriptures/nt/rom/1.26-27?lang=eng#25" onclick="newWindow(this.href); return false;">Romans 1:26&ndash;27</a>; <a href="http://www.lds.org/scriptures/nt/rom/13.9?lang=eng#8" onclick="newWindow(this.href); return false;">13:9</a>; <a href="http://www.lds.org/scriptures/bofm/mosiah/13.22?lang=eng#21" onclick="newWindow(this.href); return false;">Mosiah 13:22</a>; <a href="http://www.lds.org/scriptures/bofm/3-ne/12.27-28?lang=eng#26" onclick="newWindow(this.href); return false;">3&nbsp;Nephi 12:27&ndash;28</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/42.24?lang=eng#23" onclick="newWindow(this.href); return false;">Doctrine and Covenants 42:24</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/59.6?lang=eng#5" onclick="newWindow(this.href); return false;">59:6</a>.</p>
+				</li>
+				<li class="footnote " id="38-10711_000_041"><a name="38-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote38-10711_000_041">38.</a></span>
+					<p>See Gordon&nbsp;B. Hinckley, <span class="crossRef"><no-search id="96911_000_020"></no-search>&ldquo;This Thing Was Not Done in a Corner,&rdquo;</span><span class="emphasis"> Ensign,</span> Nov. 1996, 49.</p>
+				</li>
+				<li class="footnote " id="39-10711_000_041"><a name="39-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote39-10711_000_041">39.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/dc-testament/dc/14.7?lang=eng#6" onclick="newWindow(this.href); return false;">Doctrine and Covenants 14:7</a>.</p>
+				</li>
+				<li class="footnote " id="40-10711_000_041"><a name="40-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote40-10711_000_041">40.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/pgp/moses/1.39?lang=eng#38" onclick="newWindow(this.href); return false;">Moses 1:39</a>.</p>
+				</li>
+				<li class="footnote " id="41-10711_000_041"><a name="41-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote41-10711_000_041">41.</a></span>
+					<p>See <a href="http://www.lds.org/scriptures/bofm/2-ne/9.41,46?lang=eng#40" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 9:41, 46</a>; <a href="http://www.lds.org/scriptures/bofm/mosiah/16.10?lang=eng#9" onclick="newWindow(this.href); return false;">Mosiah 16:10</a>.</p>
+				</li>
+				<li class="footnote " id="42-10711_000_041"><a name="42-10711_000_041">&nbsp;</a>
+					<span class="label"><a name="footnote42-10711_000_041">42.</a></span>
+					<p>We will be judged according to our deeds and the desire of our hearts (see <a href="http://www.lds.org/scriptures/dc-testament/dc/137.9?lang=eng#8" onclick="newWindow(this.href); return false;">Doctrine and Covenants 137:9</a>; see also <a href="http://www.lds.org/scriptures/nt/heb/4.12?lang=eng#11" onclick="newWindow(this.href); return false;">Hebrews 4:12</a>; <a href="http://www.lds.org/scriptures/bofm/alma/18.32?lang=eng#31" onclick="newWindow(this.href); return false;">Alma 18:32</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/6.16?lang=eng#15" onclick="newWindow(this.href); return false;">Doctrine and Covenants 6:16</a>; <a href="http://www.lds.org/scriptures/dc-testament/dc/88.109?lang=eng#108" onclick="newWindow(this.href); return false;">88:109</a>).</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://www.lds.org/ensign/2013/11/sunday-afternoon-session/drawing-closer-to-god?lang=eng">Previous</a></li><li class="next"><a href="http://www.lds.org/ensign/2013/11/sunday-afternoon-session/till-we-meet-again?lang=eng">Next</a></li></ul>
+                            
+                        </div><!-- end #primary -->
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://www.lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2013">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="//edge.ldscdn.org/ml/ldsorg/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#listen=audio">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2013/11/sunday-afternoon-session/decisions-for-eternity?lang=eng&amp;clang=eng" title="Print Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-35-decisions-for-eternity-eng.pdf">PDF</a></li><li><a href="http://media.ldscdn.org/pdf/magazines/ensign-november-2013/2013-11-00-ensign-eng.pdf"></a></li><li><a href="http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-35-decisions-for-eternity-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://www.lds.org/secure/email?lang=eng&amp;title=Decisions+for+Eternity+-+Ensign+Nov.+2013&amp;link=/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Fwww.lds.org%2Fensign%2F2013%2F11%2Fsunday-afternoon-session%2Fdecisions-for-eternity%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//www.lds.org/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity%3flang%3deng%26cid%3dfacebook-shared&amp;t=Decisions+for+Eternity+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//www.lds.org/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity%3flang%3deng%26cid%3ddelicious-shared&amp;title=Decisions+for+Eternity+-+Ensign+Nov.+2013" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//www.lds.org/ensign/2013/11/sunday-afternoon-session/decisions-for-eternity%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://www.lds.org/tools/feedback?lang=eng&amp;note=Decisions for Eternity - Ensign Nov. 2013&amp;id=11340">Do You Have Feedback on This Page?<img src="//edge.ldscdn.org/ml/ldsorg/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        <footer class="pf-footer"><ul><li><a href="//www.lds.org/languages?lang=eng" class="pf-prefix pf-icon-globe">English</a></li><li><a href="//www.lds.org/church/employment?lang=eng">Church Employment</a></li><li><a href="//www.lds.org/help?lang=eng">Help</a></li><li class="pf-feedback"><a href="//www.lds.org/tools/feedback?lang=eng&amp;id=11340">Feedback for this page</a></li></ul><p><a href="//www.lds.org/legal/terms?lang=eng">Rights and Use Information  (Updated 2/21/2012)</a><a href="//www.lds.org/legal/privacy?lang=eng">Privacy Policy (Updated 2/1/2012)</a><br>&copy; 2013 by Intellectual Reserve, Inc. All rights reserved.</p></footer><script type="text/javascript">
+                    if (typeof(s) == 'undefined') {
+                        var s = {};
+                    }
+                    if (typeof(Platform) == 'undefined') {
+                        var Platform = {};
+                    }
+                    Platform.domain = 'www.lds.org';
+                    Platform.signouturl = '';
+                    Platform.signin = 'signmein';
+                    Platform.signout = 'signmeout';
+                    Platform.host = '//www.lds.org';
+                    Platform.lang = 'eng';
+                    Platform.cdnPath = '//edge.ldscdn.org';
+                    try {
+                        jQuery(document).ready(function() {
+                            jQuery('.pf-feedback > a').attr('href', jQuery('.pf-feedback > a').attr('href') + '&note=' + ((typeof(s) == 'object') ? encodeURI(s.pageName) : ''));
+                        });
+                    } catch (e) { }
+						</script><script src="//edge.ldscdn.org/ml/platform/scripts/platform.js">&nbsp;</script><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2013:11:decisions for eternity";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+        /* Give each page an identifying name and channel on the next lines. */
+            s.pageName = pageName;
+            s.channel = channel;
+            s.prop35 = locale;
+            if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                s.eVar53=searchType;
+                s.eVar56=searchResults;
+                s.events="event36";
+            }
+            try {
+                s.prop3 = searchText;
+            } catch (e) { }
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        </div><!-- end #platform -->
+        
+        <!-- only scripts below --><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/content.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/article.js">&nbsp;</script><script type="text/javascript">
+        $(function() {
+            var mediaList = {
+                "audio": {
+                    "type":"audio",
+                    "audioSrc":"http://media2.ldscdn.org/assets/magazines/ensign-november-2013/2013-11-35-decisions-for-eternity-64k-eng.mp3",
+                    "autoplay":"true"
+                },
+                "video": {
+                    "type":"bc",
+                    "params": {
+                        "@videoPlayer":"",
+                        "playerID":"",
+                        "playerKey":"AQ%2E%2E,AAAAD5C7cik%2E,NkEKrBzbuXJBcGJrgsDFjLEiJ-nXhUBl",
+                        "autoStart":"true"
+                    }
+                }
+            };
+            // load needed scripts via yepnope so they aren't blocking
+            yepnope({
+                load: [
+                    "//edge.ldscdn.org/ml/ldsorg/ver/scripts/medialoader/lds.mediaLoader1.2.10.min.js",
+                    "//edge.ldscdn.org/scripts/other/handlebars/handlebars1.0.0.beta.3.min.js"
+                ],
+                complete:function(){
+                    // setup the plugin for audio
+                    $('#audio-player').mediaLoader({
+                        template:"#media-template-audio",
+                        mediaList:mediaList,
+                        hashLabel:'listen',
+                        audioCss:"//edge.ldscdn.org/ml/ldsorg/css/common/audio.css",
+                        audioJs:"//edge.ldscdn.org/scripts/jquery/plugins/jplayer/2.1.0/jplayer.min.js"
+                    });
+                    // setup plugin for video
+                    $('#video-player').mediaLoader({
+                        template:"#media-template-video",
+                        mediaList:mediaList,
+                        hashLabel:'watch',
+                        playerOptions : {
+                            "wmode":"transparent",
+                            "isVid":"true",
+                            "isUI":"true",
+                            "dynamicStreaming":"true",
+                            "bgcolor":"#fff",
+                            "width":470,
+                            "height":264
+                        },
+                        onopen:function(event, self){
+                            if(self.curMedia.type != "audio"){
+                                //get down below fixed navigation bar, but only if we need to
+                                var targetTop = self.element.offset().top-65;
+                                if($(window).scrollTop() > targetTop) {
+                                    window.scrollTo(0,targetTop);
+                                }
+                                if(self.curMedia.type != "image"){
+                                    $(".media-placeholder",self.element).css("min-height",self.options.playerOptions.height);
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script><script id="media-template-audio" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div id="lds-player-interface" class="lds-player simple">
+            <ul class="jp-controls">
+                <li><a href="#" class="jp-previous iconfont previous"></a></li>
+                <li><a href="#" class="jp-play iconfont play"></a></li>
+                <li><a href="#" class="jp-pause iconfont pause"></a></li>
+                <li><a href="#" class="jp-next iconfont next"></a></li>
+            </ul>
+            <div class="jp-title">
+                <h3></h3>
+                <h4></h4>
+            </div>
+            <div class="jp-time-holder">
+                <div class="jp-time-wrapper">
+                    <div class="jp-current-time">00:00</div>
+                    <div class="jp-progress">
+                        <div class="jp-seek-bar">
+                            <div class="jp-play-bar"></div>
+                        </div>
+                    </div>
+                    <div class="jp-duration">00:00</div>
+                </div>
+            </div>
+            <ul class="jp-toggles">
+                <li><a href="#" class="jp-shuffle iconfont shuffle" id="shuffle"></a></li>
+                <li class="jp-volume">
+                    <a href="#" class="jp-mute iconfont mute"></a>
+                    <a href="#" class="jp-unmute iconfont unmute"></a>
+                    <div class="jp-volume-bar-holder">
+                        <div class="jp-volume-bar-bg">
+                            <div class="jp-volume-bar">
+                                <div class="jp-volume-bar-value"></div>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script id="media-template-video" type="text/x-handlebars-template">
+        <div class="media-placeholder"></div>
+        <div>
+            <a href="#d" class="close-player">Close</a>
+        </div>
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/context-bar.js">&nbsp;</script><script type="text/javascript" src="//edge.ldscdn.org/ml/ldsorg/script/common/imageResize.js">&nbsp;</script><script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script><script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+        <script src="//edge.ldscdn.org/ml/ldsorg/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><script src="//edge.ldscdn.org/ml/ldsorg/notebook/20130501/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            // All resources in bundle studytools
+            if (DATA) {
+                DATA.addResources(
+                    {
+                        'openNotebook' : 'Open Notebook','journal' : 'Journal','separateWithCommas' : 'Separate with commas','share' : 'Share','addTo' : 'Add to:','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','saveButtonText' : 'Save','serviceUnavailable' : 'My Study Tools are currently unavailable.','maintenance' : 'The Study Notebook is currently undergoing maintenance','printWithoutNotes' : 'Without notes','printButtonText' : 'Print','printSelectedNote' : 'Print selected note','signIn' : 'Sign in','includeDetails' : 'Include details','undelete' : 'Undelete','highlights' : 'Highlights','nameMaxLengthError' : 'Max length for name is 200 characters','confirmDeleteBookmark' : 'Remove bookmark?','printEntireNotebook' : 'Print entire notebook','editBookmark' : 'Edit Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','drag' : 'Drag','edit' : 'Edit','highlight' : 'Highlight','bookmarks' : 'Bookmarks','name' : 'Name','collections' : 'notebooks','includeJournalEntries' : 'Include journal entries','signInMessage' : '\ to bookmark pages, highlight text, and write notes.','addNewCollection' : 'Add new notebook:','delete' : 'Delete','fromLabel' : 'From:','deleteCollection' : 'Delete notebook','includeHighlights' : 'Include highlights','journalEntry' : 'Journal entry','includeJournals' : 'Include journal entries','noCollections' : 'none','clearSearch' : 'Clear Search','areYouSure' : 'Are you sure?','bookmarkTitle' : 'Bookmark page','search' : 'Search','addNote' : 'add note','fileType' : 'File Type','reference' : 'Reference','okay' : 'Okay','saving' : 'Saving','noteMaxLengthError' : 'Max length for note is 4000 characters','studyMode' : 'Study Mode','printCollectionDetails' : 'Print the contents of this notebook.','unassignedFolder' : 'Unassigned Items','journalEntryRequiredError' : 'Journal entry required','modified' : 'Modified','editHighlight' : 'Edit highlight','copyHighlight' : 'Copy Highlight','backupXML' : 'Backup (XML)','addCollection' : 'Add notebook','collectionNameTooLongError' : 'Max length is 200','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','editAnnotation' : 'Edit tags and notes','download' : 'Download','links' : 'Links','close' : 'close','note' : 'Note','inLabel' : 'In','bookmark' : 'Bookmark','trash' : 'Trash','journalEntries' : 'Journal Entries','cancelButton' : 'Cancel','generalConference' : 'General Conference','collectionNameEmptyError' : 'Enter a notebooks name','searchResults' : 'Search Results','rename' : 'Rename','advancedSearch' : 'Advanced Search','deleting' : 'Deleting','printCollection' : 'Print Notebook','print' : 'Print','add' : 'Add','emptyTrash' : 'Empty','references' : 'Links','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','someonesStudyNotebook' : '\'s Study Notebook','deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','studyNotebook' : 'Notes and Journal','tagsMaxLengthError' : 'Max length for tags is 4000 characters','signInAgain' : 'Please sign in again.','today' : 'Today','addJournalEntry' : 'add journal entry','source' : 'Source','emptyJournalError' : 'Cannot save without journal entry.','addCollectionInput' : 'add notebook','error' : 'Error','restore' : 'Restore','confirmDeleteHighlight' : 'Really delete?','optional' : 'optional','taggedWith' : 'Tagged with','type' : 'Type','includeBookmarks' : 'Include bookmarks','toLabel' : 'To:','downloadNotebook' : 'Download notebook','addTags' : 'add tags','addNewCollectionTitle' : 'Add new notebook','showAll' : 'show all','yesterday' : 'Yesterday','allItems' : 'All Items','addBookmark' : 'Add Bookmark','renameCollection' : 'Rename notebook','tags' : 'Tags','loadMore' : 'load more','journalTitle' : 'Add journal entry','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','notebooks' : 'Notebooks','help' : 'Help','printWithNotes' : 'With notes','introTitle' : 'Save to your Study Notebook','loading' : 'loading','addJournalEntryButton' : 'Add journal entry','collectionListTitle' : 'Notebooks','shareTitle' : 'Share Page','save' : 'Save'
+                    }
+                );
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,542 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Becoming the Pure in Heart - Ensign May 1978 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Becoming the Pure in Heart - Ensign May 1978"><meta name="KEYWORDS" content="sacrifice,welfare,Zion"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Becoming the Pure in Heart - Ensign May 1978"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1978/05/becoming-the-pure-in-heart?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1978/05/becoming-the-pure-in-heart?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1978/05/becoming-the-pure-in-heart?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1978/05/becoming-the-pure-in-heart?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1978/05?lang=eng">May 1978</a>
+                     </li><li>
+                        <span class="active">Becoming the Pure in Heart</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1978/05/listen-to-the-prophets?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1978/05/the-storehouse-resource-system?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Becoming the Pure in Heart
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p3" class="">President Spencer W. Kimball</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/spencer-w-kimball?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg" alt="Spencer W. Kimball" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <h2>Becoming the Pure in Heart</h2>
+                            <span style="display: none" id="article-id">03096_000_039</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:3102.jpg" alt="President Spencer W. Kimball">
+			</div>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p4" class="">My dear brothers and sisters, what a beautiful sight you are! The radiance of your faces and the beauties of nature on this Temple Square make my heart swell with thanksgiving for the blessings of the Lord. As we meet together in conference, I hope the spirit of <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> permeates all we do and say, for truly the Lord delights to bless those who love and serve him. (See <a href="http://lds.org/scriptures/dc-testament/dc/76.5?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 76:5</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p5" class="">With the help of the Lord, I should like to remind us of several truths and obligations that should never be forgotten by us as leaders and as a people. Following these reminders, I should like to talk about the building of Zion through sacrifice and consecration.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p6" class="">First, may I remind bishops of the vital need to provide recipients of welfare assistance with the opportunity for work or service that thereby they may maintain their dignity and independence and continue to enjoy the Holy Spirit as they benefit from Church Welfare Services self-help efforts. We cannot be too often reminded that Church welfare assistance is spiritual at heart and that these spiritual roots would wither if we ever permitted anything like the philosophy of the dole to enter into our Welfare Services ministrations. Everyone assisted can do something. Let us follow the order of the Church in this regard and insure that all who receive give of themselves in return.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p7" class="">May we be on guard against accepting worldly substitutes for the plan to care for his poor in this, the Lord&rsquo;s own way. As we hear talk of governmental welfare reforms and its myriads of problems, let us remember the covenants we have made to bear one another&rsquo;s burdens and to succor each according to his need. President Romney, our dean of Welfare Services, gave good counsel when several years ago he made this statement:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p8" class="">&ldquo;In this modern world plagued with counterfeits for the Lord&rsquo;s plan, we must not be misled into supposing that we can discharge our obligations to the poor and the needy by shifting the responsibility to some governmental or other public agency. Only by voluntarily giving out of an abundant love for our neighbors can we develop that charity characterized by Mormon as &lsquo;the pure love of <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>.&rsquo; (<a href="http://lds.org/scriptures/bofm/moro/7.47?lang=eng#46" onclick="newWindow(this.href); return false;">Moro. 7:47</a>.) This we must develop if we would obtain eternal life.&rdquo; (<span class="emphasis">Conference Report,</span> Oct. 1972, p. 115.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p9" class="">No &ldquo;ism&rdquo; should confuse our thinking in these matters. As a reminder of Church policy regarding individuals receiving government or other forms of charity, may I emphasize the following declaration of principle:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p10" class="">&ldquo;The responsibility for each member&rsquo;s spiritual, social, emotional, physical, or economic well-being rests first upon himself, second, upon his <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>, and third, upon the Church. Members of the Church are commanded by the Lord to be self-reliant and independent to the extent of their ability. (See <a href="http://lds.org/scriptures/dc-testament/dc/78.13-14?lang=eng#12" onclick="newWindow(this.href); return false;">D&amp;C 78:13&ndash;14</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p11" class="">&ldquo;No true Latter-day Saint, while physically or emotionally able, will voluntarily shift the burden of his own or his family&rsquo;s well-being to someone else. So long as he can, under the inspiration of the Lord and with his own labors, he will work to the extent of his ability to supply himself and his family with the spiritual and temporal necessities of life. (See <a href="http://lds.org/scriptures/ot/gen/3.19?lang=eng#18" onclick="newWindow(this.href); return false;">Gen. 3:19</a>; <a href="http://lds.org/scriptures/nt/1-tim/5.8?lang=eng#7" onclick="newWindow(this.href); return false;">1 Tim. 5:8</a>; and <a href="http://lds.org/scriptures/nt/philip/2.12?lang=eng#11" onclick="newWindow(this.href); return false;">Philip. 2:12</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p12" class="">&ldquo;As guided by the spirit of the Lord and through applying these principles, each member of the Church should make his own decisions as to what assistance he accepts, be it from governmental or other sources. In this way, independence, self-respect, dignity, and self-reliance will be fostered, and free agency maintained.&rdquo; (Statement of the Presiding Bishopric, as quoted in <span class="emphasis">Ensign,</span> March 1978, p. 20.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p13" class="">Underlying this statement is the recurring theme of self-reliance. No amount of philosophizing, excuses, or rationalizing will ever change the fundamental need for self-reliance. This is so because:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p14" class="">&ldquo;All truth is independent in that sphere in which God has placed it, &hellip; as all intelligence also; otherwise there is no existence.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.30?lang=eng#29" onclick="newWindow(this.href); return false;">D&amp;C 93:30</a>.) The Lord declares that herein lies &ldquo;the agency of man&rdquo; (see <a href="http://lds.org/scriptures/dc-testament/dc/93.31?lang=eng#30" onclick="newWindow(this.href); return false;">D&amp;C 93:31</a>), and with this agency comes the responsibility for self. With this agency we can rise to glory or fall to condemnation. May we individually and collectively be ever self-reliant. This is our heritage and our obligation.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p15" class="">The principle of self-reliance stands behind the Church&rsquo;s emphasis on personal and family preparedness. Our progress in implementing the various facets of this personal and family preparedness is impressive, but there are still far too many families who have yet to heed the counsel to live providently. With the arrival of spring we hope all of you will put in your gardens and prepare to enjoy their produce this summer. We hope you are making this a family affair, with everyone, even the little ones, assigned to something. There is so much to learn and harvest from your garden, far more than just a crop itself. We also hope that you are maintaining your year&rsquo;s supply of food, clothing, and where possible, some fuel and cash savings. Moreover, we hope that you are conscious of proper diet and health habits, that you may be fit physically and able to respond to the many challenges of life. Would you see to it that in your quorum and Relief Society meetings the principles and practices of personal and family preparedness are taught.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p16" class="">We wish to remind all the Saints of the blessings that come from observing the regular fast and contributing as generous a fast offering as we can, and as we are in a position to give. Wherever we can, we should give many times the value of the meals from which we abstained.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p17" class="">This principle of promise, when lived in the spirit thereof, greatly blesses both giver and receiver. Upon practicing the law of the fast, one finds a personal well-spring of power to overcome self-indulgence and selfishness. May I refer you to Bishop Victor L. Brown&rsquo;s masterful talk on this subject given last Welfare Conference and published in the November 1977 <span class="emphasis">Ensign.</span></p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p18" class="">Now, brothers and sisters, would you put aside for a moment the pressing demands of this day and this week, and permit me to establish some very important perspectives about welfare services. For many years we have been taught that one important end result of our labors, hopes, and aspirations in this work is the building of a Latter-day Zion, a Zion characterized by love, harmony, and peace&mdash;a Zion in which the Lord&rsquo;s children are as one.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p19" class="">The vision of what we are about and what should come of our labors must be kept uppermost in our minds as we learn and do our duty in the present implementation of welfare service. This applies equally to all Church activities. In the fifty-eighth section of the Doctrine and Covenants the Lord shares with us a glimpse of this Latter-day Zion:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p20" class="">&ldquo;Ye cannot behold with your natural eyes, for the present time, the design of your God concerning those things which shall come hereafter, and the glory which shall follow after much tribulation.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p21" class="">&ldquo;For after much tribulation come the blessings. Wherefore the day cometh that ye shall be crowned with much glory; the hour is not yet, but is nigh at hand. &hellip;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p22" class="">&ldquo;Behold, verily I say unto you, for this cause I have sent you&mdash;that you might be obedient, and that your hearts might be prepared to bear testimony of the things which are to come;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p23" class="">&ldquo;And also that you might be honored in laying the foundation, and in bearing record of the land upon which the Zion of God shall stand; &hellip;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p24" class="">&ldquo;And after that cometh the day of my power; then shall the poor, the lame, and the blind, and the deaf, come in unto the marriage of the Lamb, and partake of the supper of the Lord, prepared for the great day to come.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p25" class="">&ldquo;Behold, I, the Lord, have spoken it.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/58.3-12?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 58:3&ndash;12</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p26" class="">This day will come; it is our destiny to help bring it about! Doesn&rsquo;t it motivate you to lengthen your stride and quicken your pace as you do your part in the great sanctifying work of the kingdom? It does me. It causes me to rejoice over the many opportunities for service and sacrifice afforded me and my family as we seek to do our part in establishing Zion.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p27" class="">In the earliest years of this dispensation the people faltered in attempting to live the full economic plan of Zion, the united order. Because of their transgressions, the Lord chastened them in these words:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p28" class="">&ldquo;Behold, they have not learned to be obedient to the things which I required at their hands, but are full of all manner of evil, and do not impart of their substance, as becometh saints, to the poor and afflicted among them;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p29" class="">&ldquo;And are not united according to the union required by the law of the celestial kingdom;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p30" class="">&ldquo;And Zion cannot be built up unless it is by the principles of the law of the celestial kingdom; otherwise I cannot receive her unto myself.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/105.3-5?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 105:3&ndash;5</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p31" class="">The Lord further counsels that we must learn obedience and be developed in character before he can redeem Zion. (See <a href="http://lds.org/scriptures/dc-testament/dc/105.9-10?lang=eng#8" onclick="newWindow(this.href); return false;">D&amp;C 105:9&ndash;10</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p32" class="">A few verses later in this same revelation, the Lord repeats the law of Zion in these words and with this promise:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p33" class="">&ldquo;And let those commandments which I have given concerning Zion and her law be executed and fulfilled, after her redemption.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p34" class="">&ldquo;And inasmuch as they follow the counsel which they receive, they shall have power after many days to accomplish all things pertaining to Zion.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/105.34,37?lang=eng#33" onclick="newWindow(this.href); return false;">D&amp;C 105:34, 37</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p35" class="">The length of time required &ldquo;to accomplish all things pertaining to Zion&rdquo; is strictly up to us and how we live, for creating Zion &ldquo;commences in the heart of each person.&rdquo; (<span class="emphasis"><a class="no-link-style" href="http://lds.org/study/topics/journal-of-discourses?lang=eng">Journal of Discourses</a>,</span> 9:283.) That it would take some time to learn our lessons was seen by the prophets. In 1863 Brigham Young stated:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p36" class="">&ldquo;If the people neglect their duty, turn away from the holy commandments which God has given us, seek their own individual wealth, and neglect the interests of the kingdom of God, we may expect to be here quite a time&mdash;perhaps a period that will be far longer than we anticipate.&rdquo; (<span class="emphasis">Journal of Discourses,</span> 11:102.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p37" class="">Unfortunately we live in a world that largely rejects the values of Zion. Babylon has not and never will comprehend Zion. The Lord revealed our times to the prophet Mormon, who recorded this statement in a closing chapter of the Book of Mormon:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p38" class="">&ldquo;Behold, I speak unto you as if ye were present, and yet ye are not. But &hellip; <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> hath shown you unto me, and I know your doing.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p39" class="">&ldquo;For behold, ye do love money, and your substance, and your fine apparel, and the adorning of your churches, more than ye love the poor and the needy, the sick and the afflicted.&rdquo; (<a href="http://lds.org/scriptures/bofm/morm/8.35,37?lang=eng#34" onclick="newWindow(this.href); return false;">Morm. 8:35, 37</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p40" class="">This state of affairs stands in marked contrast to the Zion the Lord seeks to establish through his covenant people. Zion can be built up only among those who are the pure in heart, not a people torn by covetousness or greed, but a pure and selfless people. Not a people who are pure in appearance, rather a people who are pure in heart. Zion is to be in the world and not of the world, not dulled by a sense of carnal security, nor paralyzed by materialism. No, Zion is not things of the lower, but of the higher order, things that exalt the mind and sanctify the heart.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p41" class="">Zion is &ldquo;every man seeking the interest of his neighbor, and doing all things with an eye single to the glory of God.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/82.19?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 82:19</a>.) As I understand these matters, Zion can be established only by those who are pure in heart, and who labor for Zion, for &ldquo;the laborer in Zion shall labor for Zion; for if they labor for money they shall perish.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/26.31?lang=eng#30" onclick="newWindow(this.href); return false;">2 Ne. 26:31</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p42" class="">As important as it is to have this vision in mind, defining and describing Zion will not bring it about. That can only be done through consistent and concerted daily effort by every single member of the Church. No matter what the cost in toil or sacrifice, we must &ldquo;do it.&rdquo; That is one of my favorite phrases: &ldquo;Do It.&rdquo; May I suggest three fundamental things we must do if we are to &ldquo;bring again Zion,&rdquo; three things for which we who labor for Zion must commit ourselves.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p43" class="">First, we must eliminate the individual tendency to selfishness that snares the soul, shrinks the heart, and darkens the mind. President Romney recently referred to the tragic cycle of civilization, a cycle propelled by anyone who seeks for power and gain. Was it not this that led Cain to commit the first murder &ldquo;for the sake of getting gain&rdquo;? (<a href="http://lds.org/scriptures/pgp/moses/5.50?lang=eng#49" onclick="newWindow(this.href); return false;">Moses 5:50</a>.) Is not this the spirit of the anti-Christ in which &ldquo;every man prospered according to his genius, and &hellip; every man conquered according to his strength; and whatsoever a man did was no crime&rdquo;? (<a href="http://lds.org/scriptures/bofm/alma/30.17?lang=eng#16" onclick="newWindow(this.href); return false;">Alma 30:17</a>.) Did not Nephi single this out as the spirit which led his generation to destruction:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p44" class="">&ldquo;Now the cause of this iniquity of the people was this&mdash;Satan had great power, unto the stirring up of the people to do all manner of iniquity, and to the puffing them up with pride, tempting them to seek for power, and authority, and riches, and the vain things of the world.&rdquo; (<a href="http://lds.org/scriptures/bofm/3-ne/6.15?lang=eng#14" onclick="newWindow(this.href); return false;">3 Ne. 6:15</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p45" class="">If we are to avoid their fate, we must guard against the very things that caused their downfall. The Lord himself declared to our grandparents: &ldquo;And again, I command thee that thou shalt not covet thine property.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/19.26?lang=eng#25" onclick="newWindow(this.href); return false;">D&amp;C 19:26</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p46" class="">He further counseled his young church by saying:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p47" class="">&ldquo;Behold, I, the Lord, am not well pleased with many who are in the church at Kirtland:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p48" class="">&ldquo;For they do not forsake their sins and their wicked ways, the pride of their hearts, and their covetousness, and all their detestable things, and observe the words of wisdom and eternal life which I have given unto them.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/98.19-20?lang=eng#18" onclick="newWindow(this.href); return false;">D&amp;C 98:19&ndash;20</a>.) It is incumbent upon us to put away selfishness in our families, our business and professional pursuits, and our Church affairs. I am disturbed when I hear of stakes or wards having difficulty dividing equity in welfare projects or making equitable storehouse commodity production assignments. These things should not be. Let us resolve today to overcome any such tendencies.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p49" class="">Second, we must cooperate completely and work in harmony one with the other. There must be unanimity in our decisions and unity in our actions. After pleading with the Saints to &ldquo;let every man esteem his brother as himself&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/38.24?lang=eng#23" onclick="newWindow(this.href); return false;">D&amp;C 38:24</a>), the Lord concludes his instructions on cooperation to a conference of the membership in these powerful words:</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p50" class="">&ldquo;Behold, this I have given unto you as a parable, and it is even as I am. I say unto you, be one; and if ye are not one ye are not mine.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/38.27?lang=eng#26" onclick="newWindow(this.href); return false;">D&amp;C 38:27</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p51" class="">If the Spirit of the Lord is to magnify our labors, then this spirit of oneness and cooperation must be the prevailing spirit in all that we do. Moreover, when we do so, we are told by the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> that &ldquo;the greatest temporal and spiritual blessings which always come from faithfulness and concentrated effort, never attended individual exertion or enterprise.&rdquo; (<span class="emphasis">Teachings of the Prophet Joseph Smith,</span> p. 183.) There are few activities in the Church that require more cooperation and concerted effort than Welfare Services. Whether it is rallying to find employment for a displaced quorum member, toiling on a production project, serving as a lead worker at a Deseret Industries, or accepting foster children in the home, it is cooperation and mutual concern that determines the overall success of the Storehouse Resource System.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p52" class="">Third, we must lay on the altar and sacrifice whatever is required by the Lord. We begin by offering a &ldquo;broken heart and a contrite spirit.&rdquo; We follow this by giving our best effort in our assigned fields of labor and callings. We learn our duty and execute it fully. Finally we consecrate our time, talents and means as called upon by our file leaders and as prompted by the whisperings of the Spirit. In the Church, as in the Welfare system also, we can give expression to every ability, every righteous desire, every thoughtful impulse. Whether a volunteer, father, home teacher, bishop, or neighbor, whether a visiting teacher, mother, homemaker, or friend&mdash;there is ample opportunity to give our all. And as we give, we find that &ldquo;sacrifice brings forth the blessings of heaven!&rdquo; (<span class="emphasis">Hymns,</span> no. 147.) And in the end, we learn it was no sacrifice at all.</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p53" class="">My brothers and sisters, if we can do this, then we will find ourselves clothed in the mantle of charity &ldquo;which is the greatest of all, for all things must fail&mdash;</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p54" class="">&ldquo;But charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him.&rdquo; (<a href="http://lds.org/scriptures/bofm/moro/7.46-47?lang=eng#45" onclick="newWindow(this.href); return false;">Moro. 7:46&ndash;47</a>.)</p>
+			<p uri="/ensign/1978/05/becoming-the-pure-in-heart.p55" class="">Let us unite and pray with all the energy of heart, that we may be sealed by this bond of charity; that we may build up this latter-day Zion, that the kingdom of God may go forth, so that the kingdom of heaven may come. This is my prayer and testimony in the name of Jesus Christ. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1978/05/listen-to-the-prophets?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1978/05/the-storehouse-resource-system?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1978">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1978/05/becoming-the-pure-in-heart?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Becoming the Pure in Heart - Ensign May 1978&amp;link=/ensign/1978/05/becoming-the-pure-in-heart&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1978%2F05%2Fbecoming-the-pure-in-heart%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1978/05/becoming-the-pure-in-heart%3flang%3deng%26cid%3dfacebook-shared&amp;t=Becoming+the+Pure+in+Heart+-+Ensign+May+1978" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1978/05/becoming-the-pure-in-heart%3flang%3deng%26cid%3ddelicious-shared&amp;title=Becoming+the+Pure+in+Heart+-+Ensign+May+1978" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1978/05/becoming-the-pure-in-heart%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Becoming the Pure in Heart - Ensign May 1978&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1978:05:becoming the pure in heart";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

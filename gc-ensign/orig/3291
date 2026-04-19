@@ -1,0 +1,546 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Contributions of the Prophet Joseph Smith - Ensign Nov. 1979 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Contributions of the Prophet Joseph Smith - Ensign Nov. 1979"><meta name="KEYWORDS" content="Joseph Smith,restoration"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Contributions of the Prophet Joseph Smith - Ensign Nov. 1979"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1979/11?lang=eng">Nov. 1979</a>
+                     </li><li>
+                        <span class="active">The Contributions of the Prophet Joseph Smith</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1979/11/our-sisters-in-the-church?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1979/11/the-mystery-of-mormonism?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Contributions of the Prophet Joseph Smith
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p3" class="">President N. Eldon Tanner</p>
+				<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p" class="">First Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            <h2>The Contributions of the Prophet Joseph Smith</h2>
+                            <span style="display: none" id="article-id">03115_000_020</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:2c64.jpg" alt="President N. Eldon Tanner">
+			</div>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p4" class="">Many years ago in the country of Norway, a young widow with two small sons sent a pair of shoes to a shoemaker for repairs. When the mended shoes were returned, the mother was surprised to find a religious tract tucked into each shoe. Shortly thereafter, curious about the tracts, and with a parcel containing another pair of old shoes, she set forth for the half-hour walk to the shoemaker&rsquo;s shop.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p5" class="">After concluding her business with the shoemaker, she hesitated briefly with her hand on the door latch, wanting, yet reluctant, to ask about the tracts. As she paused, the shoemaker said,</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p6" class="">&ldquo;&lsquo;You may be surprised to hear me say that I can give you something of more value than soles for your child&rsquo;s shoes.&rsquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p7" class="">&ldquo;&lsquo;What can you, a shoemaker, give me better than soles for my son&rsquo;s shoes? You speak in riddles,&rsquo; she answered.&rdquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p8" class="">The man &ldquo;did not hesitate. &lsquo;If you will but listen, I can teach you the Lord&rsquo;s true plan of salvation for His children. I can teach you how to find happiness in this life, and to prepare for eternal joy in the life to come. I can tell you whence you came, why you are upon earth, and where you will go after death. I can teach you as you have never known it before, <a class="no-link-style" href="http://lds.org/general-conference/2009/10/the-love-of-god?lang=eng">the love of God</a> for His children on earth.&rsquo;&rdquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p9" class="">The words pierced the heart of Anna Widtsoe, whose husband, John Andersen Widtsoe, had died unexpectedly just a year before. Her oldest son, John Andreas, was six years old, and her second son, Osborne, was just two months of age. At the burial service the young widow &ldquo;and her oldest son stood by the open grave while the cold words of the church funeral service were spoken, &lsquo;Dust thou art, to dust returnest,&rsquo; with no promise of a future meeting in a happier place than man&rsquo;s earth.&rdquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p10" class="">Her life had since been lonely, and she was filled with many unanswered spiritual questions which her own religion had failed to satisfy. She asked the shoemaker a simple question: &ldquo;&lsquo;Who are you?&rsquo;&rdquo; He answered: &ldquo;&lsquo;I am a member of the Church of <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>&mdash;we are called Mormons. We have the truth of God.&rsquo;&rdquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p11" class="">As repaired shoes were returned there was always a new tract, and her curiosity finally caused her to attend a Mormon meeting. Anna Widtsoe was an intelligent woman. She &ldquo;knew her <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a>. Time upon time she [attempted] to vanquish the elders, only to meet defeat herself.&rdquo; She insisted on debating and discussing the points of doctrine she questioned; and finally, unwillingly, yet prayerfully, she became convinced that she was in the presence of eternal truth.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p12" class="">&ldquo;At length, on 1 April 1881, a little more than two years after she first heard of the Gospel, she was baptized into the Church. &hellip; Thin ice still lay over the edges of the fjord, which had to be broken to permit the [<a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a>]. The water was icy cold yet she declared to her dying day that never before in all her life had she felt warmer or more comfortable than when she came out of the baptismal waters of old Trondjem&rsquo;s fjord. The fire within was kindled, never to be extinguished.&rdquo;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p13" class="">This account is taken from a book titled <span class="emphasis">In the Gospel Net</span> (Salt Lake City: <span class="emphasis">Improvement Era,</span> 1942, pp. 47, 53&ndash;57), written by Elder John A. Widtsoe, Anna&rsquo;s eldest son, who later became an Apostle and member of the Council of the Twelve in The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p14" class="">What remarkable coincidence has brought about a repetition of similar episodes in the lives of people all over the world since the year 1830?</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p15" class="">It was on 6 April 1830, following a chain of events succeeding a heavenly manifestation to <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, a young farm boy, that in accordance with divine instruction The Church of Jesus Christ of Latter-day Saints was officially organized, with only six persons becoming the first legal members. Following other actions taken in connection with the organization, they went to a river where several other persons were baptized and confirmed members of the Church.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p16" class="">In April of 1980 the Church will observe its sesquicentennial, and at that time will have reached an estimated membership of more than 4,300,000. As I reflect on the &ldquo;marvellous work and a wonder&rdquo; (<a href="http://lds.org/scriptures/ot/isa/29.14?lang=eng#13" onclick="newWindow(this.href); return false;">Isa. 29:14</a>) which has brought this about, I am persuaded to give glory to God and to pay tribute to Joseph Smith, the prophet of the Restoration, and to all God&rsquo;s holy prophets who have guided his church under divine direction.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p17" class="">Let us briefly review the early life of Joseph Smith. He was born 23 December 1805 at Sharon, Windsor County, Vermont, a son of Joseph Smith, Sr., and Lucy Mack Smith. In 1816 the Smiths moved to Palmyra, New York, and soon after to nearby Manchester. It was here that Joseph became aware of all the religious revivals and one day read a scripture in the Epistle of James which reads:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p18" class="">&ldquo;If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him&rdquo; (<a href="http://lds.org/scriptures/nt/james/1.5?lang=eng#4" onclick="newWindow(this.href); return false;">James 1:5</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p19" class="">That scripture had great impact on this spiritually minded boy; and as he reflected on its meaning, knowing in his heart that he needed God&rsquo;s help in determining which of all the churches was true, he retired into the woods to offer his first vocal prayer. In a manner graphically described by Joseph in his own testimony, two personages appeared in a pillar of light above him, and one said, pointing to the other, &ldquo;[Joseph,] this is My Beloved Son. Hear Him!&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">JS&mdash;H 1:17</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p20" class="">In answer to his question, he was told he must join none of the existing churches, and the reasons therefore were given to him. When he related the story of his vision to others, he was ridiculed and reviled and told that there were no such things as revelation and visions&mdash;that such things had ceased with the Apostles and there would be no more of them.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p21" class="">He continued with his daily pursuits for another three years, during which time he was greatly persecuted for having related the story of his vision. In September of 1823, he was again visited by a heavenly messenger who told him his name was Moroni and that God had a work for Joseph to do.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p22" class="">The angel told him of a book, written upon gold plates, that was deposited in a nearby hill. The plates contained an account of the former inhabitants of the American continent, and also the fulness of the everlasting gospel as delivered by the Savior to those ancient people. Joseph was instructed to visit the spot where the plates were deposited each year for four years. This he did, and on each occasion he was met and instructed by the angel Moroni until finally he was ready to receive and translate the plates.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p23" class="">If any of you are not already familiar with the story of the coming forth of the Book of Mormon, I invite you to avail yourselves of the opportunity to do so. Read the book itself, which contains this promise in the last chapter:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p24" class="">&ldquo;And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p25" class="">&ldquo;And by the power of the Holy Ghost ye may know the truth of all things&rdquo; (<a href="http://lds.org/scriptures/bofm/moro/10.4-5?lang=eng#3" onclick="newWindow(this.href); return false;">Moro. 10:4&ndash;5</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p26" class="">It is this power which bears witness to hundreds of thousands of converts each year that Joseph Smith was a prophet of God and that the Book of Mormon is true, that it is a companion book to the Bible and a new and further witness of the divinity of Jesus Christ and a record of his dealings with the early inhabitants of America.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p27" class="">Consider with me, if you will, the reasons for the strong testimonies that burn within the bosoms of the faithful and devoted millions who are members of the Church of Jesus Christ. Think of this fourteen-year-old boy, seeking for the true church and confused by the conflicting doctrines taught by ministers of differing denominations. I marvel at his being able to stand alone and suffer all manner of persecution because he could not deny the fact that he had seen a vision.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p28" class="">His own record states: &ldquo;I have thought since, that I felt much like Paul, when he made his defense before King Agrippa, and related the account of the vision he had when he saw a light, and heard a voice; but still there were but few who believed him; some said he was dishonest, others said he was mad; and he was ridiculed and reviled. But all this did not destroy the reality of his vision. He had seen a vision, he knew he had, and all the persecution under heaven could not make it otherwise; and though they should persecute him unto death, yet he knew, and would know to his latest breath, that he had both seen a light and heard a voice speaking unto him, and all the world could not make him think or believe otherwise&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.24?lang=eng#23" onclick="newWindow(this.href); return false;">JS&mdash;H 1:24</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p29" class="">I sorrow with him as he receives the plates and realizes the heavy responsibility in the work of protecting and translating them. With little formal education he has the monumental task of interpreting a foreign language. Yet the Lord was with him and the way was opened whereby the needed scribes, publisher, and financing were provided.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p30" class="">A writer in the <span class="emphasis">New York Sun</span> of 4 September 1843 stated:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p31" class="">&ldquo;&lsquo;This Joe Smith must be set down as an extraordinary character, a prophet-hero, as Carlyle might call him. He is one of the great men of this age, and in future history will rank with those who, in one way or another, have stamped their impress strongly on society&rsquo;&rdquo; (<span class="emphasis">History of the Church,</span> 6:3).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p32" class="">In a book entitled <span class="emphasis">Joseph Smith, An American Prophet,</span> we read the following, written by John Henry Evans: &ldquo;This man became mayor of the biggest town in Illinois and the state&rsquo;s most prominent citizen, the commander of the largest body of trained soldiers in the nation outside the Federal army, the founder of cities and of a university. &hellip;</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p33" class="">&ldquo;He wrote a book [the Book of Mormon] which has baffled the literary critics for a hundred years and which is today more widely read than any other volume save the Bible. On the threshold of an organizing age he established the most nearly perfect social mechanism in the modern world, and developed a religious philosophy that challenges anything of the kind in history, for completeness and cohesion. And he set up the machinery for an economic system that would take the brood of Fears out of the heart of man&mdash;the fear of want through sickness, old age, unemployment, and poverty&rdquo; (New York: MacMillan, 1946, p. 4).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p34" class="">Of what great significance to the world are the contributions of Joseph Smith, the Prophet? Let us consider some of them. Perhaps most important is the concept of the Godhead. The New Testament clearly established that the Father, the Son, and the Holy Ghost are three separate and distinct beings, yet there are many in the Christian world who do not accept this or believe in a personal God in whose image we were created. The Father and the Son actually appeared personally to Joseph Smith to establish their personality and image. When the boy came out of that grove he knew the facts&mdash;that God is in form like a man. He speaks, he is considerate and kind, he answers prayer. He is a personal God for he called Joseph by name. His Son is a like and distinct person and is the Mediator between God and man.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p35" class="">The occurrence in the grove was a flat contradiction that revelation had ceased, that God no longer communicated with man. Old and New Testament scriptures repeatedly affirm the need for continuous revelation. Consider the words of Amos:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p36" class="">&ldquo;Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets&rdquo; (<a href="http://lds.org/scriptures/ot/amos/3.7?lang=eng#6" onclick="newWindow(this.href); return false;">Amos 3:7</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p37" class="">Following the revelations he received, Joseph Smith taught with authority many truths recorded in the Bible which previously had not been understood. Some of these are: that we are spirit children of God, that we had a premortal existence, that we are in mortality to prove ourselves, and that if we are faithful we can return to live eternally in the presence of God and through eternal progression become Godlike.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p38" class="">Another teaching closely related with the fatherhood of God and the sonship of man is the actuality of Satan, the devil. He is real and is determined to lead as many as he can away from the presence of God and into his captivity.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p39" class="">Joseph taught the doctrine of free agency&mdash;that we are free to choose for ourselves good or evil, with the resulting blessings or penalties. We read in 2 Corinthians:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p40" class="">&ldquo;For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad&rdquo; (<a href="http://lds.org/scriptures/nt/2-cor/5.10?lang=eng#9" onclick="newWindow(this.href); return false;">2 Cor. 5:10</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p41" class="">He gave the world a new concept of the priesthood&mdash;that it is the authority given by God for man to act in his name. Through revelation he defined clearly all the offices and duties of the priesthood from the deacon to the high priest; and they are so well described in section 107 of the Doctrine and Covenants that 144 years later we are still following those instructions for the organization and administration of Church affairs.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p42" class="">This further demonstrates that this is the Church of Jesus Christ with the same organization that existed when he established his church in former times, with the same offices.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p43" class="">Joseph Smith through revelation taught a new concept of the human body as the tabernacle of the spirit. A man&rsquo;s body is sacred and is not to be violated. Any willful impairment is an affront to God, and therefore care of the body is of spiritual significance. To assist us in keeping our bodies as proper abodes for our spirits, Joseph Smith received a revelation known as the Word of Wisdom, which if followed will bring great blessings to body and mind.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p44" class="">The Prophet Joseph taught of salvation for the dead, which, though taught in the New Testament, had not been understood nor practiced since the days of the Apostles. Along with this doctrine was taught the principle of the eternity of the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> unit and celestial marriage, which is for time and all eternity.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p45" class="">What a glorious feeling of satisfaction and security it is to know that God and Jesus Christ actually live, that Christ is the real, genuine person portrayed in the Bible and in modern scripture, who lived among and taught the people and blessed the children and the sick, before and after his crucifixion and <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">resurrection</a>, and that he was interested in their welfare as he traveled from place to place! Why would anyone prefer to think of him as a mythical being or as a great philosopher but deny that he is literally the Son of God?</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p46" class="">Having faith in Christ is essential to our salvation, and the purpose of his mission on earth was to teach us what we must do. He repeatedly said, &ldquo;Repent and be baptized.&rdquo; And he set the pattern in his own baptism by immersion performed by John the Baptist. At that time he said, &ldquo;Suffer it to be so now: for thus it becometh us to fulfil all righteousness&rdquo; (<a href="http://lds.org/scriptures/nt/matt/3.15?lang=eng#14" onclick="newWindow(this.href); return false;">Matt. 3:15</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p47" class="">His last instructions to his disciples were:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p48" class="">&ldquo;Go ye therefore, and teach all nations, <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptizing</a> them in the name of the Father, and of the Son, and of the Holy Ghost:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p49" class="">&ldquo;Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world&rdquo; (<a href="http://lds.org/scriptures/nt/matt/28.19-20?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 28:19&ndash;20</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p50" class="">He made it clear that all the saving ordinances must be performed by those called of God and set apart by those having authority to <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> the gospel and administer in the ordinances thereof. He talked of the falling away and the restoration as prophesied by Old and New Testament prophets. John the Revelator made this significant statement:</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p51" class="">&ldquo;And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p52" class="">&ldquo;Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters&rdquo; (<a href="http://lds.org/scriptures/nt/rev/14.6-7?lang=eng#5" onclick="newWindow(this.href); return false;">Rev. 14:6&ndash;7</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p53" class="">I wish to bear my testimony to all those who are within the sound of my voice this morning that <span class="emphasis">that angel</span> has flown and that the everlasting gospel has been restored and that the Church of Jesus Christ has been reestablished upon the earth, with the power to administer its ordinances.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p54" class="">The power of the priesthood, which is the power of God delegated to man to act in his name and officiate in the ordinances of the gospel, was conferred upon Joseph Smith and Oliver Cowdery by those ancient Apostles, Peter, James, and John. The heavens are as open today as they were in the days of Peter and James and John and Paul and all the rest of the early Apostles.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p55" class="">God still answers the prayers of the righteous and still reveals his will through a prophet to the established Church of Jesus Christ. As Adam and Noah and Abraham and <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> had been chosen by God as his prophets in the respective dispensations in which they lived, so was Joseph Smith chosen in these the latter days and called of God as his prophet, seer, and revelator. The Church is fulfilling its divine injunction to preach the gospel to every nation, kindred, tongue, and people.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p56" class="">Our missionaries, over 28,000 of them, are preaching the same simple truths that were taught by Christ while he was on the earth, the first and great commandment being: &ldquo;Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself&rdquo; (<a href="http://lds.org/scriptures/nt/luke/10.27?lang=eng#26" onclick="newWindow(this.href); return false;">Luke 10:27</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p57" class="">We teach that the first principles and ordinances of the gospel are: &ldquo;first, Faith in the Lord Jesus Christ; second, Repentance; third, Baptism by immersion for the remission of sins; fourth, <a class="no-link-style" href="http://lds.org/scriptures/bd/laying-on-of-hands?lang=eng">Laying on of hands</a> for the gift of the Holy Ghost&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.4?lang=eng#3" onclick="newWindow(this.href); return false;">A of F 1:4</a>).</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p58" class="">We believe that God still speaks to his people on the earth today, and that the Church is being led by a prophet of God&mdash;even Spencer W. Kimball&mdash;through whom the Lord speaks. The gospel message is sweet, it is a message of peace and goodwill, it is the one and only thing that will bring peace to the world, and it offers salvation and exaltation to all who will accept it.</p>
+			<p uri="/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith.p59" class="">May this testimony come to everyone who is seeking for the truth is my prayer, in the name of Jesus Christ, amen.</p>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:3052.jpg" alt="First Presidency 7 April 1910">
+				<div class="caption" id="">
+					<p>With the death of John Rex Winder, President Joseph F. Smith, center, selected former Second Counselor Anthon H. Lund, left, to fill that position and John Henry Smith, right, was called as second counselor on 7 April 1910.</p>
+				</div>
+			</div>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1979/11/our-sisters-in-the-church?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1979/11/the-mystery-of-mormonism?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1979">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1979/11/the-contributions-of-the-prophet-joseph-smith?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Contributions of the Prophet Joseph Smith - Ensign Nov. 1979&amp;link=/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1979%2F11%2Fthe-contributions-of-the-prophet-joseph-smith%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Contributions+of+the+Prophet+Joseph+Smith+-+Ensign+Nov.+1979" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Contributions+of+the+Prophet+Joseph+Smith+-+Ensign+Nov.+1979" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1979/11/the-contributions-of-the-prophet-joseph-smith%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Contributions of the Prophet Joseph Smith - Ensign Nov. 1979&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1979:11:the contributions of the prophet joseph smith";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for FILE in [0-9][0-9][0-9][0-9]; do
+    TALK=../orig/talk${FILE}.html
+    DIFF_CNT=`diff $FILE $TALK | wc -l`
+    echo "$FILE $DIFF_CNT"
+done

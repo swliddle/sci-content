@@ -1,0 +1,553 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>A Time of Decision - Ensign July 1972 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="A Time of Decision - Ensign July 1972"><meta name="KEYWORDS" content="agency,conscience,standards"><meta name="DESCRIPTION" content="Address delivered Sunday morning, April 9, 1972"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="A Time of Decision - Ensign July 1972"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1972/07/a-time-of-decision?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content="Address delivered Sunday morning, April 9, 1972"><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1972/07/a-time-of-decision?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1972/07/a-time-of-decision?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1972/07/a-time-of-decision?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1972/07?lang=eng">July 1972</a>
+                     </li><li>
+                        <span class="active">A Time of Decision</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1972/07/counsel-to-the-saints-and-to-the-world?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1972/07/judge-not-that-ye-be-not-judged?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            A Time of Decision
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1972/07/a-time-of-decision.p2" class="">President Harold B. Lee</p>
+				<p uri="/ensign/1972/07/a-time-of-decision.p" class="">First Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        
+                                        
+                                        <div class="kicker" id="">Address delivered Sunday morning, April 9, 1972</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">03020_000_014</span>
+			<div class="figure">
+				<img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:1db0.jpg" alt="President Harold B. Lee">
+			</div>
+			<p uri="/ensign/1972/07/a-time-of-decision.p4" class="">This year is again a most important year of decision for our day. Some have even said that this is the most critical period in the history of this nation and of the world.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p5" class="">I believe it is an illusion to say that this is <span class="emphasis">the </span>most critical, decisive time. Write it upon the hearts of all of us that every dispensation has been just as decisive, and likewise that every year has been the most decisive year and time for ourselves, for this nation, and for the world. This is our day and time when honorable men must be brought forward to meet the tremendous challenges before us.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p6" class="">This is the beginning of an intense political activity, when men of every persuasion in the political arena will be clamoring for attention and acceptance by the electorate. There will be controversy, debate, conflict, and contention, which seem to be the order of a political campaign.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p7" class="">In its loftiest sense, controversy may mean disputations because of honest differences of opinion. In its most degrading sense it may mean quarreling, strife, and name-calling. An example of that which degrades is the bitter personal abuse that so frequently is heaped upon an opposing candidate. Name-calling is continued throughout the whole season until listeners are left with doubt and mistrust that honor and integrity are to be found in any of those who may eventually be elected. The obvious hazard is that when these elected leaders have been maligned and down-graded, the seeds of disrespect to authority and law and order are sown in the minds of youth, particularly, instead of respectful obedience to counsel and to the laws enacted by those whose integrity and honesty have been thus impugned.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p8" class="">The story, presumably authentic, is told that during the Civil War when the fortunes of the Union armies, under the command of General Grant, were going badly, some concerned ministers called on President Abraham Lincoln at the White House and forcefully urged the dismissal of Grant.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p9" class="">To these men he is alleged to have said: &ldquo;Gentlemen, General Grant has under his command all that we hold dear in this nation. Instead of criticism, you too should get down on your knees and pray God that he would see this nation through to victory.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p10" class="">We related this story to a president of the United States some years ago and assured him that no matter what his name or his political party, we too were frequently on our knees, praying God that he and the leaders of this nation and of the world would bring us through the crises of the present.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p11" class="">We were heartened by the president&rsquo;s reply when he said, &ldquo;I think that every president of this country during his term of office has been frequently on his knees praying to Almighty God.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p12" class="">During these years of extreme tension, you may constantly have in mind the admonition of the Lord himself: &ldquo;Wherefore, be subject to the powers that be, until he reigns whose right it is to reign, and subdues all enemies under his feet,&rdquo; and likewise he reminds us that &ldquo;he that keepeth the laws of God hath no need to break the laws of the land.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/58.22,21?lang=eng#21" onclick="newWindow(this.href); return false;">D&amp;C 58:22, 21</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p13" class="">We have recorded the angelic refrain at the time of the Savior&rsquo;s birth as recorded by Luke: &ldquo;&hellip; on earth peace, good will toward men.&rdquo; (<a href="http://lds.org/scriptures/nt/luke/2.14?lang=eng#13" onclick="newWindow(this.href); return false;">Luke 2:14</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p14" class="">In seeming contradiction to that message are the recorded words of the Master: &ldquo;Think not that I am come to send peace on the earth: I came not to send peace, but a sword. For I am come to set a man at variance against his father. &hellip; And a man&rsquo;s foes shall be they of his own household.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/10.34-36?lang=eng#33" onclick="newWindow(this.href); return false;">Matt. 10:34&ndash;36</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p15" class="">How can these seemingly contradictory quotations be reconciled?</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p16" class="">The earliest revelations of this dispensation speak of two so-called conflicting dominions on the earth today. One is spoken of as the dominion of the devil, &ldquo;when peace shall be taken from the earth.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/1.35?lang=eng#34" onclick="newWindow(this.href); return false;">D&amp;C 1:35</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p17" class="">In the book of Revelation, as well as in other scriptures, we read that before the earth was peopled &ldquo;there was war in heaven.&rdquo; (<a href="http://lds.org/scriptures/nt/rev/12.7?lang=eng#6" onclick="newWindow(this.href); return false;">Rev. 12:7</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p18" class="">One of the ambitious sons of God&rsquo;s spiritual creations in the premortal world promised salvation for all mankind without effort on their part, provided he would be given almighty power, even to the dethroning of God himself, whose divine right it is to reign over the earth. Intense bitterness ensued between that son, who became Satan, and those who followed after him, and the beloved Son of God and those who followed after him, whose plan of salvation, by contrast, would give to every soul the right of choice, and the glory be to the Father. He even offered himself as &ldquo;the Lamb slain from the foundation of the world&rdquo; (<a href="http://lds.org/scriptures/nt/rev/13.8?lang=eng#7" onclick="newWindow(this.href); return false;">Rev. 13:8</a>), that by the redemption of his atoning sacrifice, &ldquo;all mankind may be saved, by obedience to the laws and ordinances of the Gospel&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.3?lang=eng#2" onclick="newWindow(this.href); return false;">A of F 1:3</a>).</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p19" class="">Satan and his hosts were cast out because he set about to destroy the agency of man, and he became the author of falsehood to deceive and to blind men and to lead captive all who would not hearken to the words and teachings of God&rsquo;s eternal plan.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p20" class="">The other dominion in the earth today of which the scriptures speak is the Lord&rsquo;s dominion, when he &ldquo;shall have power over his saints, and shall reign in their midst.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/1.36?lang=eng#35" onclick="newWindow(this.href); return false;">D&amp;C 1:36</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p21" class="">Today we are constantly hearing from the unenlightened and misguided, who demand what they call free agency, by which they apparently mean, as evidenced by their conduct, that they have their agency to do as they please or to exercise their own self-will to determine what is law and order, what is right and wrong, or what is honor and virtue.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p22" class="">These are frightening expressions when you reflect upon what I have just quoted from the revealed word of God. A moment&rsquo;s reflection will help you to see that when one sets himself up to make his own rules and presumes to know no law but his own, he is but echoing the plan of Satan, who sought to ascend to God&rsquo;s throne, as it were, in being the judge of all that rules mankind and the world. There has ever been, and ever will be, a conflict between the forces of truth and error; between the forces of righteousness and the forces of evil; between the dominion of Satan and the dominion under the banner of our Lord and Master, <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p23" class="">The true meaning of free agency is clearly set forth by a father who explained to his son:</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p24" class="">&ldquo;Wherefore, men are free according to the flesh. &hellip; And they <span class="emphasis">are </span>free to choose liberty and eternal life, through the great mediation of all men [meaning the atonement of the Savior], or to choose captivity and death, according to the captivity and power of the devil. &hellip;&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26" onclick="newWindow(this.href); return false;">2 Ne. 2:27</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p25" class="">&ldquo;&hellip; the Lord God gave unto man that he should act for himself. Wherefore, man could not act for himself save it should be that he was enticed by the one or the other.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/2.16?lang=eng#15" onclick="newWindow(this.href); return false;">2 Ne. 2:16</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p26" class="">What would it be like if we were to live in a vacuum, with everything coming our way without any effort or struggle on our part to overcome these obstacles?</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p27" class="">One of my esteemed colleagues told me of his efforts to aid a young college student who was feeling sorry for himself, who was lacking motivation and had no sense of responsibility. My friend made an attractive proposal to this young man. In a conversation that went something like this, he said, &ldquo;Son, I&rsquo;m going to take over full responsibility of your affairs from now on and relieve you of your worries. I&rsquo;ll pay your tuition at college, buy your clothes, furnish you an automobile and a credit card for gasoline. When you get ready to marry, don&rsquo;t worry about it; I&rsquo;ll look for a wife for you, and I will supply you with a house that is furnished. I&rsquo;ll support you and your <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> thereafter without any effort on your part. What do you think of my offer?&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p28" class="">After a moment of sobered thinking the young man replied, &ldquo;Well, if you did that, what would there be for me to live for?&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p29" class="">Then my friend replied, &ldquo;That is what I&rsquo;m trying to make you see, my boy. That is the purpose of life&mdash;there is no joy without struggle and the exercise of one&rsquo;s own natural abilities.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p30" class="">Now in the exercise of the God-given right of free agency, or freedom of choice, how may one distinguish between what is truth and what is error?</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p31" class="">A noted columnist wrote: &ldquo;Truth is the logic of the universe. It is the reasoning of destiny; it is the mind of God. And nothing that man can devise can take its place.&rdquo; (Frank Crane.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p32" class="">Another man of wisdom added: &ldquo;There is no progress in fundamental truth. We may grow in knowledge of its meaning and in the modes of its application, but its great principles will forever be the same.&rdquo; (Hamilton Wright Mabie.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p33" class="">At the time of <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>&rsquo;s arraignment before Pilate, the Master declared that his whole mission was to bear witness of the truth. Pilate then asked: &ldquo;What is truth?&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p34" class="">Whether or not the Savior answered that question on that occasion, we have no record; but in our day the Lord himself <span class="emphasis">has </span>answered, as he might have answered Pilate at that time, and I quote his words: &ldquo;And truth is knowledge of things as they are, and as they were, and as they are to come; And whatsoever is more or less than this is the spirit of that wicked one who was a liar from the beginning.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/93.24-25?lang=eng#23" onclick="newWindow(this.href); return false;">D&amp;C 93:24&ndash;25</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p35" class="">Now, may I for a few moments speak of certainties upon which one may depend in his search for truth.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p36" class="">The first of which I would speak is that which is referred to in the scriptures as the Light of Christ, the Spirit of Truth, or Spirit of God, variously spoken of, which in essence means the influence of Deity that proceeds forth from the presence of God, that which quickens the understanding of man. (See <a href="http://lds.org/scriptures/dc-testament/dc/88.49?lang=eng#48" onclick="newWindow(this.href); return false;">D&amp;C 88:49</a>.) The apostle John spoke of it as &ldquo;the true Light, which lighteth every man that cometh into the world.&rdquo; (<a href="http://lds.org/scriptures/nt/john/1.9?lang=eng#8" onclick="newWindow(this.href); return false;">John 1:9</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p37" class="">A president of the Church makes this further explanation: &ldquo;There is not a man [or person] born into the world, but has a portion of the Spirit of God, and it is that Spirit of God which gives to his spirit understanding, &hellip; each in accordance with his capacity to receive the light . . . [which] will never cease to strive with man, until man is brought to the possession of the higher intelligence.&rdquo; (Joseph F. Smith, <span class="emphasis">Gospel Doctrine, </span>pp. 63, 62.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p38" class="">To those not acquainted with the language of the scriptures, it might be explained that the Light of Christ could be described as one&rsquo;s conscience, or the voice of the divine within one&rsquo;s own soul.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p39" class="">As a public official in my young manhood, I was given some wise counsel by a Church leader. He said: &ldquo;The only thing we will ever ask you to do is to vote for that which in your heart you feel is right. We would rather many times over that you would make a mistake doing that which you felt was right, than to vote for policy sake.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p40" class="">I pass these wise words of counsel to others in public office for what they are worth and strongly urge that those of you having heavy responsibilities in public office or elsewhere should meditate prayerfully and give the Lord a chance to aid you in solving the problems of life.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p41" class="">&ldquo;Expedients are for an hour,&rdquo; someone has said, &ldquo;but principles are for the ages.&rdquo; (Henry Ward Beecher.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p42" class="">Now another certainty of which I would speak:</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p43" class="">The Constitution of the United States has been mentioned several times by speakers in this conference as the basis of wise decisions in fundamental principles as applied to all matters pertaining to law and order, because it was framed by men whom God raised up for this very purpose. But in addition to that inspired document, we must always keep in mind that the greatest weapons that can be forged against any false philosophy are the positive teachings of the <a class="no-link-style" href="http://lds.org/general-conference/2008/04/the-gospel-of-jesus-christ?lang=eng">gospel of Jesus Christ</a>.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p44" class="">We constantly impress upon all who go out as true ambassadors of the kingdom of God to follow the wise counsel of the apostle Paul, one of the ablest defenders of the faith of all time. In his declaration to the Corinthians he has given us his counsel if we would be as powerful as he in our ministry. This was his secret in combating evil:</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p45" class="">&ldquo;And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p46" class="">&ldquo;For I am determined not to know any thing among you, save Jesus Christ, and him crucified.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p47" class="">&ldquo;That your faith should not stand in the wisdom of men, but in the power of God.&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/2.1-2,5?lang=eng#0" onclick="newWindow(this.href); return false;">1 Cor. 2:1&ndash;2, 5</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p48" class="">It has been well said that one does not teach honesty by telling a man how to burglarize a safe, nor do we teach chastity by telling a youth all about sexual activities.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p49" class="">So, likewise, it is inspired wisdom that our efforts must be spent in teaching truth by the power of Almighty God, and thus we can forge the most powerful of all weapons against the vicious doctrines of Satan.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p50" class="">The Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> was asked how he governed the Church members in his day. His answer in one sentence was, &ldquo;Teach them correct principles and they will govern themselves.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p51" class="">If we overemphasize the philosophies of the enemies of righteousness instead of teaching forcefully the principles of the gospel of Jesus Christ, such overemphasis can only serve to stir up controversy and strife and thus defeat the very purpose of our <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a> in all the nations of the world.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p52" class="">Now a third certainty:</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p53" class="">Those who have served as public officials soon learn that there is always the imperative necessity of deciding whether or not demands on a controversial issue are being made by a well-organized loud minority or by a greater majority of those who might be less vocal but whose cause is just and in accordance with righteous principles. Always we would do well to reflect upon the counsel of a wise king of ancient times: &ldquo;Now it is not common that the voice of the people desireth anything contrary to that which is right; but it is common for the lesser part of the people to desire that which is not right; therefore . . . do your business by the voice of the people.&rdquo; (<a href="http://lds.org/scriptures/bofm/mosiah/29.26?lang=eng#25" onclick="newWindow(this.href); return false;">Mosiah 29:26</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p54" class="">Let this counsel of that wise ancient king be our counsel to our Church members and the honorable of the earth everywhere. Be alert and active in your business and political interests. The great danger in any society is apathy and a failure to be alert to the issues of the day, when applied to principles or to the election of public officials.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p55" class="">The fourth certainty to keep in mind in our civic responsibilities is to choose those to govern us as &ldquo;civil officers and magistrates [who will] enforce the laws &hellip; and &hellip; administer the law in equity and justice&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/134.3?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 134:3</a>), as we are admonished by inspired men of God.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p56" class="">In a word, we must seek for statesmenlike men who will ask, &ldquo;Is it right and is it good for the country or the community?&rdquo; instead of those who may merely ask, &ldquo;Is it politically expedient?&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p57" class="">Remember always <span class="emphasis">our </span>declaration of political faith: &ldquo;We believe in being subject to kings, presidents, rulers, and magistrates, in obeying, honoring, and sustaining the law.&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.12?lang=eng#11" onclick="newWindow(this.href); return false;">A of F 1:12</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p58" class="">Wherever you are, wherever you live, pray for the leaders of your country, for remember that they too hold in their hands all that you hold dear. Again I repeat the Lord&rsquo;s injunction: &ldquo;&hellip; be subject to the powers that be, until he reigns whose right it is to reign, and subdues all enemies under his feet.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/58.22?lang=eng#21" onclick="newWindow(this.href); return false;">D&amp;C 58:22</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p59" class="">And now, finally, the supreme of all certainties is God&rsquo;s eternal plan as given in the gospel of Jesus Christ. Here we have given us the never-failing principles that will keep our feet firmly planted on the path of safety. By these eternal principles we can readily detect truth from error. In the earliest revelations of our dispensation we were told that the gospel teachings were given that &ldquo;inasmuch as they have erred it might be made known; And inasmuch as they sought wisdom they might be instructed.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/1.25-26?lang=eng#24" onclick="newWindow(this.href); return false;">D&amp;C 1:25&ndash;26</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p60" class="">By the light of gospel truths we can be shown that &ldquo;every thing which inviteth to do good, and to persuade to believe in Christ . . . ye may know with a perfect knowledge it is of God.&rdquo; (<a href="http://lds.org/scriptures/bofm/moro/7.16?lang=eng#15" onclick="newWindow(this.href); return false;">Moro. 7:16</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p61" class="">But also we may know that &ldquo;whatsoever thing persuadeth men to do evil, and believe not in Christ, and deny him, and serve not God, then ye may know with a perfect knowledge it is of the devil&rdquo; (<a href="http://lds.org/scriptures/bofm/moro/7.17?lang=eng#16" onclick="newWindow(this.href); return false;">Moro. 7:17</a>), whether it be labeled religion, philosophy, science, or political dogma.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p62" class="">What a wonderful feeling of security can come in a crisis to one who has learned to pray and has cultivated listening ears so that he can &ldquo;call, and the Lord shall answer&rdquo;; when he can cry and the Lord shall say, &ldquo;Here I am.&rdquo; (<a href="http://lds.org/scriptures/ot/isa/58.9?lang=eng#8" onclick="newWindow(this.href); return false;">Isa. 58:9</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p63" class="">The supreme commander of the Allied forces during World War II, General Eisenhower, when faced with some of the most momentous military decisions that were to change the course of the world, made his humble acknowledgment: &ldquo;This is what I found out about religion: It gives you courage to make the decisions you must make in a crisis and then the confidence to leave the result to a Higher Power. Only by <a class="no-link-style" href="http://lds.org/scriptures/tg/trust-in-god?lang=eng">trust in God</a> can a man carrying responsibilities find repose.&rdquo;</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p64" class="">There you have it, all you who are leaders in high places, in business, in government, or in the Church, or for that matter in any walk of life: the constant reminder that God is in his heaven and all can be right with the world, if we seek for him and find him, &ldquo;though he be not far from every one of us: for in him we live, and move, and have our being; . . . For we are also his offspring.&rdquo; (<a href="http://lds.org/scriptures/nt/acts/17.27-28?lang=eng#26" onclick="newWindow(this.href); return false;">Acts 17:27&ndash;28</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p65" class="">Now, may I in all humility bear my own witness to the power of these guidelines in my life. I have learned by my own experience that the heavier the responsibilities, the greater is my dependence on the Lord.</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p66" class="">In some measure I begin to understand the import of the declaration of <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a>, who, after his great spiritual experience, said: &ldquo;Now . . . I know that man is nothing, which thing I never had supposed.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/1.10?lang=eng#9" onclick="newWindow(this.href); return false;">Moses 1:10</a>.)</p>
+			<p uri="/ensign/1972/07/a-time-of-decision.p67" class="">But through the lights and shadows of my life, I also have the assurance that aided by God&rsquo;s holy power, doubts can be resolved into certainties, burdens can be lightened, and a literal rebirth can be realized as the nearness to my Lord and Master becomes more certain&mdash;to all of which I bear humble witness in the name of the Lord Jesus Christ. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1972/07/counsel-to-the-saints-and-to-the-world?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1972/07/judge-not-that-ye-be-not-judged?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="July 1972">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1972/07/a-time-of-decision?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=A Time of Decision - Ensign July 1972&amp;link=/ensign/1972/07/a-time-of-decision&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1972%2F07%2Fa-time-of-decision%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1972/07/a-time-of-decision%3flang%3deng%26cid%3dfacebook-shared&amp;t=A+Time+of+Decision+-+Ensign+July+1972" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1972/07/a-time-of-decision%3flang%3deng%26cid%3ddelicious-shared&amp;title=A+Time+of+Decision+-+Ensign+July+1972" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1972/07/a-time-of-decision%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=A Time of Decision - Ensign July 1972&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1972:07:a time of decision";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+YEAR=2001
+
+while [ $YEAR -le 2009 ]
+do
+    YEAR=$(( $YEAR + 1 ))
+    mv conferencereport${YEAR}a.pdf ${YEAR}-A.pdf
+    mv conferencereport${YEAR}sa.pdf ${YEAR}-O.pdf
+done

@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Stone Cut without Hands - Ensign May 1976 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Stone Cut without Hands - Ensign May 1976"><meta name="KEYWORDS" content="Church growth,financial management,restoration,work"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Stone Cut without Hands - Ensign May 1976"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1976/05/the-stone-cut-without-hands?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1976/05/the-stone-cut-without-hands?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1976/05/the-stone-cut-without-hands?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1976/05/the-stone-cut-without-hands?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1976/05?lang=eng">May 1976</a>
+                     </li><li>
+                        <span class="active">The Stone Cut without Hands</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/05/report-of-the-146th-annual-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/05/hopeless-dawn-joyful-morning?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Stone Cut without Hands
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1976/05/the-stone-cut-without-hands.p3" class="">President Spencer W. Kimball</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/spencer-w-kimball?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg" alt="Spencer W. Kimball" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <span style="display: none" id="article-id">03070_000_003</span>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p4" class="">My beloved brothers and sisters, here we are again in this historic Tabernacle on Temple Square in Salt Lake City to consider matters of importance to the world, to the members, to ourselves.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p5" class="">The past few months have been most interesting to us.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p6" class="">During February and a few days of March we toured the South Pacific countries and islands of the sea. A large party of representatives from the Church, including some of those in highest authority, went to the Southern Hemisphere and spent a little time with the ever-growing and fast-enlarging communities of the South Pacific.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p7" class="">Because a large proportion of the people, the more than 100,000 people in the South Seas, would not ever be able to come to Salt Lake City to the general conference, we determined to take an area conference to them. So, in New Zealand, three large cities of Australia, and Samoa, Tonga, Fiji, and Tahiti, we held conferences for the Saints wherein they would meet the General Authorities, have an opportunity to vote upon their leaders, and hear sermons from leading authorities of the Church.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p8" class="">We were well received, well treated, and returned with a great affection for the good people of that southland.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p9" class="">You will be interested to note that the Church is growing rapidly in many foreign lands, as well as in our own country.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p10" class="">We now have members of the Church in sixty-six countries, and we teach the gospel in most of these lands. We have 23,000 plus missionaries, over 2,000 of them local boys and girls from the nations which they teach.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p11" class="">When I was made president of a stake in 1938, it was the 124th stake in the world, whereas now we have 750 stakes; and whereas we had only a little more than a score of missions when I filled my mission, we now have 134.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p12" class="">We envelop much of the vast world which we inhabit with congregations in South America, the Orient, the South Seas, South Africa, Europe, and many other places. There are numerous tens of thousands of people who find each year that the gospel is satisfying to their spiritual needs, and we bring in great numbers of people.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p13" class="">Our General Authorities cover the world constantly and spend their energies trying to take to the new areas and peoples the training and teachings that are necessary for new members of the Church.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p14" class="">Our work for the dead has greatly increased, and with 16 temples the work continues unabated and ever increasing. New temples have been announced for S&atilde;o Paulo, Brazil; Tokyo, Japan; Seattle, Washington. There will be additional edifices built for the continuation of this great work for the living and for the dead.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p15" class="">We are most grateful for the excellent response by the people of the Church to our urging that gardens be planted and that fruit trees be cultivated and our places cleaned up and made more livable. We fully endorse the program of Governor Calvin Rampton in Salt Lake City calling for the planting of a million trees for a million people.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p16" class="">From Parowan, Utah, we read this:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p17" class="">&ldquo;In laying out the town a century ago, each <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> had room for a garden and some fruit trees in back of their house. Some very fine orchards and gardens were in the public square, even down to the late Nineties. I well remember the fine watermelons they used to produce.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p18" class="">President Tanner and I visited a Canadian community, and on a certain street as far as we could see were homes with beautiful gardens. It was wonderful, and they were varied, and the products of those gardens were most delicious.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p19" class="">Everywhere we go we see backyards with beautiful gardens, a few rows of corn, some carrots, potatoes, onions, squash. In some places flower gardens have been turned into vegetable gardens, or they have shared the space.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p20" class="">Another commendable thing about gardening is the exchange of products by neighbors and the fostering of fellowship and neighborliness.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p21" class="">Another family wrote, &ldquo;Our old rickety barn is down and a beautiful garden is in its place. Had we realized how proud it would make us to have a beautiful garden where the old, fallen barn stood, we should have made the change long ago.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p22" class="">From another member in a rural area comes this: &ldquo;The old, leaning, half-fallen barn is attractive now. It is repaired, newly painted. We are very proud of it and hope you will drive by and see the improvement.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p23" class="">Another party writes, &ldquo;We live in a large forest area. I got my boss to go in with me, and we rented a large vacant lot not far away that had no trees. We had it plowed, disked, fertilized, and did we ever have a garden!&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p24" class="">In the <span class="emphasis">National Geographic</span> magazine last month, we clipped a picture of a woman bringing bottled and canned fruit to her storage room, which was full of the products of her labors and was neat and tidy. That&rsquo;s the way the Lord planned that we should prepare and eat our vegetables.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p25" class="">On the whole, we are very proud of the success. We learned that 51 percent of the households in the United States plan a garden for this year, 1976; and there will be plenty of lids and canning jars this season. The garden fever has attacked many people.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p26" class="">Tomatoes appear to be the most popular vegetable, followed by leaf lettuce and squash.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p27" class="">The garden is not only for the saving of funds but for the satisfying of a hobby desire.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p28" class="">It is estimated that some 35 million home vegetable gardens in 1976 will be an increase of 2.5 million over last year, and that about 41 percent of all American households will do some home canning this year. That is more than other years. We commend to you the garden fever.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p29" class="">If every family had a garden and rural families had a cow and chickens, some fruit trees, and a garden, it is amazing how nearly the family could be fed from their own lot.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p30" class="">We believe in work for ourselves and for our children. We go to the welfare projects, and there we contribute work hours to meet our production needs. We should train our children to work, and they should learn to share the responsibilities of the home and the yard. They should be given assignments to keep the house neat and clean, even though it be humble. Children may be given assignments also to take care of the garden, and this will be far better than to have them for long hours sitting at a television.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p31" class="">Someone has said, &ldquo;Nobody ever lost his shirt when his sleeves were rolled up.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p32" class="">Too much leisure for children leaves them in a state of boredom, and it is natural for them to want more and more of the expensive things for their recreation. We must bring dignity to labor in sharing the responsibilities of the home and the yard.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p33" class="">From a forest ranger this letter came:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p34" class="">&ldquo;In one day 500 of your young adults picked up litter, rocks, debris, and painted over 400 camp and picnic tables, bridges, and toilets. Twenty-seven stakes participated in this project. It was a monumental success. The enthusiasm, vitality, and giving spirit showed by this group of hard-working young people is exemplary of the finest traditions and teachings of The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p35" class="">It is amazing what our youth can do when given assignments and direction.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p36" class="">President Brigham Young said:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p37" class="">&ldquo;My faith does not lead me to think the Lord will provide us with roast pigs, bread already buttered, etc.; he will give us the ability to raise the grain, to obtain the fruits of the earth, to make habitations, to procure a few boards to make a box, and when harvest comes, giving us the grain, it is for us to preserve it&mdash;to save the wheat until we have one, two, five, or seven years&rsquo; provisions on hand, until there is enough of the staff of life saved by the people to bread themselves and those who will come here seeking for safety. &hellip;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p38" class="">&ldquo;Let Nothing Go To Waste,&rdquo; he counseled. &ldquo;Take things calm and easy, pick up everything, let nothing go to waste. &hellip;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p39" class="">&ldquo;Be prudent, save everything, and what you get more than you can take care of yourselves, ask your neighbors to help you consume.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p40" class="">&ldquo;Never consider that you have bread enough around you to suffer your children to waste a crust or a crumb of it. If a man is worth millions of bushels of wheat and corn, he is not wealthy enough to suffer his servant girl to sweep a single kernel of it into the fire; let it be eaten by something and pass again into the earth, and thus fulfil the purpose for which it grew. Remember it, do not waste anything, but take care of everything.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p41" class="">&ldquo;There is not a family in this city, where there are two, three, four, or five persons, but what can save enough from their table, from the waste made by the children, and what must be swept in the fire and out of the door, to make pork sufficient to last them through the year, or at least all they should eat.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p42" class="">&ldquo;Go to the poorest family in this community, and I will venture to say that they waste rags enough every year to buy the school books that are needed for their children, and do even more.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p43" class="">&ldquo;If you wish to get rich, save what you get. A fool can earn money; but it takes a wise man to save and dispose of it to his own advantage.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p44" class="">&ldquo;It is to our advantage to take good care of the blessings God bestows upon us; if we pursue the opposite course, we cut off the power and glory God designs we should inherit. It is through our own carefulness, frugality, and judgment which God has given us, that we are enabled to preserve our grain, our flocks and herds, wives and children, houses and lands, and increase them around us, continually gaining power and influence for ourselves as individuals and for the Kingdom of God as a whole.&rdquo; (<span class="emphasis">Discourses of Brigham Young,</span> Deseret Book, 1966 ed., pp. 291&ndash;92.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p45" class="">With regard to debts, Brigham Young said this:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p46" class="">&ldquo;Pay your debts, we will help you to do so, but do not run into debt any more.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p47" class="">&ldquo;Be prompt in everything, and especially to pay your debts.&rdquo; (<span class="emphasis">Discourses,</span> p. 303.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p48" class="">We used to <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> much about the paying of debts, but these days we have come into a position where we are encouraged to spend, to buy on time, to buy ahead of time&mdash;take next year to pay.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p49" class="">In 1830, in Doctrine and Covenants 19:35, the Lord gave a revelation to Martin Harris: &ldquo;Pay the debt thou hast contracted with the printer. Release thyself from bondage.&rdquo; [<a href="http://lds.org/scriptures/dc-testament/dc/19.35?lang=eng#34" onclick="newWindow(this.href); return false;">D&amp;C 19:35</a>]</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p50" class="">&ldquo;A man who will run into debt, when he has no prospect of paying it back again, does not understand the principles that should prevail in a well regulated community, or he is wilfully dishonest.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p51" class="">&ldquo;A man who will not pay his honest debts is no Latter-day Saint, if he has the means to pay them.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p52" class="">&ldquo;It is bad enough, quite bad enough, to borrow from an enemy and not to repay him; to do this is beneath the character of any human being; but all who will borrow from a friend, and especially from the poor, are undeserving the fellowship of the Saints if they do not repay.&rdquo; (<span class="emphasis">Discourses,</span> pp. 303&ndash;4.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p53" class="">In a letter pertaining to a divorce clearance, the following appeared:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p54" class="">&ldquo;It appears that the cause of this divorce was financial irresponsibility on the part of the husband and poor money management on the part of both the husband and the wife. The applicant states that she has no knowledge of any unfaithfulness on the part of her husband. He stated emphatically that he was never untrue to his wife during their marriage.&rdquo;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p55" class="">Yet they had such difficulty getting along financially that they sought to terminate their marriage. Here is a family who may have been still intact and happy with each other if it had not been for the lack of a budget carefully worked out and carefully carried forward.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p56" class="">We talked to you last conference about a carefully planned budget for every family. Such will save many family quarrels and much misunderstanding.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p57" class="">&ldquo;And why call ye me, Lord, Lord, and do not the things which I say?&rdquo; (<a href="http://lds.org/scriptures/nt/luke/6.46?lang=eng#45" onclick="newWindow(this.href); return false;">Luke 6:46</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p58" class="">This, a question from the Lord himself, is very strong and important to us.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p59" class="">Some may wonder why General Authorities speak of the same things from conference to conference. As I study the utterances of the prophets through the centuries, their pattern is very clear. We seek, in the words of Alma, to teach people &ldquo;an everlasting hatred against sin and iniquity.&rdquo; We preach &ldquo;repentance, and faith on the Lord Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/37.32-33?lang=eng#31" onclick="newWindow(this.href); return false;">Alma 37:32&ndash;33</a>.) We praise humility. We seek to teach people &ldquo;to withstand every temptation of the devil, with their faith on the Lord Jesus Christ.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/37.33?lang=eng#32" onclick="newWindow(this.href); return false;">Alma 37:33</a>.) We teach our people &ldquo;to never be weary of good works.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/37.34?lang=eng#33" onclick="newWindow(this.href); return false;">Alma 37:34</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p60" class="">Prophets say the same things because we face basically the same problems. Brothers and sisters, the solutions to these problems have not changed. It would be a poor lighthouse that gave off a different signal to guide every ship entering a harbor. It would be a poor mountain guide who, knowing the safe route up a mountainside, took his trusting charges up unpredictable and perilous paths from which no traveler returns.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p61" class="">I feel a special urge today to invite all people everywhere to investigate the restored <a class="no-link-style" href="http://lds.org/general-conference/2008/04/the-gospel-of-jesus-christ?lang=eng">gospel of Jesus Christ</a> with its doctrines of salvation and of exaltation.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p62" class="">To all who hear my voice this day I proclaim in all sincerity and truth that this, The Church of Jesus Christ of Latter-day Saints, is literally the authorized kingdom of God upon the earth today.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p63" class="">The Master and Savior, the Lord Jesus Christ himself, stands at the head of this Church in all his majesty and glory. He directs his affairs through his divinely appointed and sustained prophets and apostles.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p64" class="">As one of the humblest of these, I raise my voice from the very tops of these beautiful mountains to declare that this Church of Jesus Christ, commonly referred to as &ldquo;Mormonism,&rdquo; is the power of God unto salvation.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p65" class="">I promise you all in truth that one of the most important days of your life will be that day on which you determine to investigate the restored gospel.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p66" class="">That decision will open to you vast vistas of revealed gospel truths and countless avenues through which to develop spirituality and love and peace.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p67" class="">You will better understand your relationship to Deity. There will be answered for you the important questions of from whence you came, why you are here, and where you are going.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p68" class=""><a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">Baptism</a> into Christ&rsquo;s true church by proper authority opens the doors for exaltation in the eternal kingdoms of glory, exaltation to be earned by repentance, by living righteously, keeping the commandments of the Lord, and service to one&rsquo;s fellowmen.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p69" class="">The gospel of Jesus Christ is a gospel for all the world and for all people. We proclaim the fatherhood of God and the brotherhood of all mankind. We proclaim the divine sonship of Jesus Christ and him crucified, that his divine sacrifice was a ransom for all mankind. We bear witness of his <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">resurrection</a> and that he lives today, standing at the right hand of God, to guide the affairs of his earthly kingdom.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p70" class="">As you investigate the Church of Jesus Christ, you will find it is not a religion claiming succession from those who shared Christ&rsquo;s earthly ministry; nor is it a Protestant religion. It is a divine restoration of Christ&rsquo;s earthly kingdom, organized, as was his primitive church, with &ldquo;apostles, prophets, pastors, teachers, evangelists, etc.&rdquo; (<a href="http://lds.org/scriptures/pgp/a-of-f/1.6?lang=eng#5" onclick="newWindow(this.href); return false;">A of F 1:6</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p71" class="">In your study of this restored church, you will find herein the divinely restored powers and authorities of the holy priesthood. By this divine authority, and in no other way, the saving ordinances of the gospel are performed and are made binding for all time and eternity. I testify this to all of you who hear my voice.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p72" class="">You will find so-called Mormonism to be a growing, vibrant, dynamic, and challenging church, indeed a way of life, touching upon every avenue of living, every facet of life.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p73" class="">By divine commandment we are a proselyting church. More than 23,000 missionaries are abroad in the world today, unselfishly giving of their time, means, and talents to spread this message of the Restoration. They are in most nations of the free world. Their message is to all mankind everywhere&mdash;to the world of the Catholic, the Protestant, all the so-called Christian world; to the world of the Hindu, the Buddhist, the Muslim, the Jew, the Shintoist, the follower of Confucius&mdash;to all people of all races and all creeds.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p74" class="">We invite all to heed the message of the Latter-day Saint missionaries. No message you will ever hear will have greater impact for good in your lives, both here in mortality and in the hereafter.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p75" class="">The rewards are priceless for those honest in heart who seek the truth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p76" class="">The Lord said: &ldquo;Hearken, O ye people &hellip; to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p77" class="">&ldquo;And again I say, hearken unto my voice, lest death shall overtake you; in an hour when ye think not the summer shall be past, and the harvest ended, and your souls not saved.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p78" class="">&ldquo;Listen to him who is the advocate with the Father, who is pleading your cause before him. &hellip;</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p79" class="">&ldquo;And even so I have sent mine everlasting covenant into the world, to be a light to the world, and to be a standard for my people, and for the Gentiles to seek to it, and to be a messenger before my face to prepare the way before me.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p80" class="">&ldquo;Wherefore, come ye unto it, and with him that cometh I will reason as with men in days of old, and I will show unto you my strong reasoning.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/45.1-3,9-10?lang=eng#0" onclick="newWindow(this.href); return false;">D&amp;C 45:1&ndash;3, 9&ndash;10</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p81" class="">This is the restored church. This is the kingdom of God upon the earth, for it is Jesus Christ who organized this kingdom.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p82" class="">You will remember the incident when history was young, when it was in the making. This important area of history was enacted only 600 or 700 years before Christ, and the Lord saw fit to reveal, in a rather unusual way, what was to come to pass thereafter.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p83" class="">King Nebuchadnezzar, the king of Babylon, had besieged Jerusalem and had taken prisoner the people of Jerusalem. Among the captives were Daniel and his brethren. They kept their standards high and refused to drink with the king and his people.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p84" class="">&ldquo;And in all matters of wisdom,&rdquo; the scripture says, &ldquo;and understanding, that the king inquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/1.20?lang=eng#19" onclick="newWindow(this.href); return false;">Dan. 1:20</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p85" class="">King Nebuchadnezzar had a dream which he required his magicians and astrologers and sorcerers to reproduce and then to interpret. The penalty for any failure on their part was to be visited upon them, and it was a death sentence if they could not show the dream and the interpretation thereof. They pled for time to convince the king that there was no man living who could bring back the dream and its interpretation. [See <a href="http://lds.org/scriptures/ot/dan/2.1-11?lang=eng#0" onclick="newWindow(this.href); return false;">Dan. 2:1&ndash;11</a>.]</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p86" class="">King Nebuchadnezzar was furious and commanded the destruction of these wise men of Babylon [see <a href="http://lds.org/scriptures/ot/dan/2.12?lang=eng#11" onclick="newWindow(this.href); return false;">Dan. 2:12</a>].</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p87" class="">The inspired Daniel desired of the king that they would give him time, and he, Daniel, would interpret the dream [see <a href="http://lds.org/scriptures/ot/dan/2.16?lang=eng#15" onclick="newWindow(this.href); return false;">Dan. 2:16</a>]. And then he says:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p88" class="">&ldquo;Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.19?lang=eng#18" onclick="newWindow(this.href); return false;">Dan. 2:19</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p89" class="">And Daniel, the inspired one, praised the Lord and said:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p90" class="">&ldquo;Blessed be the name of God for ever and ever: for wisdom and might are his:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p91" class="">&ldquo;And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p92" class="">&ldquo;He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p93" class="">&ldquo;I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.20-23?lang=eng#19" onclick="newWindow(this.href); return false;">Dan. 2:20&ndash;23</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p94" class="">And now with a knowledge of the future as revealed, Daniel begged for the lives of the soothsayers and the wise.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p95" class="">Taken before the king, he was asked,</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p96" class="">&ldquo;Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.26?lang=eng#25" onclick="newWindow(this.href); return false;">Dan. 2:26</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p97" class="">And Daniel said the king&rsquo;s secret could not be interpreted and revealed by the wise men, the astrologers, the magicians, and the soothsayers of the king:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p98" class="">&ldquo;But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.28?lang=eng#27" onclick="newWindow(this.href); return false;">Dan. 2:28</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p99" class="">Daniel said to the king that his dream was a portrayal of the history of the world. Then came the picture of the great image with head of fine gold, and breast and arms of silver, and belly and thighs of brass, and legs of iron, and feet of iron and clay. Then the revelation continued:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p100" class="">&ldquo;Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.34?lang=eng#33" onclick="newWindow(this.href); return false;">Dan. 2:34</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p101" class="">And the various elements of which the image was made were broken into pieces and &ldquo;became like the chaff of the summer threshing floors; and the wind carried them away.&rdquo; The wind had carried away the destroyed elements, &ldquo;and the stone that smote the image became a great mountain, and filled the whole earth.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.35?lang=eng#34" onclick="newWindow(this.href); return false;">Dan. 2:35</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p102" class="">Then came the interpretation.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p103" class="">Nebuchadnezzar represented the king of kings, a world power, representing the head of gold.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p104" class="">Another kingdom would arise and take over world dominion.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p105" class="">The interpretation included the domination of other kingdoms. Cyrus the great, with his Medes and Persians, would be replaced by the Greek or Macedonian kingdom under Philip and Alexander; and that world power would be replaced by the Roman Empire; and Rome would be replaced by a group of nations of Europe represented by the toes of the image.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p106" class="">With the history of the world delineated in brief, now came the real revelation. Daniel said:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p107" class="">&ldquo;And in the days of these kings [that is, the group of European nations] shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p108" class="">&ldquo;Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.44-45?lang=eng#43" onclick="newWindow(this.href); return false;">Dan. 2:44&ndash;45</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p109" class="">This is a revelation concerning the history of the world, when one world power would supersede another until there would be numerous smaller kingdoms to share the control of the earth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p110" class="">And it was in the days of these kings that power would not be given to men, but the God of heaven would set up a kingdom&mdash;the kingdom of God upon the earth, which should never be destroyed nor left to other people.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p111" class="">The Church of Jesus Christ of Latter-day Saints was restored in 1830 after numerous revelations from the divine source; and this is the kingdom, set up by the God of heaven, that would never be destroyed nor superseded, and the stone cut out of the mountain without hands that would become a great mountain and would fill the whole earth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p112" class="">History unfolded and the world powers came and went after ruling the world for a little season, but in the early nineteenth century the day had come. The new world of America had been discovered and colonized and was being settled. Independence had been gained and a constitution approved and freedom given to men, and people were now enlightened to permit truth to be established and to reign.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p113" class="">No king or set of rulers could divine this history; but a young, pure, and worthy prophet could receive a revelation from God.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p114" class="">There was purpose for this unveiling of the history of the world so that the honest in heart might be looking forward to its establishment, and numerous good men and women, knowing of the revelations of God and the prospects for the future, have looked forward to this day.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p115" class="">It came about in a regular, normal process. An inspired, fourteen-year-old boy had difficulty learning from the scriptures alone what the future was. In a dense grove of trees he sought the Lord and prayed for wisdom.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p116" class="">The time had come, and though the adversary, Satan, recognizing all the powers of eternity which would be revealed with the gospel, did everything in his power to destroy the lad and destroy the prospects of the Restoration&mdash;in spite of him there came the splendid and magnificent vision to this pure, inquiring lad. Exerting all his powers, and with the strength of the Lord, the darkness was dispelled. Satan yielded and the vision proceeded, with a pillar of light coming exactly over the boy&rsquo;s head&mdash;a light above the brightness of the sun, which gradually descended until it fell upon him. The young Joseph continues:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p117" class="">&ldquo;It no sooner appeared than I found myself delivered from the enemy which held me bound. When the light rested upon me I saw two Personages, whose brightness and glory defy all description, standing above me in the air. One of them spake unto me, calling me by name and said, pointing to the other&mdash;This is My Beloved Son. Hear Him!&rdquo; (<a href="http://lds.org/scriptures/pgp/js-h/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">JS&mdash;H 1:17</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p118" class="">This formal introduction by the Father to the Son was most important, for this would be the world of Jesus Christ and the Church of Jesus Christ and the kingdom of Jesus Christ.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p119" class="">Questions were asked and answered, and eternal truths were given. It was made clear to the young, unspoiled Joseph that if he retained his worthiness and kept clean before the Lord, he would he responsible for the restoration of the Church and the gospel and the power and authority of God.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p120" class="">As maturity came to the young, unsullied man, there came also a flood, a deluge of ministrations from heaven. Commissions were given; authority was bestowed; information was given; and the revelations from on high continued almost without interruption, for the time had come. Conditions were ripe; many people were ready to receive the truth in its fulness.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p121" class="">In quick succession there came other visitors. Peter, James, and John&mdash;men who last held the keys of the kingdom, the power of the priesthood, and the blessings of eternity&mdash;appeared to the young man and restored the power and authority which they had held on earth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p122" class="">John the Baptist, beheaded by Herod but now a resurrected being, returned to the earth and laid hands on the Prophet Joseph to give him the Aaronic Priesthood.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p123" class="">The great <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> of antiquity returned to the earth, a celestial being, and restored the keys of the gathering of Israel.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p124" class="">Elijah, the prophet of the eternal work for the dead, returned to make way and prepare for the great temple work and for the restoration of the gospel to those who had died without an opportunity to hear it.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p125" class="">The organizers of the Church were told by the Lord:</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p126" class="">&ldquo;No one shall be appointed to receive commandments and revelations in this church excepting my servant <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, Jun., for he receiveth them even as Moses.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/28.2?lang=eng#1" onclick="newWindow(this.href); return false;">D&amp;C 28:2</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p127" class="">And the prophet Moroni appeared unto Joseph and spent long hours explaining the peopling of the American continents by the Lehites and also the Book of Mormon, which would be unearthed and translated. This book would be a further testimony of the coming of Christ to America and would give testimony that Jesus was the Christ, the Eternal God, for both Jew and gentile. This record, the Book of Mormon, would help to establish the divinity of the Lord Jesus Christ.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p128" class="">These were the beginnings of accomplishment; and the gospel was revealed, line upon line and precept upon precept, and truths were restored, and power was given and authority was revealed, and gradually enough light and enough people were there for the organization of this kingdom of God which Daniel saw two and a half millennia ago.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p129" class="">The Church was organized. Small it was, with only six members, compared to the stone cut out of the mountain without hands which would break in pieces other nations and which would roll forth and fill the whole earth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p130" class="">Rough days were ahead for the little kingdom. Prophets were assassinated. Persecutions and drivings have taken place and have vexed the fast-growing little church. A great exodus to the mountains of the West was directed by revelation. The colonization of the West occurred. Great tribulations were suffered. Blood was spilled. Hunger has taken its lives, but today the stone rolls forth to fill the earth.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p131" class="">Twenty-three thousand young missionaries proclaim these truths to thousands of people in their home areas. The gospel spreads to the nations of the earth in its approach toward the promise made by God through Daniel to fill the whole earth, and numerous people of all nationalities and tongues are accepting the gospel in many nations, and the Church and kingdom grow and develop, and we say to you and testify to you that it shall, in Daniel&rsquo;s words, &ldquo;never be destroyed; and the kingdom shall not be left to other people &hellip; but it shall stand forever.&rdquo; (<a href="http://lds.org/scriptures/ot/dan/2.44?lang=eng#43" onclick="newWindow(this.href); return false;">Dan. 2:44</a>.)</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p132" class="">Numerous revelations have made clear to the members that eternal life, which is their goal, is available by having the ordinances performed and then by living the commandments of God.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p133" class="">We give these truths to you, not in arrogance or worldly pride, but with a deep sincerity and a kindly offer&mdash;the gospel without price, the gospel of truth, the gospel of salvation and exaltation.</p>
+			<p uri="/ensign/1976/05/the-stone-cut-without-hands.p134" class="">I know it is true. I know it is divine. I know it is the little stone that was cut out of a mountain without hands. I know it will fill the earth as prophesied and commanded by the Savior Jesus Christ when, in his last moments on earth, he said to his eleven apostles, &ldquo;Go ye into all the world and preach the gospel to every creature&rdquo;&mdash;to every nation, kindred, tongue, and people. (See <a href="http://lds.org/scriptures/nt/mark/16.15?lang=eng#14" onclick="newWindow(this.href); return false;">Mark 16:15</a>.) I know it is true from the birth of Adam to the days of Daniel to the days of Joseph Smith and to this day. I know it is true and divine. We offer it to you without price. We promise to you life eternal if you will follow its precepts strictly. And I bear this witness to you in the name of Jesus Christ. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1976/05/report-of-the-146th-annual-conference-of-the-church-of-jesus-christ-of-latter-day-saints?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1976/05/hopeless-dawn-joyful-morning?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1976">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1976/05/the-stone-cut-without-hands?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Stone Cut without Hands - Ensign May 1976&amp;link=/ensign/1976/05/the-stone-cut-without-hands&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1976%2F05%2Fthe-stone-cut-without-hands%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1976/05/the-stone-cut-without-hands%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Stone+Cut+without+Hands+-+Ensign+May+1976" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1976/05/the-stone-cut-without-hands%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Stone+Cut+without+Hands+-+Ensign+May+1976" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1976/05/the-stone-cut-without-hands%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Stone Cut without Hands - Ensign May 1976&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1976:05:the stone cut without hands";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

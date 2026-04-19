@@ -1,0 +1,524 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>President Harold B. Lee&rsquo;s General Priesthood Address - Ensign Jan. 1974 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="President Harold B. Lee&rsquo;s General Priesthood Address - Ensign Jan. 1974"><meta name="KEYWORDS" content="family,marriage,obedience,priesthood,repentance,responsibility,spirituality,youth"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="President Harold B. Lee&rsquo;s General Priesthood Address - Ensign Jan. 1974"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1974/01?lang=eng">Jan. 1974</a>
+                     </li><li>
+                        <span class="active">President Harold B. Lee&rsquo;s General Priesthood Address</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1974/01/obedience?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1974/01/he-took-him-by-the-hand?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            President Harold B. Lee&rsquo;s General Priesthood Address
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p2" class="">President Harold B. Lee</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            
+                            
+                            <span style="display: none" id="article-id">03040_000_031</span>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p3" class="">My brethren of the priesthood: We have met here tonight in a great assembly. You didn&rsquo;t come here to be entertained. You came here, presumably, because you wanted to be instructed, and you wanted some guidelines. You have received from those who have spoken to you some very important things for you to think about. I commend all that has been said for your very serious thinking.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p4" class="">There are a few matters that I should like to talk about before we close this meeting.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p5" class="">We have just come from a great experience at an area conference in Munich, Germany. There we had 14,000 saints gathered from more than eight European countries, including Germany, France, Spain, Italy, Austria, Belgium, Holland, and Switzerland. Besides that, there was a large representation from the German Democratic Republic. They permitted a number of our people to come from behind what we call the &ldquo;iron curtain.&rdquo; In addition, of course, were a number of us from America. This required some very careful and extensive preparations for translating into five different languages, six including English.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p6" class="">It was a tremendous challenge, and we said as we closed the conference, &ldquo;Now brothers and sisters, it is impossible for the General Authorities to learn seventeen different languages, the number of languages in which we are teaching the gospel today. But how simple it would be if all of you would try to learn English besides your own mother tongue. Surely you could learn one language, English, rather than to expect the General Authorities to learn seventeen different languages.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p7" class="">Apparently somebody listened because we have been hearing since that in their fast and testimony meetings in these countries they have said, &ldquo;Now we have been told that we should learn English, so we had better get busy and do something about it.&rdquo; And I think that is the feeling that has been engendered. These people came wanting to know clear signals of what they ought to do.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p8" class="">Think of the wars in the past, involving these very countries, political differences where some of these countries have been at war, and now we assemble them all under one roof. We quoted to them what the Apostle Paul had said to the Galatians, &ldquo;There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> Jesus &hellip; and heirs according to the promise.&rdquo; (<a href="http://lds.org/scriptures/nt/gal/3.28-29?lang=eng#27" onclick="newWindow(this.href); return false;">Gal. 3:28&ndash;29</a>.)</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p9" class="">Then we paraphrased saying, &ldquo;Now you are neither English, nor German, nor French, nor Spanish, nor Italian, nor Austrian, nor Belgian, nor Dutch, but you are all one as members of The Church of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> of Latter-day Saints. Despite the political differences that you have had with various countries, in you now, because you are all members of The Church of Jesus Christ, the war must end so far as you are concerned.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p10" class="">If we could think of that as we felt the united brotherhood as these from various countries mingled together, we came away with a feeling that if&mdash;as I quoted in my first talk at this conference&mdash;as George Bernard Shaw said, &ldquo;If we all realized that we were the children of one father, we would stop shouting at each other as much as we do.&rdquo; We are all of one great <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>. And that should apply not only in political matters, but it should apply in our dealings with each other. What we may do as politicians, or as those who are engaged in competitive temporal activities, we must say, &ldquo;Because I am a holder of the priesthood of the living God, I am a representative of our Heavenly Father and hold the priesthood by which He can work through me; I can&rsquo;t stoop to do some of the things that I might have done otherwise because of my fellowship with the priesthood of God.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p11" class="">As we witnessed the feeling that was there, we have felt that we should continue these area conferences. The first such conference was held in Manchester, England, where we had about 14,000 there. We were in Mexico City next, where we had representatives from all the Central American countries and from Mexico. There we had 16,000, and to see what had happened from the time I first went down there in 1945 was an inspiration. To see congregations that at that time were meeting many times in houses with dirt floors! Many of the women came barefooted, showing the extremes of poverty; very few leaders&mdash;and now to go back after these few years and see under one roof well-dressed, fine-looking leaders taking their own responsibilities as bishoprics, stake presidencies, high councilors, stake mission presidents&mdash;it is one of the miracles. The world is asking the question, &ldquo;How are you able to do it?&rdquo; and there is only one answer: that when we become fellow citizens in the kingdom of God we must be men and women different. And that is what the holders of the priesthood must say to themselves: &ldquo;We can&rsquo;t be holders of the priesthood and be like other men. We must be different, because priesthood means a fellowship in the royal household of the kingdom of God.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p12" class="">There is another matter I would like to talk about. Last June we announced some changes in the structuring of the MIA. The Aaronic Priesthood MIA is now for those 12 to 18 years of age; and the Melchizedek Priesthood MIA is for those from 18 to 25 for Young Adults; those 26 and over for Special Interest. And the announced purpose of this last grouping was to focus attention upon those who have not, up to this time, been involved. They have come to us many times in the last few years saying, &ldquo;We have nowhere to go. We don&rsquo;t relate to the Relief Society. We are not young adults. We go to sacrament meeting, we go to <a class="no-link-style" href="http://lds.org/manual/sunday-school?lang=eng">Sunday School</a>. Why can&rsquo;t we have a program that is suited to our needs?&rdquo; And so this organization, as set up, is now moving forward and is designed to focus on every individual, and to make everyone feel that they are wanted; and the leaders of the Church must be in the forefront in carrying out these programs suited to the needs of those in these age groups.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p13" class="">There is evidence of much enthusiasm for those who are now involved, but unfortunately we are getting some feedback over the Church, where some who have heard of this program are writing to us. Brethren, may I read one or two comments, and if these could be true as a sampling, I hope would not be repeated too many times.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p14" class="">Here is a sister who writes to us and says, &ldquo;While I have greater peace of mind, there are times I do get discouraged. My bishop informed me of the Special Interest group in the Church. In this area, the program is still quite new and many people have never heard of it yet. I didn&rsquo;t know it existed until about a month ago. I am sure there are many who need this program but they have been cheated because many of the bishops where we are are not converted to it. Therefore, they are not really trying to take the leadership in getting this thing started.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p15" class="">&ldquo;If anyone is to attain the highest degree of the celestial kingdom, one has to be married to a worthy companion,&rdquo; another sister writes, &ldquo;as well as being worthy individually. We sometimes make mistakes in choosing a companion, which sometimes results in a divorce. Or we may be widowed, and there are some who just haven&rsquo;t found the right companion at twenty-five years of age.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p16" class="">&ldquo;Whatever the reason,&rdquo; another writes, &ldquo;The want to be &lsquo;needed&rsquo; is a very strong force. Without the Special Interest group a single person after the age of 25 is like a fifth wheel. As a Church, most of the talks are centered around the complete family unit. This concept I fully agree with, and certainly should be encouraged.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p17" class="">Then we have here a sister who tells about her experience. Her husband passed away, and then she writes, &ldquo;After the funeral services were over, I took my five children and went home, and was left to sink or swim. And I sank; I was all alone. How was I going to look after those five children? Oh, sure, the bishop would see that I didn&rsquo;t go hungry and that we were taken care of, and we had enough food to eat, and so on, but we needed something more than that.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p18" class="">And then she said this, &ldquo;I need Special Interests because I need to know that there are other people in the world with feelings like mine. I need to meet other widows who have managed to raise their children alone successfully, without the hang-ups psychologists insist they will have. I need to know that some people&rsquo;s problems are worse than mine, so I can recognize and count my blessings. I need people to talk to who fully understand my problems and needs. I need Special Interests because I have to learn how to handle my own problems. The first thing I learned as a widow was that no one else will help except in emergencies, and sometimes not then. As soon as the funeral was over, I repeat, I was left on my own either to sink or swim.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p19" class="">&ldquo;Then,&rdquo; she said, &ldquo;your classes geared to the whole families don&rsquo;t help us a bit, but a class I took this fall with the Special Interests showed me how I can communicate with my family and friends. There is no way you can fully understand our needs or problems, except you go through it yourself. Do you know what it is like to lose your wife or husband in death? It is nothing like losing your father or even your daughter. I know; I lost both before I lost my husband. Do you know what it is like to go through the hell of a divorce? Do you know what it is like to be a girl over 26, and still be single? You can&rsquo;t know. We need each other. Some of us need small group activities. Some of us need large group activities where we can go and have to talk to people and visit. Sometimes we don&rsquo;t feel like talking. Special Interests is not a dating bureau or a marriage bureau. As such it would be a complete failure. There are women in our stake who like to go places, but not alone. They come to our small activities hoping to meet other women with similar interests to go places with. One lady buys a season pass to the symphony every year, and she is still looking for someone to go with her.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p20" class="">&ldquo;We resent being invited to the Young Marrieds activities. To me it is like a slap in the face to have the Young Marrieds or elders announce that Special Interests are invited to their party. I know you may not understand why I feel so strongly about it, but other Special Interests I have talked to understand, and most of the others feel the same way. I feel like this new Special Interest program is inspired of God. It is what we need, if it is done like it should be. I needed it eight-and-a-half years ago. Thank the Lord my president is working hard on it to do his part. Will you recognize us as a special group of people, long ignored and neglected with special problems and special needs and special interests? Some of us are raising special children, boys without fathers, girls without mothers. They have special problems and special needs. If our needs aren&rsquo;t met, you are also neglecting some of their needs.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p21" class="">Now brethren of the priesthood, if you knew the processes by which these new programs came into being, you would know that this just didn&rsquo;t come out of a brainstorm, the figment of somebody&rsquo;s imagination; this was done after some of the most soulful praying and discussing that I believe I have ever experienced. We know, and we announced when it was given that this came from the Lord. This was an evidence of a thing that the Lord was giving us to do to meet a special need. But it troubles me when I read some of these things where sisters are pleading with us to try to do something to stimulate the activities where the bishops or stake presidents have not caught on to what it is all about.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p22" class="">In the early days of the <a class="no-link-style" href="http://www.providentliving.org/">Welfare Program</a>, everywhere I went people were saying to me, &ldquo;Brother Lee, how is the Welfare Program going?&rdquo; And I would answer, &ldquo;Just as well as the individual bishop of each ward makes it go. In some wards it is an absolute failure. In other wards it is going great guns.&rdquo; And that is exactly what is happening with what we are now launching.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p23" class="">In some places we see the enthusiasm; if you were to start these activities now, you would catch the enthusiasm of the young people, and these young widows, divorcees, those who haven&rsquo;t found companions. If we can catch them while their enthusiasm and anticipation are great, great things will come out of it; and we must ask you brethren now to remember that these things come from a source from which you brethren want to receive instruction. Please, I beg of you, don&rsquo;t let these people down, who are pleading that you listen to your leaders, and follow the counsel that has been given in these Special Interest activities.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p24" class="">Now, there is another matter that I would like to talk about. There are some examples that point up an area of need which applies directly to young men in the past-25-age, who for some reason, and hard to understand, as holders of the priesthood, are shirking their responsibilities as husbands and fathers.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p25" class="">President Joseph F. Smith said, &ldquo;The house of the Lord is a house of order and not a house of confusion; and that means,&rdquo; as the Lord has said, &ldquo;that the man is not without the woman in the Lord, neither is the woman without the man in the Lord; and that no man can be saved and exalted in the kingdom of God without the woman, and no woman can reach perfection and exaltation in the kingdom of God, alone. That is what it means. God instituted marriage in the beginning.&rdquo; (<span class="emphasis">Conference Report, </span>April 1913, p. 118.)</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p26" class="">President Joseph F. Smith further said this, which strikes right at the heart of what I want to emphasize: &ldquo;I desire to emphasize this. I want the young men of Zion to realize that this institution of marriage is not a man-made institution. It is of God. It is honorable, and no man who is of marriageable age is living his religion who remains single. It is not simply devised for the convenience alone of man, to suit his own notions, and his own ideas; to marry and then divorce, to adopt and then to discard, just as he pleases. &hellip; Marriage is the preserver of the human race. Without it, the purposes of God would be frustrated; virtue would be destroyed to give place to vice and corruption, and the earth would be void and empty.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p27" class="">&ldquo;&hellip; Now, every young person throughout the Church should understand this very thoroughly. The Church authorities and the teachers of our associations should inculcate the sacredness, and teach the duty of marriage, as it has been revealed in the latter days to us. There should be a reform in the Church in this regard, and a sentiment created in favor of honorable marriage, and that would prevent any young man, or any young woman, who is a member of the Church, from marrying except by that authority which is sanctioned of God. And no man holding the priesthood who is worthy and of age should remain unmarried. &hellip;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p28" class="">&ldquo;Many people,&rdquo; he continues, &ldquo;imagine that there is something sinful in marriage; there is an apostate tradition to that effect. This is a false and very harmful idea. On the contrary, God not only commends but he commands marriage.&rdquo; (Joseph F. Smith, <span class="emphasis">Gospel Doctrine, </span>5th ed., pp. 270&ndash;274.)</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p29" class="">I had come to my office the other night a beautiful mother and seven children. I think I am far enough away, and probably no one would guess of whom I am speaking. She is a very talented young woman, but she said, &ldquo;I have come to a time where I believe that I must think of divorcing my husband.&rdquo; So I began to ask about her husband. In answer to my questions, she said he was kind to her. He was a good provider, but somehow the luster of the romance of marriage, now that their children were pretty well grown, had now brought her to a point where she had begun to think that maybe if she were footloose she could do better than she was able to do with the husband who was the father of her children. We had quite a talk about it; but the other morning, after the first session of the conference, this lovely young woman met me and she said, with tears rolling down her cheeks, &ldquo;I have had the answer to every problem. This session has changed my life. I am a woman different now, because I have understanding that I never had before. I am going back. I am going to take care of my family. I am going to love my husband, and I am going to correct the mistakes that are in me, where I think most of the problem lies.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p30" class="">Brethren, we are living where there may be many like that, where a husband now may be in the change of life like women are at a certain age, and maybe the zest for the intimacies of married life has passed him. But here she is now and she might say, &ldquo;Well I yet have some good looks and some youth left; maybe I should cut loose and find other companionship.&rdquo; That is the frivolous sort of thinking that some women go through, so we are told by psychologists. That must never find root in this Church.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p31" class="">I performed a marriage some ten or fifteen years ago for a couple. I received a letter not long ago from this mother. As the letter began I thought, &ldquo;Well, here goes another one of the temple marriages that has failed.&rdquo; But then the tone of the letter began to change. She said, &ldquo;When we thought that the end was here and that there was only one thing to do and that was to get a divorce, we had been told that we should counsel with our bishop. At first thought we hesitated, because he was just a young man. He was younger than we are. But he was our bishop so we went to see him. We poured out our souls to our young bishop. He sat and listened silently, and when we ran out of conversation he said, simply, &lsquo;Well, my wife and I, we had problems, too, and we learned how to solve our problems.&rsquo; That is all in the world he said. But you know there was something that happened as a result of that young bishop&rsquo;s statement. We walked out of there and we said, &lsquo;Well, if they can solve their problems, what is the matter with us?&rsquo;&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p32" class="">Teach those who are having problems to go to the father of the ward, their bishop, for counsel. No psychiatrist in the world, no marriage counselor, can give to those who are faithful members of the Church the counsel from one any better than the bishop of the ward. Now, you bishops don&rsquo;t hesitate to say, marriage is the law of God, and is ordained by him and man and wife are not without each other in the Lord, as the apostle Paul declared.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p33" class="">Now, let me say just a bit more about this matter of marriage. This may sound a little bit bold to urge marriage for those who are past the marriageable age; but in some of our countries, where we are bringing in new converts, we are shocked to know that some men are delaying marriage until their later thirties or into their forties, and they have never talked of marriage. Here I have quoted from a president of the Church, President Joseph F. Smith, who has told us in plainness that today a flood of iniquities is overwhelming the civilized world and that one great reason therefore is the neglect of marriage. It has lost its sanctity in the eyes of the great majority. It is at best a civil contract, but more than often an accident, or a whim, or a means of gratifying the passions; and when the sacredness of the covenant is ignored or lost sight of, then a disregard of the marriage vows under the present moral training of the masses is a mere triviality, a trifling indiscretion.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p34" class="">Brethren, we must again think of our responsibilities as holders of the priesthood. I believe I have a letter here from a sister that pinpoints something that some of these girls are going through. I think I can read this without divulging any confidence, without telling her name. She is talking about an experience she has gone through, and others she meets with tell her the same thing. There is a man who has been dating her for years and he comes especially at meal time. She is a 27-year-old woman.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p35" class="">Here is another one who says, &ldquo;I am a 40-year-old single woman.&rdquo; Another one says, &ldquo;I am a 30-year-old single woman.&rdquo; And then they all say about the same thing, and without repeating these stories, they all read about the same: &ldquo;For the past year and a half I have been dating a fellow who is 33. We see each other almost every day. I have sought counsel from my bishop; and although he has been very kind, patient, and understanding, he really doesn&rsquo;t know how or what to advise me. I have tried to terminate the relationship, but it seems to drag on. There is no commitment; realistically, there is also very little hope.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p36" class="">Pages could be filled with similar cases, each a little different and yet all so similar.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p37" class="">&ldquo;He has a job; he hangs around; he is playing marriage. His lifestyle seems to be an adaptation of that of worldly couples who live together without benefit of or commitment to marriage. There probably is no immorality involved in many cases, but it is a degenerative condition and does not by any means &lsquo;avoid the appearance of evil.&rsquo; And the girls are probably as guilty as the fellows for allowing such conditions to exist; however, they are limited in their efforts to bring about satisfactory solutions.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p38" class="">I think that is enough to give you the other side of the story from the girls who are frustrated. All women have a desire for companionship. They want to be wives; they want to be mothers; and when men refuse to assume their responsibility of marriage, for no good reason, they are unable to consummate marriage. Brethren, we are not doing our duty as holders of the priesthood when we go beyond the marriageable age and withhold ourselves from an honorable marriage to these lovely women, who are seeking the fulfillment of a woman&rsquo;s greatest desire to have a husband, a family, and a home.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p39" class="">Now don&rsquo;t misunderstand me. I am not trying to urge you younger men to marry too early. I think therein is one of the hazards of today&rsquo;s living. We don&rsquo;t want a young man to think of marriage until he is able to take care of a family, to have an institution of his own, to be independent. He must make sure that he has found the girl of his choice, they have gone together long enough that they know each other, and that they know each other&rsquo;s faults and they still love each other. I have said to the mission presidents (some of whom have been reported to us as saying to missionaries, &ldquo;Now, if you are not married in six months, you are a failure as a missionary&rdquo;), &ldquo;Don&rsquo;t you ever say that to one of your missionaries. Maybe in six months they will not have found a wife; and if they take you seriously, they may rush into a marriage that will be wrong for them.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p40" class="">Please don&rsquo;t misunderstand what we are saying; but, brethren, think more seriously about the obligations of marriage for those who bear the holy priesthood at a time when marriage should be the expectation of every man who understands the responsibility; for remember, brethren, that only those who enter into the new and everlasting covenant of marriage in the temple for time and eternity, only those will have the exaltation in the celestial kingdom. That is what the Lord tells us.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p41" class="">Now, brethren, will you think seriously about that, and take from us our counsel, and don&rsquo;t rush hastily into it. Take time, yes, but don&rsquo;t neglect your responsibility and your obligations as holders of the holy priesthood.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p42" class="">Brethren, we look to you to carry the banner of the holy priesthood of God. What a force, 185,000 is the estimated number of you who are within the sounds of our voices tonight. Brethren, let us have our eyes fixed on the eternal value of things, with an eye single to the glory of God, and say each to himself, that &ldquo;from now on, God being my helper, I am not going to engage in any activity unless it helps me to move myself further toward that goal of eternal life, eventually to return back to the presence of my Heavenly Father.&rdquo;</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p43" class="">Brethren of the priesthood, you who are home teachers, when you see families that are on the verge of divorce, when you see incorrigible children that haven&rsquo;t found their way, parents who seem to have lost contact with their children&mdash;brethren of the priesthood, you have a responsibility to stay with those families and not let them drift apart until you have done everything within your powers to stop this trend of divorce.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p44" class="">One of the painful things that I have as a responsibility is to have a flood of recommendations for cancellations of sealings of those who have been married in the temple. It is frightening, brethren, and much of it stems from one of the greatest of all the sins next to murder, the sin of adultery, that is running rampant throughout the Church. Brethren, we must ourselves resolve anew that we are going to keep the law of chastity; and if we have made mistakes, let&rsquo;s begin now to rectify these mistakes. Let&rsquo;s walk towards the light; and for goodness sake, brethren, don&rsquo;t prostitute the wonderful opportunity you have as men, as those who may link hands with the Creator in the procreation of human souls, by engaging in a kind of unlawful relationship that will only go down to disgrace and break the hearts of your wives and your children. Brethren, we plead with you to keep yourselves morally clean, and walk the path of truth and righteousness, and thereby gain the plaudits of a Heavenly Father whose sons you are.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p45" class="">I bear you my witness, brethren, and want you to know of our love for you brethren of the priesthood. But we want you to rise to your responsibilities, brethren, and keep yourselves in tune with the Spirit of the Lord. One of the greatest and saddest things that we can see is one who has had the Spirit of the Lord and then has lost it by sin, and they stand now in the dark and are turned over to the buffetings of Satan, and then experience the torture chambers of the hell in which they must live, which is terrible indeed as the Lord has warned. Brethren, let us try to catch people on the way down before they reach that kind of a goal, and where you see them going in that direction, brethren, rise to your responsibilities and try to save the manhood of this Church.</p>
+			<p uri="/ensign/1974/01/president-harold-b-lees-general-priesthood-address.p46" class="">I plead with you, my brethren, and leave with you my blessing, and bear you my witness this night, in the name of the Lord Jesus Christ. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1974/01/obedience?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1974/01/he-took-him-by-the-hand?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Jan. 1974">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1974/01/president-harold-b-lees-general-priesthood-address?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=President Harold B. Lee%E2%80%99s General Priesthood Address - Ensign Jan. 1974&amp;link=/ensign/1974/01/president-harold-b-lees-general-priesthood-address&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1974%2F01%2Fpresident-harold-b-lees-general-priesthood-address%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address%3flang%3deng%26cid%3dfacebook-shared&amp;t=President+Harold+B.+Lee%e2%80%99s+General+Priesthood+Address+-+Ensign+Jan.+1974" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address%3flang%3deng%26cid%3ddelicious-shared&amp;title=President+Harold+B.+Lee%e2%80%99s+General+Priesthood+Address+-+Ensign+Jan.+1974" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1974/01/president-harold-b-lees-general-priesthood-address%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=President Harold B. Lee%E2%80%99s General Priesthood Address - Ensign Jan. 1974&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1974:01:president harold b. lee&rsquo;s general priesthood address";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

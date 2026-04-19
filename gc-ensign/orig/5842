@@ -1,0 +1,724 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>&ldquo;Woman, Why Weepest Thou?&rdquo; - Ensign Nov. 1996 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="&ldquo;Woman, Why Weepest Thou?&rdquo; - Ensign Nov. 1996"><meta name="KEYWORDS" content="Jesus Christ,adversity,Atonement,evil,peace,repentance,service,women"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="&ldquo;Woman, Why Weepest Thou?&rdquo; - Ensign Nov. 1996"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1996/11/woman-why-weepest-thou?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1996/11/woman-why-weepest-thou?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1996/11/woman-why-weepest-thou?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1996/11/woman-why-weepest-thou?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1996/11?lang=eng">Nov. 1996</a>
+                     </li><li>
+                        <span class="active">&ldquo;Woman, Why Weepest Thou?&rdquo;</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1996/11/this-thing-was-not-done-in-a-corner?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1996/11/always-have-his-spirit?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            &ldquo;Woman, Why Weepest Thou?&rdquo;
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1996/11/woman-why-weepest-thou.p3" class="">President James E. Faust</p>
+				<p uri="/ensign/1996/11/woman-why-weepest-thou.p" class="">Second Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <img src="/bc/content/shared/content/images/gospel-library/magazine/ensignlp.nfo:o:1d3e.jpg" alt="President James E. Faust">
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            <h2>&ldquo;Woman, Why Weepest Thou?&rdquo;</h2>
+                            <span style="display: none" id="article-id">96911_000_021</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p4" class="">My dear brothers and sisters and friends, the responsibility of speaking to you today prompts me to earnestly ask for your faith and prayers. Today I speak to those who have heartrending challenges. I speak to those who suffer, to those who mourn and have heartaches. I speak to those with physical, mental, or emotional pain. I speak to those born crippled or who have become crippled. I speak to those who were born blind or who can no longer see the sunsets. I speak to those who have never been able or who are no longer able to hear a bird sing. I speak to those who have the privileged responsibility of helping others who have mental and physical disabilities. I also speak to those who may be in serious transgression.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p5" class="">I take as my text the words of the Savior to the sorrowing Mary Magdalene, who &ldquo;stood without at the sepulchre weeping.&rdquo;<sup class="noteMarker">
+	<a href="#footnote1-96911_000_021">1</a>
+      </sup> As she turned around, she &ldquo;saw Jesus standing, and knew not that it was Jesus.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p6" class="">&ldquo;Jesus saith unto her, Woman, why weepest thou?&rdquo;<sup class="noteMarker">
+	<a href="#footnote2-96911_000_021">2</a>
+      </sup> The Savior was speaking not just to the sorrowing Mary. He was also speaking to us&mdash;men, women, and children and all of mankind ever born or yet to be born, for the tears of sorrow, pain, or remorse are the common lot of mankind.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p7" class="">The complexities of this life at times tend to be very dehumanizing and overwhelming. Some have so much, while others struggle with so very little.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p8" class="">It is a joy to meet with the faithful Saints of the Church all over the world. Even though some of them have difficulties and challenges and lack material wealth, yet they seem to find much happiness and are able to walk in faith over the rough cobblestones of life. Their deep faith strengthens ours as we meet with them.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p9" class="">Many who think that life is unfair do not see things within the larger vision of what the Savior did for us through the Atonement and the <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">Resurrection</a>. Each of us has at times agony, heartbreak, and despair when we must, like Job, reach deep down inside to the bedrock of our own faith. The depth of our belief in the Resurrection and the Atonement of the Savior will, I believe, determine the measure of courage and purpose with which we meet life&rsquo;s challenges.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p10" class="">The first words of the risen Lord to His disciples were, &ldquo;Peace be unto you.&rdquo;<sup class="noteMarker">
+	<a href="#footnote3-96911_000_021">3</a>
+      </sup> He has also promised, &ldquo;Peace in this world, and eternal life in the world to come.&rdquo;<sup class="noteMarker">
+	<a href="#footnote4-96911_000_021">4</a>
+      </sup> The Atonement and the Resurrection have taken place. Our Lord and Savior suffered that appalling agony in Gethsemane. He performed the ultimate sacrifice in dying on the cross and then breaking the bonds of death.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p11" class="">All of us benefit from the transcendent blessings of the Atonement and the Resurrection, through which the divine healing process can work in our lives. The hurt can be replaced by the joy the Savior promised. To the doubting Thomas, Jesus said, &ldquo;Be not faithless, but believing.&rdquo;<sup class="noteMarker">
+	<a href="#footnote5-96911_000_021">5</a>
+      </sup> Through faith and righteousness all of the inequities, injuries, and pains of this life can be fully compensated for and made right. Blessings denied in this life will be fully recompensed in the eternities. Through complete repentance of our sins we can be forgiven and we can enjoy eternal life. Thus our suffering in this life can be as the refining fire, purifying us for a higher purpose. Heartaches can be healed, and we can come to know a soul-satisfying joy and happiness beyond our dreams and expectations.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p12" class="">The resolution promised by the Atonement and the Resurrection continues in eternity. Physical limitations will be compensated. Alma&rsquo;s words are comforting: &ldquo;The soul shall be restored to the body, and the body to the soul; yea, and every limb and joint shall be restored to its body; yea, even a hair of the head shall not be lost; but all things shall be restored to their proper and perfect frame.&rdquo;<sup class="noteMarker">
+	<a href="#footnote6-96911_000_021">6</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p13" class="">The resolution is brought about by the Savior&rsquo;s intercession. As He said in the great intercessory prayer found in the 17th chapter of John, &ldquo;And this is life eternal, that they might know thee the only true God, and <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, whom thou hast sent.&rdquo;<sup class="noteMarker">
+	<a href="#footnote7-96911_000_021">7</a>
+      </sup> Then the Savior prayed for His Apostles and all of the Saints, saying: &ldquo;I pray not for the world, but for them which thou hast given me; for they are thine.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p14" class="">&ldquo;And all mine are thine, and thine are mine; and I am glorified in them.&rdquo;<sup class="noteMarker">
+	<a href="#footnote8-96911_000_021">8</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p15" class="">All of us have made wrong turns along the way. I believe the kind and merciful God, whose children we are, will judge us as lightly as He can for the wrongs that we have done and give us the maximum blessing for the good that we do. Alma&rsquo;s sublime utterance seems to me an affirmation of this. Said Alma, &ldquo;And not many days hence the Son of God shall come in his glory; and his glory shall be the glory of the Only Begotten of the Father, full of grace, equity, and truth, full of patience, mercy, and long-suffering, quick to hear the cries of his people and to answer their prayers.&rdquo;<sup class="noteMarker">
+	<a href="#footnote9-96911_000_021">9</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p16" class="">Of vital importance is resolving transgression, experiencing the healing process which comes of repentance. As President Kimball reminds us: &ldquo;The principle of repentance&mdash;of rising again whenever we fall, brushing ourselves off, and setting off again on that upward trail&mdash;is the basis for our hope. It is through repentance that the Lord Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> can work his healing miracle, infusing us with strength when we are weak, health when we are sick, hope when we are downhearted, love when we feel empty, and understanding when we search for truth.&rdquo;<sup class="noteMarker">
+	<a href="#footnote10-96911_000_021">10</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p17" class="">One of the tender stories of the Book of Mormon takes place when Alma speaks to his son Corianton, who has fallen into transgression while on a mission to the Zoramites. As he counsels him to forsake his sin and turn again to the Lord, he learns that Corianton is worried about what will happen to him in the Resurrection. There follows a detailed treatment of the probationary state of this life, of justice versus mercy, and God&rsquo;s plan for our happiness in the hereafter, culminating in this verse:</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p18" class="">&ldquo;&hellip; And mercy claimeth the penitent, and mercy cometh because of the atonement; and the atonement bringeth to pass the resurrection of the dead; and the resurrection of the dead bringeth back men into the presence of God; and thus they are restored into his presence, to be judged according to their works, according to the law and justice.&rdquo;<sup class="noteMarker">
+	<a href="#footnote11-96911_000_021">11</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p19" class="">The Savior gives us a profound key by which we can cope with and even surmount the debilitating forces of the world. Said the Savior, &ldquo;I pray not that thou shouldest take them out of the world, but that thou shouldest keep them from the evil.&rdquo;<sup class="noteMarker">
+	<a href="#footnote12-96911_000_021">12</a>
+      </sup> This grand key then is that, regardless of the saturation of wickedness around us, we must stay free from the evil of the world. The Savior&rsquo;s prayer both commands us to avoid evil and proffers divine help to do so. Through this effort we become one with our Lord. The prayer of the Savior in Gethsemane was, &ldquo;That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.&rdquo;<sup class="noteMarker">
+	<a href="#footnote13-96911_000_021">13</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p20" class="">To remain true and faithful through this mortal vale of tears, we must love God with all our heart, might, mind, and strength and love our neighbor as ourselves. We must also stand together as families; as members of wards and branches, stakes and districts; and as a people. To our neighbors not of our faith we should be as the good Samaritan who cared for the man who fell among thieves.<sup class="noteMarker">
+	<a href="#footnote14-96911_000_021">14</a>
+      </sup> We must gather strength from each other. We must also &ldquo;succor the weak, lift up the hands which hang down, and strengthen the feeble knees.&rdquo;<sup class="noteMarker">
+	<a href="#footnote15-96911_000_021">15</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p21" class="">Paul taught well on this subject. Said he to the Corinthians, speaking of the body, or the Church, of Christ: &ldquo;&hellip; there should be no schism in the body; but &hellip; the members should have the same care one for another.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p22" class="">&ldquo;And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p23" class="">&ldquo;Now ye are the body of Christ, and members in particular.&rdquo;<sup class="noteMarker">
+	<a href="#footnote16-96911_000_021">16</a>
+      </sup> In this way, as individuals and as a people we may be kept from evil. As we go through travail and difficulty, we may feel sorry for ourselves and despair; but with <a class="no-link-style" href="http://lds.org/general-conference/2009/10/the-love-of-god?lang=eng">the love of God</a> and the Saints, unitedly bearing each other&rsquo;s burdens, we can be happy and overcome evil.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p24" class="">Some faithful women have been denied that which is at the very center of their souls. In the eternal plan, no blessing will be kept from the faithful. No woman should question how the Savior values womanhood. The grieving Mary Magdalene was the first to visit the sepulchre after the Crucifixion, and when she saw that the stone had been rolled away and that the tomb was empty, she ran to tell Peter and John. The two Apostles came to see and then went away sorrowing. But Mary stayed. She had stood near the cross.<sup class="noteMarker">
+	<a href="#footnote17-96911_000_021">17</a>
+      </sup> She had been at the burial.<sup class="noteMarker">
+	<a href="#footnote18-96911_000_021">18</a>
+      </sup> And now she stood weeping by the empty sepulchre.<sup class="noteMarker">
+	<a href="#footnote19-96911_000_021">19</a>
+      </sup> There she was honored to be the first mortal to see the risen Lord. After He said, &ldquo;Woman, why weepest thou?&rdquo; she was instructed by Him: &ldquo;Go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.&rdquo;<sup class="noteMarker">
+	<a href="#footnote20-96911_000_021">20</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p25" class="">During His mortal ministry, Jesus left Judea to go to Galilee. He arrived at Jacob&rsquo;s well thirsty and weary from traveling. A woman of Samaria came to draw water. Jewish convention at the time forbade dealings with Samaritans. Yet &ldquo;Jesus saith unto her, Give me to drink. &hellip;</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p26" class="">&ldquo;Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? &hellip;</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p27" class="">&ldquo;Jesus answered and said unto her, If thou knewest the gift of God, and who it is that saith to thee, Give me to drink; thou wouldest have asked of him, and he would have given thee living water.&rdquo;</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p28" class="">Jesus went on to teach her about the living water &ldquo;springing up into everlasting life.&rdquo; The Samaritan woman responded, &ldquo;Sir, I perceive that thou art a prophet.&rdquo; Then she &ldquo;saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.&rdquo; At this point Jesus revealed His true identity to her: &ldquo;I that speak unto thee am he.&rdquo;<sup class="noteMarker">
+	<a href="#footnote21-96911_000_021">21</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p29" class="">The Resurrection and the Atonement of the Savior can be a constant fortifying influence in our lives as illustrated by the account of Elizabeth Jackson, a pioneer in the Martin Handcart Company. She tells of the death of her husband, Aaron, on the Wyoming plains in 1856 in these moving words:</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p30" class="">&ldquo;About nine o&rsquo;clock I retired. Bedding had become very scarce so I did not disrobe. I slept until, as it appeared to me, about midnight. I was extremely cold. The weather was bitter. I listened to hear if my husband breathed, he lay so still. I could not hear him. I became alarmed. I put my hand on his body, when to my horror I discovered that my worst fears were confirmed. My husband was dead. I called for help to the other inmates of the tent. They could render me no aid; and there was no alternative but to remain alone by the side of the corpse till morning. Oh, how the dreary hours drew their tedious length along. When daylight came, some of the male part of the company prepared the body for burial. And oh, such a burial and funeral service. They did not remove his clothing&mdash;he had but little. They wrapped him in a blanket and placed him in a pile with thirteen others who had died, and then covered him up with snow. The ground was frozen so hard that they could not dig a grave. He was left there to sleep in peace until the trump of God shall sound, and the dead in Christ shall awake and come forth in the morning of the first resurrection. We shall then again unite our hearts and lives, and eternity will furnish us with life forever more.&rdquo;<sup class="noteMarker">
+	<a href="#footnote22-96911_000_021">22</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p31" class="">To the question &ldquo;Woman, why weepest thou?&rdquo; we turn to the comforting words written to the faithful Saints by John in the book of Revelation:</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p32" class="">&ldquo;These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p33" class="">&ldquo;Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p34" class="">&ldquo;They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p35" class="">&ldquo;For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.&rdquo;<sup class="noteMarker">
+	<a href="#footnote23-96911_000_021">23</a>
+      </sup></p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p36" class="">To the question &ldquo;Woman, why weepest thou?&rdquo; I testify of the great atoning sacrifice and breaking of the bonds of death by the Lord Jesus Christ, which shall indeed wipe away our tears. I have a witness of this. It has been given by the Holy Spirit of God.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p37" class="">I also testify that the Lord Jesus Christ is the head of this Church today. We see His omnipotent hand guiding this holy work. I further testify to the prophetic calling and great leadership of President Gordon B. Hinckley as His servant under whose inspired direction we are all privileged to serve. President Monson and our beloved associates are witnesses of this.</p>
+			<p uri="/ensign/1996/11/woman-why-weepest-thou.p38" class="">I pray, as did King Benjamin, that we shall &ldquo;be steadfast and immovable, always abounding in good works, that Christ, the Lord God Omnipotent, may seal [us] his, that [we] may be brought to heaven, that [we] may have everlasting salvation and eternal life, through the wisdom, and power, and justice, and mercy of him who created all things, in heaven and in earth, who is God above all.&rdquo;<sup class="noteMarker">
+	<a href="#footnote24-96911_000_021">24</a>
+      </sup> In the name of Jesus Christ, amen.</p>
+		
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+			
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote1-96911_000_021">1.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/20.11?lang=eng#10" onclick="newWindow(this.href); return false;">John 20:11</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote2-96911_000_021">2.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/20.14-15?lang=eng#13" onclick="newWindow(this.href); return false;">John 20:14&ndash;15</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote3-96911_000_021">3.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/20.19?lang=eng#18" onclick="newWindow(this.href); return false;">John 20:19</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote4-96911_000_021">4.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/59.23?lang=eng#22" onclick="newWindow(this.href); return false;">D&amp;C 59:23</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote5-96911_000_021">5.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/20.27?lang=eng#26" onclick="newWindow(this.href); return false;">John 20:27</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote6-96911_000_021">6.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/40.23?lang=eng#22" onclick="newWindow(this.href); return false;">Alma 40:23</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote7-96911_000_021">7.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/17.3?lang=eng#2" onclick="newWindow(this.href); return false;">John 17:3</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote8-96911_000_021">8.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/17.9-10?lang=eng#8" onclick="newWindow(this.href); return false;">John 17:9&ndash;10</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote9-96911_000_021">9.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/9.26?lang=eng#25" onclick="newWindow(this.href); return false;">Alma 9:26</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote10-96911_000_021">10.</a>
+      </span>
+				<p><span class="emphasis">The Teachings of Spencer W. Kimball,</span> ed. Edward L. Kimball (1982), 106.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote11-96911_000_021">11.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/alma/42.23?lang=eng#22" onclick="newWindow(this.href); return false;">Alma 42:23</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote12-96911_000_021">12.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/17.15?lang=eng#14" onclick="newWindow(this.href); return false;">John 17:15</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote13-96911_000_021">13.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/17.21?lang=eng#20" onclick="newWindow(this.href); return false;">John 17:21</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote14-96911_000_021">14.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/luke/10.29-37?lang=eng#28" onclick="newWindow(this.href); return false;">Luke 10:29&ndash;37</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote15-96911_000_021">15.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/dc-testament/dc/81.5?lang=eng#4" onclick="newWindow(this.href); return false;">D&amp;C 81:5</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote16-96911_000_021">16.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/1-cor/12.27?lang=eng#26" onclick="newWindow(this.href); return false;">1 Cor. 12:27</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote17-96911_000_021">17.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/27.56?lang=eng#55" onclick="newWindow(this.href); return false;">Matt. 27:56</a>; <a href="http://lds.org/scriptures/nt/mark/15.40?lang=eng#39" onclick="newWindow(this.href); return false;">Mark 15:40</a>; <a href="http://lds.org/scriptures/nt/john/19.25?lang=eng#24" onclick="newWindow(this.href); return false;">John 19:25</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote18-96911_000_021">18.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/matt/27.61?lang=eng#60" onclick="newWindow(this.href); return false;">Matt. 27:61</a>; <a href="http://lds.org/scriptures/nt/mark/15.47?lang=eng#46" onclick="newWindow(this.href); return false;">Mark 15:47</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote19-96911_000_021">19.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/john/20.11?lang=eng#10" onclick="newWindow(this.href); return false;">John 20:11</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote20-96911_000_021">20.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/john/20.17?lang=eng#16" onclick="newWindow(this.href); return false;">John 20:17</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote21-96911_000_021">21.</a>
+      </span>
+				<p>See <a href="http://lds.org/scriptures/nt/john/4.6-26?lang=eng#5" onclick="newWindow(this.href); return false;">John 4:6&ndash;26</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote22-96911_000_021">22.</a>
+      </span>
+				<p>LeRoy R. Hafen and Ann W. Hafen, <span class="emphasis">Handcarts to Zion</span> (1976), 111.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote23-96911_000_021">23.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/nt/rev/7.14-17?lang=eng#13" onclick="newWindow(this.href); return false;">Rev. 7:14&ndash;17</a>.</p>
+			</li>
+			<li class="footnote " id="-96911_000_021"><a name="-96911_000_021">&nbsp;</a>
+				<span class="label">
+	<a name="footnote24-96911_000_021">24.</a>
+      </span>
+				<p><a href="http://lds.org/scriptures/bofm/mosiah/5.15?lang=eng#14" onclick="newWindow(this.href); return false;">Mosiah 5:15</a>.</p>
+			</li>
+		</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1996/11/this-thing-was-not-done-in-a-corner?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1996/11/always-have-his-spirit?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1996">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1996/11/woman-why-weepest-thou?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=%E2%80%9CWoman, Why Weepest Thou?%E2%80%9D - Ensign Nov. 1996&amp;link=/ensign/1996/11/woman-why-weepest-thou&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1996%2F11%2Fwoman-why-weepest-thou%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1996/11/woman-why-weepest-thou%3flang%3deng%26cid%3dfacebook-shared&amp;t=%e2%80%9cWoman,+Why+Weepest+Thou%3f%e2%80%9d+-+Ensign+Nov.+1996" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1996/11/woman-why-weepest-thou%3flang%3deng%26cid%3ddelicious-shared&amp;title=%e2%80%9cWoman,+Why+Weepest+Thou%3f%e2%80%9d+-+Ensign+Nov.+1996" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1996/11/woman-why-weepest-thou%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=%E2%80%9CWoman, Why Weepest Thou?%E2%80%9D - Ensign Nov. 1996&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1996:11:&ldquo;woman, why weepest thou?&rdquo;";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

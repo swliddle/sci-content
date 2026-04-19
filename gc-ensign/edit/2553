@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>The Davids and the Goliaths - Ensign Nov. 1974 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="The Davids and the Goliaths - Ensign Nov. 1974"><meta name="KEYWORDS" content="example,faith,honesty,standards,youth"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="The Davids and the Goliaths - Ensign Nov. 1974"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1974/11/the-davids-and-the-goliaths?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1974/11/the-davids-and-the-goliaths?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1974/11/the-davids-and-the-goliaths?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1974/11/the-davids-and-the-goliaths?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1974/11?lang=eng">Nov. 1974</a>
+                     </li><li>
+                        <span class="active">The Davids and the Goliaths</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1974/11/our-responsibility-to-the-transgressor?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1974/11/why-is-my-boy-wandering-tonight?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            The Davids and the Goliaths
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p2" class="">President Spencer W. Kimball</p>
+				<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p" class="">President of the Church</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/spencer-w-kimball?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg" alt="Spencer W. Kimball" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">03050_000_032</span>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p3" class="">My brethren, it is wonderful to be with you here tonight, with an estimated 195,000 of us. And we pay tribute to you and express our affection for you.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p4" class="">Long years ago when I was in the stake presidency in the St. Joseph Stake in Arizona, one Sabbath day I filled an assignment in the Eden Ward. The building was a small one, and most of the people were sitting close to us as we sat on the raised platform about a foot and a half above the floor of the building itself.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p5" class="">As the meeting proceeded, my eye was attracted to seven little boys on the front seat of the chapel. I was delighted with seven little boys in this ward conference. I made a mental note, then shifted my interest to other things. Soon my attention was focused on the seven little boys again.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p6" class="">It seemed strange to me that each of the seven little fellows raised his right leg and put it over the left knee, and then in a moment all would change at the same time and put the left leg over the right knee. I thought it was unusual, but I just ignored it.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p7" class="">In a moment or two, all in unison would brush their hair with their right hands, and then all seven little boys leaned lightly on their wrists and supported their faces by their hands, and then simultaneously they went back to the crossing of their legs again.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p8" class="">It all seemed so strange, and I wondered about it as I was trying to think of what I was going to say in the meeting. And then all at once it came to me like a bolt of lightning. These boys were mimicking me!</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p9" class="">That day I learned the lesson of my life&mdash;that we who are in positions of authority must be careful indeed, because others watch us and find in us their examples.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p10" class="">Example is an important characteristic of a boy&rsquo;s life. Generally there are many people who will follow and few who will lead. It is therefore important that all you young men develop the power of leadership and then all be sure to give good examples.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p11" class="">This will be true in your lives. If you have little brothers, remember that they watch you and listen to you, and they are likely to do about what you did and say about what you said.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p12" class="">I hope you will keep this in mind as you come to teenage. Remember that, generally, if you attend your meetings and if you do your duty, it is quite likely that your little brothers will follow your course, and the opposite is also true.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p13" class="">This is also true as to your <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a>. If your little brothers see you faithful in seminary and institute and that you have the right attitudes and that you are preparing yourself to fill a mission, their thoughts will be along the same line.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p14" class="">It was Terence who said: &ldquo;I bid him look into the lives of men as though into a mirror, and from others to take an example for himself.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p15" class="">And in Aesop&rsquo;s fables, Aesop said, &ldquo;Do but set the example yourself, and I will follow you.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p16" class="">Example is the best precept, and [Samuel] Johnson said that &ldquo;Example is more efficacious than precept.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p17" class="">I remind you young men that regardless of your present age, you are building your life; it will be cheap and shoddy or it will be valuable and beautiful; it will be full of constructive activities or it can be destructive; it can be full of joy and happiness, or it can be full of misery. It all depends upon you and your attitudes, for your altitude, or the height you climb, is dependent upon your attitude or your response to situations.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p18" class="">Remember that when you climb a mountain in Switzerland or at Banff or Mount Timpanogos, you travel with people that are interesting and challenging. They have surmounted the same difficulties that you have done.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p19" class="">Remember that those who climb to high places did not always have it easy. We are told that when Abraham Lincoln was a young man, he ran for the legislature in Illinois and was badly &ldquo;swamped.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p20" class="">He next entered business, failed, and spent 17 years of his life paying up the debts of a worthless partner. He fell in love with a beautiful young woman, to whom he became engaged, then she died. Entering politics, he ran for congress and was badly defeated. He tried to get an appointment to the U.S. land office but failed. He became a candidate for the U.S. Senate and was badly defeated. Then in 1856 he became a candidate for vice-president and was again defeated. In 1858 he was defeated by Douglas, but in the face of all this defeat and failure, he eventually achieved the highest success attainable in life and undying fame to the end of time. This was the Abraham Lincoln who was president of the United States. This was the Abraham Lincoln about whom numerous books have been written. This was the Abraham Lincoln who carved his own success out of the mountains of difficulty.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p21" class="">Again we repeat that you will make your life what you want it to be.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p22" class="">An anonymous writer says this: &ldquo;Be glad there are big hurdles in life and rejoice, too, that they are higher than most people care to surmount. Be happy they are numerous. It is those hurdles that give you a chance to work your way to the front of the crowd. They are your friends. For if it were not for high hurdles, many men might be able to outrun you.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p23" class="">May I tell you a story of long ago, of what one boy made of his early life.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p24" class="">About 3,000 years ago when the king of Israel was Saul, and he proved himself unworthy of his high position, the Lord sent the prophet Samuel to find a successor for him. The prophet went to the home of Jesse, the father of eight sons. He called Jesse&rsquo;s sons to him to interview them. When the proud father brought Eliab, the older son, he said to himself, &ldquo;Surely this is the man&rdquo; [see <a href="http://lds.org/scriptures/ot/1-sam/16.6?lang=eng#5" onclick="newWindow(this.href); return false;">1 Sam. 16:6</a>].</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p25" class="">&ldquo;But the Lord said unto Samuel, look not on his countenance, or on the height of his stature; because I have refused him: for the Lord seeth not as man seeth; for man looketh on the outward appearance, but the Lord looketh on the heart.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/16.7?lang=eng#6" onclick="newWindow(this.href); return false;">1 Sam. 16:7</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p26" class="">Then the proud father called a second, and he was not accepted. Seven fine, handsome sons came one after the other before the prophet Samuel, who said to the father, Jesse, &ldquo;Are these all thy children?&rdquo; And then Jesse admitted, &ldquo;Yes, except the youngest, David, and he is out with the sheep.&rdquo; And Samuel said, &ldquo;Go fetch him.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/16.11?lang=eng#10" onclick="newWindow(this.href); return false;">1 Sam. 16:11</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p27" class="">Now when the youngest son came in, he was ruddy and handsome and a delightful personality, and perhaps sunburned, for he was the shepherd and spent much of his time out in the open with the sheep. The Lord inspired Samuel and he said, &ldquo;This is he.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/16.12?lang=eng#11" onclick="newWindow(this.href); return false;">1 Sam. 16:12</a>.) And as the father and the sons gathered around him, Samuel took the horn of oil and anointed David to become the king of Israel.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p28" class="">At this time the Philistines, a bitter enemy of Israel, had come up to conquer Israel, and they were lined up on one ridge and Israel was lined up on the other ridge, and a little valley was in between.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p29" class="">As the armies faced each other preliminary to the battle, a great giant named Goliath came out into the no-man&rsquo;s-land and challenged the Israelites, saying:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p30" class="">&ldquo;Why have you come out to battle us? I am a Philistine, and you are the servants to Saul. Choose you a man for you, and let him come down to me.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p31" class="">&ldquo;If he be able to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall you be our servants, and serve us.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.8-9?lang=eng#7" onclick="newWindow(this.href); return false;">1 Sam. 17:8&ndash;9</a>.) He added: &ldquo;I defy the armies of Israel this day; give me a man, that we may fight together.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/17.10?lang=eng#9" onclick="newWindow(this.href); return false;">1 Sam. 17:10</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p32" class="">Now this man was a giant; he was fearsome. About nine feet tall, he stood high above them all; and he had a helmet of brass on his head and a heavy metal coat of mail. With the strips of brass on his legs and brass between his shoulders, his coat of mail was very, very heavy. His spear was long like a weaver&rsquo;s beam, and his sword sharp as a razor. He had a man to carry his shield.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p33" class="">He was certainly a formidable antagonist. Little wonder that the warriors on Israel&rsquo;s side feared him. None seemed to have the courage or the foolhardiness to accept his challenge, so it was quite understandable that all the Israelite soldiers fell back and trembled.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p34" class="">It happened at this pivotal time that the father, Jesse, was concerned with the welfare of his three eldest sons who had been inducted into the army of Saul. Apparently when these sons were defending Israel, it fell to the lot of David, the youngest, to herd the sheep.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p35" class="">The kindly father called David from the sheep and gave to him a quantity of parched corn and some loaves and sent him to the army camp to take these to his brothers, and ten cheeses to the captain.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p36" class="">David arose very early and started his journey to Elah. He made full arrangements for someone to look after his father&rsquo;s sheep so that they would not be driven away nor destroyed nor eaten by wild animals.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p37" class="">As David arrived at the scene of battle, the army was just going forth to the fight and were shouting for the battle.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p38" class="">David left his carriage in the hands of the keeper of the carriage and ran to the army and saluted his brethren.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p39" class="">Again the Philistine shouted his challenge, as he had done during 40 days of warfare.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p40" class="">As David came into the ranks, the men said to him, &ldquo;Have you seen this giant that defies Israel? Do you realize that the man who kills him will be enriched by the king? To that man who can kill the great Goliath, freedom will come to his <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.25?lang=eng#24" onclick="newWindow(this.href); return false;">1 Sam. 17:25</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p41" class="">David was not well received by his eldest brother either, who was angry with him and said, &ldquo;Why did you come down here? with whom have you left those few sheep in the wilderness? I know you were curious and proud and naughty in your heart, and you have come down out of curiosity to observe the battle.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.28?lang=eng#27" onclick="newWindow(this.href); return false;">1 Sam. 17:28</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p42" class="">David seemed to be disturbed at his brother&rsquo;s denunciation and said, &ldquo;Now what have I done? Isn&rsquo;t there a reason why I came?&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.29?lang=eng#28" onclick="newWindow(this.href); return false;">1 Sam. 17:29</a>.) He knew that inspiration had brought him here for a good purpose to save Israel.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p43" class="">David&rsquo;s inspiration or revelation was repeated to King Saul, who called the young man to him, and David said, &ldquo;Don&rsquo;t let this bully worry you and bring you fear. I will go and fight this Philistine.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.32?lang=eng#31" onclick="newWindow(this.href); return false;">1 Sam. 17:32</a>.) But Saul was shocked and said to David:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p44" class="">&ldquo;[You] art not able to &hellip; fight &hellip; this Philistine &hellip; for you are but a youth, and he a man of war. &hellip;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p45" class="">&ldquo;And David said unto Saul, Thy servant kept his father&rsquo;s sheep, and there came a lion, and a bear, and took a lamb out of the flock:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p46" class="">&ldquo;And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p47" class="">&ldquo;Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/17.33-36?lang=eng#32" onclick="newWindow(this.href); return false;">1 Sam. 17:33&ndash;36</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p48" class="">He then repeated: &ldquo;The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, go, and the Lord be with thee.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.37?lang=eng#36" onclick="newWindow(this.href); return false;">1 Sam. 17:37</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p49" class="">Saul placed the king&rsquo;s armor upon David, but it was so heavy he couldn&rsquo;t bear it and threw it off.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p50" class="">&ldquo;I cannot go with these; for I am not used to them,&rdquo; said David. (See <a href="http://lds.org/scriptures/ot/1-sam/17.39?lang=eng#38" onclick="newWindow(this.href); return false;">1 Sam. 17:39</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p51" class="">As he crossed the brook, David, the boy, stooped over and picked out five small stones and put them in his shepherd&rsquo;s bag; and his sling was in his hand, and he moved toward the giant Philistine.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p52" class="">The great giant apparently was shocked and angered at such an affront. He saw this young man, ruddy and of a youthful, fair countenance, and in his anger and disgust, the Philistine said:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p53" class="">&ldquo;Am I a dog, that thou comest to me with staves? And the Philistine cursed David &hellip; and &hellip; said to [him], Come to me, and I will give [your] flesh &hellip; [to] the fowls of the air, and to the beasts of the field.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/17.43-44?lang=eng#42" onclick="newWindow(this.href); return false;">1 Sam. 17:43&ndash;44</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p54" class="">Then David rose in his majesty and said to the Philistine:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p55" class="">&ldquo;[You come] to me with a sword, and with a spear, and with a shield: but I come to [you] in the name of the Lord of hosts, the God of the armies of Israel, whom [you have] defied.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p56" class="">&ldquo;This day will the Lord deliver [you] into [my] hand; and I will smite [you], and take [your] head from [you], and I will give the carcases of the [army] of the Philistines this day [to] the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p57" class="">&ldquo;And all this assembly shall know that the Lord saveth not with sword and spear: for the battle is the Lord&rsquo;s, and he will give you into our hands.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/17.45-47?lang=eng#44" onclick="newWindow(this.href); return false;">1 Sam. 17:45&ndash;47</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p58" class="">The Philistine and the shepherd boy approached each other, both with confidence:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p59" class="">&ldquo;And David put his hand in his bag, and took out a stone, put it in his sling, aimed it, and sent it at terrific speed, and smote the Philistine in his forehead; perhaps the only unprotected spot, and the stone sunk deep into the forehead of the great, bragging bully who fell upon his face to the earth.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.49?lang=eng#48" onclick="newWindow(this.href); return false;">1 Sam. 17:49</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p60" class="">I wonder how many of you young men have ever owned and used a sling. When I was a little boy, we made our own slings, and we found our own rocks and we discovered our own targets, and we became quite proficient in slinging the rocks. We would take a little piece of leather about the size you would use for a flipper, maybe two inches long and in an elliptical shape. And at each end a little hole was cut, and then a long thong of leather was fastened to each end, one of which had a knot in the end through which we put one finger. Then, with a rock in the sling, we would throw it around our head until we had great momentum, and then would turn loose one of the thongs and the rock would sail toward its destination.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p61" class="">We used to make all our own playthings: our slings, our whistles, our flippers, our play balls, and we learned to use them well.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p62" class="">&ldquo;So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; &hellip; there was no sword in the hand of David [but only a sling].&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/17.50?lang=eng#49" onclick="newWindow(this.href); return false;">1 Sam. 17:50</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p63" class="">All he used was a little pebble and a sling and inspiration and revelation. He had courage, he had strength, he had faith in himself, but especially faith in his Heavenly Father, to whom he offered his prayers.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p64" class="">The 40 days of challenge and of egotism and boasting had ended for this Philistine in death!</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p65" class="">Evidently to put fear in the minds of the enemy, David went to the prone body of his antagonist lying on the ground and cut off his head. This act seemed to have its desired effect. And the enemy fled, and thus one inspired boy defeated an entire army. Israel&rsquo;s army pursued the escaping Philistines and won the battle.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p66" class="">The king inquired as to who the lad was who had performed such a miraculous feat, and then Jonathan gave him his sword, his bow, and his girdle. And the scripture says: &ldquo;And David behaved himself wisely in all &hellip; ways; and the Lord was with him.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/18.14?lang=eng#13" onclick="newWindow(this.href); return false;">1 Sam. 18:14</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p67" class="">Now, my young brothers, remember that every David has a Goliath to defeat, and every Goliath can be defeated. He may not be a bully who fights with fists or sword or gun. He may not even be flesh and blood. He may not be nine feet tall; he may not be armor-protected, but every boy has his Goliaths. And every boy has his sling, and every boy has access to the brook with its smooth stones.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p68" class="">You will meet Goliaths who threaten you. Whether your Goliath is a town bully or is the temptation to steal or to destroy or the temptation to rob or the desire to curse and swear; if your Goliath is the desire to wantonly destroy or the temptation to lust and to sin, or the urge to avoid activity, whatever is your Goliath, he can be slain. But remember, to be the victor, one must follow the path that David followed:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p69" class="">&ldquo;David behaved himself wisely in all his ways; and the Lord was with him.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/18.14?lang=eng#13" onclick="newWindow(this.href); return false;">1 Sam. 18:14</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p70" class="">David had integrity and kept his father&rsquo;s sheep. David did not leave his sheep without a caretaker when he filled another assignment from his father.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p71" class="">David was responsible. His sheep were in his hands; he killed the bear and he killed the lion to save his father&rsquo;s sheep, even at great danger to himself. He took the little lamb out of the mouth of the beast and restored it to its mother. David took five stones to kill Goliath. He needed only one. David was honorable and had faith in his Heavenly Father, and he feared no man so long as he had the confidence of his Lord. He taunted the Philistine giant, saying, &ldquo;You come to me with a sword, and with a spear, and with a shield, with a coat of mail, with an armor bearer: But I come to you in the name of the Lord of Hosts, the God of the armies of Israel, whom thou hast defied.&rdquo; (See <a href="http://lds.org/scriptures/ot/1-sam/17.45?lang=eng#44" onclick="newWindow(this.href); return false;">1 Sam. 17:45</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p72" class="">Sometime ago I tore an advertisement from a current magazine. This is what it said:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p73" class="">&ldquo;One time or another we all face adversity&rsquo;s chilling wind. One man flees from it, and like an unresisting kite falls to the ground. Another yields no retreating inch, and the wind that would destroy him lifts him as readily to the heights. We are not measured by the trials we meet, only by those we overcome.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p74" class="">The pipeline ad read, &ldquo;Neither rivers, mountains nor ocean waters stop our pipeline crews. What they can&rsquo;t go through, they go over, under, or around.&rdquo;</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p75" class="">One obsession of this Church and all its members is missionary work, about which you have heard from Brother Tuttle this night. The Lord told his apostles, as you will see in the beautiful picture over in the Church Office Building, to go into all the world and <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> the gospel to every creature. (See <a href="http://lds.org/scriptures/nt/matt/28.19-20?lang=eng#18" onclick="newWindow(this.href); return false;">Matt. 28:19&ndash;20</a>.) May we remind you young men again, your responsibility is to respond to that call. And if you receive a call from the Lord through your bishop and stake presidency, it is your privilege, but also your obligation, to fill that calling expertly. And since you will now establish your goal to fill a mission, remember it costs money to go to the various parts of the world and preach the gospel. Remember, then, it is your privilege now to begin to save your money.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p76" class="">Every time money comes into your hands, through gifts or earnings, set at least a part of it away in a savings account to be used for your mission. Every boy would like to be independent and furnish his own funds for his mission, rather than to ask his parents to do that for him. Every boy in every country in all the world who has been baptized and received the Holy Ghost will have the responsibility of bearing the message of the gospel to the people of the world. And this is also your opportunity, and it will contribute greatly toward your greatness.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p77" class="">I like the lines of Edgar A. Guest, which he has titled &ldquo;Equipment&rdquo;:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">Figure it out for yourself, my lad,</div>
+					<div class="line" id="">You&rsquo;ve all that the great of men have had,</div>
+					<div class="line" id="">Two arms, two hands, two legs, two eyes</div>
+					<div class="line" id="">And brain to use if you would be wise.</div>
+					<div class="line" id="">With this equipment they all began,</div>
+					<div class="line" id="">So start for the top and say, &ldquo;I can.&rdquo;</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">Look them over, the wise and great,</div>
+					<div class="line" id="">They take their food from a common plate,</div>
+					<div class="line" id="">And similar knives and forks they use,</div>
+					<div class="line" id="">With similar laces they tie their shoes,</div>
+					<div class="line" id="">The world considers them brave and smart,</div>
+					<div class="line" id="">But you&rsquo;ve all they had when they made their start.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">You can triumph and come to skill.</div>
+					<div class="line" id="">You can be great if you only will.</div>
+					<div class="line" id="">You&rsquo;re well equipped for what fight you choose,</div>
+					<div class="line" id="">You have legs and arms and a brain to use,</div>
+					<div class="line" id="">And the man who has risen great deeds to do</div>
+					<div class="line" id="">Began his life with no more than you.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">You are the handicap you must face,</div>
+					<div class="line" id="">You are the one who must choose your place,</div>
+					<div class="line" id="">You must say where you want to go,</div>
+					<div class="line" id="">How much you will study the truth to know.</div>
+					<div class="line" id="">God has equipped you for life, but He</div>
+					<div class="line" id="">Lets you decide what you want to be.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">Courage must come from the soul within,</div>
+					<div class="line" id="">The man must furnish the will to win.</div>
+					<div class="line" id="">So figure it out for yourself, my lad.</div>
+					<div class="line" id="">You were born with all that the great have had,</div>
+					<div class="line" id="">With your equipment, they all began</div>
+					<div class="line" id="">Get hold of yourself, and say: &ldquo;I can.&rdquo;</div>
+				</div>
+				<div class="citationInfo" id="">
+					<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p108" class=""><span class="emphasis">Collected Verse of Edgar A. Guest,</span> Chicago: Reilly and Lee, 1934, p. 666</p>
+				</div>
+			</div>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p109" class="">May I bring to your attention another of the giant Goliaths that may challenge you and stand in your way. His name this time is pornography or filthiness. Listen here:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">When you tell a filthy story,</div>
+					<div class="line" id="">Do you ever stop to think</div>
+					<div class="line" id="">What impression you have made upon the crowd?</div>
+					<div class="line" id="">Do you think the boys enjoy it?</div>
+					<div class="line" id="">Do you think because they laugh</div>
+					<div class="line" id="">That you have sufficient reason to be proud?</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">Do you know that you exhibit</div>
+					<div class="line" id="">All that is within your soul,</div>
+					<div class="line" id="">When the filthy story passes from your tongue?</div>
+					<div class="line" id="">It reveals your own defilement,</div>
+					<div class="line" id="">It proclaims your ignorance,</div>
+					<div class="line" id="">It disgusts all decent boys who love real fun.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">Do you think that you exhibit</div>
+					<div class="line" id="">Any real common sense,</div>
+					<div class="line" id="">When you show the crowd how rotten is your mind?</div>
+					<div class="line" id="">Do you know that you dishonor</div>
+					<div class="line" id="">Both your parents and your friends?</div>
+					<div class="line" id="">Think it over, boy, and that is what you&rsquo;ll find.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">Be a little choice in language;</div>
+					<div class="line" id="">Be a little more refined,</div>
+					<div class="line" id="">If respect of those around you you would win.</div>
+					<div class="line" id="">You will have a great advantage</div>
+					<div class="line" id="">Over those who are inclined</div>
+					<div class="line" id="">To go through life in filth and slime and sin.</div>
+				</div>
+			</div>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p134" class="">These verses I read when I was a little boy, and they made a deep impression on me. I hope they will touch your hearts.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p135" class="">When I lived in Arizona as a boy, nearly all the farmers had melon patches, and some of the farmers raised them for the market. Sometimes some boys would gang up and in the darkness of the night, go to one of these melon patches, and with their jackknives go through the patch and slash all the melons they could reach. They did not want the melons to eat, merely an ugly, destructive urge to destroy. This I never could understand, and I could never understand setting fire to things or breaking windows or tearing rugs or any of the mean tricks that were destructive in nature.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p136" class="">David would not do such a thing. He killed a lion with his bare hands, but that was to protect his sheep. He killed a Goliath, but that was to save Israel. He killed a bear with his bare hands, but again that was to save his father&rsquo;s flocks.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p137" class="">I hope that if ever in your presence there are fellows with destructive ideas, that you will help to curb them and dissuade them, especially from doing those things which bring them no value and only leave blots upon their characters.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p138" class="">Will you remember the scripture from Mormon:</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p139" class="">&ldquo;Be wise in the days of your probation; strip yourselves of all uncleanness; ask not, that ye may consume it on your lusts, but ask with a firmness unshaken, that ye will yield to no temptation, but that ye will serve the true and living God.&rdquo; (<a href="http://lds.org/scriptures/bofm/morm/9.28?lang=eng#27" onclick="newWindow(this.href); return false;">Morm. 9:28</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p140" class="">Perhaps these lines from Henry Van Dyke may be of interest to you:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">Men have dulled their eyes with sin,</div>
+					<div class="line" id="">And dimmed the light of heaven with doubt,</div>
+					<div class="line" id="">And built their temple walls to shut thee in,</div>
+					<div class="line" id="">And framed their iron creeds to shut thee out.</div>
+					<div class="line" id="">Addressed to God of the Open Air</div>
+				</div>
+			</div>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p146" class="">And you, my fine young men, must not be just average. Your lives must be clean and free from all kinds of evil thoughts or acts&mdash;no lying, no theft, no anger, no faithlessness, no failure to do that which is right, no sexual sins of any kind, at any time.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p147" class="">You know what is right and what is wrong. You have all received the Holy Ghost following your <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptism</a>. You need no one to brand the act or thought as wrong or right. You know by the Spirit. You are painting your own picture, carving your own statue. It is up to you to make it acceptable.</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p148" class="">May God bless you, our beloved young men. I know your Heavenly Father is your true friend. Everything he asks you to do is right and will bring blessings to you and make you manly and strong. &ldquo;And David behaved himself &hellip; in all his ways; and the Lord was with him.&rdquo; (<a href="http://lds.org/scriptures/ot/1-sam/18.14?lang=eng#13" onclick="newWindow(this.href); return false;">1 Sam. 18:14</a>.)</p>
+			<p uri="/ensign/1974/11/the-davids-and-the-goliaths.p149" class="">May God bless you, I pray, in the name of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1974/11/our-responsibility-to-the-transgressor?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1974/11/why-is-my-boy-wandering-tonight?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 1974">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1974/11/the-davids-and-the-goliaths?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=The Davids and the Goliaths - Ensign Nov. 1974&amp;link=/ensign/1974/11/the-davids-and-the-goliaths&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1974%2F11%2Fthe-davids-and-the-goliaths%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1974/11/the-davids-and-the-goliaths%3flang%3deng%26cid%3dfacebook-shared&amp;t=The+Davids+and+the+Goliaths+-+Ensign+Nov.+1974" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1974/11/the-davids-and-the-goliaths%3flang%3deng%26cid%3ddelicious-shared&amp;title=The+Davids+and+the+Goliaths+-+Ensign+Nov.+1974" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1974/11/the-davids-and-the-goliaths%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=The Davids and the Goliaths - Ensign Nov. 1974&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1974:11:the davids and the goliaths";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

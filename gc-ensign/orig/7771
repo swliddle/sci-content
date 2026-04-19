@@ -1,0 +1,634 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>&ldquo;Daughters in My Kingdom&rdquo;: The History and Work of Relief Society - Ensign Nov. 2010 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="&ldquo;Daughters in My Kingdom&rdquo;: The History and Work of Relief Society - Ensign Nov. 2010"><meta name="KEYWORDS" content="Church history,Relief Society,service"><meta name="DESCRIPTION" content="Studying the history of Relief Society gives definition and expression to who we are as disciples and followers of our Savior, Jesus Christ."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="&ldquo;Daughters in My Kingdom&rdquo;: The History and Work of Relief Society - Ensign Nov. 2010"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/julie-b-beck-10.jpg"><meta property="og:description" content="Studying the history of Relief Society gives definition and expression to who we are as disciples and followers of our Savior, Jesus Christ."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/2010/11?lang=eng">Nov. 2010</a>
+                     </li><li>
+                        <span class="active">&ldquo;Daughters in My Kingdom&rdquo;: The History and Work of Relief Society</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2010/11/till-we-meet-again?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2010/11/steadfast-and-immovable?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            &ldquo;Daughters in My Kingdom&rdquo;: The History and Work of Relief Society
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/julie-b-beck?lang=eng"><div class="byline" id="">
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p2" class="">By Julie&nbsp;B. Beck</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p3" class="">Relief Society General President</p>
+				</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            <div class="audio-player">
+                                        <div id="audioClose"><a href="#" title="Close Audio" onclick="closeAudioPlayer(); return false;">Close Audio</a></div>
+                                    </div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/julie-b-beck?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/julie-b-beck-10.jpg" alt="Julie B. Beck" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">Studying the history of Relief Society gives definition and expression to who we are as disciples and followers of our Savior, Jesus Christ.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">09211_000_044</span>
+				<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p5" class="">This meeting is a gift to all of Heavenly Father&rsquo;s daughters who desire to learn His mind and will and understand their responsibilities in His plan. I have visited many of you this past year, and my heart has been touched as I have looked into your eyes, hugged you, laughed with you, cried with you, and listened to your grief, joy, and triumph. Each of you is precious beyond description and known by our Heavenly Father. As daughters of God, you are preparing for eternal designations, and each of you has a female identity, nature, and responsibility. The success of families, communities, this Church, and the precious plan of salvation is dependent on your faithfulness. Oh, dear sisters, how we love and pray for you!</p>
+				<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p6" class="">All of us are in the middle of a very personal mortal experience. Two sisters I have met recently represent how to live faithfully. One sister lives in central Brazil. Her lovely redbrick home, set in a yard of red soil, surrounded by a wall of red blocks, is a haven and refuge from the world outside. Her bright-eyed children know how to sing Primary songs, and on the walls of her home hang pictures of the Savior, temples, and prophets of God cut from the <span class="emphasis">Liahona</span> magazine. She and her husband made personal sacrifices to be sealed in the temple so their children could be born in the covenant. She told me that she prays continually for the Lord to give her strength and inspiration sufficient to bring up her children in the light, truth, and strength of the gospel.</p>
+				<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p7" class="">Another sister lives alone in a tiny apartment on the 80th floor of a building in Hong Kong. She has some physical difficulties, but she is cheerfully independent. She is the only member of the Church in her <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>. On a little shelf are her scriptures, her Relief Society manuals, and other Church books. She has created a Spirit-filled haven in her home, and she is a light to everyone in her branch.</p>
+				<div>
+					<h2>Warnings</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p9" class="">We know that many sisters live in oppressive or dangerous circumstances. Some are constantly hungry, and some must summon daily courage to continue in faith despite disappointments and being betrayed by others. Because we are living in the last days of this earth, there are signs of a great struggle everywhere. Myths and misperceptions regarding the strength, purpose, and position of Latter-day Saint women abound. Prevailing myths imply that we are of lower importance than men, that we are generally sweet but uninformed, and that no matter what we do, we will never be enough to be accepted by our Heavenly Father. As the Apostle Peter said, there are &ldquo;false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote1-09211_000_044">1</a>
+	</sup></p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p10" class="">The Book of Mormon describes what is happening:</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p11" class="">&ldquo;For behold, at that day shall [Satan] rage in the hearts of the children of men, and stir them up to anger against that which is good.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p12" class="">&ldquo;And others will he pacify, and lull them away into carnal security, that they will say: All is well in Zion; yea, Zion prospereth, all is well&mdash;and thus the devil cheateth their souls, and leadeth them away carefully down to hell.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p13" class="">&ldquo;And behold, others he flattereth away, and telleth them there is no hell; and he saith unto them: I am no devil, for there is none&mdash;and thus he whispereth in their ears, until he grasps them with his awful chains.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote2-09211_000_044">2</a>
+	</sup></p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p14" class="">In the growing climate of entitlement, excuse, apathy, and enticement, daughters of God who are not watchful, prayerful, and inspired are increasingly at risk of becoming what the scriptures describe as &ldquo;silly women&rdquo;<sup class="noteMarker">
+	  <a href="#footnote3-09211_000_044">3</a>
+	</sup> who worship a variety of &ldquo;strange gods.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote4-09211_000_044">4</a>
+	</sup> Sadly, as a result of life&rsquo;s difficulties and the world&rsquo;s popular heresies, many sisters believe the myths more than the truth. Their misalignment with God&rsquo;s plan is demonstrated in findings that many are not doing essential things such as praying and reading scriptures. The Lord Himself has said that &ldquo;this is a day of warning, and not a day of many words.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote5-09211_000_044">5</a>
+	</sup></p>
+				</div>
+				<div>
+					<h2>Relief Society Was Organized to Be a Defense and a Refuge</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p16" class="">In order to watch over, teach, and inspire His daughters in these perilous times, God authorized the Prophet <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a> to organize the women of the Church. This divinely appointed and priesthood-directed organization is called Relief Society.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p17" class="">The purpose of Relief Society is to prepare daughters of God for the blessings of eternal life as they increase in faith and personal righteousness, strengthen families and homes, and seek out and help others who are in need.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p18" class="">Relief Society clarifies our work and unifies us as daughters of God in defense of His plan. In this day of mistaken identities, confusion, and distraction, Relief Society is meant to be a compass and guide to teach the truth to faithful women. Righteous women today seek an outpouring of revelation to resist distractions, fight evil and spiritual destruction, and rise above personal disasters by increasing their faith, strengthening their families, and providing relief to others.</p>
+				</div>
+				<div>
+					<h2>History and Work of Relief Society</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p20" class="">Our presidency has prayed, fasted, pondered, and counseled with prophets, seers, and revelators to learn what God would have us do to help His daughters be strong in the face of &ldquo;the calamity which should come upon the inhabitants of the earth.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote6-09211_000_044">6</a>
+	</sup> An answer has come that the sisters of the Church should know and learn from the history of Relief Society. Understanding the history of Relief Society strengthens the foundational identity and worth of faithful women.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p21" class="">In consequence of this, a history of Relief Society for the Church is being completed and will be available for our use next year. In anticipation of this, Relief Society history is receiving increased attention, such as on the visiting teaching page of the <span class="emphasis">Liahona</span> and the <span class="emphasis">Ensign.</span> The preparation of the history has been an inspired and revelatory experience.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p22" class="">As we have studied the history of Relief Society, we have learned that the Lord&rsquo;s vision and purpose for Relief Society was not of a sleepy meeting on Sunday. He had in mind something much, much bigger than a women&rsquo;s club or special-interest entertainment group.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p23" class="">He intended Relief Society to help build His people and prepare them for the blessings of the temple. He established this organization to align His daughters with His work and to enlist their help in building His kingdom and strengthening the homes of Zion.</p>
+				</div>
+				<div>
+					<h2>History Teaches Us Who We Are</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p25" class="">We study our history to learn who we are. There is a worldwide hunger among good women to know their identity, value, and importance. Studying and applying the history of Relief Society gives definition and expression to who we are as disciples and followers of our Savior, <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>. Our faithfulness and service are signs of our conversion and commitment to remember and follow Him. In July of 1830, at the beginning of the Restoration of His Church, the Lord selected His first female leader of this dispensation, and in a revelation to her, He said, &ldquo;I speak unto you, Emma Smith, my daughter; for verily I say unto you, all those who receive my gospel are sons and daughters in my kingdom.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote7-09211_000_044">7</a>
+	</sup></p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p26" class="">The history of Relief Society teaches us that our Heavenly Father knows His daughters. He loves them, He has given them specific responsibilities, and He has spoken to and guided them during their mortal missions. Additionally, the history of Relief Society elevates and validates the standing of women and demonstrates how they work in companionship with faithful priesthood leaders.</p>
+				</div>
+				<div>
+					<h2>History Teaches Us What We Are to Do</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p28" class="">We study our history to learn what we are to do. Through our history we learn how to prepare for the blessings of eternal life. The Relief Society as an organization has always had the responsibility to organize the energies of the sisters in the wards and branches of Zion. Through Relief Society meetings, the ministry of visiting teachers, and their combined service, daughters of God are taught, watched over, and inspired in their responsibility in the Lord&rsquo;s work and kingdom. Ward and branch Relief Society presidents are set apart to direct that work.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p29" class="">One year ago at this meeting, policies regarding Relief Society meetings were announced. We are happy to report that in most wards and branches throughout the world, Relief Society presidencies and sisters have embraced those policies and the spirit behind them. It has been a joy to see a rejuvenation of the historical purpose and work of Relief Society. We have also seen an increase in the dignity, identity, and relevance of Relief Society as all meetings of the sisters are now simply named and announced what they are&mdash;Relief Society meetings. We are seeing an increase of faith and personal righteousness, a strengthening of families and homes, and more relief being offered by Relief Society sisters through the correct use of Relief Society meetings. All policies regarding Relief Society meetings, visiting teaching, and other Relief Society work have their foundation in the history of Relief Society and are approved by the First Presidency.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p30" class="">It has always been a responsibility of Relief Society to participate in the work of salvation. From the beginning of the restored Church, the sisters have been there first, last, and always in responding to the happenings of everyday life. From Relief Society, sisters go forth to serve in Primary, Young Women, <a class="no-link-style" href="http://lds.org/manual/sunday-school?lang=eng">Sunday School</a>, and other efforts, and they are beacons of light and virtue to the rising generation. Personal service builds each individual sister, and the united service of millions of faithful women creates a formidable force of faith in the Lord&rsquo;s work. History shows that since the beginning of the Restoration, sisters have been at the forefront in sharing the gospel, and they continue this effort as they serve missions, prepare young men and women to serve missions, and invite their friends, neighbors, and family members to share in the blessings of the gospel. We also learn from history that the Prophet Joseph Smith used Relief Society meetings to instruct the sisters in their preparation for the temple. Today, family history and temple work continue to be some of the primary obligations of Relief Society.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p31" class="">Our understanding of our historical purpose helps women learn to prioritize properly so they will &ldquo;not spend money for that which is of no worth, nor [their] labor for that which cannot satisfy.&rdquo;<sup class="noteMarker">
+	  <a href="#footnote8-09211_000_044">8</a>
+	</sup> Relief Society has always had the responsibility to do as the Apostle Paul taught&mdash;to teach young women to be sober, discreet, and chaste and to teach those who are married to love their husbands, love their children, and strengthen their homes.<sup class="noteMarker">
+	  <a href="#footnote9-09211_000_044">9</a>
+	</sup> The history of Relief Society teaches us to take care of the essential things which will save and sanctify us and the things which are necessary to make us personally self-reliant and useful in the Lord&rsquo;s kingdom.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p32" class="">A constant theme through our history is that sisters who utilize the power of the Holy Ghost operate with the inspiration of the Lord in their lives and receive revelation for their responsibilities.</p>
+				</div>
+				<div>
+					<h2>History Unites Faithful Women</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p34" class="">We study our history because it unites faithful women. The history of Relief Society is a Spirit-filled story of strong, faithful, purposeful women. As a part of the Lord&rsquo;s restored Church, Relief Society can now be found in nearly 170 nations. Everywhere in the world adult women in the Lord&rsquo;s Church can be given serious and important responsibilities.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p35" class="">Young girls and young women in the Church learn to set goals through the Faith in God and Personal Progress programs, which focus them toward the temple and their future responsibilities. In Relief Society they continue to progress toward the blessings of the temple and eternal life by increasing their faith and personal righteousness, strengthening their families and homes, and seeking out and helping those who are in need. Faithful sisters learn to do this with very little applause or recognition for the work they do. That is because Relief Society thrives on the teaching of the Lord Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>, who said that when we give our alms (or offerings) in secret, our Father in Heaven, who sees in secret, will reward us openly.<sup class="noteMarker">
+	  <a href="#footnote10-09211_000_044">10</a>
+	</sup></p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p36" class="">Through the history and work of Relief Society, we are connected to a great worldwide sisterhood of young and old, rich and poor, educated and illiterate, single and married, strong and immovable daughters of God.</p>
+				</div>
+				<div>
+					<h2>Knowledge of History Can Help Us Change</h2>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p38" class="">We study our history because it helps us change. Ultimately, the value of history is not so much in its dates, times, and places. It is valuable because it teaches us the principles, purposes, and patterns we are to follow, it helps us know who we are and what we are to do, and it unites us in strengthening the homes of Zion and building the kingdom of God on the earth. Relief Society, when it operates in an inspired way, can replace fear, doubt, and selfishness with faith, hope, and charity. As we move the Lord&rsquo;s work forward, the history of Relief Society will continue to be written by faithful sisters throughout the world. The Lord is strengthening Relief Society in the living present and preparing a glorious future for His daughters.</p>
+					<p uri="/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society.p39" class="">I bear you my testimony of the reality of our Heavenly Father and His Son, Jesus Christ. Through the Prophet Joseph Smith, the gospel, the good news of our identity and purpose, was restored to the earth. In the name of Jesus Christ, amen.</p>
+				</div>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol>
+    <h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote1-09211_000_044">1.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/2-pet/2.1?lang=eng#0" onclick="newWindow(this.href); return false;">2&nbsp;Peter 2:1</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote2-09211_000_044">2.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/28.20-22?lang=eng#19" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 28:20&ndash;22</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote3-09211_000_044">3.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/nt/2-tim/3.6?lang=eng#5" onclick="newWindow(this.href); return false;">2&nbsp;Timothy 3:6</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote4-09211_000_044">4.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/ot/josh/24.23?lang=eng#22" onclick="newWindow(this.href); return false;">Joshua 24:23</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote5-09211_000_044">5.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/dc-testament/dc/63.58?lang=eng#57" onclick="newWindow(this.href); return false;">Doctrine and Covenants 63:58</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote6-09211_000_044">6.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/dc-testament/dc/1.17?lang=eng#16" onclick="newWindow(this.href); return false;">Doctrine and Covenants 1:17</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote7-09211_000_044">7.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/dc-testament/dc/25.1?lang=eng#0" onclick="newWindow(this.href); return false;">Doctrine and Covenants 25:1</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote8-09211_000_044">8.</a>
+      </span>
+					<p><a href="http://lds.org/scriptures/bofm/2-ne/9.51?lang=eng#50" onclick="newWindow(this.href); return false;">2&nbsp;Nephi 9:51</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote9-09211_000_044">9.</a>
+      </span>
+					<p>See <a href="http://lds.org/scriptures/nt/titus/2.4-5?lang=eng#3" onclick="newWindow(this.href); return false;">Titus 2:4&ndash;5</a>.</p>
+				</li>
+				<li class="footnote " id="-09211_000_044"><a name="-09211_000_044">&nbsp;</a>
+					<span class="label">
+	<a name="footnote10-09211_000_044">10.</a>
+      </span>
+					<p>See <a href="http://lds.org/scriptures/nt/matt/6.4?lang=eng#3" onclick="newWindow(this.href); return false;">Matthew 6:4</a>; <a href="http://lds.org/scriptures/bofm/3-ne/13.4?lang=eng#3" onclick="newWindow(this.href); return false;">3&nbsp;Nephi 13:4</a>.</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2010/11/till-we-meet-again?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2010/11/steadfast-and-immovable?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2010">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#d" onclick="openAudioPlayer('http://broadcast.lds.org/general-relief-society-meeting/2010-september/2010-09-0010-julie-b-beck-64k-eng.mp3', 'flash Message'); return false;" title="Listen">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://lds.org/churchmagazines/EN_2010_11_38___09211_000_044.pdf">PDF</a></li><li><a href="http://lds.org/churchmagazines/EN_2010_11_00___09211_000_000.pdf"></a></li><li><a href="http://broadcast.lds.org/general-relief-society-meeting/2010-september/2010-09-0010-julie-b-beck-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=%E2%80%9CDaughters in My Kingdom%E2%80%9D: The History and Work of Relief Society - Ensign Nov. 2010&amp;link=/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F2010%2F11%2Fdaughters-in-my-kingdom-the-history-and-work-of-relief-society%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society%3flang%3deng%26cid%3dfacebook-shared&amp;t=%e2%80%9cDaughters+in+My+Kingdom%e2%80%9d%3a+The+History+and+Work+of+Relief+Society+-+Ensign+Nov.+2010" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society%3flang%3deng%26cid%3ddelicious-shared&amp;title=%e2%80%9cDaughters+in+My+Kingdom%e2%80%9d%3a+The+History+and+Work+of+Relief+Society+-+Ensign+Nov.+2010" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/2010/11/daughters-in-my-kingdom-the-history-and-work-of-relief-society%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=%E2%80%9CDaughters in My Kingdom%E2%80%9D: The History and Work of Relief Society - Ensign Nov. 2010&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2010:11:&ldquo;daughters in my kingdom&rdquo;: the history and work of relief society";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

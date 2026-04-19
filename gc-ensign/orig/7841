@@ -1,0 +1,625 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Stand in Holy Places - Ensign Nov. 2011 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Stand in Holy Places - Ensign Nov. 2011"><meta name="KEYWORDS" content="commandments,prayer,spirituality"><meta name="DESCRIPTION" content="Communication with our Father in Heaven&mdash;including our prayers to Him and His inspiration to us&mdash;is necessary in order for us to weather the storms and trials of life."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Stand in Holy Places - Ensign Nov. 2011"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/2011/11/stand-in-holy-places?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/thomas-s-monson-10.jpg"><meta property="og:description" content="Communication with our Father in Heaven&mdash;including our prayers to Him and His inspiration to us&mdash;is necessary in order for us to weather the storms and trials of life."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/common/video.css"><script type="text/javascript" src="/resources/script/common/swfobject.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/youTubeLoader.js">&nbsp;</script><script type="text/javascript">
+        var flashvars = { 
+                xmlSource: unescape("/resources/video/xml/09611_000_033/eng?lang=eng")
+                
+            };
+        var params = {
+            menu: "false",
+            allowScriptAccess: "always",
+            scale: "noscale",
+            allowFullScreen: "true",
+            wmode: "opaque"
+        };
+        // set up expressinstall.swf
+        swfobject.embedSWF("/resources/swf/ldsUniversalPlayer.swf", "ldsUniversalPlayer", "480", "270", "10.0.0", "http://www.ldsavd.org/ldsUniversalPlayer/swf/expressInstall.swf", flashvars, params);
+        
+        //init the youTubeLoader javascript methods
+        SWFID = "ldsUniversalPlayer"
+        
+        // Call to Flash Player/ActionScript
+        function getFlashMovie(ldsUniversalPlayer) {
+            var isIE = navigator.appName.indexOf("Microsoft") != -1;
+            return (isIE) ? window[ldsUniversalPlayer] : document[ldsUniversalPlayer];
+        }
+        function callToActionscript() 
+        {
+            try {
+                getFlashMovie("ldsUniversalPlayer").sendToActionscript();
+            } catch (e) { };
+        }
+        
+        // Dimmer Functions
+        function lightsOff()
+        {
+            document.getElementById('fade').style.display='block';
+        }
+        function lightsOn()
+        {
+            document.getElementById('fade').style.display='none';
+        }
+    </script>
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/2011/11/stand-in-holy-places?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/2011/11/stand-in-holy-places?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/2011/11/stand-in-holy-places?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2011/11?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2011?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class="active"><a href="http://lds.org/ensign/2011/11?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/ensign/2011?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2011/11?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2011?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2011/11?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2011?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/2011/11?lang=eng">Nov. 2011</a>
+                     </li><li>
+                        <span class="active">Stand in Holy Places</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2011/11/the-importance-of-a-name?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2011/11/covenants?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Stand in Holy Places
+                            </h1>
+                            <h2 class="author">
+                                    <a href="http://lds.org/church/leader/thomas-s-monson?lang=eng"><div class="byline" id="">
+					<p uri="/ensign/2011/11/stand-in-holy-places.p2" class="">By President Thomas&nbsp;S. Monson</p>
+				</div></a>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            <div class="audio-player">
+                                        <div id="audioClose"><a href="#" title="Close Audio" onclick="closeAudioPlayer(); return false;">Close Audio</a></div>
+                                    </div>
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/thomas-s-monson?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/thomas-s-monson-10.jpg" alt="Thomas S. Monson" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">Communication with our Father in Heaven&mdash;including our prayers to Him and His inspiration to us&mdash;is necessary in order for us to weather the storms and trials of life.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">09611_000_033</span>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p4" class="">My beloved brothers and sisters, we have heard fine messages this morning, and I commend each who has participated. We&rsquo;re particularly delighted to have Elder <a href="http://lds.org/church/leader/robert-d-hales?lang=eng">Robert&nbsp;D. Hales</a> with us once again and feeling improved. We love you, Bob.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p5" class="">As I pondered what I would like to say to you this morning, I have felt impressed to share certain thoughts and feelings which I consider to be pertinent and timely. I pray that I may be guided in my remarks.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p6" class="">I have lived on this earth for 84 years now. To give you a little perspective, I was born the same year Charles Lindbergh flew the first solo nonstop flight from New York to Paris in a single-engine, single-seat monoplane. Much has changed during the 84 years since then. Man has long since been to the moon and back. In fact, yesterday&rsquo;s science fiction has become today&rsquo;s reality. And that reality, thanks to the technology of our times, is changing so fast we can barely keep up with it&mdash;if we do at all. For those of us who remember dial telephones and manual typewriters, today&rsquo;s technology is more than merely amazing.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p7" class="">Also evolving at a rapid rate has been the moral compass of society. Behaviors which once were considered inappropriate and immoral are now not only tolerated but also viewed by ever so many as acceptable.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p8" class="">I recently read in the <span class="emphasis">Wall Street Journal</span> an article by Jonathan Sacks, Britain&rsquo;s chief rabbi. Among other things, he writes: &ldquo;In virtually every Western society in the 1960s there was a moral revolution, an abandonment of its entire traditional ethic of self-restraint. All you need, sang the Beatles, is love. The Judeo-Christian moral code was jettisoned. In its place came [the adage]: <span class="emphasis">[Do] whatever works for you.</span> The Ten Commandments were rewritten as the Ten Creative Suggestions.&rdquo;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p9" class="">Rabbi Sacks goes on to lament:</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p10" class="">&ldquo;We have been spending our moral capital with the same reckless abandon that we have been spending our financial capital.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p11" class="">&ldquo;There are large parts of [the world] where religion is a thing of the past and there is no counter-voice to the culture of buy it, spend it, wear it, flaunt it, because you&rsquo;re worth it. The message is that morality is pass&eacute;, conscience is for wimps, and the single overriding command is &lsquo;Thou shalt not be found out.&rsquo;&rdquo;<sup class="noteMarker"><a href="#footnote1-09611_000_033">1</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p12" class="">My brothers and sisters, this&mdash;unfortunately&mdash;describes much of the world around us. Do we wring our hands in despair and wonder how we&rsquo;ll ever survive in such a world? No. Indeed, we have in our lives the gospel of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, and we know that morality is not pass&eacute;, that our conscience is there to guide us, and that we are responsible for our actions.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p13" class="">Although the world has changed, the laws of God remain constant. They have not changed; they will not change. The Ten Commandments are just that&mdash;commandments. They are <span class="emphasis">not</span> suggestions. They are every bit as requisite today as they were when God gave them to the children of Israel. If we but listen, we hear the echo of God&rsquo;s voice, speaking to us here and now:</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p14" class="">&ldquo;Thou shalt have no other gods before me.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p15" class="">&ldquo;Thou shalt not make unto thee any graven image.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p16" class="">&ldquo;Thou shalt not take the name of the Lord thy God in vain.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p17" class="">&ldquo;Remember the sabbath day, to keep it holy.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p18" class="">&ldquo;Honour thy father and thy mother.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p19" class="">&ldquo;Thou shalt not kill.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p20" class="">&ldquo;Thou shalt not commit adultery.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p21" class="">&ldquo;Thou shalt not steal.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p22" class="">&ldquo;Thou shalt not bear false witness.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p23" class="">&ldquo;Thou shalt not covet.&rdquo;<sup class="noteMarker"><a href="#footnote2-09611_000_033">2</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p24" class="">Our code of conduct is definitive; it is not negotiable. It is found not only in the Ten Commandments but also in the Sermon on the Mount, given to us by the Savior when He walked upon the earth. It is found throughout His teachings. It is found in the words of modern revelation.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p25" class="">Our Father in Heaven is the same yesterday, today, and forever. The prophet Mormon tells us that God is &ldquo;unchangeable from all eternity to all eternity.&rdquo;<sup class="noteMarker"><a href="#footnote3-09611_000_033">3</a></sup> In this world where nearly everything seems to be changing, His constancy is something on which we can rely, an anchor to which we can hold fast and be safe, lest we be swept away into uncharted waters.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p26" class="">It may appear to you at times that those out in the world are having much more fun than you are. Some of you may feel restricted by the code of conduct to which we in the Church adhere. My brothers and sisters, I declare to you, however, that there is <span class="emphasis">nothing</span> which can bring more joy into our lives or more peace to our souls than the Spirit which can come to us as we follow the Savior and keep the commandments. That Spirit cannot be present at the kinds of activities in which so much of the world participates. The Apostle Paul declared the truth: &ldquo;The natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.&rdquo;<sup class="noteMarker"><a href="#footnote4-09611_000_033">4</a></sup> The term <span class="emphasis">natural man</span> can refer to any of us if we allow ourselves to be so.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p27" class="">We must be vigilant in a world which has moved so far from that which is spiritual. It is essential that we reject anything that does not conform to our standards, refusing in the process to surrender that which we desire most: eternal life in the kingdom of God. The storms will still beat at our doors from time to time, for they are an inescapable part of our existence in mortality. We, however, will be far better equipped to deal with them, to learn from them, and to overcome them if we have the gospel at our core and the love of the Savior in our hearts. The prophet Isaiah declared, &ldquo;The work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.&rdquo;<sup class="noteMarker"><a href="#footnote5-09611_000_033">5</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p28" class="">As a means of being <span class="emphasis">in</span> the world but not being <span class="emphasis">of</span> the world, it is necessary that we communicate with our Heavenly Father through prayer. He wants us to do so; He&rsquo;ll answer our prayers. The Savior admonished us, as recorded in <a href="http://lds.org/scriptures/bofm/3-ne/18?lang=eng" onclick="newWindow(this.href); return false;">3&nbsp;Nephi 18</a>, to &ldquo;watch and pray always lest ye enter into temptation; for Satan desireth to have you.&nbsp;&hellip;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p29" class="">&ldquo;Therefore ye must always pray unto the Father in my name;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p30" class="">&ldquo;And whatsoever ye shall ask the Father in my name, which is right, believing that ye shall receive, behold it shall be given unto you.&rdquo;<sup class="noteMarker"><a href="#footnote6-09611_000_033">6</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p31" class="">I gained my testimony of the power of prayer when I was about 12 years old. I had worked hard to earn some money and had managed to save five dollars. This was during the Great Depression, when five dollars was a substantial sum of money&mdash;especially for a boy of 12. I gave all my coins, which totaled five dollars, to my father, and he gave me in return a five-dollar bill. I know there was something specific I planned to purchase with the five dollars, although all these years later I can&rsquo;t recall what it was. I just remember how important that money was to me.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p32" class="">At the time, we did not own a washing machine, so my mother would send to the laundry each week our clothes which needed to be washed. After a couple of days, a load of what we called &ldquo;wet wash&rdquo; would be returned to us, and Mother would hang the items on our clothesline out back to dry.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p33" class="">I had tucked my five-dollar bill in the pocket of my jeans. As you can probably guess, my jeans were sent to the laundry with the money still in the pocket. When I realized what had happened, I was sick with worry. I knew that pockets were routinely checked at the laundry prior to washing. If my money was not discovered and taken during that process, I knew it was almost certain the money would be dislodged during washing and would be claimed by a laundry worker who would have no idea to whom the money should be returned, even if he had the inclination to do so. The chances of getting back my five dollars were extremely remote&mdash;a fact which my dear mother confirmed when I told her I had left the money in my pocket.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p34" class="">I wanted that money; I needed that money; I had worked very hard to earn that money. I realized there was only one thing I could do. In my extremity I turned to my Father in Heaven and pleaded with Him to keep my money safe in that pocket somehow until our wet wash came back.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p35" class="">Two very long days later, when I knew it was about time for the delivery truck to bring our wash, I sat by the window, waiting. As the truck pulled up to the curb, my heart was pounding. As soon as the wet clothes were in the house, I grabbed my jeans and ran to my bedroom. I reached into the pocket with trembling hands. When I didn&rsquo;t find anything immediately, I thought all was lost. And then my fingers touched that wet five-dollar bill. As I pulled it from the pocket, relief flooded over me. I offered a heartfelt prayer of <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> to my Father in Heaven, for I knew that He had answered my prayer.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p36" class="">Since that time of long ago, I have had countless prayers answered. Not a day has gone by that I have not communicated with my Father in Heaven through prayer. It is a relationship I cherish&mdash;one I would literally be lost without. If you do not now have such a relationship with your Father in Heaven, I urge you to work toward that goal. As you do so, you will be entitled to His inspiration and guidance in your life&mdash;necessities for each of us if we are to survive spiritually during our sojourn here on earth. Such inspiration and guidance are gifts He freely gives if we but seek them. What treasures they are!</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p37" class="">I am always humbled and grateful when my Heavenly Father communicates with me through His inspiration. I have learned to recognize it, to trust it, and to follow it. Time and time again I have been the recipient of such inspiration. One rather dramatic experience took place in August of 1987 during the dedication of the Frankfurt Germany Temple. President Ezra Taft Benson had been with us for the first day or two of the dedication but had returned home, and so it became my opportunity to conduct the remaining sessions.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p38" class="">On Saturday we had a session for our Dutch members who were in the Frankfurt Temple district. I was well acquainted with one of our outstanding leaders from the Netherlands, Brother Peter Mourik. Just prior to the session, I had the distinct impression that Brother Mourik should be called upon to speak to his fellow Dutch members during the session and that, in fact, he should be the first speaker. Not having seen him in the temple that morning, I passed a note to Elder Carlos&nbsp;E. Asay, our Area President, asking whether Peter Mourik was in attendance at the session. Just prior to standing up to begin the session, I received a note back from Elder Asay indicating that Brother Mourik was actually <span class="emphasis">not</span> in attendance, that he was involved elsewhere, and that he was planning to attend the dedicatory session in the temple the following day with the servicemen stakes.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p39" class="">As I stood at the pulpit to welcome the people and to outline the program, I received unmistakable inspiration once again that I was to announce Peter Mourik as the first speaker. This was counter to all my instincts, for I had just heard from Elder Asay that Brother Mourik was definitely <span class="emphasis">not</span> in the temple. Trusting in the inspiration, however, I announced the choir presentation and the prayer and then indicated that our first speaker would be Brother Peter Mourik.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p40" class="">As I returned to my seat, I glanced toward Elder Asay; I saw on his face a look of alarm. He later told me that when I had announced Brother Mourik as the first speaker, he couldn&rsquo;t believe his ears. He said he knew that I had received his note and that I indeed had read it, and he couldn&rsquo;t fathom why I would then announce Brother Mourik as a speaker, knowing he wasn&rsquo;t anywhere in the temple.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p41" class="">During the time all of this was taking place, Peter Mourik was in a meeting at the area offices in Porthstrasse. As his meeting was going forward, he suddenly turned to Elder Thomas&nbsp;A. Hawkes Jr., who was then the regional representative, and asked, &ldquo;How fast can you get me to the temple?&rdquo;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p42" class="">Elder Hawkes, who was known to drive rather rapidly in his small sports car, answered, &ldquo;I can have you there in 10 minutes! But why do you need to go to the temple?&rdquo;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p43" class="">Brother Mourik admitted he did not know why he needed to go to the temple but that he knew he had to get there. The two of them set out for the temple immediately.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p44" class="">During the magnificent choir number, I glanced around, thinking that at any moment I would see Peter Mourik. I did not. Remarkably, however, I felt no alarm. I had a sweet, undeniable assurance that all would be well.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p45" class="">Brother Mourik entered the front door of the temple just as the opening prayer was concluding, still not knowing why he was there. As he hurried down the hall, he saw my image on the monitor and heard me announce, &ldquo;We will now hear from Brother Peter Mourik.&rdquo;</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p46" class="">To the astonishment of Elder Asay, Peter Mourik immediately walked into the room and took his place at the podium.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p47" class="">Following the session, Brother Mourik and I discussed that which had taken place prior to his opportunity to speak. I have pondered the inspiration which came that day not only to me but also to Peter Mourik. That remarkable experience has provided an undeniable witness to me of the importance of being worthy to receive such inspiration and then trusting it&mdash;and following it&mdash;when it comes. I know without question that the Lord intended for those who were present at that session of the Frankfurt Temple dedication to hear the powerful, touching testimony of His servant Brother Peter Mourik.</p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p48" class="">My beloved brothers and sisters, communication with our Father in Heaven&mdash;including our prayers to Him and His inspiration to us&mdash;is necessary in order for us to weather the storms and trials of life. The Lord invites us, &ldquo;Draw near unto me and I will draw near unto you; seek me diligently and ye shall find me.&rdquo;<sup class="noteMarker"><a href="#footnote7-09611_000_033">7</a></sup> As we do so, we will feel His Spirit in our lives, providing us the desire and the courage to stand strong and firm in righteousness&mdash;to &ldquo;stand &hellip; in holy places, and be not moved.&rdquo;<sup class="noteMarker"><a href="#footnote8-09611_000_033">8</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p49" class="">As the winds of change swirl around us and the moral fiber of society continues to disintegrate before our very eyes, may we remember the Lord&rsquo;s precious promise to those who trust in Him: &ldquo;Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.&rdquo;<sup class="noteMarker"><a href="#footnote9-09611_000_033">9</a></sup></p>
+				<p uri="/ensign/2011/11/stand-in-holy-places.p50" class="">What a promise! May such be our blessing, I sincerely pray in the sacred name of our Lord and Savior, Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>, amen.</p>
+			
+                            
+                            
+                            <div id="references" style="display:block;">
+                                        <h4><a href="#" class="show">Show References</a></h4>
+                                        
+                                        <ol><h3 class="title">Notes</h3>
+				
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote1-09611_000_033">1.</a></span>
+					<p>Jonathan Sacks, &ldquo;Reversing the Decay of London Undone,&rdquo; <span class="emphasis">Wall Street Journal,</span> Aug. 20, 2011, online.wsj.com; emphasis added. <span class="emphasis">Note:</span> Lord Sacks is the chief rabbi of the United Hebrew Congregations of the Commonwealth.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote2-09611_000_033">2.</a></span>
+					<p><a href="http://lds.org/scriptures/ot/ex/20.3-4,7-8,12-17?lang=eng#2" onclick="newWindow(this.href); return false;">Exodus 20:3&ndash;4, 7&ndash;8, 12&ndash;17</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote3-09611_000_033">3.</a></span>
+					<p><a href="http://lds.org/scriptures/bofm/moro/8.18?lang=eng#17" onclick="newWindow(this.href); return false;">Moroni 8:18</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote4-09611_000_033">4.</a></span>
+					<p><a href="http://lds.org/scriptures/nt/1-cor/2.14?lang=eng#13" onclick="newWindow(this.href); return false;">1&nbsp;Corinthians 2:14</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote5-09611_000_033">5.</a></span>
+					<p><a href="http://lds.org/scriptures/ot/isa/32.17?lang=eng#16" onclick="newWindow(this.href); return false;">Isaiah 32:17</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote6-09611_000_033">6.</a></span>
+					<p><a href="http://lds.org/scriptures/bofm/3-ne/18.18-20?lang=eng#17" onclick="newWindow(this.href); return false;">3&nbsp;Nephi 18:18&ndash;20</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote7-09611_000_033">7.</a></span>
+					<p><a href="http://lds.org/scriptures/dc-testament/dc/88.63?lang=eng#62" onclick="newWindow(this.href); return false;">Doctrine and Covenants 88:63</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote8-09611_000_033">8.</a></span>
+					<p><a href="http://lds.org/scriptures/dc-testament/dc/87.8?lang=eng#7" onclick="newWindow(this.href); return false;">Doctrine and Covenants 87:8</a>.</p>
+				</li>
+				<li class="footnote " id="-09611_000_033"><a name="-09611_000_033">&nbsp;</a>
+					<span class="label"><a name="footnote9-09611_000_033">9.</a></span>
+					<p><a href="http://lds.org/scriptures/ot/isa/41.10?lang=eng#9" onclick="newWindow(this.href); return false;">Isaiah 41:10</a>.</p>
+				</li>
+			</ol>
+                                        
+                                    </div>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/2011/11/the-importance-of-a-name?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/2011/11/covenants?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Nov. 2011">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    <li id="listenLink">
+                                            <a class="listen" href="#d" onclick="openAudioPlayer('http://broadcast2.lds.org/ensign/2011-november/2011-11-29-stand-in-holy-places-64k-eng.mp3', 'flash Message'); return false;" title="Listen">
+                                                Listen
+                                            </a>
+                                        </li>
+                                    <li>
+                                        <a class="print" href="/ensign/print/2011/11/stand-in-holy-places?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="#" class="download show">Download</a>
+                                        <ul class="download-list"><li><a href="http://media.ldscdn.org/pdf/lds-magazines/ensign-november-2011/2011-11-29-stand-in-holy-places-eng.pdf">PDF</a></li><li><a href="http://media.ldscdn.org/pdf/lds-magazines/ensign-november-2011/2011-11-00-ensign-eng.pdf"></a></li><li><a href="http://broadcast2.lds.org/ensign/2011-november/2011-11-29-stand-in-holy-places-64k-eng.mp3?download=true">Audio MP3</a></li></ul>
+                                    </li>
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Stand in Holy Places - Ensign Nov. 2011&amp;link=/ensign/2011/11/stand-in-holy-places&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F2011%2F11%2Fstand-in-holy-places%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/2011/11/stand-in-holy-places%3flang%3deng%26cid%3dfacebook-shared&amp;t=Stand+in+Holy+Places+-+Ensign+Nov.+2011" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/2011/11/stand-in-holy-places%3flang%3deng%26cid%3ddelicious-shared&amp;title=Stand+in+Holy+Places+-+Ensign+Nov.+2011" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/2011/11/stand-in-holy-places%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Stand in Holy Places - Ensign Nov. 2011&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href=" http://ldschurch.jobs">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:2011:11:stand in holy places";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

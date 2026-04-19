@@ -1,0 +1,547 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Some Lessons I Learned as a Boy - Ensign May 1993 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Some Lessons I Learned as a Boy - Ensign May 1993"><meta name="KEYWORDS" content="obedience,peer pressure,preparation,standards,work"><meta name="DESCRIPTION" content=""><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Some Lessons I Learned as a Boy - Ensign May 1993"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/gordon-b-hinckley-10.jpg"><meta property="og:description" content=""><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1993/05?lang=eng">May 1993</a>
+                     </li><li>
+                        <span class="active">Some Lessons I Learned as a Boy</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1993/05/search-and-rescue?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1993/05/gifts?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Some Lessons I Learned as a Boy
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p2" class="">President Gordon B. Hinckley</p>
+				<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p" class="">First Counselor in the First Presidency</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/gordon-b-hinckley?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/gordon-b-hinckley-10.jpg" alt="Gordon B. Hinckley" class="img-decor">
+                                                    </a>
+                                        
+                                        
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">93905_000_024</span>
+			<div class="figure">
+				
+			</div>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p3" class="">I think I would like to say a few things to the boys. You older men may listen or sleep. What a wonderful thing it is to be young in this time of the history of the Church and the history of the world. Surely this is the great age of enlightenment. This is a time like no other time. Never before has there been so much of scientific discovery. Never before have there been greater opportunities for education. Never before have there been such widespread opportunities for service in the Church. I almost feel jealous of you. And then I do not. I think of the many problems with which you live. You face difficult temptations that are all around you. It&rsquo;s easy for old men to lecture young men. Rather than do that, I think I would like to do something I&rsquo;ve never done before. If you will permit me a personal indulgence, I wish to talk with you about some lessons I learned when I was a boy.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p4" class="">I grew up here in Salt Lake City, a very ordinary kind of freckle-faced boy. I had a good father and mother. My father was a man of education and talent. He was respected in the community. He had a love for the Church and for its leaders. President Joseph F. Smith, who was President in my childhood, was one of his heroes. He loved President Heber J. Grant, who became President of the Church in 1918.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p5" class="">My mother was a gifted and wonderful woman. She was an educator; but when she married, she left her employment to become a housewife and mother. In our minds she was a great success.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p6" class="">We lived in what I thought was a large home in the First Ward. It had four rooms on the main floor&mdash;a kitchen, a dining room, a parlor, and a library. There were four bedrooms upstairs. The house stood on the corner on a large lot. There was a big lawn, with many trees that shed millions of leaves, and there was an immense amount of work to be done constantly.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p7" class="">In my early childhood, we had a stove in the kitchen and a stove in the dining room. A furnace was later installed, and what a wonderful thing that was. But it had a voracious appetite for coal, and there was no automatic stoker. The coal had to be shoveled into the furnace and carefully banked each night.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p8" class="">I learned a great lesson from that monster of a furnace: if you wanted to keep warm, you had to work the shovel.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p9" class="">My father had an idea that his boys ought to learn to work, in the summer as well as in the winter, and so he bought a five-acre farm, which eventually grew to include more than thirty acres. We lived there in the summer and returned to the city when school started.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p10" class="">We had a large orchard, and the trees had to be pruned each spring. Father took us to pruning demonstrations put on by experts from the agriculture college. We learned a great truth&mdash;that you could pretty well determine the kind of fruit you would pick in September by the way you pruned in February. The idea was to space the branches so that the fruit would be exposed to sunlight and air. Further, we learned that new, young wood produces the best fruit. That has had many applications in life.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p11" class="">We got sick then just as people get sick now. In fact, I think we did more so. In those early years, the milk we drank was not pasteurized. We, of course, did not have an automatic dishwasher, except that it was our automatic duty to wash the dishes. When we were diagnosed as having chicken pox or measles, the doctor would advise the city health department, and a man would be sent to put a sign in the front window. This was a warning to any who might wish to come to our house that they did so at their own peril.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p12" class="">If the disease was smallpox or diphtheria, the sign was bright orange with black letters. It said, in effect, &ldquo;Stay away from this place.&rdquo;</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p13" class="">I learned something I have always remembered&mdash;to watch for signs of danger and evil and stay away.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p14" class="">I attended the Hamilton School, which was a big three-story building. The structure was old and poor by today&rsquo;s standards, but I learned that it was not the building that made a difference; it was the teachers. When the weather would permit, we assembled in front of the school in the morning, pledged allegiance to the flag, and marched in orderly fashion to our rooms.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p15" class="">We dressed neatly for school, and no unkempt appearance was tolerated. The boys wore a shirt and a tie and short trousers. We wore long black stockings that reached from the foot to above the knee. They were made of cotton, and wore out quickly, so they had to be darned frequently. We learned how to darn because it was unthinkable to go to school with a hole in your stocking.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p16" class="">We learned a lesson on the importance of personal neatness and tidiness, and that has blessed my life ever since.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p17" class="">The bane of my first-grade teacher&rsquo;s life was my friend Louie. He had what psychologists today might call some kind of an obsessive fixation. He would sit in class and chew his tie until it became wet and stringy. The teacher would scold him.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p18" class="">Louie eventually became a man of substance, and I have learned never to underestimate the potential of a boy to make something of his life, even if he chews his tie.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p19" class="">As the years passed, I finally reached the sixth grade in that school.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p20" class="">My friends were essentially the same through all of those years. People didn&rsquo;t move much in those days. One of my friends was Lynn. That wasn&rsquo;t his real name, but that&rsquo;s what I&rsquo;ll call him. He was always in trouble. Lynn seemed to have a hard time concentrating on what was going on, particularly when spring came and things looked better outside than they did in.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p21" class="">Miss Spooner, our teacher, seemed to have it in for Lynn. One day at about eleven o&rsquo;clock, Lynn disturbed the class, and Miss Spooner told him to go shut himself in the closet until she let him out. Lynn obediently went to the closet and closed the door behind him. When the bell rang at twelve o&rsquo;clock, Lynn came out chewing the last bite of Miss Spooner&rsquo;s lunch. We couldn&rsquo;t help laughing, all but Miss Spooner, and that made matters worse. Lynn went on clowning throughout his life. He never learned until it was too late that life is a serious thing in which serious choices are to be made with much of care and prayer.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p22" class="">The next year we enrolled in junior high school. But the building could not accommodate all the students, so our class of the seventh grade was sent back to the Hamilton School.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p23" class="">We were insulted. We were furious. We&rsquo;d spent six unhappy years in that building, and we felt we deserved something better. The boys of the class all met after school. We decided we wouldn&rsquo;t tolerate this kind of treatment. We were determined we&rsquo;d go on strike.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p24" class="">The next day we did not show up. But we had no place to go. We couldn&rsquo;t stay home, because our mothers would ask questions. We didn&rsquo;t think of going downtown to a show. We had no money for that. We didn&rsquo;t think of going to the park. We were afraid we might be seen by Mr. Clayton, the truant officer. We didn&rsquo;t think of going out behind the school fence and telling shady stories because we didn&rsquo;t know any. We&rsquo;d never heard of such things as drugs or anything of the kind. We just wandered about and wasted the day.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p25" class="">The next morning, the principal, Mr. Stearns, was at the front door of the school to greet us. His demeanor matched his name. He said some pretty straightforward things and then told us that we could not come back to school until we brought a note from our parents. That was my first experience with a lockout. Striking, he said, was not the way to settle a problem. We were expected to be responsible citizens, and if we had a complaint, we could come to the principal&rsquo;s office and discuss it.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p26" class="">There was only one thing to do, and that was to go home and get the note.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p27" class="">I remember walking sheepishly into the house. My mother asked what was wrong. I told her. I said that I needed a note. She wrote a note. It was very brief. It was the most stinging rebuke she ever gave me. It read as follows:</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p28" class="">&ldquo;Dear Mr. Stearns,</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p29" class="">&ldquo;Please excuse Gordon&rsquo;s absence yesterday. His action was simply an impulse to follow the crowd.&rdquo;</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p30" class="">She signed it and handed it to me.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p31" class="">I walked back over to school and got there about the same time a few other boys did. We all handed our notes to Mr. Stearns. I do not know whether he read them, but I have never forgotten my mother&rsquo;s note. Though I had been an active party to the action we had taken, I resolved then and there that I would never do anything on the basis of simply following the crowd. I determined then and there that I would make my own decisions on the basis of their merits and my standards and not be pushed in one direction or another by those around me.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p32" class="">That decision has blessed my life many times, sometimes in very uncomfortable circumstances. It has kept me from doing some things which, if indulged in, could at worst have resulted in serious injury and trouble, and at the best would have cost me my self-respect.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p33" class="">My father had a horse and buggy when I was a boy. Then one summer day in 1916, a wonderful thing happened. It was an unforgettable thing. When he came home that evening he arrived in a shining black brand-new Model T Ford. It was a wonderful machine, but by today&rsquo;s standards it was a crude and temperamental sort of thing. For instance, it did not have a self-starter. It had to be cranked. You learned something very quickly about cranking that car. You retarded the spark, or the crank would kick back and break your hand. When it rained, the coils would get wet, and then it would not start at all. From that car I learned a few simple things about making preparation to save trouble. A little canvas over the cowl would keep the coils dry. A little care in retarding the spark would make it possible to crank without breaking your hand.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p34" class="">But the most interesting thing was the lights. The car had no storage battery. The only electricity came from what was called a magneto. The output of the magneto was determined by the speed of the engine. If the engine was running fast, the lights were bright. If the engine slowed, the lights became a sickly yellow. I learned that if you wanted to see ahead as you were going down the road, you had to keep the engine running at a fast clip.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p35" class="">So, just as I&rsquo;d discovered, it is with our lives. Industry, enthusiasm, and hard work lead to enlightened progress. You have to stay on your feet and keep moving if you are going to have light in your life. I still have the radiator cap of that old 1916 Model T. Here it is. It is a reminder of lessons I learned seventy-seven years ago.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p36" class="">I&rsquo;ve learned something else from that car. I now ride in a car of modern vintage. It is quiet and powerful. It has every convenience, including heating and air-conditioning. What has made the difference between that old black 1916 hard-riding and noisy Model T and today&rsquo;s automobiles? The difference has come because thousands of dedicated and able men and women over two generations of time have planned and studied, experimented and worked together to bring about improvement.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p37" class="">I have learned that when people of goodwill labor cooperatively in an honest and dedicated way, there is no end to what they can accomplish.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p38" class="">In 1915 President Joseph F. Smith asked the people of the Church to have <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> home evening. My father said we would do so, that we would warm up the parlor where Mother&rsquo;s grand piano stood and do what the President of the Church had asked.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p39" class="">We were miserable performers as children. We could do all kinds of things together while playing, but for one of us to try to sing a solo before the others was like asking ice cream to stay hard on the kitchen stove. In the beginning, we would laugh and make cute remarks about one another&rsquo;s performance. But our parents persisted. We sang together. We prayed together. We listened quietly while Mother read <a class="no-link-style" href="http://lds.org/topic/bible/">Bible</a> and Book of Mormon stories. Father told us stories out of his memory. I still remember one of those stories. I found it recently while going through a book he had published some years ago. Listen to it:</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p40" class="">&ldquo;An older boy and his young companion were walking along a road which led through a field. They saw an old coat and a badly worn pair of men&rsquo;s shoes by the roadside, and in the distance they saw the owner working in the field.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p41" class="">&ldquo;The younger boy suggested that they hide the shoes, conceal themselves, and watch the perplexity on the owner&rsquo;s face when he returned.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p42" class="">&ldquo;The older boy &hellip; thought that would not be so good. He said the owner must be a very poor man. So, after talking the matter over, at his suggestion, they concluded to try another experiment. Instead of hiding the shoes, they would put a silver dollar in each one and &hellip; see what the owner did when he discovered the money. So they did that.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p43" class="">&ldquo;Pretty soon the man returned from the field, put on his coat, slipped one foot into a shoe, felt something hard, took it out and found a silver dollar. Wonder and surprise [shone] upon his face. He looked at the dollar again and again, turned around and could see nobody, then proceeded to put on the other shoe; when to his great surprise he found another dollar. His feelings overcame him. &hellip; He knelt down and offered aloud a prayer of thanksgiving, in which he spoke of his wife being sick and helpless and his children without bread. &hellip; He fervently thanked the Lord for this bounty from unknown hands and evoked the blessing of heaven upon those who gave him this needed help.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p44" class="">&ldquo;The boys remained [hidden] until he had gone.&rdquo; They had been touched by his prayer and felt something warm within their hearts. As they left to walk down the road, one said to the other, &ldquo;Don&rsquo;t you have a good feeling?&rdquo; (Adapted from Bryant S. Hinckley, <span class="emphasis">Not by Bread Alone,</span> Salt Lake City: Bookcraft, 1955, p. 95.)</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p45" class="">Out of those simple little meetings, held in the parlor of our old home, came something indescribable and wonderful. Our love for our parents was strengthened. Our love for brothers and sisters was enhanced. Our love for the Lord was increased. An appreciation for simple goodness grew in our hearts. These wonderful things came about because our parents followed the counsel of the President of the Church. I have learned something tremendously significant out of that.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p46" class="">In that old home, we knew that our father loved our mother. That was another of the great lessons of my boyhood. I have no recollection of ever hearing him speak unkindly to her or of her. He encouraged her in her individual Church activities and in neighborhood and civic responsibilities. She had much of native talent, and he encouraged her to use it. Her comfort was his constant concern. We looked upon them as equals, companions who worked together and loved and appreciated one another as they loved us.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p47" class="">She likewise encouraged him, did everything in the world to make him happy. At the age of fifty, she developed cancer. He was solicitous of her every need. I recall our family prayers, with his tearful pleadings and our tearful pleadings.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p48" class="">Of course there was no medical insurance then. He would have spent every dollar he owned to help her. He did, in fact, spend very much. He took her to Los Angeles in search of better medical care. But it was to no avail.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p49" class="">That was sixty-two years ago, but I remember with clarity my brokenhearted father as he stepped off the train and greeted his grief-stricken children. We walked solemnly down the station platform to the baggage car, where the casket was unloaded and taken by the mortician. We came to know even more about the tenderness of our father&rsquo;s heart. This has had an effect on me all of my life.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p50" class="">I also came to know something of death&mdash;the absolute devastation of children losing their mother&mdash;but also of peace without pain, and the certainty that death cannot be the end of the soul.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p51" class="">We didn&rsquo;t openly speak about love for one another very much in those days. We didn&rsquo;t have to. We felt that security, that peace, that quiet strength which comes to families who pray together, work together, and help one another.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p52" class="">&ldquo;Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee.&rdquo; (<a href="http://lds.org/scriptures/ot/ex/20.12?lang=eng#11" onclick="newWindow(this.href); return false;">Ex. 20:12</a>.) As a boy I came to believe in that divine commandment.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p53" class="">I think it is such a great commandment from the Lord. If it were only observed more widely, there would be far less misery in the homes of the people. Instead of backbiting, accusation, argument, there would be appreciation and respect and quiet love.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p54" class="">My father is long since gone. I have become a father, and a grandfather, and a great-grandfather. The Lord has been very kind. I have experienced my share of disappointments, of failures, of difficulties. But on balance, life has been very good. I have tried to live it with enthusiasm and appreciation. I have known much of happiness, oh, so very much. The root of it all, I believe, was planted in my childhood and nurtured in the home, the school, and the ward in which I grew, where I learned simple but important lessons in living. I cannot be grateful enough.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p55" class="">My heart aches, and I grieve, when I see the tragedy of so many broken homes, of homes where husbands do not seem to know how to treat their wives, of homes where children are abused and grow to become the abusers of another generation. None of this tragedy is necessary. I know it is not. The answer to our problems lies in following the simple gospel of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, the Son of God, who brought into the world His Father&rsquo;s love.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p56" class="">Brethren, will you forgive me for taking your time to talk in a personal way as I have done? I did not know how to say what I wanted to say without doing so.</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p57" class="">Young men, &ldquo;Do what is right; let the consequence follow.&rdquo; (<span class="emphasis">Hymns,</span> 1985, no. 237.) &ldquo;Choose the right when a choice is placed before you.&rdquo; (<span class="emphasis">Hymns,</span> 1985, no. 239.)</p>
+			<p uri="/ensign/1993/05/some-lessons-i-learned-as-a-boy.p58" class="">Fathers, be good men, that your wives will speak of you with love and appreciation and your children will remember you with <a class="no-link-style" href="http://lds.org/topic/gratitude/">gratitude</a> everlasting, I humbly pray in the name of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a>, amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1993/05/search-and-rescue?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1993/05/gifts?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1993">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1993/05/some-lessons-i-learned-as-a-boy?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Some Lessons I Learned as a Boy - Ensign May 1993&amp;link=/ensign/1993/05/some-lessons-i-learned-as-a-boy&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1993%2F05%2Fsome-lessons-i-learned-as-a-boy%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy%3flang%3deng%26cid%3dfacebook-shared&amp;t=Some+Lessons+I+Learned+as+a+Boy+-+Ensign+May+1993" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy%3flang%3deng%26cid%3ddelicious-shared&amp;title=Some+Lessons+I+Learned+as+a+Boy+-+Ensign+May+1993" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1993/05/some-lessons-i-learned-as-a-boy%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Some Lessons I Learned as a Boy - Ensign May 1993&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1993:05:some lessons i learned as a boy";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

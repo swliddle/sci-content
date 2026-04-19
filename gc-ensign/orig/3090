@@ -1,0 +1,590 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Living the Gospel in the Home - Ensign May 1978 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Living the Gospel in the Home - Ensign May 1978"><meta name="KEYWORDS" content="Church meetings,Church organization,family,home,government"><meta name="DESCRIPTION" content="The following is an edited version of the address given by President Kimball at the Regional Representatives Seminar, March 31, in the Church Office Building."><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Living the Gospel in the Home - Ensign May 1978"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1978/05/living-the-gospel-in-the-home?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg"><meta property="og:description" content="The following is an edited version of the address given by President Kimball at the Regional Representatives Seminar, March 31, in the Church Office Building."><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1978/05/living-the-gospel-in-the-home?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1978/05/living-the-gospel-in-the-home?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1978/05/living-the-gospel-in-the-home?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1978/05?lang=eng">May 1978</a>
+                     </li><li>
+                        <span class="active">Living the Gospel in the Home</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1978/05/the-royal-law-of-love?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1978/05/news-of-the-church?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Living the Gospel in the Home
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p2" class="">President Spencer W. Kimball</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        <a href="http://lds.org/church/leader/spencer-w-kimball?lang=eng">
+                                                        <img id="talkPhoto" src="/bc/content/shared/content/images/leaders/spencer-w-kimball-10.jpg" alt="Spencer W. Kimball" class="img-decor">
+                                                    </a>
+                                        
+                                        <div class="kicker" id="">The following is an edited version of the address given by President Kimball at the Regional Representatives Seminar, March 31, in the Church Office Building.</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">03096_000_047</span>
+			<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p4" class="">Beloved brethren, I have thrilled and thrilled as I have heard the names of the new Regional Representatives called out, and as I realize that we have a great many more quality brethren in all places in the world. It makes us very happy indeed that the brethren are so responsive when offered an opportunity to serve the Lord in this capacity.</p>
+			<div>
+				<h2>Political and Government Matters</h2>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p6" class="">I should first like to say a word about involvement of members in political and government matters.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p7" class="">Even though there is no pressing crisis that requires a discussion of this matter, we would like to share with you, as Regional Representatives, the position of the First Presidency and the Twelve with regard to the involvement of the Church and Church members in political and governmental matters. In September of 1968, the First Presidency reminded members of the Church of &ldquo;their obligations as members of the communities in which they live and as citizens of the nation.&rdquo; The First Presidency counseled members of the Church as follows:</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p8" class="">&ldquo;The growing world-wide responsibilities of the Church make it inadvisable for the Church to seek to respond to all the various and complex issues involved in the mounting problems of the many cities and communities in which members live. But this complexity does not absolve members as individuals from filling their responsibilities as citizens in their own communities.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p9" class="">&ldquo;We urge our members to do their civic duty and to assume their responsibilities as individual citizens in seeking solutions to the problems which beset our cities and communities.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p10" class="">&ldquo;With our wide ranging mission, so far as mankind is concerned, Church members cannot ignore the many practical problems that require solution if our families are to live in an environment conducive to spirituality.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p11" class="">&ldquo;Where solutions to these practical problems require cooperative action with those not of our faith, members should not be reticent in doing their part in joining and leading in those efforts where they can make an individual contribution to those causes which are consistent with the standards of the Church.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p12" class="">&ldquo;Individual Church members cannot, of course, represent or commit the Church, but should, nevertheless, be &lsquo;anxiously engaged&rsquo; in good causes, using the principles of the gospel of <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a> as their constant guide.&rdquo;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p13" class="">The First Presidency and the Twelve wish to reaffirm this important statement of 1968. We believe this is the wise course to pursue, wherein Church members are urged to do their duties as citizens. The Church of Jesus <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> of Latter-day Saints cannot be committed, as an institution, except on those issues which are determined by the First Presidency and Twelve to be of such a nature that the Church should take an official position concerning them.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p14" class="">We believe that to do otherwise would involve the Church, formally and officially, on a sufficient number of issues that the result would be to divert the Church from its basic mission of teaching the restored gospel of the Lord to the world.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p15" class="">We earnestly hope Church members will feel their individual responsibilities keenly and pursue them wisely.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p16" class="">We hope you Regional Representatives will counsel stake presidents and other local leaders in your respective areas to be careful about involving the Church as an institution in matters that are best pursued by Church members as individual citizens. We further hope you will help priesthood leaders and members to understand why the Church must decline many of their requests to involve the Church on a particular issue. The issue may be very deserving and the cause worthy, but for the reasons already indicated, appropriate involvement must come from Church members as individual citizens rather than from the Church as an institution.</p>
+			</div>
+			<div>
+				<h2>A New System of Conferences</h2>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p18" class="">We meet together often in the Church in conferences to worship the Lord, to feast upon the word of Christ, and to be built up in faith and testimony. We hold ward, stake, area, and general conferences, among others.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p19" class="">In recent years some of our most inspirational conferences have been the area conferences held outside the United States. We plan, beginning in 1979, to hold some area conferences in the United States. Through these area conferences more members of the Church will be able to meet and hear the General Authorities. Two members of the Council of the Twelve and others will attend each conference.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p20" class="">To ease the burdens of time, travel, and money upon members of the Church, we have also decided, beginning in 1979, to hold only two stake conferences each year in each stake. One of these will be attended by one or more General Authorities and the other by the Regional Representative. This will leave more time for stake presidents and other local leaders to do more in perfecting the Saints.</p>
+			</div>
+			<div>
+				<h2>Simplification</h2>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p22" class="">Brethren and sisters, we do not want &ldquo;simplification&rdquo; to become a slogan or an encouragement to laziness. What we desire is to have Church programs serve Church members, not the reverse. We also want priesthood leaders to take into account, prayerfully and carefully, the needs of their members and to focus on meeting those basic needs. The programs of the Church can be great resources to that end, especially if priesthood leaders will also review local circumstances which may suggest ways in which the flexibility that is being provided can best be applied. You cannot look to the general boards and general committees as the primary source of information in explaining what the Church expects of its members. We have now passed the day when these boards and committees are able to take the program directly to the local level.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p23" class="">The Church does not have several organizational lines running from headquarters leaders to their local counterparts. There is only one fundamental organizational channel, and that is the priesthood channel, which runs from the First Presidency and the Twelve through the Zone Advisers, Area Supervisors, Regional Representatives, stake presidents, and bishops. The headquarters organizations will support and help those in the priesthood line as much as possible, but we <span class="emphasis">must </span>look to you brethren who <span class="emphasis">are </span>that priesthood line to assume more responsibility than you ever have before. Our task is to be simple enough <span class="emphasis">to serve our people at the level of their need. </span>That is the simplicity toward which we strive, even if that result demands work by some of us that does not seem so simple.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p24" class="">Just as the bishop takes care that no more funds are expended from the ward budget than have been budgeted for each organization, so he should be the chief budget officer in monitoring local expenditures of the <span class="emphasis">time </span>of Church members. In both cases, he must always keep the budget in balance.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p25" class="">The measured flexibility we are giving you is to help you to use your time more effectively in serving the Saints. There is a difference between being &ldquo;anxiously engaged&rdquo; and busy work, between moving forward with fundamentals and in pressing &ldquo;meat&rdquo; upon members when &ldquo;milk&rdquo; is what is needed first.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p26" class="">The mission of the Church to its members is to make available the principles, programs, and priesthood by which they can prepare themselves for exaltation. Our success, individually and as a Church, will largely be determined by how faithfully we focus on living the gospel in the home. Only as we see clearly the responsibilities of each individual and the role of families and homes can we properly understand that priesthood quorums and auxiliary organizations, even wards and stakes, exist primarily to help members live the gospel in the home. Then we can understand that people are more important than programs, and that Church programs should always support and never detract from gospel-centered <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a> activities.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p27" class="">Members should achieve personal and family preparedness, assisting and strengthening their own family members and others temporally and spiritually in the Lord&rsquo;s way. They should prepare for and obtain temple blessings for themselves and their kindred dead. They should share the gospel by example, by being a friend, bearing a testimony, serving missions, preparing sons for missions, and by supporting Church missionary efforts. Each member should develop talents, read good literature, be engaged in quality cultural pursuits, and become informed and participate appropriately in local and national civic affairs.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p28" class="">You will observe that all of these functions can best be accomplished through a strong home environment. Quorum leaders should ask themselves, how can we help our quorum members magnify their most important priesthood calling, that of husband and father in their own family? How can we help each priesthood bearer lead out in an environment of love and understanding, honoring his wife and consulting with her in her companion leadership role? Together with bishops and stake presidents they should ask, how can we help parents study the scriptures with their children and reap full blessings from regular and purposeful family home evenings together?</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p29" class="">Relief Society leaders and teachers should ask, how can we help the wife and mother understand the dignity and worth of her role in the divine process of motherhood? How can we help her make her home a place of love and learning, a place of refuge and refinement? How can we strengthen her to assume an added family leadership role when her husband is away from the home, or in those homes without a father?</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p30" class="">Auxiliary leaders and teachers of youth should ask, how can I help these young people to love and obey their parents, honor them, and be supportive of their family responsibilities? How can we schedule meetings, practices, and activities to avoid disrupting home relationships and responsibilities, and to allow time for family activities?</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p31" class="">Our commitment to home-centered gospel living should become the clear message of every priesthood and auxiliary program, reducing, where necessary, some of the optional activities that may detract from proper focus on the family and the home.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p32" class="">We are mindful that many of our members live alone or with family members who do not share fully their commitment to gospel principles. We encourage them to join together in special home evening groups and to participate in local single adult activities to accomplish these same objectives, always striving to strengthen their family ties with parents, brothers and sisters, and other relatives.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p33" class="">As local Church leaders cautiously conserve the time that families can spend together, we say to both parents and children, &ldquo;Come back home.&rdquo; Parents should spend less time in clubs, bowling alleys, banquets, and social gatherings, and more time with their children. Young men and women must balance their involvement in school and other social activities with supportive participation in family activities and appropriate time in the home.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p34" class="">All should work together to make home a place where we love to be, a place of listening and learning, a place where each member can find mutual love, support, appreciation, and encouragement.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p35" class="">I repeat that our success, individually and as a Church, will largely be determined by how faithfully we focus on living the gospel in the home.</p>
+			</div>
+			<div>
+				<h2>Genealogy</h2>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p37" class="">One of the important phases of gospel living is to involve ourselves in temple and genealogical effort. We know full well that the spirit world is filled with the spirits of men and women who are waiting for you and me to get busy in their behalf. It is a grave responsibility that the Lord has placed upon our shoulders, one that we cannot avoid and for which we may stand in jeopardy if we fail to accomplish it.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p38" class="">We have asked the Genealogical Department to simplify genealogical procedures. They have responded and we have approved their recommendation after a careful review. Church members may now render second-mile service in genealogy through extracting names locally from microfilm records. This can do much to accelerate the full use of our temples and to hasten the work for the dead generally.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p39" class="">We endorse, therefore, this further opportunity for Church members to carry out their temple and genealogical responsibilities.</p>
+			</div>
+			<div>
+				<h2>Missionary</h2>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p41" class="">We are deeply grateful to the numerous missionaries who have proselyted since the beginning of time. For some six thousand years, they have been proselyting. The missionaries today, with their peers, have proselyted the equivalent of nearly one-half million missionary years collectively. In those one-half million years of collective teaching, much has happened. Adam and Eve were in the Garden of Eden. Cain took the life of his brother, Abel. Noah carried his family through the flood. Civilization moved from the Mississippi River to Mount Ararat. Abraham taught the Egyptians astronomy. <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> led the children of Israel across the Red Sea. Lehi led his people to the promised land. Columbus discovered America. The American Revolutionary War brought freedom to this land. <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, the Prophet, was instrumental in restoring the gospel.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p42" class="">The missionaries are now <a class="no-link-style" href="http://lds.org/study/topics/baptism?lang=eng">baptizing</a> nearly 160,000 or 170,000 people per year. Many years ago they brought 100,000 Scandinavians, Britons, Germans, and others to Zion in 286 sailing vessels. They crossed the ocean to the Mississippi River, and great numbers of them came up the river to St. Joseph, then continued west by wagon and later by train. The Church has measured phenomenal growth&mdash;from six members to four million. Since the actual cost of supporting a missionary is approximately $1,872 each, per year, they are now with their services collectively contributing perhaps $50,000,000 per year, plus other incidental costs of doing <a class="no-link-style" href="http://mormon.org/missionary-work/">missionary work</a>. We are proud of their service.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p43" class="">Nearly 4,000 local boys from other nations than the United States are answering the call of missionary duty.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p44" class="">We should constantly strive to develop a deep and broad knowledge from which the Lord may inspire us to speak, for he makes clear to us through the Prophet Joseph Smith just what our responsibility is with reference to preaching the gospel.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p45" class="">The Lord says, &ldquo;Seek not to declare my word, but first seek to obtain my word, and then shall your tongue be loosed; then, if you desire, you shall have my Spirit and my word, yea, the power of God unto the convincing of men.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/11.21?lang=eng#20" onclick="newWindow(this.href); return false;">D&amp;C 11:21</a>.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p46" class="">So we are preparing to learn it in their own language.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p47" class="">The great majority of the missionaries who speak the languages now have been required to learn them through hard study.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p48" class="">&ldquo;For it shall come to pass in that day, that every man shall hear the fulness of the gospel in his own tongue, and in his own language, through those who are ordained unto this power, by the administration of the Comforter, shed forth upon them for the revelation of Jesus Christ.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/90.11?lang=eng#10" onclick="newWindow(this.href); return false;">D&amp;C 90:11</a>.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p49" class="">&ldquo;For verily the voice of the Lord is unto all men, and there is none to escape; and there is no eye that shall not see, neither ear that shall not hear, neither heart that shall not be penetrated. &hellip;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p50" class="">&ldquo;And the arm of the Lord shall be revealed; and the day cometh that they who will not hear the voice of the Lord, neither the voice of his servants, neither give heed to the words of the prophets and apostles, shall be cut off from among the people; &hellip;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p51" class="">&ldquo;But that every man might speak in the name of God the Lord, even the Savior of the world.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/1.2,14,20?lang=eng#1" onclick="newWindow(this.href); return false;">D&amp;C 1:2, 14, 20</a>.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p52" class="">Let us note that the kings and rulers and potentates and VIPs are not exempt from listening to this gospel, and we take the gospel to them and make special efforts for them.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p53" class="">&ldquo;Awake, O kings of the earth! Come ye, O, come ye, with your gold and your silver, to the help of my people, to the house of the daughters of Zion.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/124.11?lang=eng#10" onclick="newWindow(this.href); return false;">D&amp;C 124:11</a>.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p54" class="">If two million families and their children will all unite to pray night and morning every day, the listening Lord will hear those prayers. We pray for the nations of the world that their leaders may soften their hearts and receive the missionaries to bring to their people peace, love, joy, and the knowledge of the Lord.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p55" class="">We now have Elder David M. Kennedy to act as special ambassador to the world to prepare for new missions. His association with the nations of the world in the president&rsquo;s cabinet and general experience make him very adequate. With the help of Elder James E. Faust, International Mission president, we hope to open the doors of other nations.</p>
+				<div class="figure">
+					<div class="stanza" id="">
+						<div class="line" id="">
+	      <span class="emphasis">In the name of Christ, our Savior, &hellip;</span>
+	    </div>
+						<div class="line" id="">
+	      <span class="emphasis">Did you think to pray?</span>
+	    </div>
+					</div>
+					<div class="stanza" id="">
+						<div class="line" id="">
+	      <span class="emphasis">Prayer will change the night to day. &hellip;</span>
+	    </div>
+						<div class="line" id="">
+	      <span class="emphasis">Don&rsquo;t forget to pray.</span>
+	    </div>
+					</div>
+					<div class="citationInfo" id="">
+						<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p60" class="">(See <span class="emphasis">Hymns,</span> no. 31.)</p>
+					</div>
+				</div>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p61" class="">Come, ye emperors and kings and state leaders, and turn the key. Our missionaries will be powerful ambassadors for your nation. They will bring you peace and joy and a happy, contented people. Please open your doors.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p62" class="">&ldquo;And thus the gospel began to be preached, from the beginning, being declared by holy angels sent forth from the presence of God, and by his own voice, and by the gift of the Holy Ghost.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p63" class="">&ldquo;And thus all things were confirmed unto Adam, by an holy ordinance, and the Gospel preached, and a decree sent forth, that it should be in the world, until the end thereof; and thus it was. Amen.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/6.58-59?lang=eng#57" onclick="newWindow(this.href); return false;">Moses 6:58&ndash;59</a>.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p64" class="">As we do our missionary work, our 25,000-plus missionaries soon learn that the gospel is transmitted with their testimony. The Lord explained this in <a href="http://lds.org/scriptures/dc-testament/dc/62.3?lang=eng#2" onclick="newWindow(this.href); return false;">D&amp;C 62:3</a>:</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p65" class="">&ldquo;Nevertheless, ye are blessed, for the testimony which ye have borne is recorded in heaven for the angels to look upon; and they rejoice over you, and your sins are forgiven you.&rdquo;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p66" class="">Recently we received a substantial check from a mother whose son had saved up his missionary money, then was the victim of a highway accident and lost his life:</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p67" class="">&ldquo;I just didn&rsquo;t feel I had the right to use this money for myself as my son had been saving it to go on a mission. He and his father were killed three years ago at the age of 17. It was a terrible accident. &hellip; They were all going elk hunting and a large oil tanker going very fast in their lane of traffic hit them. &hellip;&rdquo;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p68" class="">What a choice example of love and unselfishness! It is estimated that we have sent out since 1830 some 250,000 missionaries who have unselfishly given their time in missionary service.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p69" class="">I want to express also my appreciation to members of the Church for the wonderful response to our call to lengthen our strides in missionary work as well as the other phases of our responsibilities. We now have 156 missions in the Church&mdash;the largest number ever. I want you to know of my appreciation for what has been done. Please sustain, and even increase, the marvelous momentum that is now moving across the face of the earth.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p70" class="">There are 38,000 boys who are 19 and who should now be in the mission field, but who are not. There are 114,000 priests who should now be preparing for missionary service one to three years away. There are 83,000 teachers now 14 and 15 getting ready for their missions four and five years away; 78,000 deacons 12 and 13 beginning now to save their money and get ready for the missionary service six or seven years from now.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p71" class="">I have previously quoted to you an excerpt from my patriarchal blessing, given by Samuel Claridge:</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p72" class="">&ldquo;You will <a class="no-link-style" href="http://lds.org/library/display/0,4945,8057-1-4424-1,00.html">preach</a> the gospel to many people, but more especially the Lamanites for the Lord will bless you with the gift of language and power to portray the principles of the gospel in great plainness to that people. You will see them organized and prepare to stand as a bulwark round about this people and the angels of God will be around about you and tell you what to do when you are placed in very trying circumstances for you will see the day when the wrath of our enemies will be very great towards this people, but you will stand forth in connection with others and have power to bring forth confusion and calamity in their midst. Therefore, I say unto you, Brother Spencer, be thee prospered in the day of thy youth and be protected from all sin and temptation to which you may be exposed that you may stand with clean hands and a pure heart before your Heavenly Father.&rdquo;</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p73" class="">As I discussed this matter with Elder <a href="http://lds.org/church/leader/boyd-k-packer?lang=eng">Boyd K. Packer</a>, who is very much interested in the Lamanite program, I found that we now have in the Church nearly one-half million Lamanites&mdash;316,000 in America and 94,000 in the islands of the sea. That makes us very proud and very happy to find the cause is going forward.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p74" class="">Many members send me pictures with Christmas cards, and I thought you&rsquo;d be interested to note how many of the missionaries are Lamanites. We have a very great many fine young men and women. Card after card came in from the missions with a picture of all their Lamanite missionaries&mdash;in fact, of all their missionaries. Let me show some of them to you. I can remember when we had very few Lamanite missionaries; you could count them on your fingers nearly&mdash;and not only the missionaries, but the members of the Church who were Lamanites.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p75" class="">Life has changed; conditions have changed. The Lord is blessing the work. Is anything impossible for the Lord? You remember when the angel asked that question of Abraham and Sarah when they were promised in their old age a new son who would be as numerous in his seed as the sands of the sea. Now that&rsquo;s about the way it will be when we get all these people under the jurisdiction of the Church and feeling happy with it.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p76" class="">In all of our work we have baptized this year in the normal procedure 167,939 members with the limited missionaries we have. As we double the number of missionaries, we can easily multiply the number of conversions, and there are many other ways the Lord can find to increase the success of the missionary work.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p77" class="">I have every confidence that the work is going faster, hastened considerably, and with more workers and more countries. It was President Wilford Woodruff who said this: &ldquo;This church will fill North and South America; it will fill the world.&rdquo; (See <span class="emphasis">The Discourses of Wilford Woodruff, </span>sel. G. Homer Durham, Salt Lake City: Bookcraft, 1946, pp. 144&ndash;145.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p78" class="">And President Brigham Young made this statement: &ldquo;Zion will extend, eventually, all over this earth. There will be no nook or corner upon the earth but what will be in Zion.&rdquo; (<span class="emphasis">Discourses of Brigham Young,</span> sel. John A. Widtsoe, Salt Lake City: Deseret Book Co., 1954, p. 120.)</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p79" class="">Brethren, it&rsquo;s a wonderful joy to have you here and to work with you in this great cause. I want to say how much I appreciate my counselors who are serving the Lord constantly, as is the Council of the Twelve. We meet every week in the temple. We are very serious-minded when we are in the temple and proceed with the work of the Lord. We constantly try to find new ways and means to reach the people of the world, and then to train and teach them.</p>
+				<p uri="/ensign/1978/05/living-the-gospel-in-the-home.p80" class="">Now, I have a testimony of the gospel. And I know the Lord wants this work done; and we want it done&mdash;and we&rsquo;re going to do it, and do it in a way that has never been done before, with great acceleration. May the Lord bless you, brethren and sisters, in the work that you will do, that you may become well prepared for the work that is immediately ahead of you. God bless you; peace be with you. In the name of Jesus Christ, amen.</p>
+			</div>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="prev"><a href="http://lds.org/ensign/1978/05/the-royal-law-of-love?lang=eng">Previous</a></li><li class="next"><a href="http://lds.org/ensign/1978/05/news-of-the-church?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="May 1978">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1978/05/living-the-gospel-in-the-home?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Living the Gospel in the Home - Ensign May 1978&amp;link=/ensign/1978/05/living-the-gospel-in-the-home&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1978%2F05%2Fliving-the-gospel-in-the-home%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1978/05/living-the-gospel-in-the-home%3flang%3deng%26cid%3dfacebook-shared&amp;t=Living+the+Gospel+in+the+Home+-+Ensign+May+1978" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1978/05/living-the-gospel-in-the-home%3flang%3deng%26cid%3ddelicious-shared&amp;title=Living+the+Gospel+in+the+Home+-+Ensign+May+1978" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1978/05/living-the-gospel-in-the-home%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Living the Gospel in the Home - Ensign May 1978&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1978:05:living the gospel in the home";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>

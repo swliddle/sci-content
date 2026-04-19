@@ -1,0 +1,10 @@
+#!/bin/bash
+
+YEAR=1941
+
+while [ $YEAR -le 2013 ]
+do
+    YEAR=$(( $YEAR + 1 ))
+    wget http://archive.org/download/conferencereport${YEAR}a/conferencereport${YEAR}a.pdf
+    wget http://archive.org/download/conferencereport${YEAR}sa/conferencereport${YEAR}sa.pdf
+done

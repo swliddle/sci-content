@@ -1,0 +1,592 @@
+<!DOCTYPE html >
+<html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Understanding Who We Are Brings Self-Respect - Ensign Jan. 1974 - ensign</title>
+        <meta charset="utf-8">
+           
+        <meta name="TITLE" content="Understanding Who We Are Brings Self-Respect - Ensign Jan. 1974"><meta name="KEYWORDS" content="agency,morality,self-esteem,spirituality,standards,truth"><meta name="DESCRIPTION" content="Address delivered at the Friday morning session, October 5, 1973"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta property="og:title" content="Understanding Who We Are Brings Self-Respect - Ensign Jan. 1974"><meta property="og:type" content="non_profit"><meta id="og-url" property="og:url" content="http://lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect?lang=eng"><meta id="og-image" property="og:image" content="http://lds.org/bc/content/shared/content/images/leaders/"><meta property="og:description" content="Address delivered at the Friday morning session, October 5, 1973"><meta property="fb:admins" content="683545112,100001195566656">
+        
+        <link rel="stylesheet" type="text/css" media="all" href="//edge.ldscdn.org/ml/platform/styles/platform.css"><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js">&nbsp;</script><script src="/resources/script/common/data.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">
+            DATA.LANG = 'eng';
+            DATA.CLANG = 'eng';
+            DATA.COUNTRY = '';
+        </script><!--[if lte IE 7]><script type="text/javascript" src="//edge.ldscdn.org/scripts/other/json/json2.20110223.min.js ">&nbsp;</script><![endif]--><script type="text/javascript" src="//edge.ldscdn.org/scripts/jquery/plugins/cookie/jquery.cookie.20110127.min.js">&nbsp;</script><script type="text/javascript" src="/resources/script/common/survey.js">&nbsp;</script>
+        
+        <!-- canvas assets -->
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/content.css">
+        <link rel="stylesheet" type="text/css" media="all" href="/resources/css/common/article.css">
+
+        <script src="/resources/script/pages/general-conference/audioPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/pages/general-conference/players.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script src="/resources/script/common/videoPlayer.js" type="text/javascript" charset="utf-8">&nbsp;</script>
+        <script>
+            var showRefs = "Show References";
+            var hideRefs = "Hide References";
+            var clickToViewTable = "";
+        </script>
+        
+         <script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js">&nbsp;</script>
+         <script language="JavaScript" type="text/javascript" src="https://sadmin.brightcove.com/js/APIModules_all.js">&nbsp;</script>
+         
+    </head>
+    
+    <body class="narrow study-theme">
+        <div id="platform">
+            <a class="offscreen" href="#platform-canvas-content">Skip main navigation</a><div id="platform-header" role="banner">
+    <script type="text/javascript">
+        if (typeof jQuery == 'undefined') {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.src = '//edge.ldscdn.org/scripts/jquery/1.4.4/jquery.min.js';
+            document.getElementsByTagName('head')[0].appendChild(script);
+            setTimeout(checkjQuery, 0);
+        }
+        function checkjQuery() {
+            if (typeof jQuery == 'undefined') {
+                setTimeout(checkjQuery, 0);
+            } else {
+                jQuery.noConflict();
+            }
+        }; 
+        var platformHost = 'http://lds.org';
+        var langKey = 'eng';
+        var country = '';
+        var page = 'http://lds.org';
+    </script><script type="text/javascript" src="//edge.ldscdn.org/ml/platform/scripts/platform-utilities.js">&nbsp;</script><!--[if lte IE 6]>
+        <script type="text/javascript" src="https://ldscdn.org/ml/platform/scripts/browser-detect.js">&nbsp;</script>
+    <![endif]-->
+    <h2 id="logo">
+            <a href="http://lds.org?lang=eng">
+               <img src="http://lds.org/bc/content/shared/content/english/images/logo/logo_white.png" alt="The Church of Jesus Christ of Latter-day Saints">
+            </a>
+        </h2>
+    <ul id="user-nav">
+       <li id="authorization-link"><a href="https://lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect?lang=eng&amp;signmein" title="Sign In">Sign In</a><script type="text/javascript">
+            if (window.location.protocol == 'https:' ) {
+                var rand = Math.floor(Math.random()*1000001);
+                var date = new Date();
+                var curTime = date.getTime();
+                var newLogin = '';
+                if('https://lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect?lang=eng' == '') { newLogin = location; } else {newLogin = 'https://lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect?lang=eng';}
+                jQuery.get('https://lds.org/global/ajax/global-sign-in-out', {lang: 'eng', country: '', login: unescape(newLogin), logout: unescape('http%3A%2F%2Flds.org%2F%3Flang%3Deng'), referer: '', r: rand, t: curTime }, function(data){
+                    try {
+                        jQuery("#authorization-link").html(data.html);
+                        DATA.loggedin = data.loggedin === "false"?false:true; 
+                        DATA.person = data.person;
+                        s.prop40 = data.hasMrn;
+                        s.prop41 = data.role;
+                        if (document.referrer.match(/^http[s]{0,1}:\/\/.*lds\.org\/signinout\//).length != 0) {
+                            s.eVar40 = data.hasMrn;
+                            s.eVar41 = data.role;                        
+                        }
+                    }
+                    catch (e) {}
+                    }, "jsonp" );
+            }
+        </script></li><li>
+                <a href="#" class="down-arrow">Languages</a>
+                <div class="area-lang">     
+                    <ul class="area-map" id="global-lds-org-map"><li class="active"><a id="global-lds-org" href="#"><span>&nbsp;</span>Global LDS.org</a></li><li><a id="north-america" href="#"><span>&nbsp;</span>North America</a></li><li><a id="europe" href="#"><span>&nbsp;</span>Europe</a></li></ul><div id="global-lds-org-menu" class="area-lang-menu active"><ul><li>
+                                                <h4>Global LDS.org</h4>
+                                                <ul><li><a href="http://lds.org/?lang=deu">Deutsch</a></li><li><a href="http://lds.org/?lang=eng">English</a></li><li><a href="http://lds.org/?lang=spa">Espa&ntilde;ol</a></li><li><a href="http://lds.org/?lang=fra">Fran&ccedil;ais</a></li><li><a href="http://lds.org/?lang=ita">Italiano</a></li><li><a href="http://lds.org/?lang=por">Portugu&ecirc;s</a></li></ul>
+                                            </li></ul></div><div id="north-america-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Mexico</h4>
+                                                <ul><li><a href="http://lds.org/?lang=spa&amp;country=mx">Espa&ntilde;ol</a></li></ul>
+                                            </li></ul></div><div id="europe-menu" class="area-lang-menu"><ul><li>
+                                                <h4>Armenia</h4>
+                                                <ul><li><a href="http://www.hqvose.am/">???????</a></li></ul>
+                                            </li></ul></div><div class="other-langs slide">
+                            <a href="#">See Other Languages on LDS.org</a>
+                        </div><div class="other-langs-menu"><ul><li><a href="http://lds.org/languages/afr?lang=eng" title="Afrikaans (Afrikaans)">Afrikaans</a></li><li><a href="http://lds.org/languages/aym?lang=eng" title="Aymar Aru (Aymara)">Aymar Aru</a></li><li><a href="http://lds.org/languages/ind?lang=eng" title="Bahasa Indonesia (Indonesian)">Bahasa Indonesia</a></li><li><a href="http://lds.org/languages/msa?lang=eng" title="Bahasa Malaysia (Malay)">Bahasa Malaysia</a></li><li><a href="http://lds.org/languages/bis?lang=eng" title="Bislama (Bislama)">Bislama</a></li><li><a href="http://lds.org/languages/ceb?lang=eng" title="Cebuano (Cebuano)">Cebuano</a></li><li><a href="http://lds.org/languages/ces?lang=eng" title="?esky (Czech)">?esky</a></li><li><a href="http://lds.org/languages/dan?lang=eng" title="Dansk (Danish)">Dansk</a></li><li><a href="http://lds.org/languages/deu?lang=eng" title="Deutsch (German)">Deutsch</a></li><li><a href="http://lds.org/languages/yor?lang=eng" title="&egrave;d&egrave; Yor&ugrave;b&aacute; (Yoruba)">&egrave;d&egrave; Yor&ugrave;b&aacute;</a></li><li><a href="http://lds.org/languages/est?lang=eng" title="Eesti (Estonian)">Eesti</a></li><li><a href="http://lds.org/languages/efi?lang=eng" title="Efik (Efik)">Efik</a></li><li class="active"><a href="http://lds.org/languages/eng?lang=eng" title="English (English)">English</a></li><li><a href="http://lds.org/languages/spa?lang=eng" title="Espa&ntilde;ol (Spanish)">Espa&ntilde;ol</a></li><li><a href="http://lds.org/languages/ton?lang=eng" title="Faka-Tonga (Tongan)">Faka-Tonga</a></li><li><a href="http://lds.org/languages/fat?lang=eng" title="Fanti (Fante)">Fanti</a></li><li><a href="http://lds.org/languages/chk?lang=eng" title="Fosun Chuuk (Chuukese)">Fosun Chuuk</a></li><li><a href="http://lds.org/languages/fra?lang=eng" title="Fran&ccedil;ais (French)">Fran&ccedil;ais</a></li><li><a href="http://lds.org/languages/smo?lang=eng" title="Gagana Samoa (Samoan)">Gagana Samoa</a></li><li><a href="http://lds.org/languages/hil?lang=eng" title="Hiligaynon (Hiligaynon)">Hiligaynon</a></li><li><a href="http://lds.org/languages/hmn?lang=eng" title="Hmoob (Hmong)">Hmoob</a></li><li><a href="http://lds.org/languages/hrv?lang=eng" title="Hrvatski (Croatian)">Hrvatski</a></li><li><a href="http://lds.org/languages/isl?lang=eng" title="Icelandic (Icelandic)">Icelandic</a></li><li><a href="http://lds.org/languages/ibo?lang=eng" title="Igbo (Igbo)">Igbo</a></li><li><a href="http://lds.org/languages/ilo?lang=eng" title="Ilokano (Ilokano)">Ilokano</a></li><li><a href="http://lds.org/languages/ita?lang=eng" title="Italiano (Italian)">Italiano</a></li><li><a href="http://lds.org/languages/kos?lang=eng" title="Kahs Kosrae (Kosraean)">Kahs Kosrae</a></li><li><a href="http://lds.org/languages/mah?lang=eng" title="Kajin Maj?l (Marshallese)">Kajin Maj?l</a></li></ul><ul><li><a href="http://lds.org/languages/cak?lang=eng" title="Kaqchikel (Cakchiquel)">Kaqchikel</a></li><li><a href="http://lds.org/languages/qvi?lang=eng" title="Kichwa (Quichua Ecuador)">Kichwa</a></li><li><a href="http://lds.org/languages/gil?lang=eng" title="Kiribati (Kiribati)">Kiribati</a></li><li><a href="http://lds.org/languages/hat?lang=eng" title="Krey&ograve;l Ayisyen (Haitian Creole)">Krey&ograve;l Ayisyen</a></li><li><a href="http://lds.org/languages/lav?lang=eng" title="Latvie&scaron;u (Latvian)">Latvie&scaron;u</a></li><li><a href="http://lds.org/languages/lit?lang=eng" title="Lietuvi? kalba (Lithuanian)">Lietuvi? kalba</a></li><li><a href="http://lds.org/languages/lin?lang=eng" title="Ling&aacute;la (Lingala)">Ling&aacute;la</a></li><li><a href="http://lds.org/languages/hun?lang=eng" title="Magyar (Hungarian)">Magyar</a></li><li><a href="http://lds.org/languages/pon?lang=eng" title="Mahsen en Pohnpei (Pohnpeian)">Mahsen en Pohnpei</a></li><li><a href="http://lds.org/languages/mlg?lang=eng" title="Malagasy (Malagasy)">Malagasy</a></li><li><a href="http://lds.org/languages/mlt?lang=eng" title="Malti (Maltese)">Malti</a></li><li><a href="http://lds.org/languages/mam?lang=eng" title="Mam (Mam)">Mam</a></li><li><a href="http://lds.org/languages/nld?lang=eng" title="Nederlands (Dutch)">Nederlands</a></li><li><a href="http://lds.org/languages/cag?lang=eng" title="Nivacle (Chulupi)">Nivacle</a></li><li><a href="http://lds.org/languages/nor?lang=eng" title="Norsk (Norwegian)">Norsk</a></li><li><a href="http://lds.org/languages/pau?lang=eng" title="Paluan (Palauan)">Paluan</a></li><li><a href="http://lds.org/languages/pol?lang=eng" title="Polski (Polish)">Polski</a></li><li><a href="http://lds.org/languages/por?lang=eng" title="Portugu&ecirc;s (Portuguese)">Portugu&ecirc;s</a></li><li><a href="http://lds.org/languages/kek?lang=eng" title="Q&rsquo;eqchi&rsquo; (Kekchi)">Q&rsquo;eqchi&rsquo;</a></li><li><a href="http://lds.org/languages/quh?lang=eng" title="Quechua-Bolivia (Quechua-Bolivia)">Quechua-Bolivia</a></li><li><a href="http://lds.org/languages/tah?lang=eng" title="Reo Tahiti (Tahitian)">Reo Tahiti</a></li><li><a href="http://lds.org/languages/ron?lang=eng" title="Rom&acirc;n? (Romanian)">Rom&acirc;n?</a></li><li><a href="http://lds.org/languages/sna?lang=eng" title="Shona (Shona)">Shona</a></li><li><a href="http://lds.org/languages/sqi?lang=eng" title="Shqip (Albanian)">Shqip</a></li><li><a href="http://lds.org/languages/slk?lang=eng" title="Sloven?ina (Slovak)">Sloven?ina</a></li><li><a href="http://lds.org/languages/slv?lang=eng" title="Sloven&scaron;?ina (Slovenian)">Sloven&scaron;?ina</a></li><li><a href="http://lds.org/languages/fin?lang=eng" title="Suomi (Finnish)">Suomi</a></li><li><a href="http://lds.org/languages/swe?lang=eng" title="Svenska (Swedish)">Svenska</a></li></ul><ul><li><a href="http://lds.org/languages/tgl?lang=eng" title="Tagalog (Tagalog)">Tagalog</a></li><li><a href="http://lds.org/languages/yap?lang=eng" title="Thin Nu Wa'ab (Yapese)">Thin Nu Wa'ab</a></li><li><a href="http://lds.org/languages/vie?lang=eng" title="Ti?ng Vi?t (Vietnamese)">Ti?ng Vi?t</a></li><li><a href="http://lds.org/languages/tsn?lang=eng" title="Tswana (Tswana)">Tswana</a></li><li><a href="http://lds.org/languages/tur?lang=eng" title="T&uuml;rk&ccedil;e (Turkish)">T&uuml;rk&ccedil;e</a></li><li><a href="http://lds.org/languages/twi?lang=eng" title="Twi (Twi)">Twi</a></li><li><a href="http://lds.org/languages/fij?lang=eng" title="Vosa vakaviti (Fijian)">Vosa vakaviti</a></li><li><a href="http://lds.org/languages/xho?lang=eng" title="Xhosa (Xhosa)">Xhosa</a></li><li><a href="http://lds.org/languages/quz?lang=eng" title="Yunkay Quechua (Quechua-Peru)">Yunkay Quechua</a></li><li><a href="http://lds.org/languages/zul?lang=eng" title="Zulu (Zulu)">Zulu</a></li><li><a href="http://lds.org/languages/ell?lang=eng" title="???????? (Greek)">????????</a></li><li><a href="http://lds.org/languages/bul?lang=eng" title="????????? (Bulgarian)">?????????</a></li><li><a href="http://lds.org/languages/kaz?lang=eng" title="????? (Kazakh)">?????</a></li><li><a href="http://lds.org/languages/mkd?lang=eng" title="?????????? (Macedonia)">??????????</a></li><li><a href="http://lds.org/languages/mon?lang=eng" title="?????? (Mongolian)">??????</a></li><li><a href="http://lds.org/languages/rus?lang=eng" title="??????? (Russian)">???????</a></li><li><a href="http://lds.org/languages/srp?lang=eng" title="?????? (Serbian)">??????</a></li><li><a href="http://lds.org/languages/ukr?lang=eng" title="?????????? (Ukrainian)">??????????</a></li><li><a href="http://lds.org/languages/hye?lang=eng" title="??????? (Armenian)">???????</a></li><li><a href="http://lds.org/languages/ara?lang=eng" title="??????? (Arabic)">???????</a></li><li><a href="http://lds.org/languages/amh?lang=eng" title="???? (Amharic)">????</a></li><li><a href="http://lds.org/languages/tha?lang=eng" title="??????? (Thai)">???????</a></li><li><a href="http://lds.org/languages/lao?lang=eng" title="??????? (Laotian)">???????</a></li><li><a href="http://lds.org/languages/mya?lang=eng" title="????? (Burmese)">?????</a></li><li><a href="http://lds.org/languages/khm?lang=eng" title="????????? (Khmer)">?????????</a></li><li><a href="http://lds.org/languages/kor?lang=eng" title="??? (Korean)">???</a></li><li><a href="http://lds.org/languages/zho?lang=eng" title="?? (Chinese)">??</a></li><li><a href="http://lds.org/languages/jpn?lang=eng" title="??? (Japanese)">???</a></li></ul><div class="other-langs">
+                                    <a href="http://lds.org/languages/0,5241,61,00.html">Classic Language Sites</a>
+                                </div><script type="text/javascript">
+                                    // hide/show other lang pages
+                                    jQuery('.area-lang .other-langs.slide').toggle(
+                                        function () {
+                                            jQuery('.other-langs-menu').slideDown();
+                                        },
+                                        function () {
+                                            jQuery('.other-langs-menu').slideUp();
+                                        }
+                                    );
+                                </script></div>
+                    <span class="drop-arrow">&nbsp;</span>
+                </div>
+            </li>
+
+    </ul>           
+    <ul id="main-nav" role="navigation"><li><a href="#" id="main-menu" onclick="if ($('div.jericho:visible').length == 0) { s_objectID='LDS.org:Menu:'; s.tl(this,'o','LDS.org:Menu:'); } return false;"><span><span>Menu</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div class="jericho">
+                     <div class="jericho-inner">
+            <div class="plan">
+                <h2><span>Our Heavenly Father's Plan</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/plan/our-eternal-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Our Eternal Life');">Our Eternal Life</a></li><li class=""><a href="http://lds.org/plan/god-is-our-father?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: God Is Our Father');">God Is Our Father</a></li><li class=""><a href="http://lds.org/plan/we-lived-with-god?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Lived with God');">We Lived with God </a></li><li class=""><a href="http://lds.org/plan/earth-life?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Earth Life Is Part of Gods Plan');">Earth Life Is Part of God's Plan</a></li><li class=""><a href="http://lds.org/plan/jesus-christ-is-the-way?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: Jesus Christ Is the Way');">Jesus Christ Is the Way</a></li><li class=""><a href="http://lds.org/plan/we-can-find-happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Find Happiness');">We Can Find Happiness</a></li><li class=""><a href="http://lds.org/plan/we-can-live-with-god-again?lang=eng" onClick="s_objectID='LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again'; s.tl(this,'o','LDS.org:Menu: Our Heavenly Fathers Plan: We Can Live with God Again');">We Can Live with God Again</a></li>
+                </ul>
+            </div><div class="family">
+                <h2><span>Family</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/family/proclamation?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: The Family: A Proclamation to the World'; s.tl(this,'o','LDS.org:Menu: Family: The Family: A Proclamation to the World');">The Family: A Proclamation to the World</a></li><li class=""><a href="http://lds.org/family/happiness?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Happiness in Family Life'; s.tl(this,'o','LDS.org:Menu: Family: Happiness in Family Life');">Happiness in Family Life</a></li><li class=""><a href="http://lds.org/family/home-evening?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Home Evening'; s.tl(this,'o','LDS.org:Menu: Family: Family Home Evening');">Family Home Evening</a></li><li class=""><a href="http://lds.org/family/family-well-being?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family Well-Being'; s.tl(this,'o','LDS.org:Menu: Family: Family Well-Being');">Family Well-Being</a></li><li class=""><a href="http://lds.org/family/temple-and-family-history?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Family History'; s.tl(this,'o','LDS.org:Menu: Family: Family History');">Family History</a></li><li class=""><a href="http://lds.org/youth?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Youth'; s.tl(this,'o','LDS.org:Menu: Family: Youth');">Youth</a></li><li class=""><a href="http://lds.org/friend?lang=eng" onClick="s_objectID='LDS.org:Menu: Family: Children'; s.tl(this,'o','LDS.org:Menu: Family: Children');">Children</a></li>
+                </ul>
+            </div><div class="church">
+                <h2><span>The Church</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/church/news?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: News and Events'; s.tl(this,'o','LDS.org:Menu: The Church: News and Events');">News and Events</a></li><li class=""><a href="http://lds.org/church/organization?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Organization'; s.tl(this,'o','LDS.org:Menu: The Church: Organization');">Organization</a></li><li class=""><a href="http://lds.org/church/temples?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Temples'; s.tl(this,'o','LDS.org:Menu: The Church: Temples');">Temples</a></li><li class=""><a href="http://history.lds.org/?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: History'; s.tl(this,'o','LDS.org:Menu: The Church: History');">History</a></li><li class=""><a href="http://placestovisit.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Places to Visit'; s.tl(this,'o','LDS.org:Menu: The Church: Places to Visit');">Places to Visit</a></li><li class=""><a href="http://lds.org/church/education?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Education'; s.tl(this,'o','LDS.org:Menu: The Church: Education');">Education</a></li><li class=""><a href="http://lds.org/church/facts?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Facts and Figures'; s.tl(this,'o','LDS.org:Menu: The Church: Facts and Figures');">Facts and Figures</a></li><li class=""><a href="http://lds.org/church/share?lang=eng" onClick="s_objectID='LDS.org:Menu: The Church: Sharing the Gospel Online'; s.tl(this,'o','LDS.org:Menu: The Church: Sharing the Gospel Online');">Sharing the Gospel Online</a></li><li class=""><a href="http://store.lds.org" onClick="s_objectID='LDS.org:Menu: The Church: Online Store'; s.tl(this,'o','LDS.org:Menu: The Church: Online Store');">Online Store</a></li>
+                </ul>
+            </div><div class="service">
+                <h2><span>Service</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/service/serving-in-the-church?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Serving in the Church'; s.tl(this,'o','LDS.org:Menu: Service: Serving in the Church');">Serving in the Church</a></li><li class=""><a href="http://lds.org/service/teaching-the-gospel?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Teaching the Gospel'; s.tl(this,'o','LDS.org:Menu: Service: Teaching the Gospel');">Teaching the Gospel</a></li><li class=""><a href="http://lds.org/service/leadership?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Leadership Training Library'; s.tl(this,'o','LDS.org:Menu: Service: Leadership Training Library');">Leadership Training Library</a></li><li class=""><a href="http://lds.org/service/humanitarian?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Humanitarian Service'; s.tl(this,'o','LDS.org:Menu: Service: Humanitarian Service');">Humanitarian Service</a></li><li class=""><a href="http://lds.org/service/missionary-service?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Missionary Service'; s.tl(this,'o','LDS.org:Menu: Service: Missionary Service');">Missionary Service</a></li><li class=""><a href="http://lds.org/service/volunteer-and-contribute?lang=eng" onClick="s_objectID='LDS.org:Menu: Service: Volunteer and Contribute'; s.tl(this,'o','LDS.org:Menu: Service: Volunteer and Contribute');">Volunteer and Contribute</a></li>
+                </ul>
+            </div><div class="study">
+                <h2><span>Study</span></h2>
+                <hr>
+                <ul class="jericho-list"><li class=""><a href="http://lds.org/scriptures?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Scriptures'; s.tl(this,'o','LDS.org:Menu: Study: Scriptures');">Scriptures</a></li><li class=""><a href="http://lds.org/general-conference?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: General Conference'; s.tl(this,'o','LDS.org:Menu: Study: General Conference');">General Conference</a></li><li class=""><a href="http://lds.org/study/prophets-speak-today?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Prophets and Apostles Speak Today'; s.tl(this,'o','LDS.org:Menu: Study: Prophets and Apostles Speak Today');">Prophets and Apostles Speak Today</a></li><li class=""><a href="http://lds.org/study/other-addresses?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Other Addresses'; s.tl(this,'o','LDS.org:Menu: Study: Other Addresses');">Other Addresses</a></li><li class=""><a href="http://lds.org/manual?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Manuals'; s.tl(this,'o','LDS.org:Menu: Study: Manuals');">Manuals</a></li><li class=""><a href="http://lds.org/magazine?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Magazines'; s.tl(this,'o','LDS.org:Menu: Study: Magazines');">Magazines</a></li><li class=""><a href="http://lds.org/study/topics?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Study by Topic'; s.tl(this,'o','LDS.org:Menu: Study: Study by Topic');">Study by Topic</a></li><li class=""><a href="http://www.lds.org/churchmusic/" onClick="s_objectID='LDS.org:Menu: Study: Music'; s.tl(this,'o','LDS.org:Menu: Study: Music');">Music</a></li><li class=""><a href="http://lds.org/media-library?lang=eng" onClick="s_objectID='LDS.org:Menu: Study: Media Library'; s.tl(this,'o','LDS.org:Menu: Study: Media Library');">Media Library</a></li><li class=""><a href="https://lds.org/study-tools/folders" onClick="s_objectID='LDS.org:Menu: Study: My Study Notebook'; s.tl(this,'o','LDS.org:Menu: Study: My Study Notebook');">My Study Notebook</a></li>
+                </ul>
+            </div>
+        </div>
+                </div>
+            </li><li><a href="#" id="main-tools"><span><span>Tools</span></span><span class="drop-arrow">&nbsp;</span></a>
+                <div id="tools-menu" class="jericho-mini">
+                    <div>
+        <ul class="tool-list">
+            <li>
+                        <a href="http://lds.org/church-calendar?lang=eng" onClick="s_objectID='LDS.org:Tools: Calendar:'; s.tl(this,'o','LDS.org:Tools: Calendar:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Calendar
+</span>
+                                <span class="tool-desc">
+See new ward and stake calendar, repeating events, and group calendars, sync to Outlook or Google calendar, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Calendar_icon.png" alt="&#10;Calendar&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/directory?lang=eng" onClick="s_objectID='LDS.org:Tools: Directory:'; s.tl(this,'o','LDS.org:Tools: Directory:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Directory
+</span>
+                                <span class="tool-desc">
+View new ward and stake directory with photos, e-mail, phone numbers, driving directions, privacy controls, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Directory_icon.png" alt="&#10;Directory&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/maps/?lang=eng" onClick="s_objectID='LDS.org:Tools: Maps:'; s.tl(this,'o','LDS.org:Tools: Maps:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Maps
+</span>
+                                <span class="tool-desc">
+See new meetinghouse locator, ward and stake maps, meeting times, assigned leaders, and more.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/map_icon.png" alt="&#10;Maps&#10;">
+                        </a>
+                    </li><li>
+                        <a href="http://lds.org/study-tools/folders?lang=eng" onClick="s_objectID='LDS.org:Tools: My Study Notebook:'; s.tl(this,'o','LDS.org:Tools: My Study Notebook:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+My Study Notebook
+</span>
+                                <span class="tool-desc">
+Annotate and highlight conference addresses, manuals, and
+scriptures. Save notes and organize them into folders.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/Notebook_icon.png" alt="&#10;My Study Notebook&#10;">
+                        </a>
+                    </li><li>
+                        <a href="https://apps.lds.org/pbrequest" onClick="s_objectID='LDS.org:Tools: Patriarchal Blessing:'; s.tl(this,'o','LDS.org:Tools: Patriarchal Blessing:');">
+                            <span class="tool-info">
+                                <span class="tool-name">
+Patriarchal Blessing
+</span>
+                                <span class="tool-desc">
+Request a copy.
+</span>
+                            </span>
+                            <img src="http://lds.org/bc/content/tools/teasers/images/blessingform_icon.png" alt="&#10;Patriarchal Blessing&#10;">
+                        </a>
+                    </li>
+        </ul>
+    </div><div id="authorized-tools">
+    </div><a class="all-tools" href="http://lds.org/tools?lang=eng"><span>See All Tools</span></a>
+                </div>
+            </li>
+        <li>
+            <form action="http://lds.org/search" method="get" accept-charset="utf-8" id="globalSearchForm" role="search">
+            <span id="quick-search-field">
+                <input type="hidden" name="lang" value="eng" id="lang">
+                
+                <input type="text" maxlength="200" name="query" title="Search all LDS.org" autocomplete="off">
+                <input type="submit" value="" title="Search">
+            </span>
+        </form>
+        </li>
+    </ul>
+    </div>
+            <!-- end #platform-header -->
+
+            <div id="platform-canvas">
+                <div id="platform-canvas-nav"><h2><a href="http://lds.org/magazine?lang=eng">Magazines</a></h2>
+            <hr>
+            <ul><li class=""><a href="http://lds.org/liahona?lang=eng">Liahona</a><ul style="display: none;"><li class=""><a href="http://lds.org/liahona/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/liahona/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Liahona">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/ensign?lang=eng">Ensign</a><ul style=""><li class=""><a href="http://lds.org/ensign/2012/01?lang=eng">Current Issue</a></li><li class="active"><a href="http://lds.org/ensign/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Ensign">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/new-era?lang=eng">New Era</a><ul style="display: none;"><li class=""><a href="http://lds.org/new-era/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/new-era/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=NewEra">Submit Material</a></li></ul></li><li class=""><a href="http://lds.org/friend/?lang=eng">Friend</a><ul style="display: none;"><li class=""><a href="http://lds.org/friend/2012/01?lang=eng">Current Issue</a></li><li class=""><a href="http://lds.org/friend/2012?lang=eng">Other Issues</a></li><li class=""><a href="https://submitmaterial.lds.org/msf/?locale=en&amp;magazine=Friend">Submit Material</a></li></ul></li><li class=""><a href="http://store.lds.org/webapp/wcs/stores/servlet/Category3_715839595_10557_21121_-1_N_image_0">Subscribe</a></li><li class=""><a href="http://lds.org/search?collection=magazines&amp;lang=eng">Search</a></li></ul>
+        </div>
+                <!-- end #section-nav -->
+                
+                <div id="platform-canvas-content" role="main">
+                    <div id="content" class="two-col"><div id="bottom-gradient">
+                        <div id="details" class="clearfix">
+                            <ul class="filed-under">
+            <li>
+                <a href="#" class="home">Home</a><ul><li><a href="http://lds.org/?lang=eng">LDS.org</a></li><li><a href="http://lds.org/magazine?lang=eng">Magazines</a></li><li><a href="http://lds.org/ensign?lang=eng">Ensign</a></li></ul>
+            </li>
+            <li>
+                        <a href="http://lds.org/ensign/1974/01?lang=eng">Jan. 1974</a>
+                     </li><li>
+                        <span class="active">Understanding Who We Are Brings Self-Respect</span>
+                     </li>
+        </ul>
+                            <ul class="prev-next large"><li class="next"><a href="http://lds.org/ensign/1974/01/no-greater-honor-the-womans-role?lang=eng">Next</a></li></ul>
+                            
+                            
+                            <h1>
+                            Understanding Who We Are Brings Self-Respect
+                            </h1>
+                            <h2 class="author">
+                                    <div class="byline" id="">
+				<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p2" class="">President Harold B. Lee</p>
+			</div>   
+                                    </h2>
+                            <hr>
+                        </div><!-- end #details -->
+                       
+                        <div id="primary">
+                            
+                            
+                            <blockquote class="intro dontHighlight">
+                                        
+                                        
+                                        <div class="kicker" id="">Address delivered at the Friday morning session, October 5, 1973</div>
+                                        
+                                    </blockquote>
+                            
+                            <span style="display: none" id="article-id">03040_000_002</span>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p4" class="">My beloved brothers and sisters and friends who are listening by radio and television, may I now for a few moments make some comments about a condition which is of great concern to all of us today. I speak of the shocking lack of self-respect by so many individuals, as is evidenced by their dress, their manner, and engulfing waves of permissiveness which seem to be moving over the world like an avalanche.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p5" class="">We see among us so many who seem to be forsaking standards of decency or an understanding of the meaning of time-honored words which, since the beginning of time, have had real meaning to our forebears; words that have made for strength of character and righteousness and harmony and unity and peace in the world.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p6" class="">There are eternal words which, if understood and taught and practiced, would bring salvation to every man, woman, boy and girl who does now live or has lived or will yet live in the world.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p7" class="">To some it may seem old-fashioned to speak of virtue and chastity, honesty, morality, faith, character, but these are the qualities which have built great men and women and point the way by which one may find happiness in the living of today and eternal joy in the world to come. These are the qualities which are the anchors to our lives, in spite of the trials, the tragedies, the pestilences, and the cruelties of war which bring in their wake appalling destruction, hunger, and bloodshed.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p8" class="">To those who fail to heed the warnings of those who are striving to teach these principles and choose to go in the opposite course, they will eventually find themselves in the pitiable state which you are witnessing so often among us. The prophet Isaiah described the tragic result most dramatically when he repeated the words of God which came to him as he sought to fortify his people against the wickedness of the world, and I quote his words:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p9" class="">&ldquo;&hellip; Peace, peace to him that is far off, and to him that is near, saith the Lord; and I will heal him. But the wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dirt. There is no peace, saith my God, to the wicked.&rdquo; (<a href="http://lds.org/scriptures/ot/isa/57.19-21?lang=eng#18" onclick="newWindow(this.href); return false;">Isa. 57:19&ndash;21</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p10" class="">Other prophets have declared likewise, so forcibly as to not be misunderstood, that &ldquo;wickedness never was happiness.&rdquo; (<a href="http://lds.org/scriptures/bofm/alma/41.10?lang=eng#9" onclick="newWindow(this.href); return false;">Alma 41:10</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p11" class="">As I have prayerfully thought of the reasons why one chooses this course which is dramatically described by the prophet Isaiah&mdash;when one who has departed from the path which would have given him peace is like the troubled sea, casting up mire and dirt&mdash;it seems to me that it all results from the failure of the individual to have self-respect. Listen to these words of wisdom from those whose lives have been worthy of emulation and who have experienced the realities of the periods of time from which they speak. I quote:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p12" class="">&ldquo;Self-respect&mdash;that corner-stone of all virtue.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p13" class="">&mdash;Sir John Frederick William Herschel</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p14" class="">Others have declared:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p15" class="">&ldquo;Self-respect is the noblest garment with which a man can clothe himself, the most elevating feeling with which the mind can be inspired.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p16" class="">&mdash;Samuel Smiles</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p17" class="">&ldquo;Every man stamps his value on himself. The price we challenge for ourselves is given us by others.&mdash;Man is made great or little by his own will.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p18" class="">&mdash;Johann von Schiller</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p19" class="">A lovely mother in a nearby community wrote this to me, &ldquo;I love America, I love my husband, I love my children, I love my God, and why is this possible? Because I truly love myself.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p20" class="">Such are the fruits of self-respect. Conversely, when one does not have that love for himself of which this sister speaks, other consequences can be expected to follow. He ceases to love life. Or if he marries, he has lost his love for his wife and children&mdash;no love of home or respect for the country in which he lives, and eventually he has lost his love of God. Rebellion in the land, disorder and the lack of love in the <a class="no-link-style" href="http://lds.org/ensign/2003/05/the-importance-of-the-family?lang=eng">family</a>, children disobedient to parents, loss of contact with God, all because that person has lost all respect for himself.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p21" class="">I recall an invitation I had to speak to men who, for the most part, had not been advanced in the Church because of their lack of desire or their lack of understanding of the importance of conforming to certain standards required for advancement. The subject on which I was to speak was &ldquo;Who Am I?&rdquo; As I pondered this subject and searched the word of God to prepare for this assignment, I immediately sensed that I was to talk about a subject that is of first importance to each of us as it was to those men among whom, no doubt, there were some who had not found themselves and lacked the basis of a solid foundation upon which to build their lives.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p22" class="">The rowdiness of children, the incorrigibility of adolescence are more often than not a bid for a kind of attention or popularity that physical and mental endowments do not invite. So the blas&eacute; girl and the unkempt boy are often but a reflection of an individual who is seeking, by superficial adornment or by abnormal conduct (in a strange way), to supply that indefinable quality they may think is charm&mdash;a clumsy attempt to draw attention by conduct which certainly reflects that inward frustration because of the lack of understanding of their true identity as a human being.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p23" class="">Well, then, &ldquo;Who am I?&rdquo; Those lacking in that important understanding, and, consequently, in some degree [those] failing to hold themselves in the high esteem which they would have if they did understand, are lacking self-respect.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p24" class="">May I begin to answer that question by posing two questions from scriptural texts which should be impressed upon every soul.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p25" class="">The psalmist wrote: &ldquo;What is man, that thou art mindful of him? and the son of man, that thou visitest him? For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.&rdquo; (<a href="http://lds.org/scriptures/ot/ps/8.4-5?lang=eng#3" onclick="newWindow(this.href); return false;">Ps. 8:4&ndash;5</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p26" class="">And the next is the question the Lord posed to Job: &ldquo;Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding. &hellip; [of] when the morning stars sang together, and all the sons of God shouted for joy?&rdquo; (<a href="http://lds.org/scriptures/ot/job/38.4-7?lang=eng#3" onclick="newWindow(this.href); return false;">Job 38:4&ndash;7</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p27" class="">Reduced to more simple language than the words of those questions from the scriptures, the prophets in these quotations are simply asking each of us, &ldquo;Where did you come from? Why are you here?&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p28" class="">A great psychologist, MacDougall, once said: &ldquo;The first thing to be done to help a man to moral regeneration is to restore if possible his self-respect.&rdquo; Also I recall the prayer of the old English weaver, &ldquo;O God, help me to hold a high opinion of myself.&rdquo; That should be the prayer of every soul; not an abnormally developed self-esteem that becomes haughtiness, conceit, or arrogance, but a righteous self-respect that might be defined as &ldquo;belief in one&rsquo;s own worth, worth to God, and worth to man.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p29" class="">Now, consider these answers to the searching questions which must be burned into the consciousness of all those who have strayed away or who have not arrived at a true evaluation of themselves in this world of chaos. In the limited time allotted me, I hope that in some measure my voice will be heard above the dismal dreariness of this troubled world.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p30" class="">The apostle Paul wrote: &ldquo;Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?&rdquo; (<a href="http://lds.org/scriptures/nt/heb/12.9?lang=eng#8" onclick="newWindow(this.href); return false;">Heb. 12:9</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p31" class="">This suggests that all who live upon the earth, who have fathers on earth, likewise have a father of their spirits. So did <a class="no-link-style" href="http://lds.org/ensign/1998/04/moses-witness-of-jesus-christ?lang=eng">Moses</a> and Aaron, as they fell upon their faces, cry out: &ldquo;O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?&rdquo; (<a href="http://lds.org/scriptures/ot/num/16.22?lang=eng#21" onclick="newWindow(this.href); return false;">Num. 16:22</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p32" class="">Note how they addressed the Lord, &ldquo;&hellip; the God [Father] of the spirits of all flesh [mankind]. &hellip;&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p33" class="">From the revelations through Abraham, we get a glimpse of who and what the spirit is:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p34" class="">&ldquo;Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p35" class="">&ldquo;And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers; for he stood among those that were spirits, and he saw that they were good; and he said unto me: Abraham, thou art one of them; thou wast chosen before thou wast born.&rdquo; (<a href="http://lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21" onclick="newWindow(this.href); return false;">Abr. 3:22&ndash;23</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p36" class="">There we are told that the Lord promised that those who were faithful in that premortal world would be added upon, by having a physical body in this second estate of this earth&rsquo;s existence and, furthermore, if they would keep the commandments as God taught by the revelations, they would have &ldquo;glory added upon their heads for ever and ever.&rdquo; (<a href="http://lds.org/scriptures/pgp/abr/3.26?lang=eng#25" onclick="newWindow(this.href); return false;">Abr. 3:26</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p37" class="">Now, there are several precious truths in that scripture. First, we have a definition of what a spirit is, as it relates to our physical body. What did it look like in that premortal world (if we could see it apart from our mortal body)? A modern Latter-day prophet gives us an inspired answer:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p38" class="">&ldquo;&hellip; that which is spiritual being in the likeness of that which is temporal; and that which is temporal in the likeness of that which is spiritual; the spirit of man in the likeness of his person, as also the spirit of the beast, and every other creature which God has created.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/77.2?lang=eng#1" onclick="newWindow(this.href); return false;">D&amp;C 77:2</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p39" class="">The next truth we learn from this scripture is that you and I, having been spirits and now having bodies, were among those who passed that first test and were given the privilege of coming to earth as mortal individuals. If we hadn&rsquo;t passed that test, we wouldn&rsquo;t be here with mortal bodies, but would have been denied this privilege and would have followed Satan or Lucifer, as he came to be known, as did one-third of the spirits created in that premortal existence who were deprived of the privilege of having mortal bodies. These are now among us, but only in their spiritual form, to make a further attempt to thwart the plan of salvation by which all who would obey would have the great glory of returning to God our Father who gave us life.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p40" class="">So the Old Testament prophets declared with respect to death: &ldquo;Then shall the dust [meaning our mortal bodies] return to the earth as it was: and the spirit shall return unto God who gave it.&rdquo; (<a href="http://lds.org/scriptures/ot/eccl/12.7?lang=eng#6" onclick="newWindow(this.href); return false;">Eccl. 12:7</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p41" class="">Obviously we could not return to a place where we had never been, so we are talking about death as a process as miraculous as birth, by which we return to &ldquo;our Father who art in heaven,&rdquo; as the Master taught his disciples to pray.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p42" class="">A further truth is clearly set forth in that scripture [<a href="http://lds.org/scriptures/pgp/abr/3.22-23?lang=eng#21" onclick="newWindow(this.href); return false;">Abr. 3:22&ndash;23</a>], that many were chosen, as was Abraham, before they were born, as the Lord told Moses and also Jeremiah. This was made still more meaningful by the Latter-day prophet, <a class="no-link-style" href="http://mormon.org/joseph-smith/">Joseph Smith</a>, who declared, &ldquo;I believe that every person who is called to do an important work in the kingdom of God, was called to that work and foreordained to that work before the world was.&rdquo; Then he added this, &ldquo;I believe that I was foreordained to the work that I am called to do.&rdquo; (See <span class="emphasis">Documentary History of the Church, </span>vol. 6, p. 364.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p43" class="">But now there is a warning: Despite that calling which is spoken of in the scriptures as &ldquo;foreordination,&rdquo; we have another inspired declaration: &ldquo;Behold, there are many called, but few are chosen. &hellip;&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/121.34?lang=eng#33" onclick="newWindow(this.href); return false;">D&amp;C 121:34</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p44" class="">This suggests that even though we have our free agency here, there are many who were foreordained before the world was, to a greater state than they have prepared themselves for here. Even though they might have been among the noble and great, from among whom the Father declared he would make his chosen leaders, they may fail of that calling here in mortality. Then the Lord poses this question: &ldquo;&hellip; and why are they not chosen?&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/121.34?lang=eng#33" onclick="newWindow(this.href); return false;">D&amp;C 121:34</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p45" class="">Two answers were given&mdash;First, &ldquo;Because their hearts are set so much upon the things of this world. &hellip;&rdquo; And second, they &ldquo;&hellip; aspire to the honors of men.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/121.35?lang=eng#34" onclick="newWindow(this.href); return false;">D&amp;C 121:35</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p46" class="">Now then, to make a summary of what I have just read, may I ask each of you again the question, &ldquo;Who are you?&rdquo; You are all the sons and daughters of God. Your spirits were created and lived as organized intelligences before the world was. You have been blessed to have a physical body because of your obedience to certain commandments in that premortal state. You are now born into a family to which you have come, into the nations through which you have come, as a reward for the kind of lives you lived before you came here and at a time in the world&rsquo;s history, as the apostle Paul taught the men of Athens and as the Lord revealed to Moses, determined by the faithfulness of each of those who lived before this world was created.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p47" class="">Hear now the significant words of that powerful sermon to &ldquo;The Unknown God&rdquo; preached by the apostle Paul, to those who were ignorantly worshipping images of stone and brass and wood, and I quote:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p48" class="">&ldquo;God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p49" class="">&ldquo;And hath made of one blood all nations of men for to dwell on all the face of the earth [now mark you this], and hath determined the times before appointed, and the bounds of their habitation;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p50" class="">&ldquo;That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us.&rdquo; (<a href="http://lds.org/scriptures/nt/acts/17.24,26-27?lang=eng#23" onclick="newWindow(this.href); return false;">Acts 17:24, 26&ndash;27</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p51" class="">Here then again we have the Lord making a further enlightening declaration to Moses as recorded in the Book of Deuteronomy:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p52" class="">&ldquo;When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.&rdquo; (<a href="http://lds.org/scriptures/ot/deut/32.8?lang=eng#7" onclick="newWindow(this.href); return false;">Deut. 32:8</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p53" class="">Now, mind you, this was said to the children of Israel before they had arrived in the &ldquo;Promised Land,&rdquo; which was to be the land of their inheritance.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p54" class="">Then note this next verse: &ldquo;For the Lord&rsquo;s portion is his people; Jacob is the lot of his inheritance.&rdquo; (<a href="http://lds.org/scriptures/ot/deut/32.9?lang=eng#8" onclick="newWindow(this.href); return false;">Deut. 32:9</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p55" class="">It would seem very clear, then, that those born to the lineage of Jacob, who was later to be called Israel, and his posterity, who were known as the children of Israel, were born into the most illustrious lineage of any of those who came upon the earth as mortal beings.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p56" class="">All these rewards were seemingly promised, or foreordained, before the world was. Surely these matters must have been determined by the kind of lives we had lived in that premortal spirit world. Some may question these assumptions, but at the same time they will accept without any question the belief that each one of us will be judged when we leave this earth according to his or her deeds during our lives here in mortality. Isn&rsquo;t it just as reasonable to believe that what we have received here in this earth life was given to each of us according to the merits of our conduct before we came here?</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p57" class="">Now there is another important understanding that we have from the scriptures. We are all free agents, which means to some people who manifest a spirit of rebellion that they are free to do anything they please, but that is not the correct meaning of free agency as the prophets have declared in the scriptures where free agency has been defined. I quote:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p58" class="">&ldquo;Wherefore, men are free according to the flesh; and all things are given them which are expedient unto man. And they are free to choose liberty and eternal life, through the great mediation of all men, or to choose captivity and death, according to the captivity and power of the devil; for he seeketh that all men might be miserable like unto himself.&rdquo; (<a href="http://lds.org/scriptures/bofm/2-ne/2.27?lang=eng#26" onclick="newWindow(this.href); return false;">2 Ne. 2:27</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p59" class="">The apostle Paul impressed the sacredness of our individual bodies in this statement: &ldquo;Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you? If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/3.16-17?lang=eng#15" onclick="newWindow(this.href); return false;">1 Cor. 3:16&ndash;17</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p60" class="">And, again, he said further to those who had been baptized members of the church that they had received the gift of a special endowment known as the Holy Ghost. This was his teaching: &ldquo;What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? &hellip; therefore glorify God in your body, and in your spirit, which are God&rsquo;s.&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/6.19-20?lang=eng#18" onclick="newWindow(this.href); return false;">1 Cor. 6:19&ndash;20</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p61" class="">If we can get a person to think what those words mean, then we can begin to understand the significance of the words of the renowned psychologist, MacDougall, from whom I have previously quoted, &ldquo;The first thing to be done to help a man to moral regeneration is to restore, if possible, his self-respect.&rdquo; How better may that self-respect be restored than to help him to fully understand the answer to that question, &ldquo;Who am I?&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p62" class="">When we see one devoid of respect for himself, as indicated by his conduct, his outward appearance, his speech, and his utter disregard of the basic measures of decency, then certainly we are witnessing the frightening aspect of one over whom Satan has achieved a victory, as the Lord declared he would try to do &ldquo;to deceive and to blind men, and to lead them captive at his will &hellip; to destroy the agency of man.&rdquo; (See <a href="http://lds.org/scriptures/pgp/moses/4.1-4?lang=eng#0" onclick="newWindow(this.href); return false;">Moses 4:1&ndash;4</a>.) This is the fate of &ldquo;even as many as would not hearken unto my voice&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/4.4?lang=eng#3" onclick="newWindow(this.href); return false;">Moses 4:4</a>), so declared the Lord to Moses.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p63" class="">Some years ago I read a report from a survey made by ministers who had studied a number of cases of students who had committed suicide. This was their firm conclusion after an exhaustive study: &ldquo;The philosophy of the students who took their lives was so lacking that when a severe crisis came in their lives, they had nothing to hold fast to, and so they took the coward&rsquo;s way out.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p64" class="">Such could be the awful state of those described by the Master in a parable with which he concluded the Sermon on the Mount:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p65" class="">&ldquo;And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p66" class="">&ldquo;And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.&rdquo; (<a href="http://lds.org/scriptures/nt/matt/7.26-27?lang=eng#25" onclick="newWindow(this.href); return false;">Matt. 7:26&ndash;27</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p67" class="">The Lord&rsquo;s eternal purpose with respect to his plan of salvation was declared to Moses: &ldquo;For behold, this is my work and my glory&mdash;to bring to pass the <a class="no-link-style" href="http://lds.org/study/topics/immortality?lang=eng">immortality</a> and eternal life of man.&rdquo; (<a href="http://lds.org/scriptures/pgp/moses/1.39?lang=eng#38" onclick="newWindow(this.href); return false;">Moses 1:39</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p68" class="">The first goal in that eternal plan was for each of us to come to earth and gain a physical body, and then, after death and the <a class="no-link-style" href="http://lds.org/ensign/2000/05/resurrection?lang=eng">resurrection</a> which would follow, the spirit and the resurrected body would not thereafter be subject to death. All of this was a free gift to every living soul as Paul declared: &ldquo;For as in Adam all die, even so in <a class="no-link-style" href="http://jesuschrist.lds.org/">Christ</a> shall all be made alive.&rdquo; (<a href="http://lds.org/scriptures/nt/1-cor/15.22?lang=eng#21" onclick="newWindow(this.href); return false;">1 Cor. 15:22</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p69" class="">What this means to one dying with a malignant malady or to a mother bereft of a child may be illustrated by the expressions of a young mother whom I visited in the hospital some years ago. She said to me, &ldquo;I have thought all this through. It doesn&rsquo;t make any difference whether I go now or whether I live to 70, 80, or 90. The sooner I can get to a place where I can be active and doing things that will bring me eternal joy the better for all concerned.&rdquo; She was comforted by the thought that she had lived such a life as to be worthy to enter into the presence of God, which is to enjoy eternal life.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p70" class="">The importance of taking advantage of every hour of precious time allotted to each of us here was impressed forcibly upon me by an incident in my own family. A young mother came with her beautiful flaxen-haired six-year-old daughter to her grandparents. The mother asked if we would like to hear a beautiful new children&rsquo;s song which the daughter had just learned in her Primary class. While the little mother accompanied her, she sang:</p>
+			<div class="figure">
+				<div class="stanza" id="">
+					<div class="line" id="">&ldquo;I am a child of God,</div>
+					<div class="line" id="">And he has sent me here,</div>
+					<div class="line" id="">Has given me an earthly home</div>
+					<div class="line" id="">With parents kind and dear.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">&ldquo;I am a child of God,</div>
+					<div class="line" id="">And so my needs are great;</div>
+					<div class="line" id="">Help me to understand His words</div>
+					<div class="line" id="">Before it grows too late.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">&ldquo;I am a child of God,</div>
+					<div class="line" id="">Rich blessings are in store;</div>
+					<div class="line" id="">If I but learn to do His will</div>
+					<div class="line" id="">I&rsquo;ll live with him once more.</div>
+				</div>
+				<div class="stanza" id="">
+					<div class="line" id="">(<span class="emphasis">Chorus</span>)</div>
+					<div class="line" id="">&ldquo;Lead me, guide me, walk beside me,</div>
+					<div class="line" id="">Help me find the way.</div>
+					<div class="line" id="">Teach me all that I must do</div>
+					<div class="line" id="">To live with him some day.&rdquo;</div>
+				</div>
+				<div class="citationInfo" id="">
+					<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p88" class=""><span class="emphasis">&mdash;Sing with Me, </span>no. B-76</p>
+				</div>
+			</div>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p89" class="">Her grandparents were in tears. Little did they know then, that hardly before that little girl would have had the full opportunity for her mother to teach her all that she should know in order to return to her heavenly home, that the little mother would be suddenly taken away in death, leaving to others the responsibility of finding the answer to the pleadings of that childhood prayer, to teach and train and to lead her through the uncertainties of life.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p90" class="">What a difference it would make if we really sensed our divine relationship to God, our Heavenly Father, our relationship to <a class="no-link-style" href="http://mormon.org/jesus-christ">Jesus Christ</a>, our Savior and our elder brother, and our relationship to each other.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p91" class="">Contrasted with the sublime peace to one such as that wonderful sister I visited in the hospital is that terrifying state of those who do not, as they approach death, have that great comfort, for as the Lord has told us plainly: &ldquo;And they that die not in me, wo unto them, for their death is bitter.&rdquo; (<a href="http://lds.org/scriptures/dc-testament/dc/42.47?lang=eng#46" onclick="newWindow(this.href); return false;">D&amp;C 42:47</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p92" class="">It was George Bernard Shaw who said, &ldquo;If we all realized that we were the children of one father, we would stop shouting at each other as much as we do.&rdquo;</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p93" class="">Now, as I come to the closing of this address, I trust that I might have given to you and others who have not yet listened to such counsel, something to stimulate some sober thinking as to who you are and from whence you came; and, in so doing, that I may have stirred up within your soul the determination to begin now to show an increased self-respect and reverence for the temple of God, your human body, wherein dwells a heavenly spirit. I would charge you to say again and again to yourselves, as the Primary organization has taught the children to sing &ldquo;I am a [son or a daughter] of God&rdquo; and by so doing, begin today to live closer to those ideals which will make your life happier and more fruitful because of an awakened realization of who you are.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p94" class="">God grant that each of us here today may so live that all among us, and with us, may see, not us, but that which is divine and comes from God. With that vision of what those who have lost their way may become, my prayer is that they may receive strength and resolution to climb higher and higher and upward and onward to that great goal of eternal life and also that I may do my part in seeking to show by example, as well as by precept, that which will be the best of which I am capable of doing.</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p95" class="">I again bear my solemn witness to the great truth of the Master&rsquo;s profound words to the sobbing Martha: &ldquo;I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.&rdquo; (<a href="http://lds.org/scriptures/nt/john/11.25?lang=eng#24" onclick="newWindow(this.href); return false;">John 11:25</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p96" class="">I thank God that I too can say, with the same spirit as did Martha, who bore her testimony as the Spirit witnessed to her from the depths of her soul:</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p97" class="">&ldquo;Yea, Lord: I [too know] that thou art the Christ, the Son of God, which [came] into the world.&rdquo; (See <a href="http://lds.org/scriptures/nt/john/11.27?lang=eng#26" onclick="newWindow(this.href); return false;">John 11:27</a>.)</p>
+			<p uri="/ensign/1974/01/understanding-who-we-are-brings-self-respect.p98" class="">In the name of our Lord and Master, Jesus, the Christ, the Savior of the world, even so. Amen.</p>
+		
+                            
+                            
+                            
+                            <ul class="prev-next large"><li class="next"><a href="http://lds.org/ensign/1974/01/no-greater-honor-the-womans-role?lang=eng">Next</a></li></ul>
+                        </div><!-- end #primary -->
+                        
+                        <div id="secondary" role="complementary"><div id="top-shadow"><div id="bottom-shadow">
+                            <div>
+                                    <form class="search-form" method="get" action="http://lds.org/search" id="search" accept-charset="utf-8">
+        <input type="hidden" name="lang" value="eng">
+        
+        <input type="hidden" name="publication" value="Ensign"><input type="hidden" name="date" value="Jan. 1974">
+        <input type="hidden" name="collection" value="magazines">
+        <input class="search-field" type="text" name="query" title="Search Ensign" maxlength="150">
+        <input class="search-button" type="image" src="/resources/images/common/search-btn-icon.png">
+    </form>
+                                    </div>
+                            <div>
+                                <ul class="tools">
+                                    <li>&nbsp;</li>
+                                    
+                                    
+                                    <li>
+                                        <a class="print" href="/ensign/print/1974/01/understanding-who-we-are-brings-self-respect?lang=eng&amp;clang=eng" title="Print">
+                                            Print
+                                        </a>
+                                    </li>
+                                    
+                                    
+                                    <li>
+                                        <a class="share show rfalse" href="#" onclick="return false">Share<span class="tool-arrow">&nbsp;</span></a><ul class="share-list">
+            <li><a class="shareemail" href="https://lds.org/secure/email?lang=eng&amp;title=Understanding Who We Are Brings Self-Respect - Ensign Jan. 1974&amp;link=/ensign/1974/01/understanding-who-we-are-brings-self-respect&amp;cid=email-shared" title="E-mail"> E-mail </a></li>
+            <li><a class="twitter" href="http://twitter.com?status=http%3A%2F%2Flds.org%2Fensign%2F1974%2F01%2Funderstanding-who-we-are-brings-self-respect%3Flang%3Deng%26cid%3Dtwitter-shared" onclick="newWindow(this.href); return false;">Twitter</a></li>
+            <li><a class="facebook" href="http://www.facebook.com/sharer.php?u=http%3a//lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect%3flang%3deng%26cid%3dfacebook-shared&amp;t=Understanding+Who+We+Are+Brings+Self-Respect+-+Ensign+Jan.+1974" onclick="newWindow(this.href); return false;">Facebook</a></li>
+            <li><a class="delicious" href="http://del.icio.us/post?url=http%3a//lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect%3flang%3deng%26cid%3ddelicious-shared&amp;title=Understanding+Who+We+Are+Brings+Self-Respect+-+Ensign+Jan.+1974" onclick="newWindow(this.href); return false;">Delicious</a></li>
+            
+        </ul>
+                                    </li>
+                                    <li><div id="likePlaceholder" sytle="display:none">"&nbsp;"</div><script type="text/javascript">
+            jQuery(document).ready(function() {
+                var likeButtonFrame = '<iframe src="http://www.facebook.com/plugins/like.php?locale=en_US&amp;href=http%3a//lds.org/ensign/1974/01/understanding-who-we-are-brings-self-respect%3flang%3deng&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:161px; height:20px; margin: 7px 0 0 0px;" allowTransparency="true"></iframe>';
+                jQuery('#likePlaceholder').first().replaceWith(likeButtonFrame);
+            });
+        </script></li>
+                                </ul>
+                            </div>
+                            
+                            
+                        </div></div></div><!-- end #secondary -->
+                        <div id="beta-feedback">
+            <span>&nbsp;</span>
+            <a href="http://lds.org/tools/feedback?lang=eng&amp;note=Understanding Who We Are Brings Self-Respect - Ensign Jan. 1974&amp;id=11340">Do You Have Feedback about This Page?<img src="/resources/images/common/arrow-open-4x7-fff.png" alt=""></a>
+        </div>
+                    </div></div><!-- end #content -->
+                </div><!-- end #platform-canvas-content -->
+            </div><!-- end #platform-canvas -->
+        </div><!-- end #platform -->
+        
+        
+        
+        <div id="platform-footer">
+        <div id="platform-footer-content">
+            <div id="classic">
+                    <a href="http://classic.lds.org">Go to Classic LDS.org</a>
+                </div>
+            <div id="helpful-links" role="navigation">
+                <div id="menu">
+        <h4>
+Help and Feedback
+</h4>
+        <ul>
+       
+        <li><a id="14534169448889313795-eng" href="http://lds.org/pages/ldshelp?lang=eng">
+Help
+</a></li><li><a id="29687741241950384850-eng" href="http://lds.org/pages/learn-about?lang=eng">
+"Learn About..." Videos
+</a></li><li><a id="41568619397562645910-eng" href="http://lds.org/pages/ldshelp/faqs?lang=eng">
+Frequently Asked Questions
+</a></li><li><a id="91830131008648853130-eng" href="http://lds.org/tools/feedback?lang=eng">
+Submit Feedback
+</a></li>
+    </ul>               
+    </div>
+                <div id="popular">
+        <h4>
+Featured and Most Visited
+</h4>
+        <ul>
+       
+        <li><a id="96464960550857067770-eng" href="http://mormontabernaclechoir.org/">
+Mormon Tabernacle Choir
+</a></li><li><a id="40652188548649043870-eng" href="http://ldsphilanthropies.org/">
+Giving to the Church
+</a></li><li><a id="33073799687446833850-eng" href="http://www.providentliving.org/familyservices/strength/0,12264,2873-1,00.html">
+LDS Family Services
+</a></li><li><a id="50514461260034127320-eng" href="http://combatingpornography.org">
+Combating Pornography
+</a></li><li><a id="60391378518684450400-eng" href="http://lds.org/church/events/temple-square-events?lang=eng">
+Temple Square Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="63053517801169609480-eng" href="http://lds.org/study/prophets-speak-today?lang=eng">
+Prophets and Apostles Speak Today
+</a></li><li><a id="16204995238835840595-eng" href="http://lds.org/general-conference/sessions?lang=eng">
+Latest General Conference
+</a></li><li><a id="44586358024871116490-eng" href="http://lds.org/scriptures?lang=eng">
+Scriptures
+</a></li><li><a id="49755656926954496010-eng" href="http://lds.org/church/news?lang=eng">
+Church News and Events
+</a></li>
+    </ul><ul>
+       
+        <li><a id="13945893837486516333-eng" href="https://secure.lds.org/units/login/0,8029,779-1,00.html">
+Ward and Stake Websites (Classic)
+</a></li><li><a id="70120588885342947970-eng" href="http://lds.org/manual?lang=eng">
+Manuals
+</a></li><li><a id="36220987855112735840-eng" href="http://lds.org/youth?lang=eng">
+Youth
+</a></li><li><a id="78965966169985055700-eng" href="http://lds.org/youth/for-the-strength-of-youth?lang=eng">
+For the Strength of Youth
+</a></li>
+    </ul>               
+    </div>
+                <div id="resources">
+        <h4>
+Resources
+</h4>
+        <ul>
+       
+        <li><a id="12363821068513701574-eng" href="http://lds.org/church/employment?lang=eng">
+Church Employment Opportunities
+</a></li><li><a id="15381219583837779079-eng" href="http://lds.org/disability?lang=eng">
+Disability Resources
+</a></li><li><a id="76838673081325354250-eng" href="http://lds.org/church/share?lang=eng">
+Share the Gospel Online
+</a></li><li><a id="99310791020303878820-eng" href="http://lds.org/church-calendar/?lang=eng">
+Ward and Stake Calendar
+</a></li><li><a id="47837944880398345470-eng" href="http://lds.org/directory/?lang=eng">
+Ward and Stake Directory
+</a></li><li><a id="52512186704192959370-eng" href="http://lds.org/pages/mobileapps?lang=eng">
+Mobile Apps
+</a></li>
+    </ul>               
+    </div>
+            </div>
+            <div id="disclaimer" role="contentinfo">
+                &copy; 2011 Intellectual Reserve, Inc. All rights reserved.
+                &nbsp;<a href="http://lds.org/legal/terms?lang=eng">Terms of Use</a>
+                <a href="http://lds.org/legal/privacy?lang=eng">Privacy Policy</a>
+            </div>
+        </div>
+        <script type="text/javascript">var closeStr = 'Close'</script>
+    </div><script type="text/javascript">
+        var channel = "lds.org:ensign";
+        var pageName = "lds.org:ensign:1974:01:understanding who we are brings self-respect";
+        var locale = "eng";
+    </script><!-- SiteCatalyst code --><script type="text/javascript" src="//edge.ldscdn.org/30/scripts/s_code_ldsall.js">&nbsp;</script><script type="text/javascript"><!--
+            /* Give each page an identifying name and channel on the next lines. */
+                s.pageName = pageName;
+                s.channel = channel;
+                s.prop35 = locale;
+                if (typeof(searchType) !== "undefined" && typeof(searchResults) !== "undefined") {
+                    s.eVar53=searchType;
+                    s.eVar56=searchResults;
+                    s.events="event36";
+                }
+                try {
+                    s.prop3 = searchText;
+                } catch (e) { }
+            /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+            var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+        <!-- only scripts below -->
+        <script type="text/javascript" src="/resources/script/common/content.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/article.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/context-bar.js">&nbsp;</script>
+        <script type="text/javascript" src="/resources/script/common/imageResize.js">&nbsp;</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                resizeImages('<span class="viewLarger">(click to view larger)</span>');
+            });
+        </script>
+        <script type="text/javascript">
+                    $(document).ready(function() {
+                        if (document.getElementById('searchQueryTerm')) {
+                            document.getElementById('searchQueryTerm').scrollIntoView(true);
+                        }
+                    });
+                </script>
+      
+        <script src="//edge.ldscdn.org/ml/ldsorg/notebook/20110406/scripts/lds.studyTools.js" type="text/javascript" charset="utf-8">&nbsp;</script><script type="text/javascript">    
+            // All resources in bundle studytools
+            if (DATA) {       
+                DATA.addResources(
+                    {
+                        'deleteCollectionDetails' : 'This will delete the notebook, not it\'s contents.','loadMore' : 'load more','confirmDeleteHighlight' : 'Really delete?','notebooks' : 'Notebooks','printWithNotes' : 'With notes','searchResults' : 'Search Results','introMessage' : 'The Share and Save bar allows you to highlight, annotate content, write notes, and save media from any page on LDS.org. You may add tags and specify a notebook to save them to. You may then arrange them in the Study Notebook application to prepare lessons and talks, keep a journal, or to study the gospel.','emptyTrash' : 'Empty','deleteCollection' : 'Delete notebook','print' : 'Print','tagsMaxLengthError' : 'Max length for tags is 4000 characters','error' : 'Error','includeHighlights' : 'Include highlights','includeJournals' : 'Include journal entries','printCollection' : 'Print Notebook','name' : 'Name','studyMode' : 'Study Mode','reference' : 'Reference','journal' : 'Journal','gettingStarted' : '<p><h1>Getting Started</h1></p><p>To start bookmarking, highlighting, and annotating, simply visit any <a href="/scriptures">scripture</a>, <a href="/magazines">magazine</a>, or <a href="/general-conference">conference article</a>. Use the study toolbar at the bottom of these pages to help you. (Study tools will be added to other pages soon.)</p><p class="text-center"><img src="/resources/images/pages/study-notebook/screenshot.jpg" /></p><p>For step-by-step demonstrations, see our <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook:_Introduction/eng">video tutorials</a>.</p><p>For additional information, see <a href="https://tech.lds.org/ldshelp/index.php5/Study_Notebook_Overview">Help</a>.</p>','emptyJournalError' : 'Cannot save without journal entry.','nameMaxLengthError' : 'Max length for name is 200 characters','separateWithCommas' : 'Separate with commas','saveButtonText' : 'Save','source' : 'Source','illegalCharacter' : 'Text contains one or more of the following illegal characters: ] [ < > } { \ ) ( ; : % +','optional' : 'optional','allItems' : 'All Items','rename' : 'Rename','printSelectedNote' : 'Print selected note','addJournalEntryButton' : 'Add journal entry','addTo' : 'Add to:','generalConference' : 'General Conference','add' : 'Add','bookmarks' : 'Bookmarks','collectionListTitle' : 'Notebooks','collectionNameTooLongError' : 'Max length is 200','download' : 'Download','highlights' : 'Highlights','trash' : 'Trash','openNotebook' : 'Open Notebook','addBookmark' : 'Add Bookmark','includeJournalEntries' : 'Include journal entries','inLabel' : 'In','noCollections' : 'none','type' : 'Type','includeDetails' : 'Include details','bookmark' : 'Bookmark','introFooter' : 'Select text with your cursor or use the buttons below for other media.','editHighlight' : 'Edit highlight','unassignedFolder' : 'Unassigned Items','taggedWith' : 'Tagged with','yesterday' : 'Yesterday','signInMessage' : '&nbsp;to bookmark pages, highlight text, and write notes.','advancedSearch' : 'Advanced Search','bookmarkTitle' : 'Bookmark page','today' : 'Today','journalEntryRequiredError' : 'Journal entry required','serviceUnavailable' : 'My Study Tools are currently unavailable.','collections' : 'notebooks','journalTitle' : 'Add journal entry','collectionNameEmptyError' : 'Enter a notebooks name','fromLabel' : 'From:','printWithoutNotes' : 'Without notes','introTitle' : 'Save to your Study Notebook','delete' : 'Delete','shareTitle' : 'Share Page','editAnnotation' : 'Edit tags and notes','restore' : 'Restore','addCollection' : 'Add notebook','downloadNotebook' : 'Download notebook','studyNotebook' : 'Study Notebook','maintenance' : 'The Study Notebook is currently undergoing maintenance','clearSearch' : 'Clear Search','references' : 'Links','printEntireNotebook' : 'Print entire notebook','fileType' : 'File Type','links' : 'Links','addNewCollectionTitle' : 'Add new notebook','editBookmark' : 'Edit Bookmark','undelete' : 'Undelete','printButtonText' : 'Print','addCollectionError' : 'The name of your notebook cannot be empty or greater than 200 characters.','deleteCollectionConfirmation' : 'This will delete the notebook, not its contents.','note' : 'Note','printCollectionDetails' : 'Print the contents of this notebook.','addNewCollection' : 'Add new notebook:','renameCollection' : 'Rename notebook','includeBookmarks' : 'Include bookmarks','addJournalEntry' : 'add journal entry','highlight' : 'Highlight','addNote' : 'add note','addCollectionInput' : 'add notebook','signIn' : 'Sign in','backupXML' : 'Backup (XML)','journalEntries' : 'Journal Entries','noteMaxLengthError' : 'Max length for note is 4000 characters','search' : 'Search','share' : 'Share','signInAgain' : 'Please sign in again.','loading' : 'loading','tags' : 'Tags','deleting' : 'Deleting','edit' : 'Edit','close' : 'close','okay' : 'Okay','cancelButton' : 'Cancel','showAll' : 'show all','modified' : 'Modified','toLabel' : 'To:','journalEntry' : 'Journal entry','help' : 'Help','addTags' : 'add tags','confirmDeleteBookmark' : 'Remove bookmark?','downloadNotebookDetail' : 'Download the contents of this notebook to your computer...','unsupportedBrowser' : 'Your browser is not compatible with Study Notebook. Compatible browsers include IE8 (Standards View), FireFox 3.x, Chrome and Safari for Mac.','saving' : 'Saving','someonesStudyNotebook' : '\'s Study Notebook','areYouSure' : 'Are you sure?','save' : 'Save','drag' : 'Drag','copyHighlight' : 'Copy Highlight'
+                    }
+                );
+            }
+        </script><script type="text/javascript">
+            DATA.CDNPATH = '//edge.ldscdn.org';
+        </script>
+    </body>
+</html>
