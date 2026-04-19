@@ -21,6 +21,7 @@ STPJS_OUT      := $(OUT_ROOT)/stpjs
 STPJS_STAMP    := $(STAMP_ROOT)/stpjs
 STPJS_LOG      := $(LOG_ROOT)/stpjs
 STPJS_TOOLS    := tools/stpjs
+STPJS_CITE_SHA := $(STPJS_STAMP)/citations.sha1
 
 JOD_VOLUMES    := $(shell seq -f "%02g" 1 26)
 JOD_XML_DIR    ?= jod
@@ -46,6 +47,7 @@ GC_ERA_STAMP   := $(STAMP_ROOT)/gc-era
 GC_ERA_LOG     := $(LOG_ROOT)/gc-era
 GC_ERA_TOOLS   := tools/gc-era
 GC_ERA_XML     := $(wildcard $(GC_ERA_XML_DIR)/talk*.xml)
+GC_ERA_CITE_SHA := $(GC_ERA_STAMP)/citations.sha1
 
 # Number of parallel shards for gc-ensign / gc-ensign-es builds.
 # Override with: make SHARDS=8 gc-ensign-build
@@ -73,6 +75,8 @@ GC_ENSIGN_TOOLS       := tools/gc-ensign
 GC_ENSIGN_INPUTS      := $(wildcard $(GC_ENSIGN_ORIG_DIR)/*) $(wildcard $(GC_ENSIGN_EDIT_DIR)/*)
 GC_ENSIGN_ID_BOUNDS   := $(shell { ls $(GC_ENSIGN_ORIG_DIR) 2>/dev/null; ls $(GC_ENSIGN_EDIT_DIR) 2>/dev/null; } | grep -E '^[0-9]+$$' | sort -n | awk 'NR==1{lo=$$0} END{print lo, $$0}')
 GC_ENSIGN_SHARDS      := $(shell awk -v lo='$(word 1,$(GC_ENSIGN_ID_BOUNDS))' -v hi='$(word 2,$(GC_ENSIGN_ID_BOUNDS))' -v n=$(SHARDS) $(SHARD_AWK))
+# EN + ES share one citation range, so one SHA covers both builds.
+GC_ENSIGN_CITE_SHA    := $(GC_ENSIGN_STAMP)/citations.sha1
 
 GC_ENSIGN_ES_ORIG_DIR ?= gc-ensign-es/orig
 GC_ENSIGN_ES_EDIT_DIR ?= gc-ensign-es/edit
@@ -176,7 +180,7 @@ stpjs-load-es:  $(STPJS_STAMP)/es/load.stamp
 
 .SECONDEXPANSION:
 
-$(STPJS_STAMP)/%/build.stamp: $$(wildcard stpjs/%/stpjs*.xml) $(STPJS_TOOLS)/add-citations.ts $(STPJS_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
+$(STPJS_STAMP)/%/build.stamp: $$(wildcard stpjs/%/stpjs*.xml) $(STPJS_CITE_SHA) $(STPJS_TOOLS)/add-citations.ts $(STPJS_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
 	@mkdir -p $(@D) $(STPJS_OUT)/$* $(STPJS_LOG)/$*
 	@echo "[stpjs build $*] add citations → $(STPJS_OUT)/$*/"
 	@XML_DIR=stpjs/$* OUT_DIR=$(STPJS_OUT)/$* \
@@ -204,11 +208,24 @@ jod-build-div: $(JOD_DIV_STAMPS)
 jod-load:      $(JOD_LOAD_STAMPS)
 jod-publish:   $(JOD_PUB_STAMPS)
 
-$(JOD_CITE_SHA): FORCE | $(JOD_STAMP)
-	@npx tsx $(JOD_TOOLS)/citation-sha.ts > $@.tmp
+# Per-corpus citation SHA stamps. Each is FORCE-rebuilt (a MySQL edit changes
+# no local file), then replaced only if the digest differs — so downstream
+# stamps see a new mtime precisely when the citation rows in range change.
+$(STPJS_CITE_SHA):     CITE_RANGE := 270001-270395
+$(STPJS_CITE_SHA):     CITE_LABEL := stpjs
+$(JOD_CITE_SHA):       CITE_RANGE := 10000-269999
+$(JOD_CITE_SHA):       CITE_LABEL := jod
+$(GC_ERA_CITE_SHA):    CITE_RANGE := 1-1825
+$(GC_ERA_CITE_SHA):    CITE_LABEL := gc-era
+$(GC_ENSIGN_CITE_SHA): CITE_RANGE := 2000-8493
+$(GC_ENSIGN_CITE_SHA): CITE_LABEL := gc-ensign
+
+$(STPJS_CITE_SHA) $(JOD_CITE_SHA) $(GC_ERA_CITE_SHA) $(GC_ENSIGN_CITE_SHA): FORCE | node_modules
+	@mkdir -p $(@D)
+	@npx tsx tools/lib/citation-sha.ts --range $(CITE_RANGE) > $@.tmp
 	@if [ ! -f $@ ] || ! cmp -s $@.tmp $@; then \
 	    mv $@.tmp $@; \
-	    echo "[jod citations] SHA changed → $$(cat $@)"; \
+	    echo "[$(CITE_LABEL) citations] SHA changed → $$(cat $@)"; \
 	else rm -f $@.tmp; fi
 FORCE:
 
@@ -262,7 +279,7 @@ gc-era:       gc-era-build gc-era-load
 gc-era-build: $(GC_ERA_STAMP)/build.stamp
 gc-era-load:  $(GC_ERA_STAMP)/load.stamp
 
-$(GC_ERA_STAMP)/build.stamp: $(GC_ERA_XML) $(GC_ERA_TOOLS)/add-citations.ts $(GC_ERA_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
+$(GC_ERA_STAMP)/build.stamp: $(GC_ERA_XML) $(GC_ERA_CITE_SHA) $(GC_ERA_TOOLS)/add-citations.ts $(GC_ERA_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
 	@mkdir -p $(@D) $(GC_ERA_OUT) $(GC_ERA_LOG)
 	@echo "[gc-era build] add citations → $(GC_ERA_OUT)/"
 	@XML_DIR=$(GC_ERA_XML_DIR) OUT_DIR=$(GC_ERA_OUT) \
@@ -288,7 +305,7 @@ gc-ensign-build:   $(GC_ENSIGN_STAMP)/build.stamp
 gc-ensign-load:    $(GC_ENSIGN_STAMP)/load.stamp
 gc-ensign-rewrite: $(GC_ENSIGN_STAMP)/rewrite.stamp
 
-$(GC_ENSIGN_STAMP)/shard.%.stamp: $(GC_ENSIGN_INPUTS) $(GC_ENSIGN_TOOLS)/add-citations.ts $(GC_ENSIGN_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
+$(GC_ENSIGN_STAMP)/shard.%.stamp: $(GC_ENSIGN_INPUTS) $(GC_ENSIGN_CITE_SHA) $(GC_ENSIGN_TOOLS)/add-citations.ts $(GC_ENSIGN_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
 	@mkdir -p $(@D) $(GC_ENSIGN_OUT) $(GC_ENSIGN_LOG)
 	@echo "[gc-ensign build $*] add citations → $(GC_ENSIGN_OUT)/"
 	@ORIG_DIR=$(GC_ENSIGN_ORIG_DIR) EDIT_DIR=$(GC_ENSIGN_EDIT_DIR) OUT_DIR=$(GC_ENSIGN_OUT) \
@@ -326,7 +343,7 @@ gc-ensign-es-build:   $(GC_ENSIGN_ES_STAMP)/build.stamp
 gc-ensign-es-load:    $(GC_ENSIGN_ES_STAMP)/load.stamp
 gc-ensign-es-rewrite: $(GC_ENSIGN_ES_STAMP)/rewrite.stamp
 
-$(GC_ENSIGN_ES_STAMP)/shard.%.stamp: $(GC_ENSIGN_ES_INPUTS) $(GC_ENSIGN_INPUTS) $(GC_ENSIGN_TOOLS)/add-citations.ts $(GC_ENSIGN_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
+$(GC_ENSIGN_ES_STAMP)/shard.%.stamp: $(GC_ENSIGN_ES_INPUTS) $(GC_ENSIGN_INPUTS) $(GC_ENSIGN_CITE_SHA) $(GC_ENSIGN_TOOLS)/add-citations.ts $(GC_ENSIGN_TOOLS)/config.ts $(LIB_SCRIPTS) | node_modules
 	@mkdir -p $(@D) $(GC_ENSIGN_ES_OUT) $(GC_ENSIGN_ES_LOG)
 	@echo "[gc-ensign-es build $*] add citations → $(GC_ENSIGN_ES_OUT)/"
 	@ORIG_DIR=$(GC_ENSIGN_ES_ORIG_DIR) EDIT_DIR=$(GC_ENSIGN_ES_EDIT_DIR) \
