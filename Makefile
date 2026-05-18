@@ -502,7 +502,8 @@ $(CORE_STAMP)/%/package.stamp: $(CORE_STAMP)/%/build.stamp $(MOBILE_STAMP)/%/pac
 	@CORE_OUT_DIR=$(CORE_OUT) MOBILE_OUT_DIR=$(MOBILE_OUT) \
 	    CORE_LUCENE_EN=$(CORE_LUCENE_EN) CORE_LUCENE_ES=$(CORE_LUCENE_ES) \
 	    npx tsx $(CORE_TOOLS)/package.ts --lang $* \
-	    > $(CORE_LOG)/package-$*.log 2>&1
+	    > $(CORE_LOG)/package-$*.log 2>&1 \
+	    || { echo "[core package $*] FAILED — see $(CORE_LOG)/package-$*.log:"; tail $(CORE_LOG)/package-$*.log; false; }
 	@touch $@
 
 # Ports core/DEPLOY — copies the four sci.$V.{config,zip} + sci-es.$V.{config,zip}

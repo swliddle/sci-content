@@ -3,10 +3,10 @@
 // Replaces the tail end of mobile/CREATE_CONTENT_DB[_ES] — the zip + jar
 // + config generation steps.
 //
-// Layout after running:
-//     out/mobile/content.52.db                (input)
-//     out/mobile/sci-content.52.zip           (archive containing the db)
-//     out/mobile/sci-content.52.config        (manifest for the deploy)
+// Layout after running ($V = MOBILE_VERSION = CORE_VERSION, from tools/core/VERSION):
+//     out/mobile/content.$V.db                (input)
+//     out/mobile/sci-content.$V.zip           (archive containing the db)
+//     out/mobile/sci-content.$V.config        (manifest for the deploy)
 //
 // Usage:
 //     npx tsx tools/mobile/package.ts --lang en|es

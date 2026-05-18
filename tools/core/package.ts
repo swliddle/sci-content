@@ -3,12 +3,12 @@
 // tail end of core/CREATE_MOBILE_DB[_ES] — the tmp-dir copy + zip + config
 // + Java snippet steps.
 //
-// Layout after running:
-//     out/core/core.52.db               (input — from tools/core/build.ts)
-//     out/mobile/content.52.db          (input — from tools/mobile/build.ts)
+// Layout after running ($V = CORE_VERSION, from tools/core/VERSION):
+//     out/core/core.$V.db               (input — from tools/core/build.ts)
+//     out/mobile/content.$V.db          (input — from tools/mobile/build.ts)
 //     $LUCENE_DIR/                      (input — Lucene index directory)
-//     out/core/sci.52.zip               (output — archive bundling all three)
-//     out/core/sci.52.config            (output — deploy manifest)
+//     out/core/sci.$V.zip               (output — archive bundling all three)
+//     out/core/sci.$V.config            (output — deploy manifest)
 //     out/core/Constants.java           (output — Android ConfigurationConstants snippet)
 //
 // Usage:

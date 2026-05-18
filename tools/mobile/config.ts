@@ -5,12 +5,14 @@
 
 import type { Lang } from "../lib/args.js";
 import { envOr } from "../lib/env.js";
+import { CORE_VERSION } from "../core/config.js";
 export type { Lang };
 export { parseLangArg } from "../lib/args.js";
 
-// Bump on every publish. The old flow duplicated this across two bash
-// drivers (CREATE_CONTENT_DB / CREATE_CONTENT_DB_ES); now it lives here.
-export const MOBILE_VERSION = 52;
+// The mobile content.db is bundled inside core's sci.$V.zip, so its file
+// version must track CORE_VERSION exactly. Single source of truth lives in
+// tools/core/VERSION (read by core/config.ts and the Makefile).
+export const MOBILE_VERSION = CORE_VERSION;
 
 export interface LangTables {
     talk: string;
