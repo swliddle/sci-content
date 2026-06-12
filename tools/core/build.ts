@@ -45,17 +45,18 @@ async function main(): Promise<void> {
             `(verses=${cite.citationVerses}, speakers=${cite.speakers})`
         );
 
-        const scrip = await buildScriptures(mysql, core, variant.tables);
+        const scrip = await buildScriptures(mysql, core, lang, variant.tables);
         console.log(
             `[core build ${lang}] scriptures: ${scrip.scriptures} ` +
             `(books=${scrip.books})`
         );
 
-        const toc = await buildToc(mysql, core, variant.tables);
+        const toc = await buildToc(mysql, core, lang, variant.tables);
         console.log(
             `[core build ${lang}] toc: talks=${toc.talks} ` +
             `conferences=${toc.conferences} sessions=${toc.confSessions} ` +
             `jod=${toc.jodDiscourses} stpjs=${toc.stpjsPages} ` +
+            `stpjs-sections=${toc.stpjsSections} ` +
             `conf-talks=${toc.conferenceTalks}`
         );
 

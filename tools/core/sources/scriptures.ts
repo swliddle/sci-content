@@ -16,7 +16,7 @@
 
 import type { Connection, RowDataPacket } from "mysql2/promise";
 import type { CoreDb } from "../../lib/core-sqlite.js";
-import type { LangTables } from "../config.js";
+import type { Lang, LangTables } from "../config.js";
 
 interface BookRow extends RowDataPacket {
     ID: number;
@@ -45,9 +45,15 @@ interface ScriptureRow extends RowDataPacket {
     Text: Buffer | string | null;
 }
 
+const JST_NOTES: Record<Lang, string> = {
+    en: '<div class="note">Note: the JST manuscript states that &ldquo;The Songs of Solomon are not inspired writings&rdquo;.</div>',
+    es: '<div class="note">Nota: el manuscrito de la TJS declara que &ldquo;Los Cantares de Salomón no son escritos inspirados&rdquo;.</div>'
+};
+
 export async function buildScriptures(
     mysql: Connection,
     core: CoreDb,
+    lang: Lang,
     tables: LangTables
 ): Promise<{ books: number; scriptures: number }> {
     const db = core.db;
@@ -117,6 +123,10 @@ export async function buildScriptures(
                 r.CitationCount
             );
         }
+
+        db.exec("ALTER TABLE book ADD COLUMN JSTNote TEXT");
+        db.prepare("UPDATE book SET JSTNote = ? WHERE Abbr = 'song'")
+            .run(JST_NOTES[lang]);
 
         for (const r of scriptures) {
             // mysql2 returns TEXT/BLOB as Buffer by default; coerce string
