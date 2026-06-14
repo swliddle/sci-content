@@ -68,6 +68,7 @@ interface ConfigPieces {
     coreSize: number;
     coreMd5: string;
     luceneSize: number;
+    luceneEntryName: string;
 }
 
 // Matches the exact text layout the old bash script produced via a chain
@@ -79,7 +80,7 @@ function renderConfig(p: ConfigPieces): string {
         `  <file name="${p.zipFileName}" size="${p.zipSize}" md5="${p.zipMd5}" />\n` +
         `  <entry name="${p.contentFileName}" type="file" schema="${CONTENT_SCHEMA_VERSION}" size="${p.contentSize}" md5="${p.contentMd5}" />\n` +
         `  <entry name="${p.coreFileName}" type="file" schema="${CORE_SCHEMA_VERSION}" size="${p.coreSize}" md5="${p.coreMd5}" />\n` +
-        `  <entry name="lucene" type="folder" size="${p.luceneSize}" />\n` +
+        `  <entry name="${p.luceneEntryName}" type="folder" size="${p.luceneSize}" />\n` +
         `</config>\n`
     );
 }
@@ -137,12 +138,12 @@ function main(): void {
     try {
         fs.copyFileSync(corePath, path.join(tmpDir, variant.coreFileName));
         fs.copyFileSync(contentPath, path.join(tmpDir, variant.contentFileName));
-        execFileSync("cp", ["-R", lucene, path.join(tmpDir, "lucene")], { stdio: "inherit" });
+        execFileSync("cp", ["-R", lucene, path.join(tmpDir, variant.luceneEntryName)], { stdio: "inherit" });
 
         fs.rmSync(zipPath, { force: true });
         execFileSync(
             "zip",
-            ["-9qr", path.resolve(zipPath), variant.coreFileName, variant.contentFileName, "lucene"],
+            ["-9qr", path.resolve(zipPath), variant.coreFileName, variant.contentFileName, variant.luceneEntryName],
             { cwd: tmpDir, stdio: "inherit" }
         );
     } finally {
@@ -159,7 +160,8 @@ function main(): void {
         coreFileName: variant.coreFileName,
         coreSize: fs.statSync(corePath).size,
         coreMd5: md5File(corePath),
-        luceneSize: sumDirFileSizes(lucene)
+        luceneSize: sumDirFileSizes(lucene),
+        luceneEntryName: variant.luceneEntryName
     };
 
     fs.writeFileSync(configPath, renderConfig(pieces), "utf8");

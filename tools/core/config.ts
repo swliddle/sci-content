@@ -50,6 +50,7 @@ interface LangVariant {
     constantsFileName: string;    // Constants.java / ConstantsEs.java
     constantsVarName: string;     // ENGLISH / SPANISH
     constantsLangSuffix: string;  // ""       / "-es"
+    luceneEntryName: string;      // lucene   / lucene-es (folder name inside the zip)
 }
 
 export const LANG_CONFIG: Record<Lang, LangVariant> = {
@@ -68,7 +69,8 @@ export const LANG_CONFIG: Record<Lang, LangVariant> = {
         configFileName: `sci.${CORE_VERSION}.config`,
         constantsFileName: "Constants.java",
         constantsVarName: "ENGLISH",
-        constantsLangSuffix: ""
+        constantsLangSuffix: "",
+        luceneEntryName: "lucene"
     },
     es: {
         tables: {
@@ -85,7 +87,8 @@ export const LANG_CONFIG: Record<Lang, LangVariant> = {
         configFileName: `sci-es.${CORE_VERSION}.config`,
         constantsFileName: "ConstantsEs.java",
         constantsVarName: "SPANISH",
-        constantsLangSuffix: "-es"
+        constantsLangSuffix: "-es",
+        luceneEntryName: "lucene-es"
     }
 };
 
