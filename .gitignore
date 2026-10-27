@@ -2,6 +2,7 @@
 .env
 .claude/
 .vscode/
+publish.out
 
 node_modules/
 out/
